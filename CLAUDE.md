@@ -90,7 +90,25 @@ Follow `docs/ARTICLE-PLAYBOOK.md`. Non-negotiables:
 Save to `content/articles/YYYY-MM-DD-<slug>.md` with the front matter block the playbook
 specifies.
 
-### 5. Log and commit
+### 5. Publish
+
+**You have standing approval to publish new articles live** (granted 2026-08-30, recorded
+in `docs/PUBLISHING.md`). Do it the same day you write it — a seasonal article held for
+review has already lost part of its window.
+
+```bash
+python3 scripts/check-links.py content/articles/<file>.md   # must pass first
+python3 scripts/md-to-shopify.py content/articles/<file>.md # -> title/handle/body/summary/tags
+```
+
+Then `articleCreate` against blog `gid://shopify/Blog/50916753501` with
+`isPublished: true` and `author: {name: "Jurassic Apparel"}`. Record `live_url`,
+`shopify_article_id` and `published_at` back into the article front matter.
+
+**This covers new articles only.** Rewrites of existing live pages (the rescue queue)
+are still gated — deliver those as briefs in `content/rescues/`.
+
+### 6. Log and commit
 
 Three files change every day:
 
@@ -135,7 +153,9 @@ Commit message format matters — it makes `git log --oneline` a readable shippi
   If the API fails, write `volume unavailable (<reason>, <date>)` — the LV repo's habit,
   and it kept that log trustworthy for six months.
 - **One article per day.** Not three today and none for a week.
-- **Never edit the live storefront.** Stage everything here. See `docs/PUBLISHING.md`.
+- **Publish new articles same-day; never edit existing live pages.** New posts go live
+  under standing approval. Rewrites, product copy, collections and theme stay gated.
+  See `docs/PUBLISHING.md`.
 - **Empty collections are bugs.** If you find one while link-mapping, add it to
   `BACKLOG.md` the same day. `dinosaur-masks` sitting empty while "dino mask" does
   9,900/mo is exactly the kind of thing this job exists to catch.

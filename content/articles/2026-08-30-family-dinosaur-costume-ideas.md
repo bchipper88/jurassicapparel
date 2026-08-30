@@ -2,7 +2,10 @@
 title: "Family Dinosaur Costume Ideas That You'll Actually Wear Again"
 slug: family-dinosaur-costume-ideas
 date: 2026-08-30
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/family-dinosaur-costume-ideas
+shopify_article_id: gid://shopify/Article/580194828438
+published_at: 2026-08-30T23:20:54Z
 target_keyword: "family dinosaur costume"
 target_volume: 1000
 target_sd: 28

@@ -7,35 +7,18 @@ Ordered by value ÷ effort. Discovered 2026-08-30 unless noted.
 
 ---
 
-## 0. The entire Christmas pajama line is unpublished 🔴 URGENT — found 2026-08-30
+## 0. ~~Christmas pajama line unpublished~~ ✅ RESOLVED 2026-08-30 — deliberate
 
-Eight products are sitting in **DRAFT** status with zero inventory:
+Eight Christmas pajama products (4 adult $49.99–$59.99, 4 kids $49.99) sit in DRAFT with
+zero inventory. Raised as urgent on 2026-08-30 because `dinosaur pajamas adult` peaks at
+720/mo in December and the products were invisible to search.
 
-| Product | Price |
-|---|---|
-| Merry Rex-Mas — Adult Dinosaur Christmas Pajama Set | $59.99 |
-| Tree-Rex — Adult Dinosaur Christmas Pajamas | $59.99 |
-| Fa Rawr Rawr — Adult Dinosaur Christmas Pajamas | $59.99 |
-| Angry Merry Rex-mas — Adult Dinosaur Christmas Pajamas | $49.99 |
-| Merry Rex-Mas — Kids Dinosaur Christmas Pajamas | $49.99 |
-| Tree-Rex — Kids Dinosaur Christmas Pajamas | $49.99 |
-| Fa Rawr Rawr — Kids Dinosaur Christmas Pajamas | $49.99 |
-| Angry Merry Rex-mas — Kids Dinosaur Christmas Pajamas | $49.99 |
+**Owner's answer: they are in draft on purpose.** Closed — no action.
 
-These are the highest-priced items in the catalog, they are family-matching (the format
-that sells hardest at Christmas), and they are invisible to customers and to Google.
-
-The demand is real and dated: **`dinosaur pajamas adult` peaks at 720/mo in December**
-(390 average, SD 25, $0.97 CPC, Transactional intent). The `dinosaur-christmas` collection
-already has 52 products, so the category is otherwise live.
-
-**Why this is #0:** Christmas pajama searches ramp from October. A product published in
-December has missed its own season. Publishing these takes minutes; the window does not
-reopen for a year.
-
-**Ask:** were these drafted deliberately (supplier problem, artwork issue), or did they
-just never get flipped live? If they can be published, do it before the end of September
-and the Christmas content queue in `KEYWORDS.md` gets a real destination to link to.
+**Standing instruction for the agent: do not re-flag these.** If Christmas pajama content
+gets queued, do not link to these products or assume they will be live. Point Christmas
+content at the [`dinosaur-christmas` collection](https://jurassicapparel.com/collections/dinosaur-christmas)
+(52 products) and `christmas-dinosaur-stockings` (15) instead.
 
 ## 1. Five collections have zero products 🔴 HIGH
 

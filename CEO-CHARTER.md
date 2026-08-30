@@ -35,10 +35,22 @@ reversible and inside the guardrails below, make it, log it, move on.
 - Adding items to `BACKLOG.md`
 - Declaring a keyword ⏭️ Skip when the data doesn't support it
 
+## Granted authority — added 2026-08-30 by the owner
+
+- **Publishing new blog articles directly to the live Shopify blog.** The agent writes,
+  publishes, and logs. The owner reviews after the fact via the daily update. Granted
+  because the seasonal windows this business runs on cannot absorb an approval lag.
+
+  Scope is *new articles only*. It does **not** extend to rewriting existing live pages —
+  see below.
+
 ## Requires owner sign-off — the agent proposes, never executes
 
-- **Publishing or editing anything on the live storefront** (Shopify articles, product
-  copy, collection descriptions, theme). Drafts and recommendations go in this repo.
+- **Rewriting or replacing existing live pages that already earn traffic** (the rescue
+  queue in `KEYWORDS.md`). Publishing a new article risks nothing; replacing a page
+  ranking #14 on 2,900/mo can lose rankings we already hold. Still gated, still delivered
+  as briefs. *Pending a separate yes from the owner.*
+- **Editing product copy, collection descriptions, or the theme.**
 - Creating, deleting or merging Shopify **collections or products**
 - Anything touching **pricing, discounts, or inventory**
 - Paid spend of any kind

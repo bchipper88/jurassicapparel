@@ -29,6 +29,7 @@ Ubersuggest figure that justified it.
   Day 1. Chosen for seasonal urgency: Sept 4,400 / Oct 5,400 vs Feb 90. Publishing 8 weeks
   ahead of peak. Maps to real inventory (Mamasaurus 17, Dadasaurus 9, Kids 185, Hoodies 57).
   Secondary: `dinosaur onesie adult` (1,900/mo avg, 6,600 Oct, SD 25, Transactional).
+  **LIVE:** https://jurassicapparel.com/blogs/blog/family-dinosaur-costume-ideas
 
 ---
 
