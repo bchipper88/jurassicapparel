@@ -82,8 +82,9 @@ Match the intent, don't hit a number:
 | Commercial comparison / gift guide | 1,400–2,200 words |
 | Informational pillar / rescue rewrite | 2,500–4,000 words |
 
-The LV repo's flagship batch ran 3,700–4,000 words on pillar guides and those ranked.
-Depth wins where the query is broad; brevity wins where the reader wants to buy.
+Depth wins where the query is broad; brevity wins where the reader wants to buy. A
+rescue rewrite has to clear whatever is currently outranking us, which in practice means
+the long end of that range.
 
 ## Before you commit
 

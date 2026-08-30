@@ -150,8 +150,8 @@ Commit message format matters — it makes `git log --oneline` a readable shippi
 
 - **`locId: 2840` on every Ubersuggest call.** No exceptions.
 - **Cite real numbers or say you couldn't get them.** Never invent a search volume.
-  If the API fails, write `volume unavailable (<reason>, <date>)` — the LV repo's habit,
-  and it kept that log trustworthy for six months.
+  If the API fails, write `volume unavailable (<reason>, <date>)`. A log that admits a
+  gap stays trustworthy; one padded with guesses does not.
 - **One article per day.** Not three today and none for a week.
 - **Publish new articles same-day; never edit existing live pages.** New posts go live
   under standing approval. Rewrites, product copy, collections and theme stay gated.
@@ -162,12 +162,20 @@ Commit message format matters — it makes `git log --oneline` a readable shippi
 - **Log the misses.** A skipped keyword with a reason is more useful in six months than
   a clean-looking queue.
 
-## Where the routines came from
+## Why the routine is shaped this way
 
-`bchipper88/lv-directory` ran this loop for ~6 months and shipped 80+ ranked articles.
-What transferred: the status-legend keyword queue, one-article-a-day cadence, metrics
-logged inline with each published entry, and planning docs that get rewritten rather than
-appended to. What changed for ecommerce: research runs on Ubersuggest instead of
-DataForSEO (which kept returning Payment Required and left months of the LV log saying
-"volume unavailable"), articles must map to sellable inventory, and seasonality drives
-scheduling far harder than it does for a local directory.
+Four choices do most of the work, and they're worth not drifting from:
+
+- **A status-legend queue rather than a to-do list.** Published, queued, rescued and
+  skipped all live in one file, so the reasoning behind a decision is still there months
+  later when someone asks why we never wrote about dinosaur costumes.
+- **One article a day, not batches.** A steady cadence survives busy weeks; a batch
+  strategy quietly becomes no strategy.
+- **Metrics recorded inline with each published entry.** Volume, difficulty and CPC sit
+  next to the slug, so the queue can be re-ranked later without re-running research.
+- **Planning docs get rewritten, not appended to.** `STRATEGY.md` should describe what we
+  believe now, not accumulate a sediment of what we used to believe.
+
+Two things are specific to selling a catalog rather than publishing content: every article
+has to map to inventory we can actually ship, and seasonality sets the calendar — a
+Halloween page ships in August or not at all.

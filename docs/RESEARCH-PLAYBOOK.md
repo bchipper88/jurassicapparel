@@ -96,6 +96,6 @@ Append the result to `data/metrics.json` as a new dated entry. Never overwrite.
 
 - Quote figures as returned, with the date of the pull.
 - If a call fails, record `volume unavailable (<reason>, <date>)` and move on. Never
-  substitute a guess — the LV log stayed trustworthy for six months precisely because it
-  said "DataForSEO Payment Required" instead of making a number up.
+  substitute a guess. An honest gap is recoverable later; a fabricated number quietly
+  corrupts every ranking decision built on top of it.
 - Estimates get `est.` and a stated basis (usually a sibling keyword's real figure).

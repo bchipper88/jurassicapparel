@@ -6,16 +6,13 @@ This repo is the **operational database and memory** for the AI agent that runs 
 Jurassic Apparel. Every decision, keyword, article, metric and daily update is committed
 here so that state survives between sessions and every change has an audit trail.
 
-Modeled on the operating routines proven at `bchipper88/lv-directory` (Lehigh Valley Best),
-adapted from a local directory to a DTC ecommerce catalog.
-
 ## What lives here
 
 | Path | Purpose |
 |---|---|
 | `CEO-CHARTER.md` | The agent's mandate, decision rights, and what requires owner sign-off |
 | `STRATEGY.md` | The current diagnosis, the plays, and why. Reviewed monthly. |
-| `KEYWORDS.md` | **The content queue.** Status-tracked keyword database (LV format). |
+| `KEYWORDS.md` | **The content queue.** Status-tracked keyword database. |
 | `BACKLOG.md` | Non-content work: catalog fixes, technical SEO, merchandising |
 | `content/articles/` | Every article written, as markdown, dated + slugged |
 | `updates/` | Daily agent update log — one file per working day |
