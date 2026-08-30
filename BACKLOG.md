@@ -112,3 +112,84 @@ schedule. Then delete the API-created one so it doesn't double-run.
 Until then the cached data is good for roughly a month of queue items — every entry in
 `KEYWORDS.md` already carries verified volume, difficulty, CPC and intent. After that the
 numbers go stale and the queue needs a manual refresh from a session like this one.
+
+---
+
+# Klaviyo — added 2026-08-30
+
+Full findings in [`audits/2026-08-30-klaviyo.md`](audits/2026-08-30-klaviyo.md).
+Klaviyo produced **$1,092.08 and 15 orders in the last 12 months** from 14,316 sends.
+
+## K1. Abandoned Cart flow is damaging sending reputation 🔴 URGENT
+
+12.77% flow bounce rate (790 bounces). One message, `SbKzEd`, bounced **695 of 1,798 sends
+— 38.65%**, and drew the account's only spam complaints. Open rate 5.2% against the Welcome
+Series' 32.4% on an overlapping audience.
+
+A bounce rate this high risks account throttling and suppresses inbox placement for every
+other email, including the Welcome Series that actually works.
+
+**Action:** pause the flow. Check the trigger (likely Added to Cart rather than Checkout
+Started), add a purchaser exclusion, and find where `SbKzEd`'s recipients come from.
+Relaunch under 2% bounce.
+
+## K2. No authenticated sending domain 🔴 URGENT
+
+`get_sending_domains` is empty — all mail goes out on Klaviyo's shared infrastructure with
+no DKIM/SPF on `jurassicapparel.com`. Caps inbox placement under the 2024 Google/Yahoo
+bulk-sender rules. One-time DNS job, highest-leverage deliverability fix available.
+
+## K3. No suppression on any campaign 🔴 HIGH
+
+Every campaign has `excluded: []`. Sends have gone to *Preview List* (Klaviyo's internal
+default) and *SMS Subscribers* (a phone list). *Old List Upload* appears in 5 campaigns; the
+March 2026 send including it bounced at **20.87%**.
+
+**Action:** build an "Engaged 90 day" segment and send only to it until reputation recovers.
+
+## K4. Zero segments exist 🟠 HIGH
+
+The segments API returns an empty array. Every campaign is a full-list blast. Build:
+engaged 30/60/90, customers vs never-purchased, VIP, unengaged 180+ (suppress), and category
+interest (kids / adult / accessories).
+
+## K5. No campaign sent since 22 March 2026 🟠 HIGH
+
+Five campaigns in twelve months, none in over five months. Best performer of the year was
+"T-Rex Diet Facts" (33.9% open, 2.10% click) — our own blog content, beating the promotional
+sends. Restart at 2–4/month, content-led.
+
+## K6. Missing flows 🟠 HIGH
+
+Seven flows exist; three are shipping notifications and one is a two-year-old draft.
+Missing entirely: **post-purchase** (the expensive gap for a repeat-purchase apparel brand),
+back-in-stock, second-purchase/cross-sell, sunset, price drop, birthday/VIP.
+The **Customer Winback** flow has been in draft since Sept 2024.
+
+## K7. Back-in-stock subscriptions collected but unserved 🟠 HIGH
+
+`Subscribed to Back in Stock` is live and collecting; no flow exists to notify anyone.
+Compounds with the out-of-stock inventory found in the storefront audit (kids' sneakers,
+Mamasaurus tees). Customers are asking to be told and nothing tells them.
+
+## K8. Browse Abandonment fired 15 times in a year 🟠 MEDIUM
+
+Opens at 35.7% when it fires, so the message is fine — the trigger isn't. Note `Viewed
+Product` comes from the API integration rather than Shopify; verify Klaviyo's onsite
+JavaScript is installed and firing on product pages.
+
+## K9. SMS delivering ~14–24% 🟡 MEDIUM
+
+Shipping flows deliver 15–24 messages per ~100–132 recipients. That pattern means A2P 10DLC
+registration is incomplete or rejected. No SMS marketing campaign has ever been sent.
+
+## K10. Product catalog not synced 🟡 MEDIUM
+
+`get_catalog_items` is empty. No dynamic product blocks, no recommendations, no reliable
+product imagery in cart/browse emails.
+
+## K11. List growth apparatus is one un-optimized popup 🟡 MEDIUM
+
+~1,300 subscribers. The Email Popup has not been edited since 10 Sept 2024 and has no A/B
+test. A "Black Friday deals" form has been in **draft since 11 Sept 2024** — two Black
+Fridays have passed.
