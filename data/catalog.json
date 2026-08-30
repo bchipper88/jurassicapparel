@@ -1,0 +1,478 @@
+{
+  "_comment": "Shopify catalog snapshot. The internal-link map. Refresh monthly (CLAUDE.md monthly routine). Never link to a collection with products: 0.",
+  "snapshot_date": "2026-08-30",
+  "shop": {
+    "name": "Jurassic Apparel",
+    "domain": "jurassicapparel.com",
+    "plan": "Basic",
+    "currency": "USD",
+    "timezone": "EDT"
+  },
+  "blogs": [
+    {
+      "handle": "blog",
+      "title": "Blog",
+      "articles": 84
+    },
+    {
+      "handle": "dinosaur-facts",
+      "title": "Dinosaur Facts",
+      "articles": 323
+    },
+    {
+      "handle": "dinosaur-toys",
+      "title": "Dinosaur Toys",
+      "articles": 1
+    },
+    {
+      "handle": "dinosaur-birthday-party",
+      "title": "Dinosaur Birthday Party",
+      "articles": 1
+    },
+    {
+      "handle": "fan-of-the-month",
+      "title": "Fan Of The Month",
+      "articles": 1
+    }
+  ],
+  "empty_collections_do_not_link": [
+    {
+      "handle": "dinosaur-masks",
+      "products": 0,
+      "note": "'dino mask' = 9,900/mo unserved. BACKLOG #1."
+    },
+    {
+      "handle": "dinosaur-beanie",
+      "products": 0
+    },
+    {
+      "handle": "hooded-dinosaur-blankets",
+      "products": 0
+    },
+    {
+      "handle": "personalized-dinosaur-shirt",
+      "products": 0
+    },
+    {
+      "handle": "dinosaur-dress-socks",
+      "products": 0
+    }
+  ],
+  "duplicate_collections": [
+    {
+      "keep": "dinosaur-christmas-ornaments",
+      "duplicate": "dinosaur-ornaments",
+      "products": 9
+    },
+    {
+      "keep": "dinosaur-christmas-pajamas",
+      "duplicate": "dinosaur-christmas-pajamas-1",
+      "products": 7
+    },
+    {
+      "keep": "miscellaneous",
+      "duplicate": "all-misc",
+      "products": 13
+    }
+  ],
+  "collections": {
+    "adult": [
+      {
+        "handle": "adult-dinosaur-apparel",
+        "title": "Adult Dinosaur Apparel",
+        "products": 420
+      },
+      {
+        "handle": "adult-dinosaur-shirt",
+        "title": "Adult Dinosaur Shirt",
+        "products": 102
+      },
+      {
+        "handle": "adult-dinosaur-hoodie",
+        "title": "Adult Dinosaur Hoodie",
+        "products": 50
+      },
+      {
+        "handle": "shoes-adult",
+        "title": "Dinosaur Shoes For Adults",
+        "products": 56
+      }
+    ],
+    "mens": [
+      {
+        "handle": "mens-dinosaur-t-shirts",
+        "title": "Men's Dinosaur T-Shirts",
+        "products": 55
+      },
+      {
+        "handle": "mens-unisex-shirts",
+        "title": "Dinosaur Shirt Mens",
+        "products": 79
+      },
+      {
+        "handle": "mens-unisex-shoes",
+        "title": "Dinosaur Shoes Mens",
+        "products": 30
+      },
+      {
+        "handle": "mens-dinosaur-sweatshirts",
+        "title": "Men's Dinosaur Sweatshirts",
+        "products": 6
+      },
+      {
+        "handle": "dinosaur-socks-mens",
+        "title": "Dinosaur Socks Mens",
+        "products": 34
+      },
+      {
+        "handle": "dadasaurus-collection",
+        "title": "Dadasaurus Collection",
+        "products": 9
+      }
+    ],
+    "womens": [
+      {
+        "handle": "womens-dinosaur-dresses-skirts",
+        "title": "Dinosaur Dresses & Skirts",
+        "products": 65
+      },
+      {
+        "handle": "dinosaur-shoes-womens",
+        "title": "Dinosaur Shoes Womens",
+        "products": 51
+      },
+      {
+        "handle": "womens-shirts",
+        "title": "Dinosaur Shirt Womens",
+        "products": 41
+      },
+      {
+        "handle": "womens-dinosaur-hoodies",
+        "title": "Women's Dinosaur Hoodies",
+        "products": 29
+      },
+      {
+        "handle": "womens-dinosaur-swimsuits",
+        "title": "Womens Dinosaur Swimsuits",
+        "products": 14
+      },
+      {
+        "handle": "womens-dinosaur-tank-tops",
+        "title": "Women's Dinosaur Tank Tops",
+        "products": 9
+      },
+      {
+        "handle": "mamasaurus",
+        "title": "Mamasaurus Collection",
+        "products": 17
+      }
+    ],
+    "kids": [
+      {
+        "handle": "kids-dinosaur-apparel",
+        "title": "Kids Dinosaur Apparel",
+        "products": 185
+      },
+      {
+        "handle": "girls-dinosaur-apparel",
+        "title": "Girls Dinosaur Apparel",
+        "products": 117
+      },
+      {
+        "handle": "boys-dinosaur-apparel",
+        "title": "Boys Dinosaur Apparel",
+        "products": 81
+      },
+      {
+        "handle": "dinosaur-shirts-for-girls",
+        "title": "Girls Dinosaur Shirts",
+        "products": 43
+      },
+      {
+        "handle": "boys-dinosaur-shirts",
+        "title": "Boys Dinosaur Shirts",
+        "products": 41
+      },
+      {
+        "handle": "toddler-apparel",
+        "title": "Toddler Apparel",
+        "products": 37
+      },
+      {
+        "handle": "dinosaur-baby-outfit",
+        "title": "Dinosaur Baby Outfit",
+        "products": 36
+      },
+      {
+        "handle": "dinosaur-shoes-for-kids",
+        "title": "Dinosaur Shoes Kids",
+        "products": 29
+      },
+      {
+        "handle": "girls-shoes",
+        "title": "Girls Dinosaur Shoes",
+        "products": 28
+      },
+      {
+        "handle": "boys-shoes",
+        "title": "Boys Dinosaur Shoes",
+        "products": 21
+      },
+      {
+        "handle": "baby-dinosaur-bodysuits",
+        "title": "Baby Dinosaur Bodysuits",
+        "products": 19
+      },
+      {
+        "handle": "toddler-shirts",
+        "title": "Toddler Dinosaur Shirts",
+        "products": 16
+      },
+      {
+        "handle": "kids-dinosaur-hoodie",
+        "title": "Kids Dinosaur Hoodie",
+        "products": 7
+      },
+      {
+        "handle": "boys-hoodies",
+        "title": "Boys Dinosaur Hoodies",
+        "products": 7
+      },
+      {
+        "handle": "girls-dinosaur-hoodies",
+        "title": "Girls Dinosaur Hoodies",
+        "products": 7
+      }
+    ],
+    "core": [
+      {
+        "handle": "dinosaur-apparel",
+        "title": "Dinosaur Apparel",
+        "products": 567
+      },
+      {
+        "handle": "dinosaur-shirts",
+        "title": "Dinosaur Shirts",
+        "products": 199
+      },
+      {
+        "handle": "dinosaur-shoes-dinosaur-sneakers",
+        "title": "Dinosaur Shoes",
+        "products": 78
+      },
+      {
+        "handle": "dinosaur-hoodie",
+        "title": "Dinosaur Hoodies",
+        "products": 57
+      },
+      {
+        "handle": "dinosaur-leggings",
+        "title": "Dinosaur Leggings",
+        "products": 36
+      },
+      {
+        "handle": "dinosaur-socks",
+        "title": "Dinosaur Socks",
+        "products": 36
+      },
+      {
+        "handle": "dinosaur-high-tops",
+        "title": "Dinosaur High Tops",
+        "products": 29
+      },
+      {
+        "handle": "dinosaur-swimsuits",
+        "title": "Dinosaur Swimsuits",
+        "products": 25
+      },
+      {
+        "handle": "dinosaur-polos",
+        "title": "Dinosaur Polo's",
+        "products": 15
+      },
+      {
+        "handle": "dinosaur-hawaiian-shirts",
+        "title": "Dinosaur Hawaiian Shirts",
+        "products": 10
+      }
+    ],
+    "accessories_home": [
+      {
+        "handle": "dinosaur-mugs",
+        "title": "Dinosaur Mugs",
+        "products": 85
+      },
+      {
+        "handle": "phone-cases",
+        "title": "Dinosaur Phone Cases",
+        "products": 62
+      },
+      {
+        "handle": "dinosaur-tote-bag",
+        "title": "Dinosaur Tote Bag",
+        "products": 48
+      },
+      {
+        "handle": "dinosaur-stickers",
+        "title": "Dinosaur Stickers",
+        "products": 31
+      },
+      {
+        "handle": "toys",
+        "title": "Dinosaur Toys",
+        "products": 30
+      },
+      {
+        "handle": "dinosaur-purses",
+        "title": "Dinosaur Purses",
+        "products": 24
+      },
+      {
+        "handle": "dinosaur-hats",
+        "title": "Dinosaur Hats",
+        "products": 17
+      },
+      {
+        "handle": "dinosaur-backpack",
+        "title": "Dinosaur Backpacks",
+        "products": 14
+      },
+      {
+        "handle": "dinosaur-puzzles",
+        "title": "Dinosaur Puzzles",
+        "products": 13
+      },
+      {
+        "handle": "dinosaur-pillows-cases",
+        "title": "Dinosaur Pillows & Cases",
+        "products": 11
+      },
+      {
+        "handle": "dinosaur-throw-pillow",
+        "title": "Dinosaur Throw Pillow",
+        "products": 11
+      },
+      {
+        "handle": "dinosaur-blankets",
+        "title": "Dinosaur Blankets",
+        "products": 10
+      },
+      {
+        "handle": "dinosaur-ties",
+        "title": "Dinosaur Ties",
+        "products": 9
+      },
+      {
+        "handle": "dinosaur-posters",
+        "title": "Dinosaur Posters",
+        "products": 8
+      },
+      {
+        "handle": "dinosaur-dog-bandanas",
+        "title": "Dinosaur Dog Bandanas",
+        "products": 6
+      },
+      {
+        "handle": "dinosaur-bandanas",
+        "title": "Dinosaur Bandanas",
+        "products": 6
+      },
+      {
+        "handle": "dinosaur-jewelry",
+        "title": "Dinosaur Jewelry",
+        "products": 6
+      },
+      {
+        "handle": "dinosaur-flip-flops",
+        "title": "Dinosaur Flip Flops",
+        "products": 4
+      }
+    ],
+    "seasonal": [
+      {
+        "handle": "dinosaur-christmas",
+        "title": "Dinosaur Christmas",
+        "products": 52
+      },
+      {
+        "handle": "christmas-dinosaur-stockings",
+        "title": "Dinosaur Christmas Stockings",
+        "products": 15
+      },
+      {
+        "handle": "4th-of-july-dinosaur-apparel",
+        "title": "4th of July Dinosaur Apparel",
+        "products": 12
+      },
+      {
+        "handle": "dinosaur-christmas-ornaments",
+        "title": "Dinosaur Christmas Ornaments",
+        "products": 9
+      },
+      {
+        "handle": "dinosaur-christmas-pajamas",
+        "title": "Dinosaur Christmas Pajamas",
+        "products": 7
+      },
+      {
+        "handle": "dinosaur-christmas-wrapping-paper",
+        "title": "Dinosaur Christmas Wrapping Paper",
+        "products": 6
+      }
+    ],
+    "gifting": [
+      {
+        "handle": "best-sellers",
+        "title": "Best Sellers",
+        "products": 1017
+      },
+      {
+        "handle": "new-arrivals",
+        "title": "New Arrivals",
+        "products": 1019
+      },
+      {
+        "handle": "dinosaur-gifts-for-girlfriend",
+        "title": "Dinosaur Gifts for Girlfriend",
+        "products": 294
+      },
+      {
+        "handle": "womens-best-sellers",
+        "title": "Women's Best Sellers",
+        "products": 294
+      },
+      {
+        "handle": "mens-best-sellers",
+        "title": "Men's Best Sellers",
+        "products": 213
+      },
+      {
+        "handle": "unique-dinosaur-gifts",
+        "title": "Unique Dinosaur Gifts",
+        "products": 3
+      }
+    ]
+  },
+  "key_products": [
+    {
+      "handle": "realistic-jurassic-adult-dinosaur-pajamas",
+      "title": "Realistic Jurassic - Adult Dinosaur Pajamas",
+      "note": "Highest-traffic page on the entire site: 461 est. visits/mo. Anchor product for the onesie/costume cluster."
+    },
+    {
+      "handle": "hooded-dinosaur-blanket-dino-friends",
+      "title": "Dino Friends - Hooded Dinosaur Blanket",
+      "note": "31 visits/mo. The hooded-dinosaur-blankets COLLECTION is empty (BACKLOG #1) but this product exists."
+    },
+    {
+      "handle": "dinosaur-array-dinosaur-blanket",
+      "title": "Dinosaur Array - Dinosaur Blanket",
+      "note": "Ranks #18 for 'dinosaur blanket' (3,600/mo, SD 25). Rescue candidate."
+    },
+    {
+      "handle": "festive-dino-wonderland-christmas-dinosaur-mug",
+      "title": "Festive Dino Wonderland - Christmas Dinosaur Mug",
+      "note": "Ranks #3 for 'dinosaur christmas mug'. 32 visits/mo."
+    }
+  ]
+}

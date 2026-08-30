@@ -1,0 +1,43 @@
+{
+  "_comment": "Append-only time series. Never overwrite an entry — the series is the point. Weekly refresh per CLAUDE.md.",
+  "domain": "jurassicapparel.com",
+  "snapshots": [
+    {
+      "date": "2026-08-30",
+      "type": "baseline",
+      "source": "Ubersuggest domain_overview (locId 2840)",
+      "domain_authority": 17,
+      "organic_keywords": 4544,
+      "est_monthly_organic_traffic": 1141,
+      "backlinks": 2732,
+      "referring_domains": 1268,
+      "follow_links": 2464,
+      "nofollow_links": 268,
+      "paid_traffic": 0,
+      "notes": "Baseline at the start of agent operations."
+    }
+  ],
+  "traffic_history": {
+    "_comment": "13-month trend from the baseline pull. Peak Aug 2025 (2,076) -> Jul 2026 (1,141), a ~45% decline while ranked keyword count rose.",
+    "202508": 2076,
+    "202509": 1729,
+    "202510": 1813,
+    "202511": 1445,
+    "202512": 1478,
+    "202601": 1167,
+    "202602": 1145,
+    "202603": 1379,
+    "202604": 1441,
+    "202605": 1348,
+    "202606": 1111,
+    "202607": 1141
+  },
+  "leading_indicator": {
+    "_comment": "Tracked keywords in positions 4-10. Moves before traffic does. Populate on the first Monday rank pull.",
+    "history": []
+  },
+  "targets": {
+    "90_day": { "by": "2026-11-28", "traffic_range": [1700, 2000], "basis": "return to Aug 2025 level via seasonal cluster + first rescues" },
+    "180_day": { "by": "2027-02-26", "traffic_range": [2500, 3500], "basis": "assumes rescue briefs approved and shipped steadily; halve if rescues stay blocked" }
+  }
+}
