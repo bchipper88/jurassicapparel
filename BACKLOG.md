@@ -108,3 +108,24 @@ the first rewrite batch once #4 is approved.
 ~12,000/mo of demand adjacent to inventory we already carry (`dinosaur-flags`,
 `dinosaur-posters`, `dinosaur-stickers`, `toys`). If not, say so and the terms get
 permanently marked ⏭️ Skip so we stop re-surfacing them.
+
+## 7. Daily Routine fires without Ubersuggest/Shopify connectors 🟡 MEDIUM — infrastructure
+
+The daily article Routine (`trig_012cPKMi3SWxBwrokr5QMJvr`, 11:00 UTC / 7am EDT) was
+created from a Claude Code session, and triggers created that way **cannot carry MCP
+connectors** on this account — the `connectors` parameter is rejected with
+*"not available for this organization."*
+
+**Consequence:** the daily session can read and write this repo and push to GitHub, but it
+cannot call Ubersuggest for fresh keyword data or Shopify to verify inventory. It falls
+back to the figures cached in `KEYWORDS.md` / `data/keywords.json` (2026-08-30 pull) and
+the collection map in `data/catalog.json`, and it is instructed to say so in the update
+rather than invent numbers.
+
+**Fix (owner, ~2 minutes):** recreate or edit this Routine from the **claude.ai Routines
+UI**, where Ubersuggest and Shopify can be attached as connectors. Same prompt, same
+schedule. Then delete the API-created one so it doesn't double-run.
+
+Until then the cached data is good for roughly a month of queue items — every entry in
+`KEYWORDS.md` already carries verified volume, difficulty, CPC and intent. After that the
+numbers go stale and the queue needs a manual refresh from a session like this one.
