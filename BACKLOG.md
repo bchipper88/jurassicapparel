@@ -156,10 +156,18 @@ on the Shopify side. Rebuild spec: [`klaviyo/abandoned-cart-v2.md`](klaviyo/aban
 created via API in `draft` status (every action also `draft`, so it cannot send).
 https://www.klaviyo.com/flow/Vc6TWN/edit
 
-Structure verified on create: trigger `Checkout Started`, `Placed Order` = 0 since flow start,
-re-entry once per 7 days, 4h → +20h → +48h, **Smart Sending on for all three messages**,
-UTM tracking on. Templates are `null` — content deliberately left empty so the old discount
-ladder could not ride along into the new flow.
+Structure verified: trigger `Checkout Started`, `Placed Order` = 0 since flow start, re-entry
+once per 7 days, 4h → +20h → +48h, **Smart Sending on for all three messages**, UTM tracking
+on. **All three emails are built and attached** (`XLNAJb`, `SYwYEQ`, `T39eRH`) — hand-coded
+responsive HTML using the account's real brand logo and stored ink colour.
+
+Email 2's objection copy is built on the **verified** Shopify refund policy: made-to-order,
+all sales final, damaged/misprinted replaced or refunded within 30 days. An earlier draft had
+invented a "send it back" returns line that contradicted the real policy — corrected.
+
+Two deliberate placeholders remain, both visually flagged in the emails: the shipping window
+in email 2 (the Shopify shipping policy body is **empty**, so nothing was invented) and the
+coupon code plus discount percentage in email 3 (a commercial decision).
 
 **Blocked on the owner:** add the email content, replace the placeholder shipping/returns
 copy, add the temporary 180-day engagement guard in the UI, pause `RsULBu`, and investigate

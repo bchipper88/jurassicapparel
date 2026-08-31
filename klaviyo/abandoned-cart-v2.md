@@ -24,24 +24,28 @@ Verified in the create response:
 | Timing | 4h → +20h → +48h (72h total) |
 | Smart Sending | **on, all three messages** |
 | UTM tracking | on |
-| Templates | **`null` on all three — no content yet** |
+| Templates | **built and attached** — `XLNAJb`, `SYwYEQ`, `T39eRH` |
 
-Message IDs: `WYwMth` (1 of 3), `QYe6jd` (2 of 3), `Uz5Rkb` (3 of 3).
+Library source templates: `VGAs4Y`, `Xkm4V3`, `VR2sFX`. Message IDs: `WYwMth`, `QYe6jd`,
+`Uz5Rkb`. Content detail: [`abandoned-cart-v2-copy.md`](abandoned-cart-v2-copy.md).
 
 ### Still to do before it can go live
 
-1. **Add email content.** All three messages have subject and preview text but no template.
-   Copy is in [`abandoned-cart-v2-copy.md`](abandoned-cart-v2-copy.md). Left empty
-   deliberately — reusing the old templates would have carried the 10/10/15 discount ladder
-   into the new flow, where it could be published by accident.
-2. **Replace the placeholder shipping and returns lines** in email 2 with the real policy.
-3. **Add the temporary engagement guard** (opened in last 180 days OR profile created in
-   last 30 days). Not built via API — the property name for profile creation date was
-   uncertain and a wrong guess would have silently filtered everyone. Add it in the UI.
-4. **Pause the old flow `RsULBu`.**
-5. **Investigate the Shopify checkout junk traffic** — the 38.65% bounce. This flow does not
-   fix it.
-6. Then work the relaunch gate at the bottom of this file.
+1. **Fill the shipping box in email 2.** An amber dashed box marks where delivery timing
+   goes. The Shopify shipping policy body is empty, so no estimate was invented. Add the real
+   production and shipping window, or delete the box.
+2. **Create the coupon for email 3.** The code renders as `COUPONCODE`. Needs a Klaviyo
+   coupon backed by a matching Shopify discount, then the dynamic tag so each recipient gets
+   a unique code. Recommended at **10% or below**.
+3. **Preview against a live `Checkout Started` event** and confirm the cart block renders real
+   products with images and prices.
+4. **Add the temporary engagement guard** (opened in last 180 days OR profile created in last
+   30 days). Not built via API — the profile creation-date property name was uncertain and a
+   wrong guess would have silently filtered the entire audience. Add it in the UI.
+5. **Pause the old flow `RsULBu`.**
+6. **Investigate the Shopify checkout junk traffic** behind the 38.65% bounce. This flow does
+   not fix it, and it is still the highest-value item.
+7. Then work the relaunch gate at the bottom of this file.
 
 # Abandoned Cart v2 — build spec
 
