@@ -1,9 +1,14 @@
 # Runbook — move DNS to Cloudflare
 
-**Why:** Klaviyo's sending-domain setup requires **NS records** to delegate
-`email.jurassicapparel.com`. Neither Shopify's nor Squarespace's DNS editor supports the NS
-record type (both confirmed by inspection, 2026-08-31). Cloudflare does, it is free, and the
-zone is only 8 records.
+> **⚠️ THIS IS A FALLBACK, NOT THE PLAN.** Verified 2026-08-31 that the live DNS host is
+> **Google Cloud DNS**, which supports NS records natively. Add the Klaviyo records there
+> first — see [`DNS.md`](DNS.md). Only use this runbook if that Cloud DNS zone turns out to
+> be inaccessible.
+
+**Why this exists:** Klaviyo's sending-domain setup requires **NS records** to delegate
+`email.jurassicapparel.com`. Neither Shopify's nor Squarespace's DNS editor exposes an NS
+record type (both inspected by the owner). If the Google Cloud DNS zone cannot be reached,
+Cloudflare is the escape hatch — free, supports NS, and the zone is only 8 records.
 
 **Scope:** nameserver change only. **The domain registration stays at Squarespace.** This is
 not a transfer; no auth code, no 60-day lock, no risk to ownership.

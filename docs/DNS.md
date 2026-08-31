@@ -14,12 +14,32 @@ work (`BACKLOG.md` K2).
 |---|---|---|
 | Registrar | Tucows Domains Inc. | Registered 2019-10-12, expires **2026-10-12** |
 | Registration account | **Squarespace** | Migrated from Google Domains; all domains moved by 2024-07-10 |
-| Authoritative nameservers | `ns-cloud-a1..a4.googledomains.com` | Squarespace kept Google's nameservers for migrated domains |
+| Authoritative nameservers | `ns-cloud-a1..a4.googledomains.com` | **Google Cloud DNS** — zone SOA hostmaster is `cloud-dns-hostmaster.google.com` |
+| DNS zone editing | **Google Cloud Console** → Network Services → Cloud DNS | Where records are actually edited |
 | Storefront | Shopify | A/AAAA at apex, CNAME on `www` |
 | Business email | Zoho | `john@jurassicapparel.com` |
 
-**Shopify is NOT the DNS host.** Records added in Shopify's DNS editor will not take effect.
-Shopify's own nameservers would be `ns1/ns2.shopify.com`; they are not in use here.
+**Shopify is NOT the DNS host**, despite Shopify's admin panel claiming "Your store is using
+Shopify's default nameservers." That panel reports Shopify's own configuration and does not
+check the live registry delegation. Shopify holds an orphaned zone that nothing queries;
+records added there will not take effect.
+
+**Registrar and DNS host are different things and were conflated twice during this work:**
+- **Squarespace** (registrar) — where you change *which* nameservers the domain uses
+- **Google Cloud DNS** (DNS host) — where you edit the *records*
+
+### Verification (2026-08-31), four independent sources
+
+| Source | Result |
+|---|---|
+| `.com` registry via RDAP — the parent delegation | `NS-CLOUD-A1..A4.GOOGLEDOMAINS.COM` |
+| Google public resolver | same |
+| Cloudflare public resolver | same |
+| Zone SOA | `ns-cloud-a1.googledomains.com` / `cloud-dns-hostmaster.google.com` |
+
+RDAP is decisive — it reads the registry's own delegation rather than a resolver cache.
+Registry records the nameservers were **last changed 2025-09-28**, i.e. moved off Shopify
+about eleven months before this audit.
 
 ## Current records (2026-08-31)
 
@@ -52,16 +72,16 @@ CAA record, and any delegation of `email.jurassicapparel.com`.
 These four NS records delegate the whole `email` subdomain to Klaviyo, which then manages
 DKIM and SPF underneath it. **This does not change the visible From address** — see K2.
 
-### If the DNS panel offers no NS record type
+**Add these in Google Cloud DNS**, which supports NS record sets natively. Neither Shopify's
+nor Squarespace's DNS editor exposes an NS record type (both inspected by the owner,
+2026-08-31), but neither is the live DNS host, so that limitation does not apply.
 
-Options in order of effort:
+### Fallbacks, only if the Cloud DNS zone is inaccessible
 
-1. **Ask Klaviyo support for the CNAME-based sending domain setup.** Klaviyo has historically
-   offered CNAME as an alternative to NS delegation. Cheapest path if still available —
-   confirm with support rather than assuming.
-2. **Move DNS to Cloudflare.** Free, supports NS. Registration stays at Squarespace; only the
-   nameservers change. With ~8 records the risk is low, but replicate every record in the
-   table above *before* swapping nameservers, then verify resolution before and after.
+1. **Ask Klaviyo support for the CNAME-based sending domain setup.** Historically offered as
+   an alternative to NS delegation — confirm with support rather than assuming.
+2. **Move DNS to Cloudflare.** See [`DNS-MIGRATION-RUNBOOK.md`](DNS-MIGRATION-RUNBOOK.md).
+   Nameserver change only; registration stays at Squarespace.
 
 ## Unrelated fixes worth doing in the same session
 

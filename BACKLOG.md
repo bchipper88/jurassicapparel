@@ -169,7 +169,18 @@ still reads `googledomains.com`. **The live zone is edited at Squarespace**
 
 Full zone inventory and rollback reference: [`docs/DNS.md`](docs/DNS.md).
 
-**Add all Klaviyo records in the Squarespace DNS panel, not Shopify.** This also resolves the
+**Add all Klaviyo records in Google Cloud DNS** (console.cloud.google.com → Network Services
+→ Cloud DNS) — verified 2026-08-31 as the live DNS host via four independent sources
+including the `.com` registry's own delegation. Cloud DNS supports NS record sets, so no
+migration is needed.
+
+Shopify's admin claims "Your store is using Shopify's default nameservers" — it is reporting
+its own config, not the live delegation, and is wrong. Neither Shopify's nor Squarespace's
+DNS editor exposes an NS type, but neither is the live host so it does not matter.
+
+Fallbacks if the Cloud DNS zone is inaccessible: ask Klaviyo support about the CNAME-based
+setup, or migrate DNS to Cloudflare per
+[`docs/DNS-MIGRATION-RUNBOOK.md`](docs/DNS-MIGRATION-RUNBOOK.md). This also resolves the
 blocker that Shopify's editor offers no NS record type (only A, AAAA, CNAME, MX, TXT, SRV) —
 Klaviyo's setup delegates the `email` subdomain via 4 NS records to `ns1..ns4.klaviyo.com`,
 plus a TXT `klaviyo-site-verification=XJSW3M` at `@`. Google Cloud DNS supports NS record
