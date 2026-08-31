@@ -1,212 +1,158 @@
+---
+status: DRAFT — not built, not live
+written: 2026-08-31
+supersedes: the 2026-08-30 version of this file, whose core diagnosis was wrong
+target: flow RsULBu "Abandoned Cart Reminder (Email)"
+---
+
 # Abandoned Cart v2 — build spec
 
-**Status:** DRAFT — not built, not live
-**Written:** 2026-08-31
-**Replaces:** `Abandoned Cart Reminder (Email)`, flow ID `RsULBu` (paused 2026-08-31)
-**Owner action required:** build in Klaviyo, then pass the relaunch gate at the bottom
+## Correction first
+
+The 2026-08-30 draft of this spec said the flow was probably triggering on **Added to Cart**
+without a purchaser exclusion, and that fixing those two things was the whole job. **Both
+claims were wrong.** They were inferred from performance metrics rather than read off the
+flow, and the flow API says otherwise:
+
+- Trigger is already **`Checkout Started`** (metric `RWsZMn`).
+- The profile filter already includes **`Placed Order` count = 0 since flow start**
+  (metric `YzLKy5`), plus a *not in this flow in the last 7 days* condition.
+- Re-entry is already capped at once per 7 days.
+
+The trigger and audience logic are correct. The problems are elsewhere, and they are real.
 
 ---
 
-## What we're fixing
+## What the flow actually does today
 
-The old flow, trailing 12 months:
+Reconstructed from the flow-actions graph:
 
-| Metric | Old flow | Welcome Series | |
-|---|---|---|---|
-| Recipients | 6,187 | 1,475 | 77% of flow volume |
-| Open rate | 5.2% | 32.4% | 6× gap, same subscriber base |
-| Click rate | 0.20% | 1.52% | |
-| Bounce rate | **12.77%** | 2.17% | 790 bounces |
-| Revenue | $166.07 | $868.03 | 16% of revenue from 77% of sends |
-
-One message (`SbKzEd`) bounced **695 of 1,798 sends — 38.65%** and drew the account's only
-two spam complaints.
-
-**Diagnosis.** A 38% bounce rate means the flow is emailing addresses that were never
-validly collected. Combined with the 6× open-rate gap against a flow mailing overlapping
-people, the most likely cause is that the trigger is **`Added to Cart`** rather than
-**`Checkout Started`**.
-
-That distinction is the whole problem. `Added to Cart` fires on any session that touches the
-cart — bots, scrapers, price-checkers — and Klaviyo attaches it to whatever profile it can
-resolve, including stale ones. `Checkout Started` only fires after a human has typed an email
-address into checkout, which structurally guarantees a real, recently-confirmed address.
-
-*This diagnosis is inferred from the metrics, not read off the flow config — confirm the
-current trigger when you open the flow. If it already says Checkout Started, the problem is
-in the audience filters instead and we should look again before rebuilding.*
-
----
-
-## Flow configuration
-
-### Trigger
-**Metric: `Checkout Started`** (Shopify integration, metric ID `RWsZMn`)
-
-### Trigger settings
-- **Flow entry:** allow re-entry, max once per 30 days per profile
-- **Smart Sending:** ON — skip anyone emailed in the last 16 hours
-- **UTM tracking:** ON
-
-### Flow filters — evaluated before every message
-These are what stop the flow emailing people it shouldn't:
-
-1. `Placed Order` **zero times since starting this flow** — the critical one. Stops mailing
-   people who already bought. Its absence is likely part of why click rate was 0.20%.
-2. `Checkout Started` **zero times in the last 30 minutes** — lets someone finish a checkout
-   in progress without getting chased.
-3. Profile is **subscribed to email marketing** (Klaviyo enforces, listed for completeness).
-
-### Temporary reputation guard — first 30 days only
-While sender reputation recovers from the old flow's 790 bounces, add one more filter:
-
-4. `Opened Email` **at least once in the last 180 days**, OR profile created in the last
-   30 days.
-
-This keeps the relaunch on known-good addresses. **Remove it once bounce rate holds under 2%
-for 30 days** — leaving it in permanently would suppress legitimate new customers.
-
-### Timing
-
-| Step | Delay | Cumulative |
-|---|---|---|
-| Email 1 | 4 hours after trigger | 4h |
-| Email 2 | 20 hours after Email 1 | 24h |
-| Email 3 | 48 hours after Email 2 | 72h |
-
-4 hours on the first send avoids catching people who are still mid-session comparing options.
-Worth A/B testing 1 hour against 4 once the flow is stable — some catalogs do better with the
-faster nudge.
-
-### Discount strategy
-
-**Email 1: no discount. Email 2: no discount. Email 3: 10%, expires in 48 hours.**
-
-The Welcome Series already carries a discount. Adding a second one at the cart trains people
-to abandon on purpose, and it gives margin away to the majority who would have converted from
-a plain reminder. Holding the incentive to the third message means only the genuinely
-hesitant ever see it.
-
----
-
-## Cart contents block
-
-`Checkout Started` carries the line items on the event, so the cart renders **without**
-needing the product catalog synced. (Catalog sync — backlog K10 — is required for
-*recommendations*, not for showing someone their own cart.)
-
-```liquid
-{% for item in event.extra.line_items %}
-  <img src="{{ item.image_url }}" width="120" alt="{{ item.title }}">
-  <strong>{{ item.title }}</strong>
-  {% if item.variant_title %}<br>{{ item.variant_title }}{% endif %}
-  <br>Qty {{ item.quantity }} — ${{ item.line_price|floatformat:2 }}
-{% endfor %}
+```
+Checkout Started
+  └ 3 hours    → A/B test → Email #1  "You left some dinosaurs behind..."
+  └ +2 days    → split    → Email #2  "Our dinosaurs are sad"
+  └ +2 days    → split    → Email #3  "Here's 10% off your dinosaur apparel"
+  └ +2 days    → split    → Email #4  "Don't let your discount go extinct"   (10% off)
+  └ +2 days    → split    → Email #5  "24 Hours Only - 15% Off"
 ```
 
-Checkout link: `{{ event.extra.checkout_url }}`
+**Five emails across eight days.** Trailing 12 months:
 
-**Verify these variable names against a live event preview in your account before building.**
-Shopify's payload shape varies between integration versions, and a silently-empty product
-block is exactly the kind of thing that produces a 0.20% click rate.
-
----
-
-## Email 1 — 4 hours
-
-**Subject:** You left a dinosaur behind
-**Preview text:** Still in your cart, still waiting.
-
-> Hi {{ first_name|default:"there" }},
->
-> You were this close. Your cart's still sitting here, and nothing in it has wandered off yet.
->
-> **[ CART CONTENTS BLOCK ]**
->
-> **[ Finish checkout → ]**
->
-> If something got in the way — a size question, a shipping question — just reply to this
-> email. A real person reads it.
-
-*No discount. No countdown. No pressure. Most people who abandon simply got interrupted, and
-a plain reminder converts them without costing margin.*
+| # | Message | Subject | Recipients | Open | Click | Bounce |
+|---|---|---|---|---|---|---|
+| 1 | `SbKzEd` | You left some dinosaurs behind... | 1,798 | 6.07% | 0.36% | **38.65%** |
+| 2 | `VLBkFb` | Our dinosaurs are sad | 1,121 | 5.61% | 0.00% | 2.94% |
+| 3 | `VLakmb` | Here's 10% off your dinosaur apparel | 1,099 | 4.84% | 0.28% | 2.18% |
+| 4 | `T6fCUW` | Don't let your discount go extinct | 1,089 | 4.96% | 0.09% | 1.93% |
+| 5 | `R7CeBT` | 24 Hours Only - 15% Off | 1,080 | 4.61% | 0.28% | 1.57% |
 
 ---
 
-## Email 2 — 24 hours
+## The five real problems
 
-**Subject:** Still thinking it over?
-**Preview text:** Sizing, shipping, returns — the answers, in one place.
+### 1. Smart Sending is OFF on every message 🔴
 
-> Hi {{ first_name|default:"there" }},
->
-> Your cart's still here. If you're weighing it up, here's what usually comes up:
->
-> **Sizing.** Our adult pieces run 2XS through 6XL — genuinely wide, so you don't have to
-> settle for "close enough." Between sizes and planning to layer? Size up.
->
-> **Shipping.** Orders ship in about two business days. If you're buying for a specific date,
-> order about two weeks out and you're comfortable.
->
-> **If it's not right.** Send it back. We'd rather you have the right one than keep something
-> you don't wear.
->
-> **[ CART CONTENTS BLOCK ]**
->
-> **[ Finish checkout → ]**
+`smart_sending_enabled: false` on all six messages. Smart Sending is the guard that stops
+Klaviyo emailing someone who has already had a message in the last ~16 hours. With it off,
+this flow can hit the same person five times in eight days *on top of* any campaign.
 
-*Objection handling, not persuasion. The three questions above are what actually stop apparel
-purchases. Replace the shipping and returns specifics with your real policy before building —
-I have written what is typical, not what is verified.*
+This is the single easiest fix in the account and it is one flag per message.
 
----
+### 2. Five emails over eight days is far too long 🔴
 
-## Email 3 — 72 hours
+Cart intent decays in hours, not a week. By email #4 — day six — the customer has bought
+elsewhere or moved on. All that remains is the unsubscribe risk.
 
-**Subject:** Last call — 10% off your cart
-**Preview text:** Expires in 48 hours. Then we'll stop bothering you.
+Emails 2–5 average **4.6–5.6% open and 0.0–0.3% click**. They are not persuading anyone;
+they are just spending reputation. Note email #2 recorded **zero clicks in a year.**
 
-> Hi {{ first_name|default:"there" }},
->
-> This is the last one — we're not going to keep emailing you about it.
->
-> If the only thing standing between you and this cart is the price, here's 10% off. It's good
-> for the next 48 hours.
->
-> **{{ coupon_code }}**
->
-> **[ CART CONTENTS BLOCK ]**
->
-> **[ Apply the discount and check out → ]**
->
-> And if it's just not the right time, no hard feelings. We'll be here.
+### 3. The discount ladder trains abandonment 🔴
 
-*Use a Klaviyo-generated unique coupon code, not a static one — static codes leak to coupon
-sites and get used by people who were never going to abandon anything.*
+Email #3 offers 10%. Email #4 offers 10% again. Email #5 offers 15%.
+
+Anyone who abandons twice learns the pattern: wait a week, get 15%. That is a permanent
+margin leak, and it makes the Welcome Series discount worth less too.
+
+### 4. The A/B test has never run 🟠
+
+Action `68684583` is an A/B test created 2024-09-11 with two variations
+(`SLewvn` "Variation A", `S9dtSK` "Variation B"). **Neither appears in the 12-month flow
+report at all** — zero sends. Meanwhile the control `SbKzEd` took all 1,798. The test has
+been sitting inert for two years.
+
+### 5. The bounce problem is upstream, in Shopify — not in this flow 🔴
+
+This is the important one, and the earlier spec got it backwards.
+
+Email #1 bounces at **38.65%**. Emails #2–5 bounce at **1.6–2.9%**. That gradient is the
+signature of a first send hitting a pool containing many invalid addresses, hard-bouncing
+them, and Klaviyo suppressing them — so later messages only reach the survivors.
+
+Since the trigger is `Checkout Started`, every one of those addresses was **typed into your
+Shopify checkout**. A ~38% invalid rate at that step means junk is entering checkout: bot
+traffic, scripted checkout attempts, or fake-address form abuse.
+
+**No amount of Klaviyo configuration fixes this.** Rebuilding the flow will not stop it. It
+needs investigating on the Shopify side — bot protection / captcha at checkout, and a look
+at whether those checkouts share patterns (same IP ranges, disposable email domains,
+zero-value carts).
 
 ---
 
-## Relaunch gate — do not set Live until all five pass
+## Proposed v2
 
-1. [ ] Trigger confirmed as **`Checkout Started`**, not `Added to Cart`
-2. [ ] Flow filter `Placed Order zero times since starting this flow` is present
-3. [ ] Preview against a real recent `Checkout Started` event — **the cart block renders
-       actual products with images and prices.** An empty block here is the single most
-       likely build error.
-4. [ ] Temporary 180-day engagement filter in place for the first 30 days
-5. [ ] Soft launch: set live, then **watch the first 72 hours.** Bounce rate must come in
-       **under 2%.** If it doesn't, pause again — the address problem is upstream of this
-       flow and rebuilding won't have fixed it.
+### Keep unchanged
+- Trigger: `Checkout Started` (`RWsZMn`)
+- Profile filter: `Placed Order` = 0 since flow start (`YzLKy5`)
+- Re-entry: once per 7 days
 
-## What good looks like
+### Change
 
-Old flow: 5.2% open, 0.20% click, 12.77% bounce, $0.031 revenue per recipient.
+| Setting | Now | v2 |
+|---|---|---|
+| Message count | 5 | **3** |
+| Duration | 8 days | **3 days** |
+| First delay | 3 hours | 4 hours |
+| Smart Sending | **off** | **on, every message** |
+| Discounts | 10% / 10% / 15% across #3–5 | **one offer, final email only** |
+| A/B test | inert, 2 years | remove |
 
-The Welcome Series on the same list does 32.4% open and $0.60 per recipient, which is the
-realistic ceiling to aim at. A working abandoned cart flow typically outperforms a welcome
-series on revenue per recipient, because the intent is higher — so if this lands anywhere
-near $0.60, it is worth roughly **$3,700 a year** on the same 6,187 sends the old flow was
-already making, against $166 today.
+### Sequence
 
-Treat that as an order-of-magnitude target, not a forecast. The honest floor is: anything
-above $0.10 per recipient triples current performance.
+| Step | Delay | Purpose | Discount |
+|---|---|---|---|
+| 1 | 4 hours | The reminder. Cart contents, one button. | none |
+| 2 | +20 hours (24h) | Objection handling — sizing, shipping, returns. | none |
+| 3 | +48 hours (72h) | Last call. | one offer, 48h expiry |
+
+Copy for all three is in [`abandoned-cart-v2-copy.md`](abandoned-cart-v2-copy.md), carried
+over from the previous draft — that part still stands, since it was never dependent on the
+trigger diagnosis.
+
+### Add during recovery only
+
+While reputation recovers, add a profile filter: **has opened an email in the last 180 days
+OR profile created in the last 30 days.** Remove it once bounce holds under 2% for 30 days.
+
+This is a tourniquet, not a fix. The fix is #5 above.
+
+---
+
+## Relaunch gate
+
+1. [ ] Shopify checkout bot/junk traffic investigated — the 38% bounce has a known cause
+2. [ ] Smart Sending confirmed ON for all three messages
+3. [ ] A/B test action removed
+4. [ ] Preview against a real recent `Checkout Started` event — cart block renders products
+5. [ ] Soft launch, watch 72 hours, **bounce must come in under 2%**
+
+If bounce is still high after the rebuild, that confirms #5: the addresses are bad at
+source and the flow is only the messenger.
+
+## Expected value
+
+Old flow: $166.07 from 6,187 sends — $0.031 per recipient.
+Welcome Series on the same list: $0.60 per recipient.
+
+Reaching even $0.10 per recipient triples current performance. Cutting from 5 sends to 3
+also cuts volume ~40%, so the reputation cost falls even if revenue only holds flat.

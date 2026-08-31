@@ -129,21 +129,31 @@ Series' 32.4% on an overlapping audience.
 A bounce rate this high risks account throttling and suppresses inbox placement for every
 other email, including the Welcome Series that actually works.
 
-**Action:** pause the flow (owner, 2026-08-31 — Klaviyo → Flows → set `RsULBu` to Draft).
-Replacement designed: [`klaviyo/abandoned-cart-v2.md`](klaviyo/abandoned-cart-v2.md) — full
-build spec with trigger, filters, timing, all three emails and a five-point relaunch gate.
+**Diagnosis corrected 2026-08-31 by reading the flow config.** The earlier claim — that the
+flow triggered on Added to Cart and lacked a purchaser exclusion — was **wrong**. It already
+triggers on `Checkout Started` (`RWsZMn`) and already filters `Placed Order` = 0 since flow
+start. Trigger and audience logic are fine.
 
-Core fix is the trigger: `Checkout Started` instead of `Added to Cart`. Added to Cart fires
-on any session touching the cart, including bots, and resolves to whatever profile it can —
-which is the most likely source of the 38.65% bounce. Checkout Started only fires after a
-human types an email into checkout.
+The real problems:
+1. **Smart Sending is OFF on all six messages** — no guard against over-mailing. One flag each.
+2. **Five emails over eight days.** Emails 2–5 open at 4.6–5.6% and click at 0.0–0.3%;
+   email #2 recorded **zero clicks in twelve months**.
+3. **Discount ladder 10% → 10% → 15%** across emails 3–5, which trains repeat abandonment.
+4. **An A/B test created 2024-09-11 has never run** — both variations show zero sends in
+   12 months while the control took all 1,798.
+5. **The 38.65% bounce is upstream, in Shopify.** Email #1 bounces at 38.65%, emails #2–5 at
+   1.6–2.9% — the signature of a first send hitting invalid addresses that then get
+   suppressed. Since the trigger is `Checkout Started`, every one of those was typed into
+   the Shopify checkout. **That is bot or junk checkout traffic and no Klaviyo change fixes
+   it.** Needs Shopify-side investigation: bot protection at checkout, and whether the bad
+   checkouts share IP ranges, disposable email domains, or zero-value carts.
 
-Diagnosis is inferred from metrics, not read off the flow config. Confirm the current trigger
-when opening the flow; if it already says Checkout Started, the fault is in the audience
-filters and we should re-diagnose before rebuilding.
+**Action:** pause the flow (owner, Klaviyo → Flows → `RsULBu` → Draft), then investigate #5
+on the Shopify side. Rebuild spec: [`klaviyo/abandoned-cart-v2.md`](klaviyo/abandoned-cart-v2.md)
+(structure) and [`klaviyo/abandoned-cart-v2-copy.md`](klaviyo/abandoned-cart-v2-copy.md) (copy).
 
-**Blocked on:** owner builds it in Klaviyo. The agent cannot — the Klaviyo MCP connection
-dropped after the audit, and building flows would need approval regardless.
+**Blocked on:** owner builds it in Klaviyo, or authorises the agent to create it as a draft
+flow via the API.
 
 ## K2. No authenticated sending domain 🟠 HIGH
 
