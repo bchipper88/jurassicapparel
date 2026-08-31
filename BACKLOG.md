@@ -156,48 +156,28 @@ Klaviyo emits 3–4 CNAMEs; add them wherever the domain's DNS lives (likely Sho
 Settings → Domains). Then add a DMARC TXT record at `_dmarc.jurassicapparel.com`, starting
 at `p=none` to monitor before tightening.
 
-**DNS is NOT hosted at Shopify — verified 2026-08-31.** Live nameservers for
-`jurassicapparel.com` are `ns-cloud-a1..a4.googledomains.com` (Google Cloud DNS). Shopify's
-would be `ns1/ns2.shopify.com`. Records added in Shopify's DNS editor will not take effect;
-the store works because the Google-hosted zone points an A record at Shopify (`23.227.38.68`)
-and `www` at `shops.myshopify.com`.
+**Shopify IS the DNS host — proven 2026-08-31.** A TXT record added in Shopify's DNS panel
+resolved publicly within minutes in both Google's and Cloudflare's resolvers. Shopify runs
+its DNS service on Google Cloud DNS, which is why the registry shows
+`ns-cloud-a1..a4.googledomains.com` — those *are* Shopify's default nameservers.
 
-Registration migrated from Google Domains to **Squarespace** (all domains moved by
-2024-07-10); Squarespace kept Google's nameservers for migrated domains, which is why the NS
-still reads `googledomains.com`. **The live zone is edited at Squarespace**
-(account.squarespace.com → Domains → DNS Settings), not Shopify and not Google.
+*Two earlier findings in this file were wrong and have been corrected: DNS is not in a
+customer-owned Google Cloud project, and it is not managed at Squarespace. NS records and
+SOA hostmasters identify infrastructure, not the control plane. Full detail and the
+verification method: [`docs/DNS.md`](docs/DNS.md).*
 
-Full zone inventory and rollback reference: [`docs/DNS.md`](docs/DNS.md).
+**Status:** the `klaviyo-site-verification=XJSW3M` TXT at `@` is **done and live**.
 
-**Add all Klaviyo records in Google Cloud DNS** (console.cloud.google.com → Network Services
-→ Cloud DNS) — verified 2026-08-31 as the live DNS host via four independent sources
-including the `.com` registry's own delegation. Cloud DNS supports NS record sets, so no
-migration is needed.
+**Blocker:** the four NS records delegating `email` to `ns1..ns4.klaviyo.com` cannot be added
+— Shopify's DNS editor offers only A, AAAA, CNAME, MX, TXT, SRV. No NS type.
 
-Shopify's admin claims "Your store is using Shopify's default nameservers" — it is reporting
-its own config, not the live delegation, and is wrong. Neither Shopify's nor Squarespace's
-DNS editor exposes an NS type, but neither is the live host so it does not matter.
-
-Fallbacks if the Cloud DNS zone is inaccessible: ask Klaviyo support about the CNAME-based
-setup, or migrate DNS to Cloudflare per
-[`docs/DNS-MIGRATION-RUNBOOK.md`](docs/DNS-MIGRATION-RUNBOOK.md). This also resolves the
-blocker that Shopify's editor offers no NS record type (only A, AAAA, CNAME, MX, TXT, SRV) —
-Klaviyo's setup delegates the `email` subdomain via 4 NS records to `ns1..ns4.klaviyo.com`,
-plus a TXT `klaviyo-site-verification=XJSW3M` at `@`. Google Cloud DNS supports NS record
-sets. Fallback if that console is inaccessible: move the zone to Cloudflare (free, supports NS).
-
-**Current DNS state (2026-08-31):**
-- Registrar: Tucows Domains Inc. · registered 2019-10-12 · expires 2026-10-12
-- MX: Zoho (`mx.zoho.com`, `mx2`, `mx3`) — `john@jurassicapparel.com` is a Zoho mailbox
-- Root TXT: only `tiktok-developers-site-verification=...` — **no SPF record exists**
-- DMARC: `v=DMARC1; p=none` — present, no `rua=` so no reports are received, and no
-  `adkim`/`aspf` so alignment is relaxed (which is what the subdomain approach needs)
-- `email.jurassicapparel.com`: not delegated yet
-
-**Two unrelated fixes while in the DNS console:**
-1. Add an SPF record for Zoho. Get the exact include from Zoho's admin console — it varies by
-   datacenter — rather than assuming `include:zoho.com`.
-2. Add `rua=mailto:<address>` to the DMARC record so reports are actually received.
+Two ways through:
+1. **Ask Klaviyo support whether the CNAME-based sending domain setup is still available.**
+   Avoids touching DNS hosting. Try this first — it costs one support ticket.
+2. **Move DNS to Cloudflare** — [`docs/DNS-MIGRATION-RUNBOOK.md`](docs/DNS-MIGRATION-RUNBOOK.md).
+   The switch is Shopify's own **Change** button under Settings → Domains → Nameservers.
+   Registration does not move. ⚠️ Cloudflare proxies new records by default; the apex A,
+   apex AAAA and `www` must all be set to **DNS only** or Shopify's SSL breaks.
 
 **The From address does not change.** An email carries two sender identities: the *header
 From* the recipient sees, and the *Return-Path / DKIM domain* that SPF and DKIM check. The

@@ -13,33 +13,37 @@ work (`BACKLOG.md` K2).
 | Layer | Where | Note |
 |---|---|---|
 | Registrar | Tucows Domains Inc. | Registered 2019-10-12, expires **2026-10-12** |
-| Registration account | **Squarespace** | Migrated from Google Domains; all domains moved by 2024-07-10 |
-| Authoritative nameservers | `ns-cloud-a1..a4.googledomains.com` | **Google Cloud DNS** — zone SOA hostmaster is `cloud-dns-hostmaster.google.com` |
-| DNS zone editing | **Google Cloud Console** → Network Services → Cloud DNS | Where records are actually edited |
+| DNS host / control plane | **Shopify** | Shopify admin → Settings → Domains → DNS settings |
+| Nameservers | `ns-cloud-a1..a4.googledomains.com` | **Shopify runs its DNS service on Google Cloud DNS.** These *are* Shopify's default nameservers. |
 | Storefront | Shopify | A/AAAA at apex, CNAME on `www` |
 | Business email | Zoho | `john@jurassicapparel.com` |
 
-**Shopify is NOT the DNS host**, despite Shopify's admin panel claiming "Your store is using
-Shopify's default nameservers." That panel reports Shopify's own configuration and does not
-check the live registry delegation. Shopify holds an orphaned zone that nothing queries;
-records added there will not take effect.
+**Shopify's DNS panel is live and authoritative — edit records there.**
 
-**Registrar and DNS host are different things and were conflated twice during this work:**
-- **Squarespace** (registrar) — where you change *which* nameservers the domain uses
-- **Google Cloud DNS** (DNS host) — where you edit the *records*
+Proven empirically 2026-08-31: a `klaviyo-site-verification` TXT added in Shopify's panel
+resolved in both Google's and Cloudflare's public resolvers within minutes, and pre-existing
+Shopify-panel records (`_provider=shopify`, `google=google-site-verification=...`) resolve
+publicly too.
 
-### Verification (2026-08-31), four independent sources
+> **Correction, recorded so it is not repeated.** Earlier in this work the Google Cloud DNS
+> nameservers and the SOA hostmaster `cloud-dns-hostmaster.google.com` were read as evidence
+> that DNS lived in a customer-owned Google Cloud project, and that Shopify's zone was
+> orphaned. That was wrong on both counts — it is Shopify's own Cloud DNS infrastructure.
+> A resolver test against records only visible in the Shopify panel settles it; NS records
+> and SOA hostmasters do not identify the control plane.
 
-| Source | Result |
-|---|---|
-| `.com` registry via RDAP — the parent delegation | `NS-CLOUD-A1..A4.GOOGLEDOMAINS.COM` |
-| Google public resolver | same |
-| Cloudflare public resolver | same |
-| Zone SOA | `ns-cloud-a1.googledomains.com` / `cloud-dns-hostmaster.google.com` |
+### The real constraint
 
-RDAP is decisive — it reads the registry's own delegation rather than a resolver cache.
-Registry records the nameservers were **last changed 2025-09-28**, i.e. moved off Shopify
-about eleven months before this audit.
+Shopify is the DNS host **and** its editor exposes only A, AAAA, CNAME, MX, TXT and SRV —
+**no NS type** (inspected 2026-08-31). Klaviyo's sending-domain setup delegates
+`email.jurassicapparel.com` via four NS records, so it cannot be completed on Shopify DNS.
+
+Options:
+1. **Ask Klaviyo support whether the CNAME-based sending domain setup is still available.**
+   Avoids touching DNS hosting entirely. Cheapest — try first.
+2. **Move DNS to Cloudflare** per [`DNS-MIGRATION-RUNBOOK.md`](DNS-MIGRATION-RUNBOOK.md).
+   Shopify's own domain settings has a **Change** button beside "Shopify's Nameservers",
+   which is the switch. Registration stays where it is; only nameservers move.
 
 ## Current records (2026-08-31)
 

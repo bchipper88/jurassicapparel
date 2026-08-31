@@ -1,21 +1,23 @@
 # Runbook — move DNS to Cloudflare
 
-> **⚠️ THIS IS A FALLBACK, NOT THE PLAN.** Verified 2026-08-31 that the live DNS host is
-> **Google Cloud DNS**, which supports NS records natively. Add the Klaviyo records there
-> first — see [`DNS.md`](DNS.md). Only use this runbook if that Cloud DNS zone turns out to
-> be inaccessible.
+**Why:** Klaviyo's sending-domain setup requires **NS records** to delegate
+`email.jurassicapparel.com`. Shopify is the live DNS host (proven 2026-08-31 — see
+[`DNS.md`](DNS.md)) and its editor exposes no NS record type. So the delegation cannot be
+done on Shopify DNS.
 
-**Why this exists:** Klaviyo's sending-domain setup requires **NS records** to delegate
-`email.jurassicapparel.com`. Neither Shopify's nor Squarespace's DNS editor exposes an NS
-record type (both inspected by the owner). If the Google Cloud DNS zone cannot be reached,
-Cloudflare is the escape hatch — free, supports NS, and the zone is only 8 records.
+Try **Klaviyo support's CNAME-based setup first** — it avoids this migration entirely. Use
+this runbook if that is unavailable.
 
-**Scope:** nameserver change only. **The domain registration stays at Squarespace.** This is
-not a transfer; no auth code, no 60-day lock, no risk to ownership.
+**Scope:** nameserver change only. **The domain registration does not move.** This is not a
+transfer; no auth code, no 60-day lock, no risk to ownership.
+
+The switch is Shopify's own **Change** button, in Shopify admin → Settings → Domains →
+`jurassicapparel.com` → Nameservers ("Your store is using Shopify's default nameservers").
 
 **Time:** ~20 minutes of work, plus propagation.
-**Rollback:** set the nameservers back to `ns-cloud-a1..a4.googledomains.com` at Squarespace.
-The Squarespace zone is not deleted by this, so rollback restores the previous state.
+**Rollback:** in the same Shopify screen, switch back to Shopify's default nameservers.
+Shopify does not delete its zone when you point away, so rollback restores the previous
+state — but re-verify the records afterwards rather than assuming.
 
 ---
 
@@ -84,12 +86,16 @@ Plus the new Klaviyo records — add them now, so they go live with the switch:
 **Do not enable Cloudflare DNSSEC yet.** Turn it on only after everything resolves cleanly;
 a DNSSEC mismatch during a nameserver change is painful to debug.
 
-## Step 4 — Switch the nameservers at Squarespace
+## Step 4 — Switch the nameservers
 
 Cloudflare gives you two nameservers (e.g. `xxx.ns.cloudflare.com`, `yyy.ns.cloudflare.com`).
 
-Squarespace → Domains → `jurassicapparel.com` → **Nameservers** → use custom nameservers →
-replace all four `ns-cloud-*.googledomains.com` entries with Cloudflare's two → save.
+Shopify admin → Settings → Domains → `jurassicapparel.com` → **Nameservers** → **Change** →
+switch from Shopify's default nameservers to Cloudflare's two → save.
+
+**After this, Shopify's DNS panel stops being authoritative** and every record lives in
+Cloudflare. That is the intended outcome, but it means any future DNS change goes to
+Cloudflare, not Shopify.
 
 Registry propagation is usually well under an hour but can take up to 48. During the window
 some resolvers answer from Google and some from Cloudflare — which is harmless **as long as
