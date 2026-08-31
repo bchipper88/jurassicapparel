@@ -129,9 +129,21 @@ Series' 32.4% on an overlapping audience.
 A bounce rate this high risks account throttling and suppresses inbox placement for every
 other email, including the Welcome Series that actually works.
 
-**Action:** pause the flow. Check the trigger (likely Added to Cart rather than Checkout
-Started), add a purchaser exclusion, and find where `SbKzEd`'s recipients come from.
-Relaunch under 2% bounce.
+**Action:** pause the flow (owner, 2026-08-31 — Klaviyo → Flows → set `RsULBu` to Draft).
+Replacement designed: [`klaviyo/abandoned-cart-v2.md`](klaviyo/abandoned-cart-v2.md) — full
+build spec with trigger, filters, timing, all three emails and a five-point relaunch gate.
+
+Core fix is the trigger: `Checkout Started` instead of `Added to Cart`. Added to Cart fires
+on any session touching the cart, including bots, and resolves to whatever profile it can —
+which is the most likely source of the 38.65% bounce. Checkout Started only fires after a
+human types an email into checkout.
+
+Diagnosis is inferred from metrics, not read off the flow config. Confirm the current trigger
+when opening the flow; if it already says Checkout Started, the fault is in the audience
+filters and we should re-diagnose before rebuilding.
+
+**Blocked on:** owner builds it in Klaviyo. The agent cannot — the Klaviyo MCP connection
+dropped after the audit, and building flows would need approval regardless.
 
 ## K2. No authenticated sending domain 🟠 HIGH
 
