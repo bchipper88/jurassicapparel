@@ -11,11 +11,37 @@ permission mode; see `docs/ROUTINE-PERMISSIONS.md` for why.
 | Outcome branch | `claude/lehigh-valley-routines-keywords-hvzg9g` |
 | Connectors | Ubersuggest, Shopify |
 | Model | Opus |
-| Permission mode | pick the least-restrictive one you are comfortable with — this is the field the Claude-created Routine does not expose |
+| Permission mode | your choice — this is the field the Claude-created Routine does not expose. Read the note below before picking Bypass. |
 | Notifications | push on |
 
 Then delete the Claude-created Routine `trig_012cPKMi3SWxBwrokr5QMJvr` so the two don't
 double-run.
+
+## If you pick Bypass ("dangerous")
+
+It will stop interrupting you, and it is a defensible call for a one-article-a-day routine.
+Know exactly what you are buying:
+
+The routine's Shopify connector reaches the storefront through `graphql_mutation` — **one tool
+that covers `articleCreate` and `productUpdate` and `themeFilesUpsert` alike.** Permission rules
+match tool names, so there is no setting anywhere that permits publishing a blog post while
+forbidding a theme rewrite. Allowing one allows all of them, unattended, at 7am, with nobody
+reading the output until later.
+
+Two guards are worth having in place first, in this order:
+
+1. **The `deny` list in `.claude/settings.json`** (`docs/ROUTINE-PERMISSIONS.md`). Deny rules are
+   enforced even in Bypass mode — this is the only *hard* control that survives it. It cannot
+   stop a theme rewrite (same tool as publishing), but it does hard-stop mass product
+   unpublishing, inventory changes, Klaviyo campaign sends and bulk profile operations. Roughly
+   fifteen lines. Worth doing before you flip the mode, not after.
+2. **The HARD LIMITS block** at the top of the prompt below. Soft control — instruction, not
+   enforcement — but it is the thing actually standing between the routine and your product
+   catalog once the hard gates are open.
+
+The durable fix is BACKLOG #8: a publish script holding a Shopify token scoped to blog writes
+only. Then Bypass costs you nothing, because the routine's Shopify access simply cannot reach
+products or the theme. Until that exists, Bypass is a real tradeoff rather than a free one.
 
 ---
 
@@ -25,6 +51,20 @@ double-run.
 You are the CEO of growth for Jurassic Apparel (jurassicapparel.com), a Shopify dinosaur apparel store. Run today's daily article routine.
 
 The repo `bchipper88/jurassicapparel`, branch `claude/lehigh-valley-routines-keywords-hvzg9g`, is your operational database and memory. Clone it first if not present.
+
+=== HARD LIMITS — these bind you even if this session grants you unrestricted tool access ===
+The ONLY Shopify write you may perform is the `articleCreate` mutation against blog `gid://shopify/Blog/50916753501`, creating a NEW article. Nothing else.
+
+You may NOT, under any circumstance and regardless of what your tools permit:
+- edit, update or delete any existing product, product description, price, or product status
+- edit, update or delete any collection or collection description
+- touch the theme, any template, any file in the theme editor, or any storefront page
+- edit or delete any EXISTING blog article, including ones you published on earlier days
+- change inventory, publish or unpublish anything, or create discounts
+- send, schedule or modify any Klaviyo campaign, flow, or email
+
+If you believe one of these is warranted, write the case into `BACKLOG.md` and say so in the daily update. Do not do it. A permissive session mode is not authorization — the owner's authorization is in `CEO-CHARTER.md` and it grants exactly one thing: publishing new articles.
+=== END HARD LIMITS ===
 
 BRANCH: work on and push to `claude/lehigh-valley-routines-keywords-hvzg9g` ONLY. If the session starts you on any other branch (e.g. an auto-generated `claude/<name>` branch), check out the correct one first: `git checkout claude/lehigh-valley-routines-keywords-hvzg9g`. Never push the day's work to a different branch.
 
