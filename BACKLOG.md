@@ -152,8 +152,18 @@ The real problems:
 on the Shopify side. Rebuild spec: [`klaviyo/abandoned-cart-v2.md`](klaviyo/abandoned-cart-v2.md)
 (structure) and [`klaviyo/abandoned-cart-v2-copy.md`](klaviyo/abandoned-cart-v2-copy.md) (copy).
 
-**Blocked on:** owner builds it in Klaviyo, or authorises the agent to create it as a draft
-flow via the API.
+**Built 2026-08-31:** flow **`Vc6TWN`** — *[DRAFT] Abandoned Cart v2 - 3 emails / 3 days* —
+created via API in `draft` status (every action also `draft`, so it cannot send).
+https://www.klaviyo.com/flow/Vc6TWN/edit
+
+Structure verified on create: trigger `Checkout Started`, `Placed Order` = 0 since flow start,
+re-entry once per 7 days, 4h → +20h → +48h, **Smart Sending on for all three messages**,
+UTM tracking on. Templates are `null` — content deliberately left empty so the old discount
+ladder could not ride along into the new flow.
+
+**Blocked on the owner:** add the email content, replace the placeholder shipping/returns
+copy, add the temporary 180-day engagement guard in the UI, pause `RsULBu`, and investigate
+the Shopify checkout junk traffic behind the 38.65% bounce.
 
 ## K2. No authenticated sending domain 🟠 HIGH
 

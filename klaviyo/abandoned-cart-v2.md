@@ -1,9 +1,47 @@
 ---
-status: DRAFT — not built, not live
+status: BUILT AS DRAFT in Klaviyo — not live, no content yet
 written: 2026-08-31
 supersedes: the 2026-08-30 version of this file, whose core diagnosis was wrong
-target: flow RsULBu "Abandoned Cart Reminder (Email)"
+replaces: flow RsULBu "Abandoned Cart Reminder (Email)"
+built_flow_id: Vc6TWN
+built_at: 2026-08-31T00:54:32Z
 ---
+
+## Built
+
+Flow **`Vc6TWN`** — *[DRAFT] Abandoned Cart v2 - 3 emails / 3 days*
+→ https://www.klaviyo.com/flow/Vc6TWN/edit
+
+Created via API 2026-08-31, **status `draft`**, every action `draft`. It cannot send.
+
+Verified in the create response:
+
+| | |
+|---|---|
+| Trigger | `Checkout Started` (`RWsZMn`) |
+| Profile filter | `Placed Order` = 0 since flow start (`YzLKy5`) **+** not in this flow in last 7 days |
+| Re-entry | once per 7 days |
+| Timing | 4h → +20h → +48h (72h total) |
+| Smart Sending | **on, all three messages** |
+| UTM tracking | on |
+| Templates | **`null` on all three — no content yet** |
+
+Message IDs: `WYwMth` (1 of 3), `QYe6jd` (2 of 3), `Uz5Rkb` (3 of 3).
+
+### Still to do before it can go live
+
+1. **Add email content.** All three messages have subject and preview text but no template.
+   Copy is in [`abandoned-cart-v2-copy.md`](abandoned-cart-v2-copy.md). Left empty
+   deliberately — reusing the old templates would have carried the 10/10/15 discount ladder
+   into the new flow, where it could be published by accident.
+2. **Replace the placeholder shipping and returns lines** in email 2 with the real policy.
+3. **Add the temporary engagement guard** (opened in last 180 days OR profile created in
+   last 30 days). Not built via API — the property name for profile creation date was
+   uncertain and a wrong guess would have silently filtered everyone. Add it in the UI.
+4. **Pause the old flow `RsULBu`.**
+5. **Investigate the Shopify checkout junk traffic** — the 38.65% bounce. This flow does not
+   fix it.
+6. Then work the relaunch gate at the bottom of this file.
 
 # Abandoned Cart v2 — build spec
 
