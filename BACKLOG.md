@@ -92,26 +92,56 @@ the first rewrite batch once #4 is approved.
 `dinosaur-posters`, `dinosaur-stickers`, `toys`). If not, say so and the terms get
 permanently marked ⏭️ Skip so we stop re-surfacing them.
 
-## 7. Daily Routine fires without Ubersuggest/Shopify connectors 🟡 MEDIUM — infrastructure
+## 7. Daily Routine stalls on permission prompts 🔴 HIGH — infrastructure
 
-The daily article Routine (`trig_012cPKMi3SWxBwrokr5QMJvr`, 11:00 UTC / 7am EDT) was
-created from a Claude Code session, and triggers created that way **cannot carry MCP
-connectors** on this account — the `connectors` parameter is rejected with
-*"not available for this organization."*
+**Corrected 2026-08-31.** The earlier version of this item said the Routine had no MCP
+connectors because it was created through the API. That was wrong — I asserted it without
+reading the trigger back. Reading `trig_012cPKMi3SWxBwrokr5QMJvr` shows Ubersuggest and
+Shopify **are both attached** under `mcp_connections`. Klaviyo is not, and does not need
+to be for this routine.
 
-**Consequence:** the daily session can read and write this repo and push to GitHub, but it
-cannot call Ubersuggest for fresh keyword data or Shopify to verify inventory. It falls
-back to the figures cached in `KEYWORDS.md` / `data/keywords.json` (2026-08-30 pull) and
-the collection map in `data/catalog.json`, and it is instructed to say so in the update
-rather than invent numbers.
+The real defect is permissions. The Routine fired 2026-08-31 at 11:44 UTC (7:44am EDT) and
+produced **nothing** — no `updates/2026-08-31.md`, no article, no commit. Each firing
+spawns a fresh session in the **default permission mode**, which prompts before every Bash
+command and MCP call. The first action is `git clone`. That prompt has no one to answer it
+at 7am, so the session hangs until the container is reclaimed.
 
-**Fix (owner, ~2 minutes):** recreate or edit this Routine from the **claude.ai Routines
-UI**, where Ubersuggest and Shopify can be attached as connectors. Same prompt, same
-schedule. Then delete the API-created one so it doesn't double-run.
+Being listed in the trigger's `allowed_tools` makes a tool *available*, not *pre-approved*.
+Those are separate gates, and only the second one matters here.
 
-Until then the cached data is good for roughly a month of queue items — every entry in
-`KEYWORDS.md` already carries verified volume, difficulty, CPC and intent. After that the
-numbers go stale and the queue needs a manual refresh from a session like this one.
+**Also found:** the trigger's outcome branch is `claude/wizardly-clarke` — an auto-generated
+name, not `claude/lehigh-valley-routines-keywords-hvzg9g`. Work could land on the wrong
+branch once the routine actually runs.
+
+**Fix (owner) — both parts are required:**
+
+1. **claude.ai → Routines → "Jurassic Apparel — daily article":** set a permission mode that
+   does not block on approval prompts, and set the outcome branch to
+   `claude/lehigh-valley-routines-keywords-hvzg9g`.
+2. **Create `.claude/settings.json` by hand** from the JSON in `docs/ROUTINE-PERMISSIONS.md`.
+   The agent cannot write this file itself — Claude Code's classifier refuses to let an agent
+   author its own permissions file, which is the correct guardrail and should not be
+   circumvented.
+
+**Known remaining gap after both fixes:** `articleCreate` runs through
+`mcp__Shopify__graphql_mutation`, a tool name that covers every Shopify mutation including
+product, collection and theme writes. Permission rules match tool names and cannot be scoped
+to one mutation, so it stays in `ask` — the routine will draft and commit unattended but the
+live publish will still wait for approval. See item #8 for the fix.
+
+Full write-up: `docs/ROUTINE-PERMISSIONS.md`.
+
+## 8. Publishing needs a narrow path that isn't `graphql_mutation` 🟡 MEDIUM
+
+Same-day publishing is granted by the charter but cannot be automated safely today, because
+the only tool that can create an article is also the tool that can rewrite the storefront.
+
+**Fix:** `scripts/publish-article.py`, using a Shopify Admin API token scoped to blog article
+write only, allowlisted as `Bash(python3 scripts/publish-article.py *)`. Strictly narrower
+than allowlisting `graphql_mutation`, and it restores unattended same-day publishing.
+
+Needs: a custom app in Shopify admin with `write_content` scope, the token in the Routine's
+environment variables, and the script. Not built.
 
 ---
 
