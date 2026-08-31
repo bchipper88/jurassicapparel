@@ -337,3 +337,51 @@ product imagery in cart/browse emails.
 ~1,300 subscribers. The Email Popup has not been edited since 10 Sept 2024 and has no A/B
 test. A "Black Friday deals" form has been in **draft since 11 Sept 2024** — two Black
 Fridays have passed.
+
+---
+
+# Unit economics — added 2026-08-31
+
+## 9. No cost of goods recorded on any variant 🔴 HIGH — blocks all profit reporting
+
+`inventoryItem.unitCost` is **null on every product variant** — checked 100+ across sneakers,
+stickers, mugs, blankets and dog beds. Not one has a cost.
+
+**Consequence:** Shopify's native profit reports are blank, and the question "am I making
+money" cannot be answered from the store's own data. It had to be reconstructed by hand
+(`audits/2026-08-31-unit-economics.md`), and even then the answer is a range — roughly
+break-even to ~$5,400/yr — rather than a number.
+
+Print-on-demand makes this awkward: nine fulfilment apps are installed (Printful, Printify,
+Subliminator, Gooten, JetPrint, AOP+, Pillow Profits, teelaunch, DSers), each with its own cost
+sheet, and cost varies by size and print placement.
+
+**Fix:** set `unitCost` on the top ~20 sellers first — about an hour, and captures most of the
+value since the tail contributes little. Full catalog is an afternoon. After that Shopify
+reports gross profit per order natively, forever.
+
+Owner action — the agent cannot do this (product writes are gated by the charter).
+
+## 10. 30 apps installed; subscription cost unknown 🟠 HIGH
+
+`AppSubscription` is scoped to the querying app, so app spend is not readable through the API.
+It has to be read from **Settings → Billing**.
+
+At $1,323/month of revenue, every $130/month of app spend is 10% of the top line. Nine POD apps
+are installed but the store cannot plausibly be using all nine — each redundant one that
+carries a monthly fee is pure loss.
+
+**Fix (owner, ~10 minutes):** open Settings → Billing, total the monthly charges, and cancel
+any POD app not actively fulfilling orders. Record the total in
+`audits/2026-08-31-unit-economics.md` so the profit range collapses to a number.
+
+## 11. Returns are 8.9% of gross — $1,524.71/yr 🟠 HIGH
+
+Against a published policy of made-to-order, **ALL SALES FINAL**, replacement only for damage
+or misprint. On print-on-demand a return is a total loss: supplier paid, item shipped, customer
+refunded, product unresellable. Roughly **$840 of goods cost destroyed** on top of the refunded
+revenue.
+
+Either the policy is not being enforced, or there is a real quality/sizing problem generating
+genuine damage claims. **Read the actual refund reasons on the 12 months of returns** — this is
+the largest recoverable leak visible in the data.
