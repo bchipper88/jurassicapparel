@@ -156,6 +156,23 @@ Klaviyo emits 3–4 CNAMEs; add them wherever the domain's DNS lives (likely Sho
 Settings → Domains). Then add a DMARC TXT record at `_dmarc.jurassicapparel.com`, starting
 at `p=none` to monitor before tightening.
 
+**The From address does not change.** An email carries two sender identities: the *header
+From* the recipient sees, and the *Return-Path / DKIM domain* that SPF and DKIM check. The
+sending subdomain only sets the second. Recipients still see
+`Jurassic Apparel <john@jurassicapparel.com>`.
+
+This passes DMARC because alignment defaults to **relaxed**, which accepts any subdomain of
+the same organizational domain — `email.jurassicapparel.com` aligns with
+`jurassicapparel.com`. **Do not set strict alignment** (`adkim=s` / `aspf=s`); that is the
+one setting that would break it.
+
+Adding these CNAMEs does not touch the root domain's MX records, so mail to
+john@jurassicapparel.com keeps arriving exactly as now, and replies still route via Reply-To.
+
+Use a subdomain rather than the root deliberately: it isolates marketing sender reputation
+from business email, so a bad campaign cannot damage supplier and customer correspondence.
+Prefer `email.` or `send.` over `mail.`, which is likelier to collide with an existing record.
+
 **Downgraded from URGENT to HIGH on 2026-08-30.** The strict Google/Yahoo SPF+DKIM+DMARC
 mandate binds senders at 5,000+ messages/day; at ~1,300 subscribers we are well under it,
 so this is an optimization rather than a compliance problem. K1 is the real emergency.
