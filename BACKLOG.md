@@ -158,12 +158,20 @@ https://www.klaviyo.com/flow/Vc6TWN/edit
 
 Structure verified: trigger `Checkout Started`, `Placed Order` = 0 since flow start, re-entry
 once per 7 days, 4h → +20h → +48h, **Smart Sending on for all three messages**, UTM tracking
-on. **All three emails are built and attached** (`XLNAJb`, `SYwYEQ`, `T39eRH`) — hand-coded
-responsive HTML using the account's real brand logo and stored ink colour.
+on. **All three emails now use the store's own design** — clones of the original templates
+(`SCtH98`, `TaRvqm`, `X4dhEn`), attached as `SWKuvf`, `SCet7F`, `Yi28Sb`, all
+`SYSTEM_DRAGGABLE` so they stay editable in the visual editor.
 
-Email 2's objection copy is built on the **verified** Shopify refund policy: made-to-order,
-all sales final, damaged/misprinted replaced or refunded within 30 days. An earlier draft had
-invented a "send it back" returns line that contradicted the real policy — corrected.
+A first attempt hand-coded replacements without ever opening the originals. It was wrong:
+the Liquid used `item.image_url` / `item.title` / `item.line_price` instead of Klaviyo's
+Shopify syntax (`item.product.images.0.src|missing_product_image`, `item.product.title`,
+`currency_format`), so the carts would have rendered **empty**; it had no empty-cart guard;
+and `CODE` templates cannot be edited in the drag-and-drop editor. The originals also carry
+a branded header, category nav, hero image, social links and Outlook compatibility.
+
+Unverified claims written and then removed: *"adult pieces go 2XS to 6XL"* (true of one
+product; a sample of twelve adult products runs S–XL or S–2XL, none reach 6XL), *"sizes never
+sell out"* (contradicted by zero-inventory products), and *"a real person reads it"*.
 
 Two deliberate placeholders remain, both visually flagged in the emails: the shipping window
 in email 2 (the Shopify shipping policy body is **empty**, so nothing was invented) and the

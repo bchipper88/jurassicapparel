@@ -1,92 +1,71 @@
-# Abandoned Cart v2 — email content (BUILT)
+# Abandoned Cart v2 — email content (BUILT on the store's own design)
 
-All three templates are built in Klaviyo and attached to draft flow `Vc6TWN`.
-This file records what they say and why. Structure: [`abandoned-cart-v2.md`](abandoned-cart-v2.md).
+Attached to draft flow `Vc6TWN`. Structure: [`abandoned-cart-v2.md`](abandoned-cart-v2.md).
 
-| # | Library template | Attached copy | Message |
-|---|---|---|---|
-| 1 | `VGAs4Y` | `XLNAJb` | `WYwMth` |
-| 2 | `Xkm4V3` | `SYwYEQ` | `QYe6jd` |
-| 3 | `VR2sFX` | `T39eRH` | `Uz5Rkb` |
+| # | Source design | Clone | Attached | Message |
+|---|---|---|---|---|
+| 1 | `RyJx3A` (orig. Email #1) | `SCtH98` | `SWKuvf` | `WYwMth` |
+| 2 | `WemSB2` (orig. Email #2) | `TaRvqm` | `SCet7F` | `QYe6jd` |
+| 3 | `SU488n` (orig. Final) | `X4dhEn` | `Yi28Sb` | `Uz5Rkb` |
 
-Klaviyo clones a library template into a message-owned copy on attach. Edit the **attached**
-copy in the flow; the library version is the pristine source.
+All `SYSTEM_DRAGGABLE` — editable in Klaviyo's visual editor.
 
-## Design
+## Why these are clones of the originals
 
-Hand-coded HTML, 600px, table-based, mobile media queries, bulletproof buttons, preheader
-text, plain-text alternative, CAN-SPAM footer with the account's registered address, and
-`{% unsubscribe %}` on every email.
+A first attempt built three hand-coded `CODE` templates from scratch. That was wrong on
+three counts, and the originals were never even opened before replacing them:
 
-Palette: `#202223` ink (the account's own stored brand colour), `#EFEBE4` paper, `#24402F`
-deep green for buttons, `#C97B3F` amber reserved for the offer. The stored Klaviyo brand
-palette is auto-generated greys with no real brand colour, so the green and amber are a
-considered addition rather than something pulled from brand assets. The real brand logo is
-used, from Klaviyo's stored asset.
+1. **The Liquid was broken.** The rebuild used `{{ item.image_url }}`, `{{ item.title }}`,
+   `{{ item.line_price }}`. Klaviyo's Shopify cart syntax — which the originals use
+   correctly — is `{{ item.product.images.0.src|missing_product_image }}`,
+   `{{ item.product.title }}`, `{% currency_format item.line_price %}`. The rebuilt emails
+   would have rendered **empty product blocks**: exactly the failure being warned about.
+2. **No empty-cart guard.** The originals wrap the loop in `{% if event.extra.line_items %}`.
+3. **`CODE` templates are not editable in the drag-and-drop editor.** Swapping
+   `SYSTEM_DRAGGABLE` for `CODE` would have removed the owner's ability to edit their own
+   emails without touching HTML.
 
-## Cart block
+The originals also carry a branded header, a Men's/Women's/Boys/Girls nav bar, a full-width
+hero image, Facebook and Instagram links, and full Outlook/MSO compatibility — none of which
+the rebuild had.
 
-Renders from the `Checkout Started` event — **no catalog sync required** (K10 is only needed
-for recommendations):
+**Lesson recorded: look at the asset before deciding it needs replacing.** Poor flow
+performance was structural (five emails, Smart Sending off, bad addresses). It was not
+evidence the design was bad, and it was never evidence about the design at all.
 
-```liquid
-{% for item in event.extra.line_items %}
-  {{ item.image_url }} · {{ item.title }} · {{ item.variant_title }}
-  Qty {{ item.quantity }} · ${{ item.line_price|floatformat:2 }}
-{% endfor %}
-```
-Button target: `{{ event.extra.checkout_url }}`
+## Unverified claims that were written and removed
 
-⚠️ **Verify these against a live event preview before going live.** Shopify payload shapes
-vary by integration version, and a silently-empty product block is what produces a 0.2%
-click rate — which is what the old flow does.
+Both were invented, and both are false against the store's own data:
 
-## Email 1 — 4 hours · no discount
+- *"Our adult pieces go from 2XS all the way to 6XL."* Checked on **one** product (Realistic
+  Jurassic pajamas, genuinely 2XS–6XL) and generalised to the whole range. A sample of twelve
+  active adult products runs **S–XL or S–2XL**, a couple to 3XL. **None reach 6XL.**
+- *"which is why sizes never sell out."* Invented. Contradicted by zero-inventory products
+  across the catalog.
+- *"A real person reads it."* A promise about customer service with no basis. Needs the
+  owner's confirmation before it appears anywhere.
 
-**You left a dinosaur behind** / *Still in your cart, still waiting.*
+Also corrected earlier: an invented *"send it back"* returns line. The real policy is
+made-to-order, **all sales final**, with replacement or refund for damaged or misprinted
+items within 30 days.
 
-Short. Cart, one button, and an offer to reply with questions. Most abandons are
-interruptions, and a plain reminder converts them without costing margin.
+## Copy edits still to make, in the visual editor
 
-## Email 2 — 24 hours · no discount
+**Email 1** — original copy ("Thanks for stomping by!") is fine as-is. No discount. Ready.
 
-**Still thinking it over?** / *Sizing, how it is made, and what happens if it arrives wrong.*
+**Email 2** — currently the original "Our dinosaurs are sad" copy, which recorded **zero
+clicks in twelve months**. Replace with objection handling built only on verified facts:
+made-to-order (so nothing sells out of stock), all sales final, damaged/misprinted replaced
+or refunded within 30 days. **Do not restate a size range** — it varies by product. Leave
+shipping timing out entirely, or add the real window; the Shopify shipping policy body is
+empty so there is no verified figure.
 
-Three objection blocks, all built on **verified** facts:
+**Email 3** — currently the original 15%-off design. **Lower 15% to 10% or below.** The old
+flow laddered 10/10/15 across three emails, which teaches repeat customers to abandon
+deliberately. Use a Klaviyo coupon backed by a Shopify discount so codes are unique per
+recipient; a static code leaks to coupon sites.
 
-1. **Sizing runs 2XS–6XL** — confirmed against the Realistic Jurassic pajamas product.
-2. **Everything is made to order** — from the live Shopify refund policy. Framed as the
-   upside (nothing sells out) while stating plainly that it means all sales are final.
-3. **Damaged or misprinted gets replaced or refunded within 30 days** — from the same policy,
-   including "do not send it back to the manufacturer."
+## Superseded templates, safe to delete
 
-> **This corrects a real error.** The earlier draft of this file invented a returns line
-> reading *"Send it back. We'd rather you have the right one."* Their actual policy is
-> **all sales are final** because everything is made to order. That invented copy would have
-> promised customers something the business does not offer. Always pull the policy.
-
-**One placeholder remains, and it is deliberate:** an amber dashed box marked
-**REPLACE OR DELETE THIS BOX BEFORE GOING LIVE** where shipping timing belongs. The Shopify
-shipping policy body is **empty**, so there was no real delivery window to quote and none was
-invented. It is styled to be impossible to miss.
-
-## Email 3 — 72 hours · one offer
-
-**Last call on your cart** / *Then we will stop bothering you.*
-
-Explicitly the final email, which earns the right to ask once. Ends by releasing the
-customer — no manufactured urgency.
-
-**Placeholder:** the code renders as `COUPONCODE` with an amber box beneath explaining the
-swap. A Klaviyo coupon backed by a matching Shopify discount is needed, then the dynamic tag
-so each recipient gets a unique code — a static code leaks to coupon sites. The discount
-percentage is a commercial decision, so none was set; the spec recommends **10% or below**,
-since the old flow laddered 10/10/15 and taught repeat customers to abandon deliberately.
-
-## The two remaining placeholders
-
-Both are commercial or factual gaps only the owner can fill, both are visually unmissable,
-and neither was papered over with invented text:
-
-1. Email 2 — shipping/delivery window (Shopify shipping policy is empty)
-2. Email 3 — coupon code and discount percentage
+The abandoned hand-coded attempt: `VGAs4Y`, `Xkm4V3`, `VR2sFX` (library) and `XLNAJb`,
+`SYwYEQ`, `T39eRH` (message copies). Not referenced by any flow.
