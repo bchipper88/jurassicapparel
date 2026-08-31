@@ -133,11 +133,27 @@ other email, including the Welcome Series that actually works.
 Started), add a purchaser exclusion, and find where `SbKzEd`'s recipients come from.
 Relaunch under 2% bounce.
 
-## K2. No authenticated sending domain 🔴 URGENT
+## K2. No authenticated sending domain 🟠 HIGH
 
 `get_sending_domains` is empty — all mail goes out on Klaviyo's shared infrastructure with
-no DKIM/SPF on `jurassicapparel.com`. Caps inbox placement under the 2024 Google/Yahoo
-bulk-sender rules. One-time DNS job, highest-leverage deliverability fix available.
+no DKIM/SPF on `jurassicapparel.com`. Reputation is pooled with every other sender on that
+shared resource, and Gmail shows a "via klaviyomail.com" line under the sender name.
+
+**Setup:** Klaviyo → Settings → Domains → add a sending subdomain (`email.jurassicapparel.com`).
+Klaviyo emits 3–4 CNAMEs; add them wherever the domain's DNS lives (likely Shopify admin →
+Settings → Domains). Then add a DMARC TXT record at `_dmarc.jurassicapparel.com`, starting
+at `p=none` to monitor before tightening.
+
+**Downgraded from URGENT to HIGH on 2026-08-30.** The strict Google/Yahoo SPF+DKIM+DMARC
+mandate binds senders at 5,000+ messages/day; at ~1,300 subscribers we are well under it,
+so this is an optimization rather than a compliance problem. K1 is the real emergency.
+
+**Sequencing — this matters.** A new sending domain starts with zero reputation, and the
+first sends on it set how mailbox providers judge us. Do NOT authenticate and then mail the
+full list: that burns a fresh domain on the same dead addresses bouncing today.
+
+Correct order: **fix K1 → clean the list (K3) → authenticate → send to the engaged segment
+first**, ramping volume over ~2 weeks. Doing it backwards wastes the exercise.
 
 ## K3. No suppression on any campaign 🔴 HIGH
 
