@@ -156,6 +156,31 @@ Klaviyo emits 3–4 CNAMEs; add them wherever the domain's DNS lives (likely Sho
 Settings → Domains). Then add a DMARC TXT record at `_dmarc.jurassicapparel.com`, starting
 at `p=none` to monitor before tightening.
 
+**DNS is NOT hosted at Shopify — verified 2026-08-31.** Live nameservers for
+`jurassicapparel.com` are `ns-cloud-a1..a4.googledomains.com` (Google Cloud DNS). Shopify's
+would be `ns1/ns2.shopify.com`. Records added in Shopify's DNS editor will not take effect;
+the store works because the Google-hosted zone points an A record at Shopify (`23.227.38.68`)
+and `www` at `shops.myshopify.com`.
+
+**Add all Klaviyo records in the Google DNS console, not Shopify.** This also resolves the
+blocker that Shopify's editor offers no NS record type (only A, AAAA, CNAME, MX, TXT, SRV) —
+Klaviyo's setup delegates the `email` subdomain via 4 NS records to `ns1..ns4.klaviyo.com`,
+plus a TXT `klaviyo-site-verification=XJSW3M` at `@`. Google Cloud DNS supports NS record
+sets. Fallback if that console is inaccessible: move the zone to Cloudflare (free, supports NS).
+
+**Current DNS state (2026-08-31):**
+- Registrar: Tucows Domains Inc. · registered 2019-10-12 · expires 2026-10-12
+- MX: Zoho (`mx.zoho.com`, `mx2`, `mx3`) — `john@jurassicapparel.com` is a Zoho mailbox
+- Root TXT: only `tiktok-developers-site-verification=...` — **no SPF record exists**
+- DMARC: `v=DMARC1; p=none` — present, no `rua=` so no reports are received, and no
+  `adkim`/`aspf` so alignment is relaxed (which is what the subdomain approach needs)
+- `email.jurassicapparel.com`: not delegated yet
+
+**Two unrelated fixes while in the DNS console:**
+1. Add an SPF record for Zoho. Get the exact include from Zoho's admin console — it varies by
+   datacenter — rather than assuming `include:zoho.com`.
+2. Add `rua=mailto:<address>` to the DMARC record so reports are actually received.
+
 **The From address does not change.** An email carries two sender identities: the *header
 From* the recipient sees, and the *Return-Path / DKIM domain* that SPF and DKIM check. The
 sending subdomain only sets the second. Recipients still see
