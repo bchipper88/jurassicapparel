@@ -113,15 +113,25 @@ Those are separate gates, and only the second one matters here.
 name, not `claude/lehigh-valley-routines-keywords-hvzg9g`. Work could land on the wrong
 branch once the routine actually runs.
 
-**Fix (owner) — both parts are required:**
+**Corrected again, same day, after the owner opened the Permissions tab.** It reads:
 
-1. **claude.ai → Routines → "Jurassic Apparel — daily article":** set a permission mode that
-   does not block on approval prompts, and set the outcome branch to
-   `claude/lehigh-valley-routines-keywords-hvzg9g`.
-2. **Create `.claude/settings.json` by hand** from the JSON in `docs/ROUTINE-PERMISSIONS.md`.
-   The agent cannot write this file itself — Claude Code's classifier refuses to let an agent
-   author its own permissions file, which is the correct guardrail and should not be
-   circumvented.
+> ⓘ Claude created this routine, so it runs in Auto mode — connector calls are checked by a
+> classifier
+
+There is no mode selector. My previous instruction — "set a permission mode that doesn't block"
+— described a control that does not exist here. The mode is locked *because Claude created the
+Routine*, so it cannot be fixed by editing the Routine.
+
+Auto mode never prompts a human. MCP calls go to a classifier; a denial tells the agent to stop
+and ask the owner. At 7am nobody answers, and the run ends.
+
+**Fix (owner): create the Routine yourself** from claude.ai → Routines → New. A human-created
+Routine is not locked to Auto mode. Same schedule (`0 11 * * *`), same two connectors, outcome
+branch `claude/lehigh-valley-routines-keywords-hvzg9g`, same prompt. Then delete
+`trig_012cPKMi3SWxBwrokr5QMJvr` so they don't double-run.
+
+`.claude/settings.json` (`docs/ROUTINE-PERMISSIONS.md`) is worth adding as defense in depth but
+is **not** the fix — settings rules govern prompting, not the Auto-mode classifier.
 
 **Known remaining gap after both fixes:** `articleCreate` runs through
 `mcp__Shopify__graphql_mutation`, a tool name that covers every Shopify mutation including
