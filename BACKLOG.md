@@ -162,7 +162,14 @@ would be `ns1/ns2.shopify.com`. Records added in Shopify's DNS editor will not t
 the store works because the Google-hosted zone points an A record at Shopify (`23.227.38.68`)
 and `www` at `shops.myshopify.com`.
 
-**Add all Klaviyo records in the Google DNS console, not Shopify.** This also resolves the
+Registration migrated from Google Domains to **Squarespace** (all domains moved by
+2024-07-10); Squarespace kept Google's nameservers for migrated domains, which is why the NS
+still reads `googledomains.com`. **The live zone is edited at Squarespace**
+(account.squarespace.com → Domains → DNS Settings), not Shopify and not Google.
+
+Full zone inventory and rollback reference: [`docs/DNS.md`](docs/DNS.md).
+
+**Add all Klaviyo records in the Squarespace DNS panel, not Shopify.** This also resolves the
 blocker that Shopify's editor offers no NS record type (only A, AAAA, CNAME, MX, TXT, SRV) —
 Klaviyo's setup delegates the `email` subdomain via 4 NS records to `ns1..ns4.klaviyo.com`,
 plus a TXT `klaviyo-site-verification=XJSW3M` at `@`. Google Cloud DNS supports NS record
