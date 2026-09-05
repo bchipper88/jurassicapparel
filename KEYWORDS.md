@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pull: 2026-08-30.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -31,15 +31,26 @@ Ubersuggest figure that justified it.
   Secondary: `dinosaur onesie adult` (1,900/mo avg, 6,600 Oct, SD 25, Transactional).
   **LIVE:** https://jurassicapparel.com/blogs/blog/family-dinosaur-costume-ideas
 
+- ✅ Published (2026-09-05) **dinosaur hoodie** — 1,900/mo avg | **2,400/mo Oct–Dec** | SD 25
+  | $0.47 CPC | Transactional → `dinosaur-hoodie-buying-guide`
+  Day 2. Taken after the queued target failed verification (see ⏭️ Skipped). Chosen because
+  it is the only term checked that cleared all four gates at once: winnable (SD 25), ramping
+  into its season (1,900 → 2,400 Oct/Nov/Dec), backed by deep stocked inventory (57 hoodies),
+  and **not already covered by a live blog post**. Angle is the all-over-print vs graphic-print
+  distinction, which is a real purchasing decision nobody currently writes about.
+
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur onesie adult** — 1,900/mo avg | **6,600/mo Oct peak** | SD 25 | $0.50 CPC | Transactional
-  → `adult-dinosaur-onesie-guide`
-  The highest-intent term in the seasonal cluster and it points straight at the store's
-  #1 traffic page (*Realistic Jurassic Adult Dinosaur Pajamas*, 461 visits/mo). Dedicated
-  page rather than a section, because the intent is transactional and deserves its own URL.
+- 🎯 **dinosaur shoes** — 1,900/mo avg | **2,400/mo Nov–Dec** | SD 24 | $0.48 CPC | Transactional
+  → `dinosaur-shoes-buying-guide`
+  Verified 2026-09-05. Same profile as today's winner: winnable at DA 17, stocked deep
+  (`dinosaur-shoes-dinosaur-sneakers` 78, `dinosaur-high-tops` 29, kids 29, womens 51,
+  mens 30), ramping into Nov/Dec, and **no live blog post covers it** — checked against all
+  85 articles on the `blog` blog. High tops are $79.99, the highest-AOV category in the store.
+
+  *Before writing, confirm the shoes collections are not majority-DRAFT — see BACKLOG #13.*
 
 ---
 
@@ -47,8 +58,10 @@ Ubersuggest figure that justified it.
 
 Priority block. The whole cluster decays after October 31; everything here is date-bound.
 
-- 📋 **dinosaur onesie** — 3,600/mo | SD 26 | Commercial → `dinosaur-onesie`
-  Broader sibling of the adult term. Sequence after it so the adult page earns the internal link.
+- ⏭️ **dinosaur onesie** — 3,600/mo | **12,100/mo Oct peak** | SD 26 | Transactional
+  Skipped 2026-09-05 for the same reason as `dinosaur onesie adult` below: the store has no
+  one-piece adult garment. Re-queue the day an adult onesie/union suit exists — a 12,100/mo
+  October term at SD 26 is worth stocking for, and it is filed as BACKLOG #12.
 - 📋 **dinosaur pajamas adult** — 390/mo avg | **720/mo Dec peak** | SD 25 | $0.97 CPC | Transactional
   → `adult-dinosaur-pajamas`
   Note the different curve — this one peaks in **December**, not October. Schedule late Oct.
@@ -79,8 +92,14 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
   Same intent, **half the difficulty**. This is the one to actually target.
 - 📋 **adult dinosaur gifts** — 720/mo | SD 23 | $1.35 CPC | Commercial + Informational
   Gift-guide format. Highest CPC in the evergreen set — commercially valuable traffic.
-- 📋 **dinosaur gifts** — 1,600/mo | SD 21 | $1.10 CPC | Commercial
-  Head term of the gifting cluster, and SD 21 makes it genuinely winnable. Strong Nov/Dec play.
+- 🔁 **dinosaur gifts** — 1,600/mo | **4,400/mo Dec peak** | SD 21 | $1.10 CPC | Transactional
+  **Reclassified 2026-09-05 from 📋 Queued to 🔁 Rescue.** Not a new-content play: the blog
+  already carries **six published gift guides and six unpublished drafts** on this one intent
+  (BACKLOG #12). Writing a seventh would cannibalise, not compete. The work is consolidation —
+  pick one canonical URL, merge, 301 the rest. Gated, so it needs a brief.
+  Cluster if consolidated: `dinosaur gifts` 1,600 + `adult dinosaur gifts` 720 (SD 23, $1.35)
+  + `dinosaur gifts for adults` 720 (SD 24, $1.29) + `best dinosaur gifts` 210 (SD 16)
+  = ~3,250/mo avg, **~8,800/mo in December**.
 - 📋 dinosaur shirt for women — 480/mo | SD 36 | $0.97 CPC
 - 📋 ladies dinosaur shirt — 390/mo | SD 21 | $0.64 CPC — easier sibling of the above
 - 📋 hawaiian dinosaur shirt — 260/mo | SD 16 | $0.97 CPC — **lowest difficulty in the set**;
@@ -130,6 +149,16 @@ the work is a rewrite brief, not a new article. Ordered by volume ÷ difficulty.
 
 ## ⏭️ SKIPPED
 
+- ⏭️ **dinosaur onesie adult** — 1,900/mo | 6,600/mo Oct peak | SD 25 | $0.50 CPC | Transactional
+  **Skipped 2026-09-05 on inventory, not on the numbers** — the numbers re-verified exactly
+  (1,900/mo avg, SD 25, Oct 6,600). The queue entry assumed this term pointed at *Realistic
+  Jurassic - Adult Dinosaur Pajamas*, the store's highest-traffic page. It does not. That
+  product is **pajama pants** — "wide-leg pants… elastic waistband with a white drawstring,
+  practical side pockets." A search of every product titled *onesie*, *jumpsuit*, *kigurumi*,
+  *union suit*, *romper* or *one-piece* returns **no adult one-piece garment in the catalog**.
+  Writing a buying guide for a product we cannot sell is exactly what charter principle 2
+  forbids. Merchandising item filed as BACKLOG #12.
+
 - ⏭️ **dinosaur costume** — 27,100/mo | SD 28
   Volume is real but we don't stock costumes, and a DA-17 site will not take a 27k head
   term this season. Serving it honestly is a merchandising decision, not a content one.
@@ -145,3 +174,10 @@ the work is a rewrite brief, not a new article. Ordered by volume ÷ difficulty.
 - ⏭️ **dragon costume** — 8,100/mo | SD 24 · **adult dragon costume** — 2,400/mo
   High volume, low difficulty, and entirely off-brand. Dragons are not dinosaurs and the
   store sells no dragon products.
+
+- ⏭️ **dinosaur pajamas** — 1,600/mo | **2,900/mo Dec peak** | **SD 16** | **$1.27 CPC** | Transactional
+  Skipped 2026-09-05 on thin inventory. On paper this is the most attractive keyword found in
+  two days of research — the lowest difficulty and the highest CPC in the whole set. The store
+  has **three active pajama products** (two adult pajama-pant designs, one women's pajama
+  short), which will not carry a page against retailers showing dozens. Recorded here rather
+  than queued so the reasoning survives; revisit if the pajama range grows.

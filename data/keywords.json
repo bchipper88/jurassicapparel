@@ -1,298 +1,368 @@
 {
-  "_comment": "Machine-readable mirror of KEYWORDS.md. All figures Ubersuggest, locId 2840, pulled 2026-08-30. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-08-30",
-  "loc_id": 2840,
-  "published": [
+ "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
+ "pulled": "2026-09-05",
+ "loc_id": 2840,
+ "published": [
+  {
+   "keyword": "family dinosaur costume",
+   "volume": 1000,
+   "peak_volume": 5400,
+   "peak_month": "202610",
+   "sd": 28,
+   "cpc": 0.39,
+   "competition": 0.92,
+   "intent": "Commercial",
+   "slug": "family-dinosaur-costume-ideas",
+   "date": "2026-08-30",
+   "status": "published",
+   "live_url": "https://jurassicapparel.com/blogs/blog/family-dinosaur-costume-ideas",
+   "shopify_article_id": "gid://shopify/Article/580194828438"
+  },
+  {
+   "keyword": "dinosaur hoodie",
+   "volume": 1900,
+   "peak_volume": 2400,
+   "peak_month": "202610",
+   "sd": 25,
+   "cpc": 0.47,
+   "competition": 0.9,
+   "intent": "Transactional",
+   "slug": "dinosaur-hoodie-buying-guide",
+   "date": "2026-09-05",
+   "status": "draft",
+   "verified": "2026-09-05",
+   "note": "Taken after 'dinosaur onesie adult' failed the inventory check. 57 hoodies stocked; no live blog post covered the term."
+  }
+ ],
+ "next_up": [
+  {
+   "keyword": "dinosaur shoes",
+   "volume": 1900,
+   "peak_volume": 2400,
+   "peak_month": "202611",
+   "sd": 24,
+   "cpc": 0.48,
+   "competition": 0.91,
+   "intent": "Transactional",
+   "slug": "dinosaur-shoes-buying-guide",
+   "verified": "2026-09-05",
+   "note": "78 products in dinosaur-shoes-dinosaur-sneakers; no live blog coverage. Confirm collections are not majority-DRAFT first (BACKLOG #13)."
+  }
+ ],
+ "queued_seasonal": [
+  {
+   "keyword": "dinosaur pajamas adult",
+   "volume": 390,
+   "peak_volume": 720,
+   "peak_month": "202612",
+   "sd": 25,
+   "cpc": 0.97,
+   "intent": "Transactional"
+  },
+  {
+   "keyword": "dinosaur costume adult",
+   "volume": 3600,
+   "sd": 27,
+   "cpc": 0.37,
+   "note": "verify honest stock angle before writing"
+  },
+  {
+   "keyword": "dino mask",
+   "volume": 9900,
+   "sd": 30,
+   "cpc": 0.21,
+   "blocked_by": "BACKLOG #1 \u2014 dinosaur-masks collection has 0 products"
+  }
+ ],
+ "queued_evergreen": [
+  {
+   "keyword": "adult dinosaur shirt",
+   "volume": 880,
+   "sd": 19,
+   "cpc": 0.64,
+   "intent": "Commercial"
+  },
+  {
+   "keyword": "adult dinosaur gifts",
+   "volume": 720,
+   "sd": 23,
+   "cpc": 1.35,
+   "intent": "Commercial"
+  },
+  {
+   "keyword": "dinosaur shirt for women",
+   "volume": 480,
+   "sd": 36,
+   "cpc": 0.97
+  },
+  {
+   "keyword": "birthday dinosaur shirt",
+   "volume": 390,
+   "sd": 28,
+   "cpc": 0.59
+  },
+  {
+   "keyword": "ladies dinosaur shirt",
+   "volume": 390,
+   "sd": 21,
+   "cpc": 0.64
+  },
+  {
+   "keyword": "button up dinosaur shirt",
+   "volume": 320,
+   "sd": 25,
+   "cpc": 0.74
+  },
+  {
+   "keyword": "dinosaur gifts for 3 year olds",
+   "volume": 320,
+   "sd": 25,
+   "cpc": 1.43
+  },
+  {
+   "keyword": "hawaiian dinosaur shirt",
+   "volume": 260,
+   "sd": 16,
+   "cpc": 0.97,
+   "note": "lowest SD in the set; collection has 10 products"
+  },
+  {
+   "keyword": "best dinosaur gifts",
+   "volume": 210,
+   "sd": 16,
+   "cpc": 1.02
+  },
+  {
+   "keyword": "unique dinosaur gifts",
+   "volume": 110,
+   "sd": 22,
+   "cpc": 0.68,
+   "note": "collection thin at 3 products"
+  }
+ ],
+ "rescue_queue": [
+  {
+   "keyword": "dinosaur albertosaurus",
+   "volume": 14800,
+   "position": 22,
+   "sd": 29,
+   "path": "/blogs/dinosaur-facts/albertosaurus-the-agile-predator-of-the-late-cretaceous"
+  },
+  {
+   "keyword": "mapusaurus dinosaur",
+   "volume": 8100,
+   "position": 25,
+   "sd": 38,
+   "path": "/blogs/dinosaur-facts/mapusaurus"
+  },
+  {
+   "keyword": "carnivore dino",
+   "volume": 6600,
+   "position": 20,
+   "sd": 23,
+   "path": "/blogs/blog/carnivore-dinosaurs-the-complete-guide-to-meat-eating-prehistoric-predators",
+   "note": "one URL serves 6 variants all at 6,600/mo, positions 20-25"
+  },
+  {
+   "keyword": "dinosaur ornithomimus",
+   "volume": 6600,
+   "position": 34,
+   "sd": 27,
+   "path": "/blogs/dinosaur-facts/ornithomimus"
+  },
+  {
+   "keyword": "dinosaur backpack",
+   "volume": 6600,
+   "position": 28,
+   "sd": 25,
+   "path": "/collections/dinosaur-backpack",
+   "commercial": true
+  },
+  {
+   "keyword": "chasmosaurus dinosaur",
+   "volume": 5400,
+   "position": 34,
+   "sd": 21,
+   "path": "/blogs/dinosaur-facts/chasmosaurus"
+  },
+  {
+   "keyword": "dinosaur struthiomimus",
+   "volume": 5400,
+   "position": 23,
+   "sd": 28,
+   "path": "/blogs/dinosaur-facts/struthiomimus"
+  },
+  {
+   "keyword": "nodosaurus dinosaur",
+   "volume": 5400,
+   "position": 22,
+   "sd": 34,
+   "path": "/blogs/dinosaur-facts/nodosaurus"
+  },
+  {
+   "keyword": "giraffatitan dinosaur",
+   "volume": 4400,
+   "position": 20,
+   "sd": 30,
+   "path": "/blogs/dinosaur-facts/giraffatitan"
+  },
+  {
+   "keyword": "pentaceratops dinosaur",
+   "volume": 4400,
+   "position": 23,
+   "sd": 33,
+   "path": "/blogs/dinosaur-facts/pentaceratops"
+  },
+  {
+   "keyword": "centrosaurus dinosaur",
+   "volume": 4400,
+   "position": 23,
+   "sd": 39,
+   "path": "/blogs/dinosaur-facts/centrosaurus"
+  },
+  {
+   "keyword": "infant dinosaur costume",
+   "volume": 4400,
+   "position": 37,
+   "sd": 27,
+   "path": "/collections/dinosaur-baby-outfit",
+   "commercial": true,
+   "seasonal": true
+  },
+  {
+   "keyword": "how do you spell dinosaur",
+   "volume": 4400,
+   "position": 30,
+   "sd": 31,
+   "path": "/blogs/blog/dinosaur-names-the-complete-guide-to-what-they-mean-and-how-to-say-them"
+  },
+  {
+   "keyword": "dinosaur blanket",
+   "volume": 3600,
+   "position": 18,
+   "sd": 25,
+   "path": "/products/dinosaur-array-dinosaur-blanket",
+   "commercial": true
+  },
+  {
+   "keyword": "dinosaur shirt",
+   "volume": 2900,
+   "position": 14,
+   "sd": 17,
+   "path": "/collections/adult-dinosaur-shirt/women%27s",
+   "commercial": true,
+   "note": "best single rescue: lowest SD, closest to page 1, commercial URL"
+  }
+ ],
+ "skipped": [
+  {
+   "keyword": "dinosaur costume",
+   "volume": 27100,
+   "sd": 28,
+   "reason": "no costume inventory; 27k head term unwinnable at DA 17 this season"
+  },
+  {
+   "keyword": "inflatable dinosaur suits",
+   "volume": 22200,
+   "sd": 35,
+   "reason": "product not stocked and not planned"
+  },
+  {
+   "keyword": "inflatable t rex costume",
+   "volume": 8100,
+   "sd": 28,
+   "reason": "product not stocked"
+  },
+  {
+   "keyword": "dragon costume",
+   "volume": 8100,
+   "sd": 24,
+   "reason": "off-brand; dragons are not dinosaurs and we sell no dragon products"
+  },
+  {
+   "keyword": "dinosaur birthday party supplies",
+   "volume": 6600,
+   "sd": 34,
+   "reason": "party goods not in catalog; escalated to BACKLOG #6 as a category question"
+  },
+  {
+   "keyword": "dinosaur party decorations",
+   "volume": 5400,
+   "sd": 35,
+   "reason": "same as above"
+  },
+  {
+   "keyword": "dinosaur costume ideas",
+   "volume": 70,
+   "sd": 19,
+   "reason": "volume too low (peaks 390 in Oct); covered as a section in the family costume article"
+  },
+  {
+   "keyword": "dinosaur onesie adult",
+   "volume": 1900,
+   "peak_volume": 6600,
+   "peak_month": "202610",
+   "sd": 25,
+   "cpc": 0.5,
+   "intent": "Transactional",
+   "skipped_on": "2026-09-05",
+   "reason": "No adult one-piece garment exists in the catalog. The assumed anchor product (realistic-jurassic-adult-dinosaur-pajamas) is pajama PANTS, not a onesie. Numbers re-verified and held; the inventory did not."
+  },
+  {
+   "keyword": "dinosaur onesie",
+   "volume": 3600,
+   "peak_volume": 12100,
+   "peak_month": "202610",
+   "sd": 26,
+   "cpc": 0.48,
+   "intent": "Transactional",
+   "skipped_on": "2026-09-05",
+   "reason": "Same inventory gap as 'dinosaur onesie adult'. Re-queue if an adult onesie is ever stocked (BACKLOG #12)."
+  },
+  {
+   "keyword": "dinosaur pajamas",
+   "volume": 1600,
+   "peak_volume": 2900,
+   "peak_month": "202612",
+   "sd": 16,
+   "cpc": 1.27,
+   "intent": "Transactional",
+   "skipped_on": "2026-09-05",
+   "reason": "Lowest SD and highest CPC found in two days of research, but only three active pajama products in the catalog. Thin inventory, not thin demand."
+  }
+ ],
+ "rescue_content": [
+  {
+   "keyword": "dinosaur gifts",
+   "volume": 1600,
+   "peak_volume": 4400,
+   "peak_month": "202612",
+   "sd": 21,
+   "cpc": 1.1,
+   "intent": "Transactional",
+   "reclassified": "2026-09-05",
+   "play": "consolidation",
+   "cluster": [
     {
-      "keyword": "family dinosaur costume",
-      "volume": 1000,
-      "peak_volume": 5400,
-      "peak_month": "202610",
-      "sd": 28,
-      "cpc": 0.39,
-      "competition": 0.92,
-      "intent": "Commercial",
-      "slug": "family-dinosaur-costume-ideas",
-      "date": "2026-08-30",
-      "status": "published",
-      "live_url": "https://jurassicapparel.com/blogs/blog/family-dinosaur-costume-ideas",
-      "shopify_article_id": "gid://shopify/Article/580194828438"
+     "keyword": "adult dinosaur gifts",
+     "volume": 720,
+     "sd": 23,
+     "cpc": 1.35
+    },
+    {
+     "keyword": "dinosaur gifts for adults",
+     "volume": 720,
+     "sd": 24,
+     "cpc": 1.29
+    },
+    {
+     "keyword": "best dinosaur gifts",
+     "volume": 210,
+     "sd": 16,
+     "cpc": 1.02
     }
-  ],
-  "next_up": [
-    {
-      "keyword": "dinosaur onesie adult",
-      "volume": 1900,
-      "peak_volume": 6600,
-      "peak_month": "202610",
-      "sd": 25,
-      "cpc": 0.5,
-      "competition": 0.99,
-      "intent": "Transactional",
-      "slug": "adult-dinosaur-onesie-guide"
-    }
-  ],
-  "queued_seasonal": [
-    {
-      "keyword": "dinosaur onesie",
-      "volume": 3600,
-      "sd": 26,
-      "cpc": 0.48,
-      "intent": "Commercial"
-    },
-    {
-      "keyword": "dinosaur pajamas adult",
-      "volume": 390,
-      "peak_volume": 720,
-      "peak_month": "202612",
-      "sd": 25,
-      "cpc": 0.97,
-      "intent": "Transactional"
-    },
-    {
-      "keyword": "dinosaur costume adult",
-      "volume": 3600,
-      "sd": 27,
-      "cpc": 0.37,
-      "note": "verify honest stock angle before writing"
-    },
-    {
-      "keyword": "dino mask",
-      "volume": 9900,
-      "sd": 30,
-      "cpc": 0.21,
-      "blocked_by": "BACKLOG #1 \u2014 dinosaur-masks collection has 0 products"
-    }
-  ],
-  "queued_evergreen": [
-    {
-      "keyword": "dinosaur gifts",
-      "volume": 1600,
-      "sd": 21,
-      "cpc": 1.1,
-      "intent": "Commercial"
-    },
-    {
-      "keyword": "adult dinosaur shirt",
-      "volume": 880,
-      "sd": 19,
-      "cpc": 0.64,
-      "intent": "Commercial"
-    },
-    {
-      "keyword": "adult dinosaur gifts",
-      "volume": 720,
-      "sd": 23,
-      "cpc": 1.35,
-      "intent": "Commercial"
-    },
-    {
-      "keyword": "dinosaur shirt for women",
-      "volume": 480,
-      "sd": 36,
-      "cpc": 0.97
-    },
-    {
-      "keyword": "birthday dinosaur shirt",
-      "volume": 390,
-      "sd": 28,
-      "cpc": 0.59
-    },
-    {
-      "keyword": "ladies dinosaur shirt",
-      "volume": 390,
-      "sd": 21,
-      "cpc": 0.64
-    },
-    {
-      "keyword": "button up dinosaur shirt",
-      "volume": 320,
-      "sd": 25,
-      "cpc": 0.74
-    },
-    {
-      "keyword": "dinosaur gifts for 3 year olds",
-      "volume": 320,
-      "sd": 25,
-      "cpc": 1.43
-    },
-    {
-      "keyword": "hawaiian dinosaur shirt",
-      "volume": 260,
-      "sd": 16,
-      "cpc": 0.97,
-      "note": "lowest SD in the set; collection has 10 products"
-    },
-    {
-      "keyword": "best dinosaur gifts",
-      "volume": 210,
-      "sd": 16,
-      "cpc": 1.02
-    },
-    {
-      "keyword": "unique dinosaur gifts",
-      "volume": 110,
-      "sd": 22,
-      "cpc": 0.68,
-      "note": "collection thin at 3 products"
-    }
-  ],
-  "rescue_queue": [
-    {
-      "keyword": "dinosaur albertosaurus",
-      "volume": 14800,
-      "position": 22,
-      "sd": 29,
-      "path": "/blogs/dinosaur-facts/albertosaurus-the-agile-predator-of-the-late-cretaceous"
-    },
-    {
-      "keyword": "mapusaurus dinosaur",
-      "volume": 8100,
-      "position": 25,
-      "sd": 38,
-      "path": "/blogs/dinosaur-facts/mapusaurus"
-    },
-    {
-      "keyword": "carnivore dino",
-      "volume": 6600,
-      "position": 20,
-      "sd": 23,
-      "path": "/blogs/blog/carnivore-dinosaurs-the-complete-guide-to-meat-eating-prehistoric-predators",
-      "note": "one URL serves 6 variants all at 6,600/mo, positions 20-25"
-    },
-    {
-      "keyword": "dinosaur ornithomimus",
-      "volume": 6600,
-      "position": 34,
-      "sd": 27,
-      "path": "/blogs/dinosaur-facts/ornithomimus"
-    },
-    {
-      "keyword": "dinosaur backpack",
-      "volume": 6600,
-      "position": 28,
-      "sd": 25,
-      "path": "/collections/dinosaur-backpack",
-      "commercial": true
-    },
-    {
-      "keyword": "chasmosaurus dinosaur",
-      "volume": 5400,
-      "position": 34,
-      "sd": 21,
-      "path": "/blogs/dinosaur-facts/chasmosaurus"
-    },
-    {
-      "keyword": "dinosaur struthiomimus",
-      "volume": 5400,
-      "position": 23,
-      "sd": 28,
-      "path": "/blogs/dinosaur-facts/struthiomimus"
-    },
-    {
-      "keyword": "nodosaurus dinosaur",
-      "volume": 5400,
-      "position": 22,
-      "sd": 34,
-      "path": "/blogs/dinosaur-facts/nodosaurus"
-    },
-    {
-      "keyword": "giraffatitan dinosaur",
-      "volume": 4400,
-      "position": 20,
-      "sd": 30,
-      "path": "/blogs/dinosaur-facts/giraffatitan"
-    },
-    {
-      "keyword": "pentaceratops dinosaur",
-      "volume": 4400,
-      "position": 23,
-      "sd": 33,
-      "path": "/blogs/dinosaur-facts/pentaceratops"
-    },
-    {
-      "keyword": "centrosaurus dinosaur",
-      "volume": 4400,
-      "position": 23,
-      "sd": 39,
-      "path": "/blogs/dinosaur-facts/centrosaurus"
-    },
-    {
-      "keyword": "infant dinosaur costume",
-      "volume": 4400,
-      "position": 37,
-      "sd": 27,
-      "path": "/collections/dinosaur-baby-outfit",
-      "commercial": true,
-      "seasonal": true
-    },
-    {
-      "keyword": "how do you spell dinosaur",
-      "volume": 4400,
-      "position": 30,
-      "sd": 31,
-      "path": "/blogs/blog/dinosaur-names-the-complete-guide-to-what-they-mean-and-how-to-say-them"
-    },
-    {
-      "keyword": "dinosaur blanket",
-      "volume": 3600,
-      "position": 18,
-      "sd": 25,
-      "path": "/products/dinosaur-array-dinosaur-blanket",
-      "commercial": true
-    },
-    {
-      "keyword": "dinosaur shirt",
-      "volume": 2900,
-      "position": 14,
-      "sd": 17,
-      "path": "/collections/adult-dinosaur-shirt/women%27s",
-      "commercial": true,
-      "note": "best single rescue: lowest SD, closest to page 1, commercial URL"
-    }
-  ],
-  "skipped": [
-    {
-      "keyword": "dinosaur costume",
-      "volume": 27100,
-      "sd": 28,
-      "reason": "no costume inventory; 27k head term unwinnable at DA 17 this season"
-    },
-    {
-      "keyword": "inflatable dinosaur suits",
-      "volume": 22200,
-      "sd": 35,
-      "reason": "product not stocked and not planned"
-    },
-    {
-      "keyword": "inflatable t rex costume",
-      "volume": 8100,
-      "sd": 28,
-      "reason": "product not stocked"
-    },
-    {
-      "keyword": "dragon costume",
-      "volume": 8100,
-      "sd": 24,
-      "reason": "off-brand; dragons are not dinosaurs and we sell no dragon products"
-    },
-    {
-      "keyword": "dinosaur birthday party supplies",
-      "volume": 6600,
-      "sd": 34,
-      "reason": "party goods not in catalog; escalated to BACKLOG #6 as a category question"
-    },
-    {
-      "keyword": "dinosaur party decorations",
-      "volume": 5400,
-      "sd": 35,
-      "reason": "same as above"
-    },
-    {
-      "keyword": "dinosaur costume ideas",
-      "volume": 70,
-      "sd": 19,
-      "reason": "volume too low (peaks 390 in Oct); covered as a section in the family costume article"
-    }
-  ]
+   ],
+   "reason": "Six published gift guides plus six unpublished drafts already exist on the blog. New content would cannibalise. Needs a consolidation brief (BACKLOG #12)."
+  }
+ ]
 }

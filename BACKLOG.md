@@ -153,6 +153,94 @@ than allowlisting `graphql_mutation`, and it restores unattended same-day publis
 Needs: a custom app in Shopify admin with `write_content` scope, the token in the Routine's
 environment variables, and the script. Not built.
 
+## 12. The blog is cannibalising itself on gift guides 🔴 HIGH — added 2026-09-05
+
+Found while verifying today's target against live content. The `blog` blog holds **85
+articles**. Twelve of them target the same commercial intent:
+
+**Published, all live, all competing with each other:**
+
+| Article | Published |
+|---|---|
+| The Ultimate Dinosaur Gift Guide: 25 Prehistoric Presents They Will Actually Love | 2026-01-28 |
+| Dinosaur Valentines Day Gifts That Will Make Their Heart Go Rawr | 2026-02-03 |
+| The Ultimate Guide to Dinosaur Gifts for Adults Who Never Outgrew Their Dino Phase | 2026-02-19 |
+| Dinosaur Gifts for Girlfriend: Unique Ideas She'll Actually Love | 2026-03-07 |
+| Dinosaur Christmas Gifts: The Ultimate 2026 Guide for Dino Lovers | 2026-03-07 |
+| 25+ Dinosaur Gift Ideas for Every Prehistoric Enthusiast | 2026-03-10 |
+
+**Plus six unpublished drafts on the same intent**, including four near-identical copies of
+*"The Ultimate Guide to Dinosaur Gifts: 15 Prehistoric Presents for Every Fan"*.
+
+Six live pages chasing `dinosaur gifts` (1,600/mo, SD 21, $1.10 CPC, 4,400 in December) means
+Google picks one and the rest split the link equity. **This is a concrete, page-level instance
+of the Day 1 finding that we rank for more and earn less.**
+
+Duplicates are not limited to gift guides. Also live or drafted more than once:
+*Flying Dinosaurs* (×3, one published), *Spinosaurus mirabilis / Hell Heron* (×4),
+*Foskeia pelendonum* (**×2, both published**), *Doolysaurus* (×2), *Stegosaurus Facts* (×2,
+one published), *Triceratops Facts* (×2, one published), *Dinosaurs for Adults* (×2),
+*The Dinosaur Aesthetic* (×2), *Scientists Just Found a 2-Pound Dinosaur* (×2),
+*Ultimate Dinosaur Birthday Party Guide* (×2), *Dinosaur Hoodie* guides (×2 drafts, plus a
+stray `2026-02-22-dinosaur-hoodie-guide`).
+
+There is also an article literally titled **"Test Post - DELETE ME"** sitting in the blog.
+
+**Proposal:** one consolidation pass. For each cluster, pick the canonical URL (the one with
+rankings — check `page_overview` before choosing), merge the best material into it, 301 the
+rest, and delete the unpublished duplicates and the test post. Gated under the charter, so it
+comes as a brief.
+
+**Process change made today, no approval needed:** the queue is now checked against live blog
+content before a keyword is written, not only against keyword metrics. The old queue was built
+from Ubersuggest alone, which is how `dinosaur gifts` got queued as new content when six live
+pages already served it.
+
+## 13. Collections that are full of DRAFT products read as empty 🟠 HIGH — added 2026-09-05
+
+`data/catalog.json` counts **all** products in a collection, published or not. Two collections
+pass the link check while showing a customer almost nothing:
+
+| Collection | Counted | Actually ACTIVE |
+|---|---|---|
+| `toys` | 30 | **0 — every one of the 30 is DRAFT** |
+| `dinosaur-jewelry` | 6 | **1** |
+
+`scripts/check-links.py` would have waved through a link to `/collections/toys`. It is not a
+zero-product collection by the catalog's definition, but it is an empty page to a shopper and
+to Google — the same defect as BACKLOG #1, hidden behind a number that looks fine.
+
+**Two fixes, and they are separate:**
+
+1. *Agent-side, no approval needed:* the monthly `catalog.json` refresh must record ACTIVE
+   product counts, not total counts, and `check-links.py` should fail on an active count of 0.
+   Scheduled into the 2026-10-01 monthly routine.
+2. *Owner:* decide what happens to the 30 drafted toys. `dinosaur toys` is a real term and
+   the `dinosaur-toys` blog exists with 1 article. Either publish them or unpublish the
+   collection. **Not urgent and not a re-flag of the Christmas pajamas (#0) — different SKUs,
+   no prior decision recorded.**
+
+## 14. Merchandising gap: no adult one-piece garment 🟡 MEDIUM — added 2026-09-05
+
+Today's queued target, `dinosaur onesie adult`, had to be skipped because the catalog contains
+no adult onesie. A product search across *onesie*, *jumpsuit*, *kigurumi*, *union suit*,
+*romper* and *one-piece* returns nothing for adults.
+
+What that costs, at US volumes verified 2026-09-05:
+
+| Keyword | Avg/mo | October | SD |
+|---|---|---|---|
+| dinosaur onesie | 3,600 | **12,100** | 26 |
+| dinosaur onesie adult | 1,900 | **6,600** | 25 |
+
+Both are inside the winnable band for a DA-17 site, both peak hard in October, and both are
+transactional. That is ~18,700 searches in October alone against difficulty we can beat, and
+we cannot honestly write a word of it.
+
+**Ask:** is an adult dinosaur onesie or union suit sourceable from any of the nine POD apps
+already installed? If yes it is a strong October SKU and the content is ready to write. If not,
+say so and both terms get permanently marked ⏭️ Skip so they stop coming back round the queue.
+
 ---
 
 # Klaviyo — added 2026-08-30
