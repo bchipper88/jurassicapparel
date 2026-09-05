@@ -38,6 +38,7 @@ Ubersuggest figure that justified it.
   into its season (1,900 → 2,400 Oct/Nov/Dec), backed by deep stocked inventory (57 hoodies),
   and **not already covered by a live blog post**. Angle is the all-over-print vs graphic-print
   distinction, which is a real purchasing decision nobody currently writes about.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-hoodie-buying-guide
 
 ---
 

@@ -29,9 +29,12 @@
    "intent": "Transactional",
    "slug": "dinosaur-hoodie-buying-guide",
    "date": "2026-09-05",
-   "status": "draft",
+   "status": "published",
    "verified": "2026-09-05",
-   "note": "Taken after 'dinosaur onesie adult' failed the inventory check. 57 hoodies stocked; no live blog post covered the term."
+   "note": "Taken after 'dinosaur onesie adult' failed the inventory check. 57 hoodies stocked; no live blog post covered the term.",
+   "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-hoodie-buying-guide",
+   "shopify_article_id": "gid://shopify/Article/580239556758",
+   "published_at": "2026-09-05T11:14:02Z"
   }
  ],
  "next_up": [

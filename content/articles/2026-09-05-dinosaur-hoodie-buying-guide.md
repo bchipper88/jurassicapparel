@@ -2,7 +2,7 @@
 title: "Dinosaur Hoodie Buying Guide: All-Over Print vs. Graphic Print (and How to Size Both)"
 slug: dinosaur-hoodie-buying-guide
 date: 2026-09-05
-status: draft
+status: published
 target_keyword: "dinosaur hoodie"
 target_volume: 1900
 target_sd: 25
@@ -34,6 +34,9 @@ collections_linked:
     products: 567
 meta_description: "All-over print or graphic print? A dinosaur hoodie buying guide covering fabric, the two different size systems, real prices and made-to-order timing."
 word_count: 1482
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-hoodie-buying-guide
+shopify_article_id: gid://shopify/Article/580239556758
+published_at: 2026-09-05T11:14:02Z
 ---
 
 # Dinosaur Hoodie Buying Guide: All-Over Print vs. Graphic Print (and How to Size Both)

@@ -34,9 +34,19 @@ def parse(path):
     # Relative store links -> absolute.
     html = re.sub(r'href="(/(?:collections|products)/)', f'href="{STORE}\\1', html)
 
-    tags = ["dinosaur costume", "halloween", "family costume", "dinosaur apparel"]
-    if fm.get("target_keyword"):
-        tags.insert(0, fm["target_keyword"])
+    # Tags come from the article's own keywords. These used to be hardcoded to
+    # Day 1's Halloween set, which quietly mistagged every article after it.
+    # Override with a front-matter `tags: a, b, c` line when needed.
+    if fm.get("tags"):
+        tags = [x.strip() for x in fm["tags"].split(",") if x.strip()]
+    else:
+        tags = ["dinosaur apparel"]
+        if fm.get("target_keyword"):
+            tags.insert(0, fm["target_keyword"])
+        sec = re.search(r"^secondary_keywords:\s*\n((?:[ \t]*-[ \t]*.+\n)+)", fm_text, re.M)
+        if sec:
+            tags += [re.sub(r'^[ \t]*-[ \t]*', "", ln).strip().strip('"')
+                     for ln in sec.group(1).splitlines() if ln.strip()]
 
     return {
         "title": fm.get("title", ""),
