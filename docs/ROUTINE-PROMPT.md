@@ -10,7 +10,7 @@ permission mode; see `docs/ROUTINE-PERMISSIONS.md` for why.
 | Repository | `bchipper88/jurassicapparel` |
 | Outcome branch | `claude/lehigh-valley-routines-keywords-hvzg9g` |
 | Connectors | Ubersuggest, Shopify |
-| Model | Opus |
+| Model | Opus 5.5 (`claude-opus-5-5`) |
 | Permission mode | your choice — this is the field the Claude-created Routine does not expose. Read the note below before picking Bypass. |
 | Notifications | push on |
 
