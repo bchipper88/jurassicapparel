@@ -1,6 +1,6 @@
 {
  "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
- "pulled": "2026-09-05",
+ "pulled": "2026-09-23",
  "loc_id": 2840,
  "published": [
   {
@@ -35,21 +35,52 @@
    "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-hoodie-buying-guide",
    "shopify_article_id": "gid://shopify/Article/580239556758",
    "published_at": "2026-09-05T11:14:02Z"
-  }
- ],
- "next_up": [
+  },
   {
    "keyword": "dinosaur shoes",
    "volume": 1900,
    "peak_volume": 2400,
-   "peak_month": "202611",
-   "sd": 24,
-   "cpc": 0.48,
-   "competition": 0.91,
+   "peak_month": "202511",
+   "sd": 26,
+   "cpc": 0.57,
+   "competition": 0.99,
    "intent": "Transactional",
    "slug": "dinosaur-shoes-buying-guide",
-   "verified": "2026-09-05",
-   "note": "78 products in dinosaur-shoes-dinosaur-sneakers; no live blog coverage. Confirm collections are not majority-DRAFT first (BACKLOG #13)."
+   "date": "2026-09-23",
+   "status": "awaiting-publish",
+   "verified": "2026-09-23",
+   "note": "SD drifted 24->26, CPC 0.48->0.57 since 2026-09-05. Shoe collections majority ACTIVE (69/78 in main collection).",
+   "secondary": [
+    {
+     "keyword": "dinosaur sneakers",
+     "volume": 260,
+     "sd": 26,
+     "cpc": 0.58
+    },
+    {
+     "keyword": "dinosaur high tops",
+     "volume": 30,
+     "sd": 30,
+     "cpc": 0.63
+    },
+    {
+     "keyword": "kids dinosaur shoes",
+     "volume": 0,
+     "sd": 12,
+     "note": "Ubersuggest returns no volume"
+    }
+   ]
+  }
+ ],
+ "next_up": [
+  {
+   "keyword": "hawaiian dinosaur shirt",
+   "volume": 260,
+   "sd": 16,
+   "cpc": 0.97,
+   "note": "Selected 2026-09-23 over 'adult dinosaur shirt' to avoid cannibalising the adult-dinosaur-shirt collection (rescue target for 'dinosaur shirt'). Re-verify before writing.",
+   "slug": "hawaiian-dinosaur-shirts",
+   "verified": "2026-08-30"
   }
  ],
  "queued_seasonal": [
@@ -74,7 +105,7 @@
    "volume": 9900,
    "sd": 30,
    "cpc": 0.21,
-   "blocked_by": "BACKLOG #1 \u2014 dinosaur-masks collection has 0 products"
+   "blocked_by": "BACKLOG #1 — dinosaur-masks collection has 0 products"
   }
  ],
  "queued_evergreen": [
@@ -83,7 +114,8 @@
    "volume": 880,
    "sd": 19,
    "cpc": 0.64,
-   "intent": "Commercial"
+   "intent": "Commercial",
+   "note": "Hold until the 'dinosaur shirt' rescue of /collections/adult-dinosaur-shirt is decided (cannibalisation risk)."
   },
   {
    "keyword": "adult dinosaur gifts",
@@ -121,13 +153,6 @@
    "volume": 320,
    "sd": 25,
    "cpc": 1.43
-  },
-  {
-   "keyword": "hawaiian dinosaur shirt",
-   "volume": 260,
-   "sd": 16,
-   "cpc": 0.97,
-   "note": "lowest SD in the set; collection has 10 products"
   },
   {
    "keyword": "best dinosaur gifts",

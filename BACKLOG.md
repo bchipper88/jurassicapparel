@@ -241,6 +241,42 @@ we cannot honestly write a word of it.
 already installed? If yes it is a strong October SKU and the content is ready to write. If not,
 say so and both terms get permanently marked ⏭️ Skip so they stop coming back round the queue.
 
+## 15. Two ACTIVE shoe products cannot be bought 🟠 HIGH — added 2026-09-23
+
+*Dinosaur Stomp - Women's High Heels* (`womens-high-heels`) and *Dinosaur Skeleton - Women's
+High Heels* (`dinosaur-skeleton-womens-high-heels`) are ACTIVE and sit in
+`dinosaur-shoes-dinosaur-sneakers`, `dinosaur-shoes-womens` and `shoes-adult`. Unlike every
+other shoe, they **track inventory, have 0 units, and are set to DENY overselling** — so they
+show as sold out. Every other made-to-order shoe has inventory tracking switched off.
+
+A shopper browsing the womens shoes collection hits two dead ends at $79.99 each. The listing
+also says "Estimated shipping time is 2-4 weeks" — the same made-to-order wording as the
+sneakers — which suggests the tracking setting is a mistake rather than a real stock-out.
+
+**Ask (inventory is gated):** if the heels are still producible, switch off inventory
+tracking to match the other shoes; if not, unpublish them. The Day 3 article does not mention
+heels for this reason.
+
+## 16. Shoe titles misstate their size range 🟡 MEDIUM — added 2026-09-23
+
+Found while writing the shoes guide; all read from the live listings 2026-09-23.
+
+| Product | Title says | Sizes actually offered |
+|---|---|---|
+| `splatter-dinos-kids-dinosaur-shoes` | "Kid's Dinosaur Shoes" | Women's + Men's only — **no kids' sizes** |
+| `pastel-dinosaurs-kids-dinosaur-sneaker` | "Kids Dinosaur Sneaker" | Women's + Men's only — **no kids' sizes** |
+| `tiny-dinos-blue-dinosaur-sneakers` | (in kids collection) | Kids' run starts at youth 1, not child 11 |
+
+A parent who clicks "Kid's" and finds only adult sizes bounces. Both products are in
+`dinosaur-shoes-for-kids`, so they also pad that collection with two shoes a child can't wear.
+
+Also: *Color Your Own Dinosaur Shoe* still carries "(Currently experiencing delays)" in its
+shipping copy twice. If the delay is over, that line is costing conversions; if it isn't, the
+other listings are understating lead time.
+
+**Ask (product copy is gated):** retitle or add kids' sizes to the two mislabelled sneakers;
+confirm whether the "delays" note is current.
+
 ---
 
 # Klaviyo — added 2026-08-30

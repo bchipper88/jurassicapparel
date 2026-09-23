@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -40,18 +40,28 @@ Ubersuggest figure that justified it.
   distinction, which is a real purchasing decision nobody currently writes about.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-hoodie-buying-guide
 
+- ✅ Published (2026-09-23) **dinosaur shoes** — 1,900/mo avg | **2,400/mo Nov–Dec** | SD 26
+  | $0.57 CPC | Transactional → `dinosaur-shoes-buying-guide`
+  Day 3. Re-verified 2026-09-23 (was SD 24 / $0.48 on 2026-09-05 — difficulty drifted up two
+  points, still winnable). Publishing ~6 weeks ahead of the November ramp. Inventory check per
+  BACKLOG #13 passed: `dinosaur-shoes-dinosaur-sneakers` 69 of 78 ACTIVE, high tops 28/29,
+  kids 27/29, womens 42/51, mens 29/30. Angle: four different shoes behind one wall of prints,
+  the men's/women's/EU size crosswalk, and made-to-order holiday order-by dates.
+  Secondary: `dinosaur sneakers` 260/mo (SD 26, $0.58), `dinosaur high tops` 30/mo (SD 30),
+  `kids dinosaur shoes` 0/mo (Ubersuggest returns no volume).
+  **LIVE:** _pending publish_
+
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur shoes** — 1,900/mo avg | **2,400/mo Nov–Dec** | SD 24 | $0.48 CPC | Transactional
-  → `dinosaur-shoes-buying-guide`
-  Verified 2026-09-05. Same profile as today's winner: winnable at DA 17, stocked deep
-  (`dinosaur-shoes-dinosaur-sneakers` 78, `dinosaur-high-tops` 29, kids 29, womens 51,
-  mens 30), ramping into Nov/Dec, and **no live blog post covers it** — checked against all
-  85 articles on the `blog` blog. High tops are $79.99, the highest-AOV category in the store.
-
-  *Before writing, confirm the shoes collections are not majority-DRAFT — see BACKLOG #13.*
+- 🎯 **hawaiian dinosaur shirt** — 260/mo | SD 16 | $0.97 CPC → `hawaiian-dinosaur-shirts`
+  Chosen over `adult dinosaur shirt` (880, SD 19) on 2026-09-23. A blog post on "adult dinosaur
+  shirt" risks competing with our own `adult-dinosaur-shirt` collection, which is the 🔁 Rescue
+  URL for `dinosaur shirt` at #14 — better to rescue that page than cannibalise it. Hawaiian
+  is a distinct intent, lowest SD in the set, 10 products in `dinosaur-hawaiian-shirts`.
+  *Before writing: re-verify numbers (last pulled 2026-08-30), confirm ACTIVE count, and check
+  the live blog for an existing Hawaiian-shirt post.*
 
 ---
 
@@ -90,7 +100,8 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
   SD 44 is above the DA-17 threshold. Only worth it via the `adult-dinosaur-shirt`
   collection page, not a blog post. Treat as a collection-copy brief.
 - 📋 **adult dinosaur shirt** — 880/mo | SD 19 | $0.64 CPC | Commercial
-  Same intent, **half the difficulty**. This is the one to actually target.
+  Same intent, **half the difficulty**. *2026-09-23:* hold until the `dinosaur shirt` rescue of
+  `/collections/adult-dinosaur-shirt` is decided — a blog post here may cannibalise that page.
 - 📋 **adult dinosaur gifts** — 720/mo | SD 23 | $1.35 CPC | Commercial + Informational
   Gift-guide format. Highest CPC in the evergreen set — commercially valuable traffic.
 - 🔁 **dinosaur gifts** — 1,600/mo | **4,400/mo Dec peak** | SD 21 | $1.10 CPC | Transactional
@@ -103,8 +114,6 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
   = ~3,250/mo avg, **~8,800/mo in December**.
 - 📋 dinosaur shirt for women — 480/mo | SD 36 | $0.97 CPC
 - 📋 ladies dinosaur shirt — 390/mo | SD 21 | $0.64 CPC — easier sibling of the above
-- 📋 hawaiian dinosaur shirt — 260/mo | SD 16 | $0.97 CPC — **lowest difficulty in the set**;
-  `dinosaur-hawaiian-shirts` collection has 10 products. Easy win, schedule early.
 - 📋 button up dinosaur shirt — 320/mo | SD 25 | $0.74 CPC
 - 📋 birthday dinosaur shirt — 390/mo | SD 28 | $0.59 CPC — pairs with the
   `dinosaur-birthday-party` blog, which has only 1 article
