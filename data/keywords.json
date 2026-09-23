@@ -47,7 +47,7 @@
    "intent": "Transactional",
    "slug": "dinosaur-shoes-buying-guide",
    "date": "2026-09-23",
-   "status": "awaiting-publish",
+   "status": "published",
    "verified": "2026-09-23",
    "note": "SD drifted 24->26, CPC 0.48->0.57 since 2026-09-05. Shoe collections majority ACTIVE (69/78 in main collection).",
    "secondary": [
@@ -69,7 +69,10 @@
      "sd": 12,
      "note": "Ubersuggest returns no volume"
     }
-   ]
+   ],
+   "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-shoes-buying-guide",
+   "shopify_article_id": "gid://shopify/Article/590738063510",
+   "published_at": "2026-09-23T11:06:14Z"
   }
  ],
  "next_up": [

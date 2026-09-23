@@ -2,7 +2,7 @@
 title: "Dinosaur Shoes Buying Guide: High Tops, Sneakers, Slip-Ons and How to Size Them"
 slug: dinosaur-shoes-buying-guide
 date: 2026-09-23
-status: awaiting-publish
+status: published
 target_keyword: "dinosaur shoes"
 target_volume: 1900
 target_sd: 26
@@ -36,6 +36,9 @@ collections_linked:
     active: 35
 meta_description: "A dinosaur shoes buying guide: high tops vs. mesh sneakers vs. slip-ons, how the men's, women's and kids' sizes line up, real prices and holiday order-by dates."
 word_count: 1487
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-shoes-buying-guide
+shopify_article_id: gid://shopify/Article/590738063510
+published_at: 2026-09-23T11:06:14Z
 ---
 
 # Dinosaur Shoes Buying Guide: High Tops, Sneakers, Slip-Ons and How to Size Them

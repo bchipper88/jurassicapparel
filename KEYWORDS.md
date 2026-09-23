@@ -49,7 +49,7 @@ Ubersuggest figure that justified it.
   the men's/women's/EU size crosswalk, and made-to-order holiday order-by dates.
   Secondary: `dinosaur sneakers` 260/mo (SD 26, $0.58), `dinosaur high tops` 30/mo (SD 30),
   `kids dinosaur shoes` 0/mo (Ubersuggest returns no volume).
-  **LIVE:** _pending publish_
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-shoes-buying-guide
 
 ---
 
