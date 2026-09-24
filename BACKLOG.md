@@ -153,6 +153,193 @@ than allowlisting `graphql_mutation`, and it restores unattended same-day publis
 Needs: a custom app in Shopify admin with `write_content` scope, the token in the Routine's
 environment variables, and the script. Not built.
 
+## 12. The blog is cannibalising itself on gift guides 🔴 HIGH — added 2026-09-05
+
+Found while verifying today's target against live content. The `blog` blog holds **85
+articles**. Twelve of them target the same commercial intent:
+
+**Published, all live, all competing with each other:**
+
+| Article | Published |
+|---|---|
+| The Ultimate Dinosaur Gift Guide: 25 Prehistoric Presents They Will Actually Love | 2026-01-28 |
+| Dinosaur Valentines Day Gifts That Will Make Their Heart Go Rawr | 2026-02-03 |
+| The Ultimate Guide to Dinosaur Gifts for Adults Who Never Outgrew Their Dino Phase | 2026-02-19 |
+| Dinosaur Gifts for Girlfriend: Unique Ideas She'll Actually Love | 2026-03-07 |
+| Dinosaur Christmas Gifts: The Ultimate 2026 Guide for Dino Lovers | 2026-03-07 |
+| 25+ Dinosaur Gift Ideas for Every Prehistoric Enthusiast | 2026-03-10 |
+
+**Plus six unpublished drafts on the same intent**, including four near-identical copies of
+*"The Ultimate Guide to Dinosaur Gifts: 15 Prehistoric Presents for Every Fan"*.
+
+Six live pages chasing `dinosaur gifts` (1,600/mo, SD 21, $1.10 CPC, 4,400 in December) means
+Google picks one and the rest split the link equity. **This is a concrete, page-level instance
+of the Day 1 finding that we rank for more and earn less.**
+
+Duplicates are not limited to gift guides. Also live or drafted more than once:
+*Flying Dinosaurs* (×3, one published), *Spinosaurus mirabilis / Hell Heron* (×4),
+*Foskeia pelendonum* (**×2, both published**), *Doolysaurus* (×2), *Stegosaurus Facts* (×2,
+one published), *Triceratops Facts* (×2, one published), *Dinosaurs for Adults* (×2),
+*The Dinosaur Aesthetic* (×2), *Scientists Just Found a 2-Pound Dinosaur* (×2),
+*Ultimate Dinosaur Birthday Party Guide* (×2), *Dinosaur Hoodie* guides (×2 drafts, plus a
+stray `2026-02-22-dinosaur-hoodie-guide`).
+
+There is also an article literally titled **"Test Post - DELETE ME"** sitting in the blog.
+
+**Proposal:** one consolidation pass. For each cluster, pick the canonical URL (the one with
+rankings — check `page_overview` before choosing), merge the best material into it, 301 the
+rest, and delete the unpublished duplicates and the test post. Gated under the charter, so it
+comes as a brief.
+
+**Process change made today, no approval needed:** the queue is now checked against live blog
+content before a keyword is written, not only against keyword metrics. The old queue was built
+from Ubersuggest alone, which is how `dinosaur gifts` got queued as new content when six live
+pages already served it.
+
+**Update 2026-09-24 — the brief is written, and the risk is lower than assumed.**
+`content/rescues/2026-09-24-dinosaur-gifts-consolidation.md` carries the full 1,909-word
+replacement copy, link-checked, ready to publish on approval. (It exists because a second
+session that day wrote the article before running the check above, and the check caught it —
+the guard works.)
+
+Ran the `page_overview` check this item asked for. The result removes the hard part:
+`page_overview` returns `noData` for both generic guides, and **no gift-guide URL appears
+anywhere in the domain's top ~180 ranking keywords by traffic** (`domain_keywords`, locId 2840,
+2026-09-24). Six pages, twelve months, no rankings between them.
+
+So there is **no incumbent ranking to protect**, and the canonical can be chosen on URL quality
+instead. The brief proposes a clean `/blogs/blog/dinosaur-gifts` (none of the six is
+exact-match), 301s from the three generic guides, and keeping girlfriend / Christmas /
+Valentine's as separate intents with their own volume. December peak is ~10 weeks out; done in
+the next fortnight it settles before the season.
+
+## 13. Collections that are full of DRAFT products read as empty 🟠 HIGH — added 2026-09-05
+
+`data/catalog.json` counts **all** products in a collection, published or not. Two collections
+pass the link check while showing a customer almost nothing:
+
+| Collection | Counted | Actually ACTIVE |
+|---|---|---|
+| `toys` | 30 | **0 — every one of the 30 is DRAFT** |
+| `dinosaur-jewelry` | 6 | **1** |
+
+`scripts/check-links.py` would have waved through a link to `/collections/toys`. It is not a
+zero-product collection by the catalog's definition, but it is an empty page to a shopper and
+to Google — the same defect as BACKLOG #1, hidden behind a number that looks fine.
+
+**Two fixes, and they are separate:**
+
+1. *Agent-side, no approval needed:* the monthly `catalog.json` refresh must record ACTIVE
+   product counts, not total counts, and `check-links.py` should fail on an active count of 0.
+   ~~Scheduled into the 2026-10-01 monthly routine.~~ **✅ Done 2026-09-24 — see #23.** Figures
+   above independently re-confirmed the same day. Remaining: extend `active` counts from the 15
+   verified collections to the whole catalog at the 2026-10-01 refresh.
+2. *Owner:* decide what happens to the 30 drafted toys. `dinosaur toys` is a real term and
+   the `dinosaur-toys` blog exists with 1 article. Either publish them or unpublish the
+   collection. **Not urgent and not a re-flag of the Christmas pajamas (#0) — different SKUs,
+   no prior decision recorded.**
+
+## 14. Merchandising gap: no adult one-piece garment 🟡 MEDIUM — added 2026-09-05
+
+Today's queued target, `dinosaur onesie adult`, had to be skipped because the catalog contains
+no adult onesie. A product search across *onesie*, *jumpsuit*, *kigurumi*, *union suit*,
+*romper* and *one-piece* returns nothing for adults.
+
+What that costs, at US volumes verified 2026-09-05:
+
+| Keyword | Avg/mo | October | SD |
+|---|---|---|---|
+| dinosaur onesie | 3,600 | **12,100** | 26 |
+| dinosaur onesie adult | 1,900 | **6,600** | 25 |
+
+Both are inside the winnable band for a DA-17 site, both peak hard in October, and both are
+transactional. That is ~18,700 searches in October alone against difficulty we can beat, and
+we cannot honestly write a word of it.
+
+**Ask:** is an adult dinosaur onesie or union suit sourceable from any of the nine POD apps
+already installed? If yes it is a strong October SKU and the content is ready to write. If not,
+say so and both terms get permanently marked ⏭️ Skip so they stop coming back round the queue.
+
+## 15. Two ACTIVE shoe products cannot be bought 🟠 HIGH — added 2026-09-23
+
+*Dinosaur Stomp - Women's High Heels* (`womens-high-heels`) and *Dinosaur Skeleton - Women's
+High Heels* (`dinosaur-skeleton-womens-high-heels`) are ACTIVE and sit in
+`dinosaur-shoes-dinosaur-sneakers`, `dinosaur-shoes-womens` and `shoes-adult`. Unlike every
+other shoe, they **track inventory, have 0 units, and are set to DENY overselling** — so they
+show as sold out. Every other made-to-order shoe has inventory tracking switched off.
+
+A shopper browsing the womens shoes collection hits two dead ends at $79.99 each. The listing
+also says "Estimated shipping time is 2-4 weeks" — the same made-to-order wording as the
+sneakers — which suggests the tracking setting is a mistake rather than a real stock-out.
+
+**Ask (inventory is gated):** if the heels are still producible, switch off inventory
+tracking to match the other shoes; if not, unpublish them. The Day 3 article does not mention
+heels for this reason.
+
+## 16. Shoe titles misstate their size range 🟡 MEDIUM — added 2026-09-23
+
+Found while writing the shoes guide; all read from the live listings 2026-09-23.
+
+| Product | Title says | Sizes actually offered |
+|---|---|---|
+| `splatter-dinos-kids-dinosaur-shoes` | "Kid's Dinosaur Shoes" | Women's + Men's only — **no kids' sizes** |
+| `pastel-dinosaurs-kids-dinosaur-sneaker` | "Kids Dinosaur Sneaker" | Women's + Men's only — **no kids' sizes** |
+| `tiny-dinos-blue-dinosaur-sneakers` | (in kids collection) | Kids' run starts at youth 1, not child 11 |
+
+A parent who clicks "Kid's" and finds only adult sizes bounces. Both products are in
+`dinosaur-shoes-for-kids`, so they also pad that collection with two shoes a child can't wear.
+
+Also: *Color Your Own Dinosaur Shoe* still carries "(Currently experiencing delays)" in its
+shipping copy twice. If the delay is over, that line is costing conversions; if it isn't, the
+other listings are understating lead time.
+
+**Ask (product copy is gated):** retitle or add kids' sizes to the two mislabelled sneakers;
+confirm whether the "delays" note is current.
+
+## 17. Live Christmas-gifts post links out to a third-party site 🟠 HIGH — added 2026-09-24
+
+`/blogs/blog/dinosaur-christmas-gifts-the-ultimate-2026-guide-for-dino-lovers` (published
+2026-03-07) — the only Christmas post on the blog — sends readers to **thebestchristmas.co**
+with four outbound links ("check out The Best Christmas — they've got everything from gift
+guides…"). It also recommends things we don't sell (excavation kits, replica skulls, museum
+memberships), links only to `/collections/all`, `/collections/kids` and
+`/collections/dinosaur-shirts` rather than to the 52-product `dinosaur-christmas` collection,
+and repeats its closing footer paragraph twice, inside an unclosed `<ol>`.
+
+Outbound links like these are usually a paid or swapped placement. Either way, the store's one
+Christmas article is sending December traffic to someone else's site. It also belongs to the
+gift-guide cluster in #12.
+
+**Ask (editing live pages is gated):** do you know why the links are there? If not, remove
+them. The Day 4 ornaments guide deliberately does not link to this post.
+
+## 18. Merchandising gap: no dinosaur Christmas sweater 🟡 MEDIUM — added 2026-09-24
+
+`dinosaur christmas sweater` — 720/mo avg, **2,900 Nov / 4,400 Dec**, SD 26, $0.15 CPC
+(Ubersuggest, locId 2840, 2026-09-24). Checked as today's target; skipped on inventory. There
+is no knit or "ugly" sweater in the catalog. The only Christmas crewnecks are two sweatshirts
+(*T-Rex Winter Forest*, *Merry Little Rexmas*). A product titled *Ugly Dinosaur Sweater - Adult
+Dinosaur Shirt* exists but is a **t-shirt**, and it's in DRAFT.
+
+**Ask:** can one of the installed POD apps do an all-over-print "ugly sweater" style knit or
+sweatshirt? If it can be listed by late October, the article is ready to write for November.
+
+## 19. "Personalized" ornament has no visible personalization field 🟡 MEDIUM — added 2026-09-24
+
+*Watercolor Dino Ornament - Personalized* ($17.99, ACTIVE) has a listing photo showing a name
+("JESSICA") printed under the dinosaur, but the only options are **Shape** and **Design**. The
+product page HTML contains no text input or `properties[...]` field. If no app injects one with
+JavaScript, a customer cannot enter a name and will get the ornament without one.
+
+**Ask (product settings are gated):** open the product page and try to add a name. If it isn't
+possible, either add a personalization field or retitle the product and change the photo. The
+Day 4 article describes it as a watercolor ceramic ornament and makes no personalization claim.
+
+## 20. Mug priced lower in the larger size 🟢 LOW — added 2026-09-24
+
+*T-Rex Winter Forest - Dinosaur Mug*: 11 oz $19.99, 15 oz $21.99, **20 oz $21.50**. Every other
+Christmas mug is $23.99 for 20 oz. Probably a typo. Pricing is gated.
+
 ---
 
 # Klaviyo — added 2026-08-30
@@ -387,64 +574,50 @@ genuine damage claims. **Read the actual refund reasons on the 12 months of retu
 the largest recoverable leak visible in the data.
 
 
-## 12. The `toys` collection is 100% draft — 30 products, 0 visible 🔴 HIGH
+## 21. The shipping policy page is empty 🔴 HIGH — Q4 conversion risk — added 2026-09-24
 
-Found 2026-09-24 while link-mapping the gift guide. Every one of the 30 products in
-`/collections/toys` ("Dinosaur Toys") has `status: DRAFT`. The collection page exists, is
-linked from the catalog, and renders **empty** to every customer who reaches it.
+`shopPolicies` returns `SHIPPING_POLICY` with an **empty body**. The store publishes a shipping
+policy page with nothing on it.
 
-This is worse than the empty collections in #1, because the count in `data/catalog.json`
-said 30 — it looked stocked. Toys are a natural gift-guide destination and the collection
-had to be cut from today's article for this reason.
+The refund policy by contrast is thorough and clear (made-to-order, **all sales final**,
+replacement or refund for damage or misprint, request within 30 days, item unused and in
+original packaging) — so this is a gap, not a pattern.
 
-**Ask:** are these 30 drafts deliberate (like the Christmas pajamas in #0) or forgotten? If
-deliberate, say so and the agent will stop surfacing it. If forgotten, publishing them is a
-bulk status change and opens a whole gifting category.
+It matters most right now. These are made-to-order products, so the customer's real question in
+November and December is "production time *plus* shipping time — will it arrive by the 25th?"
+Days 3 and 4 both had to derive order-by dates from individual listings' shipping estimates
+because the policy page says nothing. Every visitor who goes looking for that answer finds a
+blank page and leaves.
 
-## 13. `dinosaur-jewelry` is 5/6 draft — one live product 🟡 MEDIUM
+**Fix (owner, ~15 minutes):** Settings → Policies → Shipping policy. Even a rough production +
+transit range beats an empty page, and it would let the blog cite one source instead of
+reverse-engineering dates per product.
 
-Same root cause as #12, smaller blast radius. Only *Dinosaur Jewelry Box - Pink Retro Rex*
-($35.99) is ACTIVE; the charm hoops, two enamel-pin sets, fossil necklace and keychains are
-all DRAFT. The collection page shows one item.
+## 22. Three different contact addresses across the legal pages 🟢 LOW — added 2026-09-24
 
-Notable because `personalized dinosaur gifts` carries a **$1.88 CPC** and the jewelry/pins
-tier is exactly the $5–$12 impulse-gift band the catalog is otherwise missing — the drafted
-items are priced $5.99–$12.99.
+The privacy policy gives `john.honochick@gmail.com` (a personal address) alongside the LLC's
+registered address; the Contact policy gives `john@jurassicapparel.com`; the terms of service
+give `info@jurassicapparel.com`. Three addresses, one personal, on the pages customers read
+when deciding whether a store is legitimate.
 
-## 14. The shipping policy page is empty 🔴 HIGH — Q4 conversion risk
+**Fix:** use the domain address consistently.
 
-`shopPolicies` returns `SHIPPING_POLICY` with an **empty body**. The store publishes a
-shipping policy page with nothing on it.
+## 23. `check-links.py` counted draft products as inventory ✅ FIXED 2026-09-24
 
-The refund policy is thorough and clear (made-to-order, all sales final, replacement for
-damage or misprint within 30 days) — so this is an odd gap rather than a pattern. It matters
-most right now: these are made-to-order products, so the customer's real question in
-November and December is "production time plus shipping time — will it arrive?", and the
-page that should answer it is blank. Every gift-guide visitor who wants that answer bounces.
+This is **fix 1 of BACKLOG #13**, which was scheduled into the 2026-10-01 monthly routine.
+Done early, because Day 5's research needed the checker to be trustworthy today.
 
-**Fix (owner, ~15 minutes):** write the production + shipping window into
-Settings → Policies → Shipping policy. Even a rough range beats an empty page.
+`data/catalog.json` now carries a `draft_heavy_do_not_link` list and verified `active` counts
+for the 15 collections checked live on 2026-09-24; `scripts/check-links.py` fails on them and
+prints "N live / M" where an active count is known. Regression-tested: a link to
+`/collections/toys` now fails the check instead of passing it.
 
-## 15. Personal Gmail address published in the privacy policy 🟢 LOW
+Confirms #13's figures independently on 2026-09-24: `toys` 0 of 30 ACTIVE, `dinosaur-jewelry`
+1 of 6. Also newly measured: `dinosaur-christmas` 43 of 52, `dinosaur-ties` 7 of 9,
+`dinosaur-stickers` 29 of 31, `dinosaur-socks` 35 of 36. The rest of the gifting set is fully
+active.
 
-The privacy policy's contact clause gives `john.honochick@gmail.com` alongside the LLC's
-registered address, while the store's Contact policy uses `john@jurassicapparel.com` and the
-terms of service use `info@jurassicapparel.com`. Three different addresses, one of them
-personal, on a business's legal pages.
+**Still owner-side, unchanged:** #13 fix 2, the decision on the 30 drafted toys.
 
-**Fix:** use the domain address consistently. Cosmetic, but it is the page customers read
-when deciding whether the store is real.
-
-## 16. `check-links.py` counted draft products as inventory ✅ FIXED 2026-09-24
-
-The link checker validated a collection by its **total** product count, which includes DRAFT
-products customers cannot see. It would have passed a link to `/collections/toys` (30
-products, 0 live) as healthy — the exact bug that #12 describes.
-
-Fixed in this repo the same day: `data/catalog.json` now carries a `draft_heavy_do_not_link`
-list plus verified `active` counts, and `scripts/check-links.py` fails on them. Also fixed
-`scripts/md-to-shopify.py`, which hard-coded Halloween costume tags onto every article
-regardless of subject; tags now come from article front matter.
-
-No owner action needed — logged because the two merchandising items above were only visible
-once the tooling stopped lying.
+Remaining agent-side work: the 2026-10-01 refresh should extend `active` counts to the whole
+catalog, not just the 15 verified here.

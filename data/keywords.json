@@ -1,6 +1,6 @@
 {
-  "_comment": "Machine-readable mirror of KEYWORDS.md. All figures Ubersuggest, locId 2840. Base pull 2026-08-30; gifting cluster and the onesie term re-pulled 2026-09-24. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-08-30",
+  "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
+  "pulled": "2026-09-24",
   "loc_id": 2840,
   "published": [
     {
@@ -19,43 +19,117 @@
       "shopify_article_id": "gid://shopify/Article/580194828438"
     },
     {
-      "keyword": "dinosaur gifts",
-      "volume": 1600,
-      "peak_volume": 4400,
-      "peak_month": "202512",
-      "baseline_volume": 1450,
-      "sd": 21,
-      "cpc": 1.1,
+      "keyword": "dinosaur hoodie",
+      "volume": 1900,
+      "peak_volume": 2400,
+      "peak_month": "202610",
+      "sd": 25,
+      "cpc": 0.47,
+      "competition": 0.9,
+      "intent": "Transactional",
+      "slug": "dinosaur-hoodie-buying-guide",
+      "date": "2026-09-05",
+      "status": "published",
+      "verified": "2026-09-05",
+      "note": "Taken after 'dinosaur onesie adult' failed the inventory check. 57 hoodies stocked; no live blog post covered the term.",
+      "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-hoodie-buying-guide",
+      "shopify_article_id": "gid://shopify/Article/580239556758",
+      "published_at": "2026-09-05T11:14:02Z"
+    },
+    {
+      "keyword": "dinosaur shoes",
+      "volume": 1900,
+      "peak_volume": 2400,
+      "peak_month": "202511",
+      "sd": 26,
+      "cpc": 0.57,
+      "competition": 0.99,
+      "intent": "Transactional",
+      "slug": "dinosaur-shoes-buying-guide",
+      "date": "2026-09-23",
+      "status": "published",
+      "verified": "2026-09-23",
+      "note": "SD drifted 24->26, CPC 0.48->0.57 since 2026-09-05. Shoe collections majority ACTIVE (69/78 in main collection).",
+      "secondary": [
+        {
+          "keyword": "dinosaur sneakers",
+          "volume": 260,
+          "sd": 26,
+          "cpc": 0.58
+        },
+        {
+          "keyword": "dinosaur high tops",
+          "volume": 30,
+          "sd": 30,
+          "cpc": 0.63
+        },
+        {
+          "keyword": "kids dinosaur shoes",
+          "volume": 0,
+          "sd": 12,
+          "note": "Ubersuggest returns no volume"
+        }
+      ],
+      "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-shoes-buying-guide",
+      "shopify_article_id": "gid://shopify/Article/590738063510",
+      "published_at": "2026-09-23T11:06:14Z"
+    },
+    {
+      "keyword": "dinosaur ornament",
+      "volume": 1300,
+      "peak_volume": 6600,
+      "peak_month": "202611",
+      "sd": 18,
+      "cpc": 0.6,
       "competition": 1,
       "intent": "Transactional",
-      "slug": "dinosaur-gifts",
+      "slug": "dinosaur-christmas-ornaments-guide",
       "date": "2026-09-24",
-      "status": "draft",
-      "metrics_source": "Ubersuggest locId 2840, 2026-09-24",
-      "note": "Taken ahead of the queued 'dinosaur onesie adult' on seasonality: gifting ramp is 6 weeks out (Nov 2,900) and peaks 10 weeks out (Dec 4,400), inside the 4-8 week window; the October onesie ramp was ~1 week out. Higher volume, 3x CPC, evergreen 1,300-1,600 floor."
+      "status": "published",
+      "verified": "2026-09-24",
+      "note": "Taken over the queued 'hawaiian dinosaur shirt' (summer curve) and 'dinosaur christmas sweater' (no sweater inventory). 9 of 9 ornaments ACTIVE.",
+      "secondary": [
+        {
+          "keyword": "dinosaur ornaments",
+          "volume": 1300,
+          "peak_volume": 6600,
+          "sd": 25,
+          "cpc": 1.74
+        },
+        {
+          "keyword": "dinosaur christmas ornament",
+          "volume": 880,
+          "peak_volume": 4400,
+          "sd": 18,
+          "cpc": 0.69
+        },
+        {
+          "keyword": "t rex ornament",
+          "volume": 140,
+          "peak_volume": 720,
+          "sd": 17,
+          "cpc": 0.49
+        }
+      ],
+      "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-christmas-ornaments-guide",
+      "shopify_article_id": "gid://shopify/Article/634818396310",
+      "published_at": "2026-09-24T11:15:46Z"
     }
   ],
   "next_up": [
     {
-      "keyword": "adult dinosaur gifts",
-      "volume": 720,
-      "sd": 23,
-      "cpc": 1.14,
-      "competition": 1,
-      "intent": "Commercial + Informational",
-      "slug": "adult-dinosaur-gifts",
-      "metrics_source": "Ubersuggest locId 2840, 2026-09-24",
-      "note": "Strongest child of the head term now that the head-term page exists. Near-duplicate 'dinosaur gifts adults' is SD 44 for the same intent - target this phrasing."
+      "keyword": "dinosaur stocking",
+      "volume": 390,
+      "peak_volume": 1900,
+      "peak_month": "202611",
+      "sd": 21,
+      "cpc": 0.15,
+      "intent": "Transactional",
+      "verified": "2026-09-24",
+      "note": "Plus 'dinosaur christmas stocking' 320/mo, 1,300 Nov, SD 21. 15 products in christmas-dinosaur-stockings. Ship by mid-October."
     }
   ],
   "queued_seasonal": [
-    {
-      "keyword": "dinosaur onesie",
-      "volume": 3600,
-      "sd": 26,
-      "cpc": 0.48,
-      "intent": "Commercial"
-    },
     {
       "keyword": "dinosaur pajamas adult",
       "volume": 390,
@@ -78,15 +152,39 @@
       "sd": 30,
       "cpc": 0.21,
       "blocked_by": "BACKLOG #1 \u2014 dinosaur-masks collection has 0 products"
+    },
+    {
+      "keyword": "dinosaur wrapping paper",
+      "volume": 1600,
+      "peak_volume": 4400,
+      "peak_month": "202612",
+      "sd": 23,
+      "cpc": 0.51,
+      "intent": "Transactional",
+      "verified": "2026-09-24",
+      "seasonality": "Year-round 880-1,600 (birthdays), Nov 2,400, Dec 4,400",
+      "note": "Only 6 wrapping-paper products, all Christmas prints. Before writing: check whether any non-Christmas (birthday) wrap exists; if not, the page can only serve the Nov-Dec half of the demand. Link the ornaments guide."
     }
   ],
   "queued_evergreen": [
+    {
+      "keyword": "hawaiian dinosaur shirt",
+      "volume": 260,
+      "sd": 16,
+      "cpc": 0.93,
+      "intent": "Transactional",
+      "verified": "2026-09-24",
+      "slug": "hawaiian-dinosaur-shirts",
+      "seasonality": "Summer: Jun 390, Aug 390; falls to Dec 140, Jan 110; ramps from Mar 260",
+      "note": "Deferred 2026-09-24 on seasonality. Publish mid-February, 4-8 weeks ahead of the March-June ramp. 10 ACTIVE products in dinosaur-hawaiian-shirts."
+    },
     {
       "keyword": "adult dinosaur shirt",
       "volume": 880,
       "sd": 19,
       "cpc": 0.64,
-      "intent": "Commercial"
+      "intent": "Commercial",
+      "note": "Hold until the 'dinosaur shirt' rescue of /collections/adult-dinosaur-shirt is decided (cannibalisation risk)."
     },
     {
       "keyword": "dinosaur shirt for women",
@@ -113,19 +211,19 @@
       "cpc": 0.74
     },
     {
-      "keyword": "hawaiian dinosaur shirt",
-      "volume": 260,
-      "sd": 16,
-      "cpc": 0.97,
-      "note": "lowest SD in the set; collection has 10 products"
+      "keyword": "dinosaur gifts for 3 year olds",
+      "volume": 320,
+      "sd": 28,
+      "cpc": 1.14,
+      "metrics_source": "Ubersuggest locId 2840, 2026-09-24",
+      "note": "Genuinely uncovered by the live cluster. Pair with 'for 4 year olds' (170, SD 29) and 'for 2 year olds' (90, SD 22) in one by-age guide, after consolidation."
     },
     {
       "keyword": "unique dinosaur gifts",
       "volume": 90,
       "sd": 20,
       "cpc": 1.02,
-      "note": "Collection still thin at 3 products. Covered as a section in the Day 2 gift guide.",
-      "intent": "Commercial",
+      "note": "Collection still thin at 3 products. Covered as a section in the consolidation copy.",
       "metrics_source": "Ubersuggest locId 2840, 2026-09-24"
     },
     {
@@ -134,25 +232,7 @@
       "sd": 18,
       "cpc": 1.74,
       "intent": "Commercial",
-      "note": "Lowest SD in the gifting cluster; 294-product collection already exists.",
-      "metrics_source": "Ubersuggest locId 2840, 2026-09-24"
-    },
-    {
-      "keyword": "best dinosaur gifts",
-      "volume": 210,
-      "sd": 22,
-      "cpc": 1.45,
-      "intent": "Commercial",
-      "note": "Re-pulled 2026-09-24: SD moved 16 -> 22, CPC 1.02 -> 1.45.",
-      "metrics_source": "Ubersuggest locId 2840, 2026-09-24"
-    },
-    {
-      "keyword": "dinosaur gifts for 3 year olds",
-      "volume": 320,
-      "sd": 28,
-      "cpc": 1.14,
-      "intent": "Commercial",
-      "note": "Pair with 'for 4 year olds' (170, SD 29) and 'for 2 year olds' (90, SD 22) in one by-age guide.",
+      "note": "Lowest SD and highest CPC in the gifting cluster. Live page + 294-product collection already exist. The consolidation brief keeps this page as a distinct intent - retarget, do not redirect.",
       "metrics_source": "Ubersuggest locId 2840, 2026-09-24"
     },
     {
@@ -161,7 +241,7 @@
       "sd": 18,
       "cpc": 3.87,
       "intent": "Commercial",
-      "note": "Highest CPC in the whole set. Section, not a page.",
+      "note": "Highest CPC in the whole keyword set. A section, never a page.",
       "metrics_source": "Ubersuggest locId 2840, 2026-09-24"
     }
   ],
@@ -321,24 +401,112 @@
       "volume": 70,
       "sd": 19,
       "reason": "volume too low (peaks 390 in Oct); covered as a section in the family costume article"
-    }
-  ],
-  "last_repull": "2026-09-24",
-  "time_sensitive": [
+    },
     {
       "keyword": "dinosaur onesie adult",
       "volume": 1900,
-      "peak_volume": 8100,
+      "peak_volume": 6600,
       "peak_month": "202610",
-      "baseline_volume": 800,
-      "sd": 24,
-      "cpc": 0.37,
-      "competition": 1,
+      "sd": 25,
+      "cpc": 0.5,
       "intent": "Transactional",
-      "slug": "adult-dinosaur-onesie-guide",
-      "deadline": "2026-10-31",
-      "metrics_source": "Ubersuggest locId 2840, 2026-09-24",
-      "note": "Was next_up for 2026-08-31; routine stalled 3.5 weeks. Numbers still hold (SD 24, Oct peak revised UP from 6,600 to 8,100) but the 4-8 week lead is gone. Not skipped: the 720-880/mo year-round floor means it is not a pure Halloween term. Write next week."
+      "skipped_on": "2026-09-05",
+      "reason": "No adult one-piece garment exists in the catalog. The assumed anchor product (realistic-jurassic-adult-dinosaur-pajamas) is pajama PANTS, not a onesie. Numbers re-verified and held; the inventory did not."
+    },
+    {
+      "keyword": "dinosaur onesie",
+      "volume": 3600,
+      "peak_volume": 12100,
+      "peak_month": "202610",
+      "sd": 26,
+      "cpc": 0.48,
+      "intent": "Transactional",
+      "skipped_on": "2026-09-05",
+      "reason": "Same inventory gap as 'dinosaur onesie adult'. Re-queue if an adult onesie is ever stocked (BACKLOG #12)."
+    },
+    {
+      "keyword": "dinosaur pajamas",
+      "volume": 1600,
+      "peak_volume": 2900,
+      "peak_month": "202612",
+      "sd": 16,
+      "cpc": 1.27,
+      "intent": "Transactional",
+      "skipped_on": "2026-09-05",
+      "reason": "Lowest SD and highest CPC found in two days of research, but only three active pajama products in the catalog. Thin inventory, not thin demand."
+    },
+    {
+      "keyword": "dinosaur christmas sweater",
+      "volume": 720,
+      "peak_volume": 4400,
+      "peak_month": "202612",
+      "sd": 26,
+      "cpc": 0.15,
+      "intent": "Transactional",
+      "skipped_on": "2026-09-24",
+      "reason": "No sweater in the catalog: two Christmas sweatshirts only; 'Ugly Dinosaur Sweater' is a t-shirt in DRAFT. Merchandising item BACKLOG #18."
     }
-  ]
+  ],
+  "rescue_content": [
+    {
+      "keyword": "dinosaur gifts",
+      "volume": 1600,
+      "peak_volume": 4400,
+      "peak_month": "202612",
+      "sd": 21,
+      "cpc": 1.1,
+      "intent": "Transactional",
+      "reclassified": "2026-09-05",
+      "play": "consolidation",
+      "cluster": [
+        {
+          "keyword": "adult dinosaur gifts",
+          "volume": 720,
+          "sd": 23,
+          "cpc": 1.35
+        },
+        {
+          "keyword": "dinosaur gifts for adults",
+          "volume": 720,
+          "sd": 24,
+          "cpc": 1.29
+        },
+        {
+          "keyword": "best dinosaur gifts",
+          "volume": 210,
+          "sd": 16,
+          "cpc": 1.02
+        }
+      ],
+      "reason": "Six published gift guides plus six unpublished drafts already exist on the blog. New content would cannibalise. Needs a consolidation brief (BACKLOG #12).",
+      "brief": "content/rescues/2026-09-24-dinosaur-gifts-consolidation.md",
+      "brief_date": "2026-09-24",
+      "brief_status": "awaiting-owner-approval",
+      "replacement_copy_words": 1909,
+      "proposed_canonical": "/blogs/blog/dinosaur-gifts",
+      "incumbent_rankings": "none",
+      "incumbency_checked": "2026-09-24",
+      "incumbency_note": "page_overview returns noData for both generic guides; no gift-guide URL appears in the domain's top ~180 ranking keywords by traffic (domain_keywords, locId 2840). Consolidation risks no existing ranking."
+    },
+    {
+      "keyword": "adult dinosaur gifts",
+      "volume": 720,
+      "sd": 23,
+      "cpc": 1.14,
+      "intent": "Commercial",
+      "status": "rescue",
+      "metrics_source": "Ubersuggest locId 2840, 2026-09-24",
+      "note": "Reclassified 2026-09-24 to rescue: a live page already serves it. Folds into the dinosaur-gifts consolidation. Near-duplicate 'dinosaur gifts adults' is SD 44 for identical intent - prefer this phrasing."
+    },
+    {
+      "keyword": "best dinosaur gifts",
+      "volume": 210,
+      "sd": 22,
+      "cpc": 1.45,
+      "status": "rescue",
+      "metrics_source": "Ubersuggest locId 2840, 2026-09-24",
+      "note": "Re-pulled 2026-09-24 (SD 16 -> 22). Served by the same live cluster; folds into the consolidation."
+    }
+  ],
+  "last_repull": "2026-09-24"
 }

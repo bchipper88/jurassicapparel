@@ -1,70 +1,103 @@
 ---
-title: "Dinosaur Gifts People Actually Keep: A Guide by Age, Person and Budget"
-slug: dinosaur-gifts
+type: rescue-brief
+title: "Consolidation brief — the dinosaur gift-guide cluster"
 date: 2026-09-24
-status: draft
+status: awaiting-owner-approval
+backlog_ref: 12
 target_keyword: "dinosaur gifts"
 target_volume: 1600
 target_sd: 21
 target_cpc: 1.10
 target_intent: Transactional
-seasonality: "Nov 2,900/mo · Dec peak 4,400/mo · baseline 1,300-1,600/mo year-round"
+seasonality: "Nov 2,900/mo · Dec peak 4,400/mo · 1,300-1,600/mo floor year-round"
 metrics_source: "Ubersuggest locId 2840, pulled 2026-09-24"
-secondary_keywords:
-  - "adult dinosaur gifts"
-  - "dinosaur gifts for 3 year olds"
-  - "best dinosaur gifts"
-  - "dinosaur gifts for girlfriend"
-  - "unique dinosaur gifts"
-  - "dinosaur gifts for teens"
-shopify_blog: blog
-meta_description: "Dinosaur gifts sorted by who you're buying for and what you'll spend — from $3.29 stickers to $79.99 high tops. Real prices, honest picks, and what to skip."
-tags:
-  - dinosaur gifts
-  - gift guide
-  - christmas gifts
-  - dinosaur apparel
-collections_linked:
-  - handle: dinosaur-mugs
-    products: 85
-  - handle: dinosaur-socks
-    products: 36
-  - handle: dinosaur-stickers
-    products: 31
-  - handle: dinosaur-tote-bag
-    products: 48
-  - handle: phone-cases
-    products: 62
-  - handle: dinosaur-ties
-    products: 9
-  - handle: dinosaur-dog-bandanas
-    products: 6
-  - handle: dinosaur-puzzles
-    products: 13
-  - handle: dinosaur-blankets
-    products: 10
-  - handle: dinosaur-backpack
-    products: 14
-  - handle: dinosaur-hawaiian-shirts
-    products: 10
-  - handle: dinosaur-christmas
-    products: 52
-  - handle: dinosaur-gifts-for-girlfriend
-    products: 294
-  - handle: kids-dinosaur-apparel
-    products: 185
-  - handle: adult-dinosaur-hoodie
-    products: 50
-  - handle: dinosaur-shoes-dinosaur-sneakers
-    products: 78
-  - handle: toddler-apparel
-    products: 37
-  - handle: mamasaurus
-    products: 17
-word_count: 1909
+proposed_canonical: /blogs/blog/dinosaur-gifts
+replaces_live_urls: 6
+deletes_drafts: 6
+replacement_copy_words: 1909
 ---
 
-# Dinosaur Gifts People Actually Keep: A Guide by Age, Person and Budget
+# Consolidation brief — the dinosaur gift-guide cluster
+
+**This is a brief, not an article. It needs the owner's yes before anything happens**, because
+every action in it touches live pages. `CEO-CHARTER.md` gates rewrites, redirects and deletions.
+
+## Why this is a brief and not today's post
+
+I wrote the replacement copy below as a new article targeting `dinosaur gifts` (1,600/mo, SD 21,
+$1.10 CPC, 4,400/mo in December — verified 2026-09-24, locId 2840). Then I checked it against
+live blog content, per the process change recorded in `BACKLOG.md` #12 on 2026-09-05, and stopped.
+
+**Publishing it would have made the site's single worst cannibalization problem worse.** Six live
+pages already chase this intent, plus six unpublished drafts. A seventh helps nobody.
+
+## The new finding: none of the six earns anything
+
+`BACKLOG.md` #12 identified the cluster and proposed checking `page_overview` before picking a
+canonical. I ran that check on 2026-09-24. The result is cleaner than expected:
+
+- `page_overview` returns `noData` for both generic gift guides.
+- **Not one of the six live gift-guide URLs appears anywhere in the domain's top ~180 ranking
+  keywords by traffic** (`domain_keywords`, locId 2840, 2026-09-24).
+
+The cluster ranks for nothing. Six pages, twelve months, no rankings between them.
+
+**This changes the risk calculation.** #12 assumed a canonical had to be picked carefully to
+avoid losing rankings. There are no rankings to lose. Consolidation here is close to risk-free,
+which makes it the cheapest large win available — and it means the canonical can be chosen on
+URL quality alone rather than on incumbency.
+
+## Recommendation
+
+**Publish one canonical at `/blogs/blog/dinosaur-gifts`** — a clean exact-match slug, which none
+of the six existing URLs has — using the replacement copy below. Then:
+
+| Action | URL |
+|---|---|
+| 301 → new canonical | `/blogs/blog/the-ultimate-dinosaur-gift-guide-25-prehistoric-presents-they-will-actually-love` |
+| 301 → new canonical | `/blogs/blog/25-dinosaur-gift-ideas-for-every-prehistoric-enthusiast` |
+| 301 → new canonical | `/blogs/blog/the-ultimate-guide-to-dinosaur-gifts-for-adults-who-never-outgrew-their-dino-phase` |
+| **Keep**, retarget, link to canonical | `/blogs/blog/dinosaur-gifts-for-girlfriend-unique-ideas-shell-actually-love` |
+| **Keep**, fix outbound links (#17), link to canonical | `/blogs/blog/dinosaur-christmas-gifts-the-ultimate-2026-guide-for-dino-lovers` |
+| **Keep** — distinct seasonal intent | `/blogs/blog/dinosaur-valentines-day-gifts-that-will-make-their-heart-go-rawr` |
+| Delete (never published) | the six gift drafts, including four near-identical copies of *"The Ultimate Guide to Dinosaur Gifts: 15 Prehistoric Presents for Every Fan"* |
+
+Three pages survive because they serve genuinely distinct intents that have their own volume:
+`dinosaur gifts for girlfriend` (140/mo, **SD 18**, $1.74 CPC), Christmas gifting, and
+Valentine's. Each should link up to the canonical rather than compete with it.
+
+## Timing
+
+The December peak is 4,400/mo and ~10 weeks out. A consolidation done in the next two weeks has
+time to settle before the season. Done in December, it is next year's win.
+
+## Verification behind the replacement copy
+
+Every price and product named was confirmed live on 2026-09-24. Link check passes: 18 collections,
+all non-empty and active-verified. The copy deliberately avoids `toys` (0 of 30 ACTIVE) and
+`dinosaur-jewelry` (1 of 6) per `BACKLOG.md` #13, and links the jewelry box as a product instead
+of sending readers to a one-item collection page.
+
+The returns guidance in the copy is taken from the store's actual refund policy, read on
+2026-09-24: made-to-order, **all sales final**, replacement or refund for damage or misprint,
+requested within 30 days, item unused and in original packaging. The copy leans on this
+deliberately — steering gift buyers toward unsized items is honest merchandising advice and it
+should reduce the damage-claim rate in `BACKLOG.md` #11.
+
+---
+
+# Replacement copy
+
+*Ready to publish as-is at `/blogs/blog/dinosaur-gifts`. 1,909 words.*
+
+## Dinosaur Gifts People Actually Keep: A Guide by Age, Person and Budget
+
+**Meta description (156 chars):** Dinosaur gifts sorted by who you're buying for and what you'll
+spend — from $3.29 stickers to $79.99 high tops. Real prices, honest picks, and what to skip.
+
+**Tags:** dinosaur gifts, gift guide, christmas gifts, dinosaur apparel
+
+---
 
 You know someone whose dinosaur thing is well documented. Maybe it's a four-year-old who
 corrects adults on pronunciation, maybe it's a grown woman with a Stegosaurus tattoo. Either
@@ -75,7 +108,7 @@ The useful way to sort dinosaur gifts is not by dinosaur. It's by who's opening 
 you want to spend. So that's how this is organized — and every price below is what the item
 actually costs on this site today, not a vague "affordable."
 
-## Start here: five that work for almost anyone
+### Start here: five that work for almost anyone
 
 If you want to stop reading and just buy something, these are the safest picks in the catalog.
 Safe meaning: no sizing to guess, no age range to get wrong, and nothing that only works if
@@ -91,7 +124,7 @@ the recipient's taste matches yours exactly.
 
 Everything below is a variation on those five, tuned to a particular person.
 
-## Dinosaur gifts for adults
+### Dinosaur gifts for adults
 
 The hardest bracket, because adult dinosaur gifts fail in a specific way: they read as a
 joke, get one laugh, and go in a drawer. The fix is to buy something the person would have
@@ -113,7 +146,7 @@ about as close to a recommendation-by-data as we can honestly give you.
 **For the one who'd wear it in public:** a [dinosaur Hawaiian shirt](/collections/dinosaur-hawaiian-shirts),
 $49.99–$59.99. Ten patterns. This is a confident gift — give it to someone you know well.
 
-## Dinosaur gifts for kids, by age
+### Dinosaur gifts for kids, by age
 
 Age matters more here than in any other bracket, and the failure mode is buying up: a great
 gift for a seven-year-old is a boring gift for a three-year-old, and vice versa.
@@ -136,7 +169,7 @@ on this list. *Jungle T-Rex* and *Pink Dinos* are the two that move.
 are a bit more design-led — a [dinosaur puzzle](/collections/dinosaur-puzzles) at $24.99–$39.99,
 or a [dinosaur phone case](/collections/phone-cases) at $24.99 if they've got a phone.
 
-## Dinosaur gifts for her
+### Dinosaur gifts for her
 
 There's a whole [dinosaur gifts for girlfriend](/collections/dinosaur-gifts-for-girlfriend)
 collection — 294 products — which exists because this is one of the most common ways people
@@ -151,7 +184,7 @@ arrive here. A few honest notes on it:
   Everything here is made to order, which means all sales are final — so a guessed size is a
   guess you're stuck with. The unsized shelf exists for exactly this situation.
 
-## Dinosaur gifts for him
+### Dinosaur gifts for him
 
 Same principle, different shelf. A [dinosaur tie](/collections/dinosaur-ties) ($21.99) if he
 wears one, a [Hawaiian shirt](/collections/dinosaur-hawaiian-shirts) ($49.99–$59.99) if he
@@ -162,7 +195,7 @@ pattern turns a boring necessity into something he'll actually mention.
 If he has a dog, the [dinosaur dog bandanas](/collections/dinosaur-dog-bandanas) at $19.99 are a
 gift for him disguised as a gift for the dog. Six designs.
 
-## Dinosaur gifts for teens
+### Dinosaur gifts for teens
 
 The trickiest bracket in the guide, and worth its own section because everything that works
 for a seven-year-old actively backfires here. A teenager who likes dinosaurs likes them
@@ -178,7 +211,7 @@ socks a fifteen-year-old will actually wear.
 
 What doesn't: anything sized, anything pastel, anything a younger sibling would also want.
 
-## What makes a dinosaur gift fail
+### What makes a dinosaur gift fail
 
 Worth naming, because the failure modes are consistent and easy to avoid:
 
@@ -200,7 +233,7 @@ age breakdown above exists for exactly this reason.
 have a favourite, and they will tell you about it at length if asked. Asking is not a spoiler —
 "which one's your favourite again?" is a normal question that nobody reads as gift research.
 
-## Dinosaur gifts by budget
+### Dinosaur gifts by budget
 
 Sometimes the constraint isn't the person, it's the number.
 
@@ -214,7 +247,7 @@ Sometimes the constraint isn't the person, it's the number.
 The under-$10 row is worth a second look if you're buying for a classroom, a party, or a
 stocking. Stickers are the only thing here you can reasonably buy thirty of.
 
-## If it's a Christmas gift specifically
+### If it's a Christmas gift specifically
 
 The [dinosaur Christmas collection](/collections/dinosaur-christmas) is 52 products of
 explicitly festive stuff, and it solves a problem the rest of the catalog doesn't: a gift that's
@@ -232,7 +265,7 @@ Not because anything will sell out — nothing here will, because it's all made 
 because made-to-order means production time *plus* shipping time, and December carrier
 schedules are unforgiving. A gift that arrives on the 27th is a different gift.
 
-## Frequently asked questions
+### Frequently asked questions
 
 **What's the best dinosaur gift if I know nothing about the person?**
 A mug or a pair of socks, in that order. No size, no taste risk, no age range. Both land
@@ -265,7 +298,7 @@ it's the reason this guide keeps steering you toward unsized gifts.
 Stickers, at $3.29–$5.99. That's the only category that lands there, and they're genuinely good
 for stockings and party bags.
 
-## One thing to do next
+### One thing to do next
 
 If you've read this far and still can't decide, buy the mug. It's the gift with the highest
 floor in the entire catalog — no size, no age, no taste risk, used every morning for years.
