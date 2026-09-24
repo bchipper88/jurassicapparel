@@ -3,13 +3,14 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pull: 2026-08-30.
+**All data US (`locId 2840`).** Research pull: 2026-08-30. Gifting cluster re-pulled 2026-09-24.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
 - 📋 **Queued** — verified, waiting its turn
 - ✍️ **Writing** — in progress
 - ✅ **Published** — shipped, logged with date + slug
+- ⏳ **Time-sensitive** — still valid, but its ideal publishing window has narrowed or passed
 - 🔁 **Rescue** — existing URL ranking 8–40; needs a rewrite brief, not a new page
 - ⏭️ **Skip** — data doesn't support it (reason always recorded)
 
@@ -31,15 +32,37 @@ Ubersuggest figure that justified it.
   Secondary: `dinosaur onesie adult` (1,900/mo avg, 6,600 Oct, SD 25, Transactional).
   **LIVE:** https://jurassicapparel.com/blogs/blog/family-dinosaur-costume-ideas
 
+- ✅ Published (2026-09-24) **dinosaur gifts** — 1,600/mo avg | **4,400/mo Dec peak** | SD 21
+  | $1.10 CPC | Transactional → `dinosaur-gifts`
+  Day 2. Taken ahead of the queued `dinosaur onesie adult` on seasonality grounds: on 24 Sept
+  the October onesie ramp is ~1 week out (too late to index into), while the gifting ramp is
+  6 weeks out (Nov 2,900) and the peak 10 weeks out (Dec 4,400) — squarely in the 4–8 week
+  publishing window. Higher volume, triple the CPC, SD 21, and a 1,300–1,600/mo evergreen
+  baseline rather than a two-month spike. Covers a long tail of ~1,880/mo across
+  `adult dinosaur gifts` (720), `dinosaur gifts for 3 year olds` (320), `best dinosaur gifts`
+  (210), `dinosaur gifts for girlfriend` (140, SD 18) and six smaller variants.
+
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur onesie adult** — 1,900/mo avg | **6,600/mo Oct peak** | SD 25 | $0.50 CPC | Transactional
-  → `adult-dinosaur-onesie-guide`
-  The highest-intent term in the seasonal cluster and it points straight at the store's
-  #1 traffic page (*Realistic Jurassic Adult Dinosaur Pajamas*, 461 visits/mo). Dedicated
-  page rather than a section, because the intent is transactional and deserves its own URL.
+- 🎯 **adult dinosaur gifts** — 720/mo | SD 23 | $1.14 CPC | Commercial + Informational
+  → `adult-dinosaur-gifts`
+  Re-verified 2026-09-24. The strongest single child of the `dinosaur gifts` head term, and
+  now that the head-term page is live it can earn the internal link. Note the near-duplicate
+  `dinosaur gifts adults` sits at **SD 44** for the same intent — target this phrasing, not
+  that one. Ships into the same Nov/Dec window.
+
+## ⏳ TIME-SENSITIVE — write before Oct 31 or defer a year
+
+- ⏳ **dinosaur onesie adult** — 1,900/mo avg | **8,100/mo Oct peak** (re-pulled 2026-09-24,
+  up from 6,600) | SD 24 | $0.37 CPC | Transactional → `adult-dinosaur-onesie-guide`
+  Was 🎯 Next up for 2026-08-31; the routine stalled 3.5 weeks and the ideal window closed.
+  **Not skipped** — the numbers are fine and it has a 720–880/mo year-round floor, so it is
+  not a pure Halloween term. But publishing on 24 Sept means indexing into the peak rather
+  than ahead of it. Realistic capture is the Nov 1,900 / Dec 1,600 tail plus the evergreen
+  baseline. Points at the store's #1 traffic page (*Realistic Jurassic Adult Dinosaur
+  Pajamas*, 461 visits/mo, $49.99–$58.99, verified live 2026-09-24). Write it next week.
 
 ---
 
@@ -77,10 +100,18 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
   collection page, not a blog post. Treat as a collection-copy brief.
 - 📋 **adult dinosaur shirt** — 880/mo | SD 19 | $0.64 CPC | Commercial
   Same intent, **half the difficulty**. This is the one to actually target.
-- 📋 **adult dinosaur gifts** — 720/mo | SD 23 | $1.35 CPC | Commercial + Informational
-  Gift-guide format. Highest CPC in the evergreen set — commercially valuable traffic.
-- 📋 **dinosaur gifts** — 1,600/mo | SD 21 | $1.10 CPC | Commercial
-  Head term of the gifting cluster, and SD 21 makes it genuinely winnable. Strong Nov/Dec play.
+- ✅ *(moved to Published 2026-09-24)* **dinosaur gifts** — head term of the cluster.
+- 🎯 *(moved to Next up 2026-09-24)* **adult dinosaur gifts** — 720/mo | SD 23 | $1.14 CPC.
+- 📋 **dinosaur gifts for girlfriend** — 140/mo | SD 18 | **$1.74 CPC** | Commercial
+  New 2026-09-24. Lowest difficulty in the gifting cluster and the highest CPC of the
+  meaningful-volume terms. The `dinosaur-gifts-for-girlfriend` collection already holds 294
+  products, so the inventory is there. Small volume, but cheap to win and it converts.
+- 📋 **best dinosaur gifts** — 210/mo | SD 22 | $1.45 CPC — verified 2026-09-24, still easy.
+- 📋 **dinosaur gifts for 3 year olds** — 320/mo | SD 28 | $1.14 CPC — verified 2026-09-24.
+  Pairs with `dinosaur gifts for 4 year olds` (170/mo, SD 29) and `for 2 year olds` (90/mo,
+  SD 22) in one by-age guide rather than three thin pages.
+- 📋 **dinosaur gifts for teens** — 40/mo | SD 18 | **$3.87 CPC** — the highest CPC in the
+  entire keyword set. Volume is tiny; the click value is not. Section, not a page.
 - 📋 dinosaur shirt for women — 480/mo | SD 36 | $0.97 CPC
 - 📋 ladies dinosaur shirt — 390/mo | SD 21 | $0.64 CPC — easier sibling of the above
 - 📋 hawaiian dinosaur shirt — 260/mo | SD 16 | $0.97 CPC — **lowest difficulty in the set**;
@@ -88,7 +119,6 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 - 📋 button up dinosaur shirt — 320/mo | SD 25 | $0.74 CPC
 - 📋 birthday dinosaur shirt — 390/mo | SD 28 | $0.59 CPC — pairs with the
   `dinosaur-birthday-party` blog, which has only 1 article
-- 📋 dinosaur gifts for 3 year olds — 320/mo | SD 25 | $1.43 CPC
 - 📋 best dinosaur gifts — 210/mo | SD 16 | $1.02 CPC — very low difficulty
 - 📋 unique dinosaur gifts — 110/mo | SD 22 | $0.68 CPC — `unique-dinosaur-gifts`
   collection has only 3 products; thin. Merchandising note filed.

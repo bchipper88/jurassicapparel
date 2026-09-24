@@ -1,6 +1,6 @@
 {
-  "_comment": "Shopify catalog snapshot. The internal-link map. Refresh monthly (CLAUDE.md monthly routine). Never link to a collection with products: 0.",
-  "snapshot_date": "2026-08-30",
+  "_comment": "Shopify catalog snapshot. The internal-link map. Refresh monthly (CLAUDE.md monthly routine). Never link to a collection in empty_collections_do_not_link or draft_heavy_do_not_link. NOTE: a collection's product count includes DRAFT products, which are invisible to customers \u2014 always verify ACTIVE count before linking.",
+  "snapshot_date": "2026-09-24",
   "shop": {
     "name": "Jurassic Apparel",
     "domain": "jurassicapparel.com",
@@ -273,7 +273,9 @@
       {
         "handle": "dinosaur-socks",
         "title": "Dinosaur Socks",
-        "products": 36
+        "products": 36,
+        "active": 35,
+        "active_verified": "2026-09-24"
       },
       {
         "handle": "dinosaur-high-tops",
@@ -293,34 +295,46 @@
       {
         "handle": "dinosaur-hawaiian-shirts",
         "title": "Dinosaur Hawaiian Shirts",
-        "products": 10
+        "products": 10,
+        "active": 10,
+        "active_verified": "2026-09-24"
       }
     ],
     "accessories_home": [
       {
         "handle": "dinosaur-mugs",
         "title": "Dinosaur Mugs",
-        "products": 85
+        "products": 85,
+        "active": 50,
+        "active_verified": "2026-09-24"
       },
       {
         "handle": "phone-cases",
         "title": "Dinosaur Phone Cases",
-        "products": 62
+        "products": 62,
+        "active": 50,
+        "active_verified": "2026-09-24"
       },
       {
         "handle": "dinosaur-tote-bag",
         "title": "Dinosaur Tote Bag",
-        "products": 48
+        "products": 48,
+        "active": 48,
+        "active_verified": "2026-09-24"
       },
       {
         "handle": "dinosaur-stickers",
         "title": "Dinosaur Stickers",
-        "products": 31
+        "products": 31,
+        "active": 29,
+        "active_verified": "2026-09-24"
       },
       {
         "handle": "toys",
         "title": "Dinosaur Toys",
-        "products": 30
+        "products": 30,
+        "active": 0,
+        "active_verified": "2026-09-24"
       },
       {
         "handle": "dinosaur-purses",
@@ -335,12 +349,16 @@
       {
         "handle": "dinosaur-backpack",
         "title": "Dinosaur Backpacks",
-        "products": 14
+        "products": 14,
+        "active": 14,
+        "active_verified": "2026-09-24"
       },
       {
         "handle": "dinosaur-puzzles",
         "title": "Dinosaur Puzzles",
-        "products": 13
+        "products": 13,
+        "active": 13,
+        "active_verified": "2026-09-24"
       },
       {
         "handle": "dinosaur-pillows-cases",
@@ -355,12 +373,16 @@
       {
         "handle": "dinosaur-blankets",
         "title": "Dinosaur Blankets",
-        "products": 10
+        "products": 10,
+        "active": 10,
+        "active_verified": "2026-09-24"
       },
       {
         "handle": "dinosaur-ties",
         "title": "Dinosaur Ties",
-        "products": 9
+        "products": 9,
+        "active": 7,
+        "active_verified": "2026-09-24"
       },
       {
         "handle": "dinosaur-posters",
@@ -370,7 +392,9 @@
       {
         "handle": "dinosaur-dog-bandanas",
         "title": "Dinosaur Dog Bandanas",
-        "products": 6
+        "products": 6,
+        "active": 6,
+        "active_verified": "2026-09-24"
       },
       {
         "handle": "dinosaur-bandanas",
@@ -380,7 +404,9 @@
       {
         "handle": "dinosaur-jewelry",
         "title": "Dinosaur Jewelry",
-        "products": 6
+        "products": 6,
+        "active": 1,
+        "active_verified": "2026-09-24"
       },
       {
         "handle": "dinosaur-flip-flops",
@@ -392,7 +418,9 @@
       {
         "handle": "dinosaur-christmas",
         "title": "Dinosaur Christmas",
-        "products": 52
+        "products": 52,
+        "active": 43,
+        "active_verified": "2026-09-24"
       },
       {
         "handle": "christmas-dinosaur-stockings",
@@ -449,7 +477,9 @@
       {
         "handle": "unique-dinosaur-gifts",
         "title": "Unique Dinosaur Gifts",
-        "products": 3
+        "products": 3,
+        "active": 3,
+        "active_verified": "2026-09-24"
       }
     ]
   },
@@ -473,6 +503,26 @@
       "handle": "festive-dino-wonderland-christmas-dinosaur-mug",
       "title": "Festive Dino Wonderland - Christmas Dinosaur Mug",
       "note": "Ranks #3 for 'dinosaur christmas mug'. 32 visits/mo."
+    }
+  ],
+  "draft_heavy_do_not_link": [
+    {
+      "handle": "toys",
+      "products": 30,
+      "active": 0,
+      "note": "ALL 30 products are DRAFT. Collection page renders empty to customers. BACKLOG #9. Verified 2026-09-24."
+    },
+    {
+      "handle": "dinosaur-jewelry",
+      "products": 6,
+      "active": 1,
+      "note": "5 of 6 products are DRAFT; only the Pink Retro Rex jewelry box is live. BACKLOG #10. Verified 2026-09-24."
+    },
+    {
+      "handle": "unique-dinosaur-gifts",
+      "products": 3,
+      "active": 3,
+      "note": "All live but only 3 products \u2014 too thin to be a link destination. Merchandising item."
     }
   ]
 }

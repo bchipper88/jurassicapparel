@@ -20,11 +20,20 @@ def parse(path):
         sys.exit(f"{path}: no front matter")
     fm_text, body_md = m.group(1), m.group(2)
 
-    fm = {}
+    fm, lists, key = {}, {}, None
     for line in fm_text.splitlines():
+        im = re.match(r"^\s+-\s+(.*)$", line)
+        if im and key:                       # a bare "- value" list item
+            lists.setdefault(key, []).append(im.group(1).strip().strip('"'))
+            continue
         km = re.match(r"^([a-z_]+):\s*(.*)$", line)
-        if km and km.group(2).strip():
-            fm[km.group(1)] = km.group(2).strip().strip('"')
+        if km:
+            key = km.group(1)
+            if km.group(2).strip():
+                fm[key] = km.group(2).strip().strip('"')
+                key = None               # scalar, so no list follows
+        else:
+            key = None                   # nested mapping (e.g. collections_linked)
 
     # Shopify renders the title itself; drop the leading H1 from the body.
     body_md = body_md.lstrip()
@@ -34,7 +43,9 @@ def parse(path):
     # Relative store links -> absolute.
     html = re.sub(r'href="(/(?:collections|products)/)', f'href="{STORE}\\1', html)
 
-    tags = ["dinosaur costume", "halloween", "family costume", "dinosaur apparel"]
+    # Tags come from front matter; the old hard-coded costume set was wrong for
+    # every article that isn't about costumes.
+    tags = lists.get("tags") or ["dinosaur apparel"]
     if fm.get("target_keyword"):
         tags.insert(0, fm["target_keyword"])
 

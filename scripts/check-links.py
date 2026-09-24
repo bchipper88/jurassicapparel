@@ -11,8 +11,11 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 catalog = json.load(open(ROOT / "data" / "catalog.json"))
 
 EMPTY = {c["handle"]: c for c in catalog["empty_collections_do_not_link"]}
-KNOWN = {c["handle"]: c["products"]
-         for group in catalog["collections"].values() for c in group}
+# A collection's product count includes DRAFT products, which customers never see.
+# A collection that is all-draft passes a naive count check but renders empty on the
+# storefront, so it gets its own blocklist.
+DRAFTY = {c["handle"]: c for c in catalog.get("draft_heavy_do_not_link", [])}
+KNOWN = {c["handle"]: c for group in catalog["collections"].values() for c in group}
 
 def check(path):
     text = path.read_text()
@@ -21,10 +24,16 @@ def check(path):
     for h in handles:
         if h in EMPTY:
             problems.append(f"  {h:<30} EMPTY COLLECTION — remove this link")
+        elif h in DRAFTY:
+            d = DRAFTY[h]
+            problems.append(f"  {h:<30} {d['active']}/{d['products']} live — {d['note']}")
         elif h not in KNOWN:
             problems.append(f"  {h:<30} not in catalog.json — verify, then add it to the map")
         else:
-            print(f"  {h:<30} {KNOWN[h]:>4} products  ok")
+            col = KNOWN[h]
+            active = col.get("active")
+            shown = f"{active} live / {col['products']}" if active is not None else f"{col['products']} products"
+            print(f"  {h:<30} {shown:>20}  ok")
     for p in problems:
         print(p)
     return problems

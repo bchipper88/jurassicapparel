@@ -385,3 +385,66 @@ revenue.
 Either the policy is not being enforced, or there is a real quality/sizing problem generating
 genuine damage claims. **Read the actual refund reasons on the 12 months of returns** — this is
 the largest recoverable leak visible in the data.
+
+
+## 12. The `toys` collection is 100% draft — 30 products, 0 visible 🔴 HIGH
+
+Found 2026-09-24 while link-mapping the gift guide. Every one of the 30 products in
+`/collections/toys` ("Dinosaur Toys") has `status: DRAFT`. The collection page exists, is
+linked from the catalog, and renders **empty** to every customer who reaches it.
+
+This is worse than the empty collections in #1, because the count in `data/catalog.json`
+said 30 — it looked stocked. Toys are a natural gift-guide destination and the collection
+had to be cut from today's article for this reason.
+
+**Ask:** are these 30 drafts deliberate (like the Christmas pajamas in #0) or forgotten? If
+deliberate, say so and the agent will stop surfacing it. If forgotten, publishing them is a
+bulk status change and opens a whole gifting category.
+
+## 13. `dinosaur-jewelry` is 5/6 draft — one live product 🟡 MEDIUM
+
+Same root cause as #12, smaller blast radius. Only *Dinosaur Jewelry Box - Pink Retro Rex*
+($35.99) is ACTIVE; the charm hoops, two enamel-pin sets, fossil necklace and keychains are
+all DRAFT. The collection page shows one item.
+
+Notable because `personalized dinosaur gifts` carries a **$1.88 CPC** and the jewelry/pins
+tier is exactly the $5–$12 impulse-gift band the catalog is otherwise missing — the drafted
+items are priced $5.99–$12.99.
+
+## 14. The shipping policy page is empty 🔴 HIGH — Q4 conversion risk
+
+`shopPolicies` returns `SHIPPING_POLICY` with an **empty body**. The store publishes a
+shipping policy page with nothing on it.
+
+The refund policy is thorough and clear (made-to-order, all sales final, replacement for
+damage or misprint within 30 days) — so this is an odd gap rather than a pattern. It matters
+most right now: these are made-to-order products, so the customer's real question in
+November and December is "production time plus shipping time — will it arrive?", and the
+page that should answer it is blank. Every gift-guide visitor who wants that answer bounces.
+
+**Fix (owner, ~15 minutes):** write the production + shipping window into
+Settings → Policies → Shipping policy. Even a rough range beats an empty page.
+
+## 15. Personal Gmail address published in the privacy policy 🟢 LOW
+
+The privacy policy's contact clause gives `john.honochick@gmail.com` alongside the LLC's
+registered address, while the store's Contact policy uses `john@jurassicapparel.com` and the
+terms of service use `info@jurassicapparel.com`. Three different addresses, one of them
+personal, on a business's legal pages.
+
+**Fix:** use the domain address consistently. Cosmetic, but it is the page customers read
+when deciding whether the store is real.
+
+## 16. `check-links.py` counted draft products as inventory ✅ FIXED 2026-09-24
+
+The link checker validated a collection by its **total** product count, which includes DRAFT
+products customers cannot see. It would have passed a link to `/collections/toys` (30
+products, 0 live) as healthy — the exact bug that #12 describes.
+
+Fixed in this repo the same day: `data/catalog.json` now carries a `draft_heavy_do_not_link`
+list plus verified `active` counts, and `scripts/check-links.py` fails on them. Also fixed
+`scripts/md-to-shopify.py`, which hard-coded Halloween costume tags onto every article
+regardless of subject; tags now come from article front matter.
+
+No owner action needed — logged because the two merchandising items above were only visible
+once the tooling stopped lying.

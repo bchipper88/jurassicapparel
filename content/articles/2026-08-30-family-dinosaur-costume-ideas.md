@@ -16,6 +16,11 @@ secondary_keywords:
   - "dinosaur costume ideas"
   - "matching family halloween costumes"
 shopify_blog: blog
+tags:
+  - dinosaur costume
+  - halloween
+  - family costume
+  - dinosaur apparel
 meta_description: "Matching family dinosaur costumes built from real clothes — adult onesies, Mamasaurus and Dino Dad hoodies, kids' sizes. Comfortable, warm, and wearable long after October 31."
 collections_linked:
   - handle: mamasaurus
