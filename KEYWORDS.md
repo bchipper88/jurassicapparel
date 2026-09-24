@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pull: 2026-08-30.
+**All data US (`locId 2840`).** Base research pull: 2026-08-30. Re-verified rows carry their own date.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -31,37 +31,71 @@ Ubersuggest figure that justified it.
   Secondary: `dinosaur onesie adult` (1,900/mo avg, 6,600 Oct, SD 25, Transactional).
   **LIVE:** https://jurassicapparel.com/blogs/blog/family-dinosaur-costume-ideas
 
+- ✅ Published (2026-09-24) **dinosaur pajamas** — 1,600/mo avg | **2,900/mo Dec peak**
+  | **SD 17** | **$1.57 CPC** | Transactional → `dinosaur-pajamas-for-adults`
+  Day 2. Substituted for `dinosaur onesie adult` after inventory verification killed that
+  target (see ⏭️ Skipped). Lowest difficulty of anything at this volume in the whole file,
+  highest CPC in the whole file, and we already rank **#14** on it with
+  `/products/realistic-jurassic-adult-dinosaur-pajamas`. Dec peak means late-September
+  publication is 10 weeks ahead of the ramp. Angle is adult sizing (2XS–6XL), because the
+  page-1 SERP is almost entirely toddler pajamas from big-box retail.
+  Secondaries: `dinosaur pajamas for adults` (390/mo, SD 25), `dinosaur pajamas for women`
+  (390/mo, SD 28), `adult dinosaur pajamas` (320/mo, SD 25), `dinosaur pajamas men`
+  (170/mo, SD 22).
+  **Status:** see `content/articles/2026-09-24-dinosaur-pajamas-for-adults.md` front matter.
+
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur onesie adult** — 1,900/mo avg | **6,600/mo Oct peak** | SD 25 | $0.50 CPC | Transactional
-  → `adult-dinosaur-onesie-guide`
-  The highest-intent term in the seasonal cluster and it points straight at the store's
-  #1 traffic page (*Realistic Jurassic Adult Dinosaur Pajamas*, 461 visits/mo). Dedicated
-  page rather than a section, because the intent is transactional and deserves its own URL.
+- 🎯 **dinosaur gifts** — 1,600/mo avg | **4,400/mo Dec peak** | SD 21 | $1.10 CPC | Transactional
+  → `dinosaur-gifts-guide`  *(verified 2026-09-24)*
+  Pulled forward from the evergreen queue. The Halloween costume window has effectively
+  closed — publishing into 5-weeks-out is publishing into the peak — so the calendar now
+  belongs to the Nov/Dec gifting cluster. Nov 2,900 / Dec 4,400 against a June floor of 880
+  makes this a gifting keyword, and late September is 8–10 weeks ahead of the ramp: exactly
+  the playbook window. SD 21 is winnable at DA 17, and it maps onto `best-sellers` (1,017),
+  `dinosaur-gifts-for-girlfriend` (294) and `dinosaur-mugs` (85) — all stocked.
+  Pair it with `adult dinosaur gifts` (720/mo, SD 23, $1.35 CPC) as the secondary.
 
 ---
 
-## 📋 QUEUE — Seasonal costume cluster (ship through September)
+## 📋 QUEUE — Seasonal costume cluster ~~(ship through September)~~ — WINDOW CLOSED
 
-Priority block. The whole cluster decays after October 31; everything here is date-bound.
+**Reviewed 2026-09-24: this block is closed for the season.** With Halloween five weeks out,
+a new page cannot index and climb in time, so publishing into it now buys almost nothing. The
+two remaining live entries are blocked on inventory anyway. The calendar has moved to the
+Christmas and gifting clusters below. Reopen this block in **July 2027**.
 
-- 📋 **dinosaur onesie** — 3,600/mo | SD 26 | Commercial → `dinosaur-onesie`
-  Broader sibling of the adult term. Sequence after it so the adult page earns the internal link.
-- 📋 **dinosaur pajamas adult** — 390/mo avg | **720/mo Dec peak** | SD 25 | $0.97 CPC | Transactional
-  → `adult-dinosaur-pajamas`
-  Note the different curve — this one peaks in **December**, not October. Schedule late Oct.
-- 📋 **dinosaur costume adult** — 3,600/mo | SD 27 | $0.37 CPC
-  Verify stock angle before writing. We sell wearables, not costumes; the honest angle is
-  "comfortable alternatives to a rented costume." If that reads as a stretch, skip it.
+- ⛔ **dinosaur onesie** — 3,600/mo | **12,100/mo Oct peak** | SD 28 | $0.46 CPC | Transactional
+  **BLOCKED on inventory, not difficulty** *(verified 2026-09-24)*. The volume is the largest
+  in the seasonal cluster and the difficulty is fine, but the dominant intent is a one-piece
+  hooded kigurumi and the store does not sell one. See `BACKLOG.md` #12 for the merchandising
+  question. The servable slice is the *baby* sub-intent — our baby bodysuit listings already
+  use the phrase "Dinosaur Baby Onesie" and `baby-dinosaur-bodysuits` (19) and
+  `dinosaur-baby-outfit` (36) are stocked. Revisit as `dinosaur baby onesie`, never as the
+  head term.
+- ✅ **dinosaur pajamas adult** — 320/mo avg | **720/mo Dec peak** | SD 25 | $1.30 CPC | Transactional
+  *(re-verified 2026-09-24; was logged as 390/mo, $0.97)*. **Covered** as a section inside the
+  2026-09-24 `dinosaur pajamas` article rather than given its own URL — 320/mo is too thin to
+  justify a second page competing with our own.
+- ⏸️ **dinosaur costume adult** — 3,600/mo | SD 27 | $0.37 CPC
+  **Deferred to 2027.** Same honesty problem as the onesie — we sell wearables, not costumes —
+  and as of 2026-09-24 the Halloween window is too short for a new page to index and rank.
+  Revisit in **July 2027**, 12 weeks ahead of the curve, and only if the stock angle is honest.
 - 📋 **dino mask** — 9,900/mo | SD 30 | $0.21 CPC
   **BLOCKED** — `dinosaur-masks` collection has 0 products. Merchandising item first
   (`BACKLOG.md` #1). Do not write into an empty collection.
 
-## 📋 QUEUE — Christmas cluster (research mid-October, ship Nov)
+## 📋 QUEUE — Christmas & gifting cluster (ACTIVE BLOCK — ship now through November)
 
-The `dinosaur-christmas` collection has 52 products, so this one is stocked and ready.
+**Promoted to the active block 2026-09-24** now that the costume window has closed. December
+peaks need to ship in late September and October, not November.
+
+The `dinosaur-christmas` collection has 52 products, so this one is stocked and ready — but
+note that many of its members show 0 inventory, so verify any specific product before naming
+it. Do **not** link either `dinosaur-christmas-pajamas` collection: both are draft-only and
+render empty (`BACKLOG.md` #13).
 Tracked project keywords already include `dinosaur christmas`, `dinosaur christmas sweater`,
 `christmas dinosaur mug`, `dino christmas wrapping paper`, `dinosaur stocking`.
 
@@ -129,6 +163,17 @@ the work is a rewrite brief, not a new article. Ordered by volume ÷ difficulty.
 ---
 
 ## ⏭️ SKIPPED
+
+- ⏭️ **dinosaur onesie adult** — 1,900/mo | **8,100/mo Oct peak** | SD 24 | $0.37 CPC | Transactional
+  *(skipped 2026-09-24, on the day it was due to be written)*
+  **The numbers held; the inventory did not.** Volume, difficulty and seasonality all passed
+  verification. But checking Shopify before writing showed the store sells **no adult one-piece
+  onesie**. *Realistic Jurassic – Adult Dinosaur Pajamas* — the page this entry pointed at as
+  "the store's #1 traffic page" — is unisex **wide-leg pajama pants**, not a onesie. Writing a
+  transactional buying guide for a garment we cannot ship would have broken `CEO-CHARTER.md`
+  principle 2, and would have bounced: a shopper who wants a kigurumi does not want pants.
+  Replaced same-day with `dinosaur pajamas` (1,600/mo, SD 17), which we genuinely stock.
+  *Lesson for the queue: verify inventory at selection time, not at writing time.*
 
 - ⏭️ **dinosaur costume** — 27,100/mo | SD 28
   Volume is real but we don't stock costumes, and a DA-17 site will not take a 27k head

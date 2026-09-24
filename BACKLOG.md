@@ -385,3 +385,80 @@ revenue.
 Either the policy is not being enforced, or there is a real quality/sizing problem generating
 genuine damage claims. **Read the actual refund reasons on the 12 months of returns** — this is
 the largest recoverable leak visible in the data.
+
+---
+
+*Discovered 2026-09-24 while verifying sleepwear inventory for the `dinosaur pajamas` article.*
+
+## 12. No `dinosaur-pajamas` collection exists, and the term is the best-value keyword we own 🔴 HIGH
+
+`dinosaur pajamas` is **1,600/mo, SD 17, $1.57 CPC** (Ubersuggest, locId 2840, 2026-09-24),
+peaking at 2,900/mo in December. SD 17 is the joint-lowest difficulty of anything with real
+volume in `KEYWORDS.md` — the same difficulty as `dinosaur shirt`, which the rescue queue
+calls the best single opportunity in the repo. The $1.57 CPC is the **highest of any keyword
+in the entire queue**.
+
+The store already ranks **#14** for it on a single product page
+(`/products/realistic-jurassic-adult-dinosaur-pajamas`, 59 est. clicks/mo) at DA 16 — and a
+DA-18 competitor sits at #4 on this SERP, so page 1 is reachable.
+
+There is no collection page for it. The three ACTIVE sleepwear SKUs are scattered:
+
+| Product | Price | Sizes | Status |
+|---|---|---|---|
+| Realistic Jurassic – Adult Dinosaur Pajamas | $49.99–$58.99 | 2XS–6XL | ACTIVE |
+| Dino Fossils – Adult Dinosaur Pajamas | $50.00–$58.47 | 2XS–6XL | ACTIVE |
+| Frosted Dino Cookie – Women's Pajama Shorts | $31.99–$33.99 | XS–2XL | ACTIVE |
+
+**Fix (owner, ~10 minutes):** create a `dinosaur-pajamas` collection holding those three
+products. A commercial collection URL is a far better ranking asset for a transactional term
+than a single product page, and today's article is written to link into it the moment it
+exists. Collection creation is gated by the charter, so the agent cannot do this.
+
+## 13. Two duplicate `dinosaur-christmas-pajamas` collections, both storefront-empty 🟠 HIGH
+
+Two collections with the **identical title** "Dinosaur Christmas Pajamas":
+`dinosaur-christmas-pajamas` and `dinosaur-christmas-pajamas-1`. Each lists 7 products, and
+every one of those products is DRAFT with 0 inventory — so **both collections render empty to
+customers** while still being crawlable.
+
+This is almost certainly feeding the HIGH-impact duplicate-title and duplicate-meta flags in
+the Ubersuggest site audit (see item 2).
+
+Note this is *not* a re-flag of BACKLOG #0. The products being in draft is the owner's
+deliberate decision and stands. The problem is that two duplicate, customer-facing, empty
+collection pages exist regardless.
+
+**Fix (owner):** delete or merge the `-1` duplicate; leave the primary alone unless the draft
+decision changes.
+
+**Agent side — done 2026-09-24:** both handles were moved into
+`empty_collections_do_not_link` in `data/catalog.json`, so `scripts/check-links.py` now blocks
+any article that tries to link them. Verified failing.
+
+## 14. `check-links.py` counted products without checking publish status 🟠 HIGH
+
+The link checker read product *counts* from `data/catalog.json` and passed any collection with
+a count above zero. `dinosaur-christmas-pajamas` has a count of 7 and would have passed — while
+rendering as an empty page to every customer who clicked through.
+
+The standing rule "never link a collection with zero products" was therefore enforceable only
+against collections that were empty in the catalog snapshot, not against collections that are
+*effectively* empty because their members are unpublished or out of stock.
+
+**Fixed 2026-09-24** for the two known cases by blocklisting them. **Still open:** the weekly
+`data/catalog.json` refresh should count only ACTIVE products, so this class of bug cannot
+recur silently. That is an agent-side fix and is scheduled into the Monday routine.
+
+## 15. `Dino Nuggies – Women's Pajama Shorts` is DRAFT while its sibling is ACTIVE 🟡 MEDIUM
+
+`dino-nuggies-womens-pajama-shorts` sits in DRAFT with 59,994 units of inventory available,
+while the near-identical `frosted-dino-cookie-womens-pajama-shorts` is ACTIVE and selling.
+Same garment, same price band ($31.99).
+
+This is not covered by BACKLOG #0 — it is not a Christmas product — so it looks like an
+oversight rather than a decision. Publishing it would double the pajama-shorts range at zero
+cost, ahead of the Nov–Dec sleepwear peak.
+
+**Fix (owner, ~2 minutes):** set the product to ACTIVE, or confirm the draft is intentional so
+the agent stops surfacing it.
