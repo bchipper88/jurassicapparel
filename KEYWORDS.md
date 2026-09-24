@@ -51,7 +51,7 @@ Ubersuggest figure that justified it.
   `kids dinosaur shoes` 0/mo (Ubersuggest returns no volume).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-shoes-buying-guide
 
-- ✍️ Written (2026-09-24) **dinosaur ornament** — 1,300/mo avg | **6,600/mo Nov–Dec** | SD 18
+- ✅ Published (2026-09-24) **dinosaur ornament** — 1,300/mo avg | **6,600/mo Nov–Dec** | SD 18
   | $0.60 CPC | Transactional → `dinosaur-christmas-ornaments-guide`
   Day 4. Verified 2026-09-24. Taken off the Christmas cluster early after the queued Hawaiian
   target showed a summer curve and `dinosaur christmas sweater` failed on inventory. Lowest SD
@@ -60,6 +60,7 @@ Ubersuggest figure that justified it.
   with dimensions, the matching mug + wrap sets, and order-by dates from the listings' own
   estimates. Secondary: `dinosaur ornaments` 1,300/mo (SD 25, **$1.74 CPC**),
   `dinosaur christmas ornament` 880/mo (4,400 Nov, SD 18), `t rex ornament` 140/mo (SD 17).
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-christmas-ornaments-guide
 
 ---
 

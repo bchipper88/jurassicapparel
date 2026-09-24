@@ -2,7 +2,7 @@
 title: "Dinosaur Ornaments for Your Christmas Tree: Every Design, Shape and Order-By Date"
 slug: dinosaur-christmas-ornaments-guide
 date: 2026-09-24
-status: draft
+status: published
 target_keyword: "dinosaur ornament"
 target_volume: 1300
 target_sd: 18
@@ -15,6 +15,7 @@ secondary_keywords:
   - "dinosaur christmas ornament"
   - "t rex ornament"
 shopify_blog: blog
+tags: dinosaur ornament, dinosaur christmas ornament, dinosaur ornaments, t rex ornament, dinosaur christmas
 collections_linked:
   - handle: dinosaur-christmas-ornaments
     products: 9
@@ -30,6 +31,9 @@ collections_linked:
     products: 52
 meta_description: "A guide to our dinosaur ornaments: eight wooden designs in six shapes, a ceramic watercolor option, matching mugs and wrap, and when to order for Christmas."
 word_count: 1711
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-christmas-ornaments-guide
+shopify_article_id: gid://shopify/Article/634818396310
+published_at: 2026-09-24T11:15:46Z
 ---
 
 # Dinosaur Ornaments for Your Christmas Tree: Every Design, Shape and Order-By Date
