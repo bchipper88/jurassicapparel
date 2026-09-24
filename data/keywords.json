@@ -1,5 +1,5 @@
 {
- "_comment": "Machine-readable mirror of KEYWORDS.md. All figures Ubersuggest, locId 2840. Per-entry `verified` gives the date that row's figures were last re-pulled. KEYWORDS.md is the human source of truth; keep them in sync.",
+ "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
  "pulled": "2026-09-24",
  "loc_id": 2840,
  "published": [
@@ -16,9 +16,107 @@
    "date": "2026-08-30",
    "status": "published",
    "live_url": "https://jurassicapparel.com/blogs/blog/family-dinosaur-costume-ideas",
-   "shopify_article_id": "gid://shopify/Article/580194828438",
-   "verified": "2026-08-30"
+   "shopify_article_id": "gid://shopify/Article/580194828438"
   },
+  {
+   "keyword": "dinosaur hoodie",
+   "volume": 1900,
+   "peak_volume": 2400,
+   "peak_month": "202610",
+   "sd": 25,
+   "cpc": 0.47,
+   "competition": 0.9,
+   "intent": "Transactional",
+   "slug": "dinosaur-hoodie-buying-guide",
+   "date": "2026-09-05",
+   "status": "published",
+   "verified": "2026-09-05",
+   "note": "Taken after 'dinosaur onesie adult' failed the inventory check. 57 hoodies stocked; no live blog post covered the term.",
+   "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-hoodie-buying-guide",
+   "shopify_article_id": "gid://shopify/Article/580239556758",
+   "published_at": "2026-09-05T11:14:02Z"
+  },
+  {
+   "keyword": "dinosaur shoes",
+   "volume": 1900,
+   "peak_volume": 2400,
+   "peak_month": "202511",
+   "sd": 26,
+   "cpc": 0.57,
+   "competition": 0.99,
+   "intent": "Transactional",
+   "slug": "dinosaur-shoes-buying-guide",
+   "date": "2026-09-23",
+   "status": "published",
+   "verified": "2026-09-23",
+   "note": "SD drifted 24->26, CPC 0.48->0.57 since 2026-09-05. Shoe collections majority ACTIVE (69/78 in main collection).",
+   "secondary": [
+    {
+     "keyword": "dinosaur sneakers",
+     "volume": 260,
+     "sd": 26,
+     "cpc": 0.58
+    },
+    {
+     "keyword": "dinosaur high tops",
+     "volume": 30,
+     "sd": 30,
+     "cpc": 0.63
+    },
+    {
+     "keyword": "kids dinosaur shoes",
+     "volume": 0,
+     "sd": 12,
+     "note": "Ubersuggest returns no volume"
+    }
+   ],
+   "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-shoes-buying-guide",
+   "shopify_article_id": "gid://shopify/Article/590738063510",
+   "published_at": "2026-09-23T11:06:14Z"
+  },
+  {
+   "keyword": "dinosaur ornament",
+   "volume": 1300,
+   "peak_volume": 6600,
+   "peak_month": "202611",
+   "sd": 18,
+   "cpc": 0.6,
+   "competition": 1,
+   "intent": "Transactional",
+   "slug": "dinosaur-christmas-ornaments-guide",
+   "date": "2026-09-24",
+   "status": "published",
+   "verified": "2026-09-24",
+   "note": "Taken over the queued 'hawaiian dinosaur shirt' (summer curve) and 'dinosaur christmas sweater' (no sweater inventory). 9 of 9 ornaments ACTIVE.",
+   "secondary": [
+    {
+     "keyword": "dinosaur ornaments",
+     "volume": 1300,
+     "peak_volume": 6600,
+     "sd": 25,
+     "cpc": 1.74
+    },
+    {
+     "keyword": "dinosaur christmas ornament",
+     "volume": 880,
+     "peak_volume": 4400,
+     "sd": 18,
+     "cpc": 0.69
+    },
+    {
+     "keyword": "t rex ornament",
+     "volume": 140,
+     "peak_volume": 720,
+     "sd": 17,
+     "cpc": 0.49
+    }
+   ],
+   "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-christmas-ornaments-guide",
+   "shopify_article_id": "gid://shopify/Article/634818396310",
+   "published_at": "2026-09-24T11:15:46Z"
+  }
+ ],
+ "next_up": [
   {
    "keyword": "dinosaur pajamas",
    "volume": 1600,
@@ -29,49 +127,35 @@
    "competition": 0.98,
    "intent": "Transactional",
    "slug": "dinosaur-pajamas-for-adults",
-   "date": "2026-09-24",
-   "status": "awaiting-publish",
    "verified": "2026-09-24",
-   "note": "Substituted for 'dinosaur onesie adult' after inventory verification. Store already ranks #14 for this term with the Realistic Jurassic product page. Lowest SD of any keyword in the queue at this volume, highest CPC at $1.57."
-  }
- ],
- "next_up": [
-  {
-   "keyword": "dinosaur gifts",
-   "volume": 1600,
-   "peak_volume": 4400,
-   "peak_month": "202612",
-   "sd": 21,
-   "cpc": 1.1,
-   "competition": 1.0,
-   "intent": "Transactional",
-   "slug": "dinosaur-gifts-guide",
-   "verified": "2026-09-24",
-   "note": "Dec peak 4,400 / Nov 2,900. Publishing late Sept is 8-10 weeks ahead of the ramp, which is the playbook window. Pulled forward from the evergreen queue because the Halloween costume window has effectively closed."
+   "article_status": "ready-to-publish",
+   "article_path": "content/articles/2026-09-25-dinosaur-pajamas-for-adults.md",
+   "current_rank": 14,
+   "current_rank_url": "https://jurassicapparel.com/products/realistic-jurassic-adult-dinosaur-pajamas",
+   "note": "Promoted over 'dinosaur stocking' on 2026-09-24: 4x the volume, lower SD, 10x the CPC. Joint-lowest SD of any real-volume keyword in the file. Already ranks #14 at DA 16; a DA-18 competitor sits at #4, so page 1 is not authority-gated. Backed by 3 ACTIVE SKUs. See BACKLOG #21 for the collection that would strengthen it."
   }
  ],
  "queued_seasonal": [
   {
-   "keyword": "dinosaur onesie",
-   "volume": 3600,
-   "sd": 28,
-   "cpc": 0.46,
+   "keyword": "dinosaur stocking",
+   "volume": 390,
+   "peak_volume": 1900,
+   "peak_month": "202611",
+   "sd": 21,
+   "cpc": 0.15,
    "intent": "Transactional",
-   "peak_volume": 12100,
-   "peak_month": "202610",
+   "slug": "dinosaur-christmas-stockings",
    "verified": "2026-09-24",
-   "blocked_by": "BACKLOG #9 - dominant intent is a one-piece kigurumi, which the store does not sell. Baby-bodysuit sub-intent is servable; revisit as 'dinosaur baby onesie' rather than the head term."
+   "note": "Demoted from next_up 2026-09-24 in favour of 'dinosaur pajamas'. Take it next."
   },
   {
    "keyword": "dinosaur pajamas adult",
-   "volume": 320,
+   "volume": 390,
    "peak_volume": 720,
    "peak_month": "202612",
    "sd": 25,
-   "cpc": 1.3,
-   "intent": "Transactional",
-   "verified": "2026-09-24",
-   "note": "Covered as a section inside the 2026-09-24 'dinosaur pajamas' article; too thin at 320/mo to deserve its own URL."
+   "cpc": 0.97,
+   "intent": "Transactional"
   },
   {
    "keyword": "dinosaur costume adult",
@@ -86,15 +170,39 @@
    "sd": 30,
    "cpc": 0.21,
    "blocked_by": "BACKLOG #1 \u2014 dinosaur-masks collection has 0 products"
+  },
+  {
+   "keyword": "dinosaur wrapping paper",
+   "volume": 1600,
+   "peak_volume": 4400,
+   "peak_month": "202612",
+   "sd": 23,
+   "cpc": 0.51,
+   "intent": "Transactional",
+   "verified": "2026-09-24",
+   "seasonality": "Year-round 880-1,600 (birthdays), Nov 2,400, Dec 4,400",
+   "note": "Only 6 wrapping-paper products, all Christmas prints. Before writing: check whether any non-Christmas (birthday) wrap exists; if not, the page can only serve the Nov-Dec half of the demand. Link the ornaments guide."
   }
  ],
  "queued_evergreen": [
+  {
+   "keyword": "hawaiian dinosaur shirt",
+   "volume": 260,
+   "sd": 16,
+   "cpc": 0.93,
+   "intent": "Transactional",
+   "verified": "2026-09-24",
+   "slug": "hawaiian-dinosaur-shirts",
+   "seasonality": "Summer: Jun 390, Aug 390; falls to Dec 140, Jan 110; ramps from Mar 260",
+   "note": "Deferred 2026-09-24 on seasonality. Publish mid-February, 4-8 weeks ahead of the March-June ramp. 10 ACTIVE products in dinosaur-hawaiian-shirts."
+  },
   {
    "keyword": "adult dinosaur shirt",
    "volume": 880,
    "sd": 19,
    "cpc": 0.64,
-   "intent": "Commercial"
+   "intent": "Commercial",
+   "note": "Hold until the 'dinosaur shirt' rescue of /collections/adult-dinosaur-shirt is decided (cannibalisation risk)."
   },
   {
    "keyword": "adult dinosaur gifts",
@@ -132,13 +240,6 @@
    "volume": 320,
    "sd": 25,
    "cpc": 1.43
-  },
-  {
-   "keyword": "hawaiian dinosaur shirt",
-   "volume": 260,
-   "sd": 16,
-   "cpc": 0.97,
-   "note": "lowest SD in the set; collection has 10 products"
   },
   {
    "keyword": "best dinosaur gifts",
@@ -314,6 +415,50 @@
   {
    "keyword": "dinosaur onesie adult",
    "volume": 1900,
+   "peak_volume": 6600,
+   "peak_month": "202610",
+   "sd": 25,
+   "cpc": 0.5,
+   "intent": "Transactional",
+   "skipped_on": "2026-09-05",
+   "reason": "No adult one-piece garment exists in the catalog. The assumed anchor product (realistic-jurassic-adult-dinosaur-pajamas) is pajama PANTS, not a onesie. Numbers re-verified and held; the inventory did not."
+  },
+  {
+   "keyword": "dinosaur onesie",
+   "volume": 3600,
+   "peak_volume": 12100,
+   "peak_month": "202610",
+   "sd": 26,
+   "cpc": 0.48,
+   "intent": "Transactional",
+   "skipped_on": "2026-09-05",
+   "reason": "Same inventory gap as 'dinosaur onesie adult'. Re-queue if an adult onesie is ever stocked (BACKLOG #12)."
+  },
+  {
+   "keyword": "dinosaur pajamas",
+   "volume": 1600,
+   "peak_volume": 2900,
+   "peak_month": "202612",
+   "sd": 16,
+   "cpc": 1.27,
+   "intent": "Transactional",
+   "skipped_on": "2026-09-05",
+   "reason": "Lowest SD and highest CPC found in two days of research, but only three active pajama products in the catalog. Thin inventory, not thin demand."
+  },
+  {
+   "keyword": "dinosaur christmas sweater",
+   "volume": 720,
+   "peak_volume": 4400,
+   "peak_month": "202612",
+   "sd": 26,
+   "cpc": 0.15,
+   "intent": "Transactional",
+   "skipped_on": "2026-09-24",
+   "reason": "No sweater in the catalog: two Christmas sweatshirts only; 'Ugly Dinosaur Sweater' is a t-shirt in DRAFT. Merchandising item BACKLOG #18."
+  },
+  {
+   "keyword": "dinosaur onesie adult",
+   "volume": 1900,
    "peak_volume": 8100,
    "peak_month": "202610",
    "sd": 24,
@@ -321,7 +466,53 @@
    "intent": "Transactional",
    "verified": "2026-09-24",
    "date": "2026-09-24",
-   "reason": "Numbers hold (1,900/mo, SD 24, Oct 8,100) but inventory does not. Verified in Shopify: the store sells no adult one-piece onesie. 'Realistic Jurassic - Adult Dinosaur Pajamas', the page the queue pointed at, is unisex wide-leg pajama PANTS. A transactional page promising onesies we cannot ship breaks CEO-CHARTER principle 2. Redirected the day's work to 'dinosaur pajamas' (1,600/mo, SD 17), which we do stock."
+   "reason": "Numbers held; inventory did not. Verified in Shopify: the store sells no adult one-piece onesie. 'Realistic Jurassic - Adult Dinosaur Pajamas' is unisex wide-leg pajama PANTS. Breaks CEO-CHARTER principle 2. Redirected to 'dinosaur pajamas'."
+  },
+  {
+   "keyword": "dinosaur onesie",
+   "volume": 3600,
+   "peak_volume": 12100,
+   "peak_month": "202610",
+   "sd": 28,
+   "cpc": 0.46,
+   "intent": "Transactional",
+   "verified": "2026-09-24",
+   "date": "2026-09-24",
+   "reason": "Blocked on the same inventory gap as the adult variant. Servable slice is the baby sub-intent; revisit as 'dinosaur baby onesie', never the head term."
+  }
+ ],
+ "rescue_content": [
+  {
+   "keyword": "dinosaur gifts",
+   "volume": 1600,
+   "peak_volume": 4400,
+   "peak_month": "202612",
+   "sd": 21,
+   "cpc": 1.1,
+   "intent": "Transactional",
+   "reclassified": "2026-09-05",
+   "play": "consolidation",
+   "cluster": [
+    {
+     "keyword": "adult dinosaur gifts",
+     "volume": 720,
+     "sd": 23,
+     "cpc": 1.35
+    },
+    {
+     "keyword": "dinosaur gifts for adults",
+     "volume": 720,
+     "sd": 24,
+     "cpc": 1.29
+    },
+    {
+     "keyword": "best dinosaur gifts",
+     "volume": 210,
+     "sd": 16,
+     "cpc": 1.02
+    }
+   ],
+   "reason": "Six published gift guides plus six unpublished drafts already exist on the blog. New content would cannibalise. Needs a consolidation brief (BACKLOG #12)."
   }
  ]
 }

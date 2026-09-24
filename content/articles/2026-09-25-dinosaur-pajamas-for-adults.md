@@ -1,8 +1,10 @@
 ---
 title: "Dinosaur Pajamas for Adults: How to Find a Pair That Actually Fits"
 slug: dinosaur-pajamas-for-adults
-date: 2026-09-24
-status: draft
+date: 2026-09-25
+status: ready-to-publish
+written: 2026-09-24
+metrics_source: "Ubersuggest live, locId 2840, 2026-09-24"
 target_keyword: "dinosaur pajamas"
 target_volume: 1600
 target_sd: 17
@@ -16,12 +18,7 @@ secondary_keywords:
   - "plus size dinosaur pajamas"
 shopify_blog: blog
 meta_description: "Most dinosaur pajamas online are sized 4T. Here's an honest guide to adult dinosaur pajamas — real waist measurements, 2XS to 6XL, fabric, and print-to-door timing."
-tags:
-  - "dinosaur pajamas"
-  - "adult dinosaur pajamas"
-  - "dinosaur apparel"
-  - "loungewear"
-  - "sizing guide"
+tags: dinosaur pajamas, adult dinosaur pajamas, dinosaur apparel, loungewear, sizing guide
 collections_linked:
   - handle: adult-dinosaur-apparel
     products: 420
@@ -191,4 +188,5 @@ table rather than from what your jeans say. Start with
 full-colour print, and browse the rest of the
 [adult dinosaur apparel](/collections/adult-dinosaur-apparel) if you'd rather build the
 cosy end of your wardrobe out further — the
-[dinosaur hoodies](/collections/dinosaur-hoodie) are the natural pairing.
+[dinosaur hoodies](/collections/dinosaur-hoodie) are the natural pairing — we went through
+how those fit in a [separate guide](/blogs/blog/dinosaur-hoodie-buying-guide).

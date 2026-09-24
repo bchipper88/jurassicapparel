@@ -20,21 +20,11 @@ def parse(path):
         sys.exit(f"{path}: no front matter")
     fm_text, body_md = m.group(1), m.group(2)
 
-    fm, current_list = {}, None
+    fm = {}
     for line in fm_text.splitlines():
-        im = re.match(r"^\s+-\s+(.*)$", line)
-        if im and current_list is not None:
-            fm[current_list].append(im.group(1).strip().strip('"'))
-            continue
         km = re.match(r"^([a-z_]+):\s*(.*)$", line)
-        if not km:
-            continue
-        key, val = km.group(1), km.group(2).strip()
-        if val:
-            fm[key], current_list = val.strip('"'), None
-        else:
-            fm[key] = fm.get(key) if isinstance(fm.get(key), list) else []
-            current_list = key
+        if km and km.group(2).strip():
+            fm[km.group(1)] = km.group(2).strip().strip('"')
 
     # Shopify renders the title itself; drop the leading H1 from the body.
     body_md = body_md.lstrip()
@@ -44,13 +34,19 @@ def parse(path):
     # Relative store links -> absolute.
     html = re.sub(r'href="(/(?:collections|products)/)', f'href="{STORE}\\1', html)
 
-    # Tags come from the article's own front matter. They were hardcoded to the
-    # Day 1 costume set, which silently mistagged every article after it.
-    tags = [t for t in fm.get("tags", []) if isinstance(t, str)]
-    if not tags:
+    # Tags come from the article's own keywords. These used to be hardcoded to
+    # Day 1's Halloween set, which quietly mistagged every article after it.
+    # Override with a front-matter `tags: a, b, c` line when needed.
+    if fm.get("tags"):
+        tags = [x.strip() for x in fm["tags"].split(",") if x.strip()]
+    else:
         tags = ["dinosaur apparel"]
-    if fm.get("target_keyword"):
-        tags.insert(0, fm["target_keyword"])
+        if fm.get("target_keyword"):
+            tags.insert(0, fm["target_keyword"])
+        sec = re.search(r"^secondary_keywords:\s*\n((?:[ \t]*-[ \t]*.+\n)+)", fm_text, re.M)
+        if sec:
+            tags += [re.sub(r'^[ \t]*-[ \t]*', "", ln).strip().strip('"')
+                     for ln in sec.group(1).splitlines() if ln.strip()]
 
     return {
         "title": fm.get("title", ""),

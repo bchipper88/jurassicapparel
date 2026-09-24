@@ -153,6 +153,174 @@ than allowlisting `graphql_mutation`, and it restores unattended same-day publis
 Needs: a custom app in Shopify admin with `write_content` scope, the token in the Routine's
 environment variables, and the script. Not built.
 
+## 12. The blog is cannibalising itself on gift guides 🔴 HIGH — added 2026-09-05
+
+Found while verifying today's target against live content. The `blog` blog holds **85
+articles**. Twelve of them target the same commercial intent:
+
+**Published, all live, all competing with each other:**
+
+| Article | Published |
+|---|---|
+| The Ultimate Dinosaur Gift Guide: 25 Prehistoric Presents They Will Actually Love | 2026-01-28 |
+| Dinosaur Valentines Day Gifts That Will Make Their Heart Go Rawr | 2026-02-03 |
+| The Ultimate Guide to Dinosaur Gifts for Adults Who Never Outgrew Their Dino Phase | 2026-02-19 |
+| Dinosaur Gifts for Girlfriend: Unique Ideas She'll Actually Love | 2026-03-07 |
+| Dinosaur Christmas Gifts: The Ultimate 2026 Guide for Dino Lovers | 2026-03-07 |
+| 25+ Dinosaur Gift Ideas for Every Prehistoric Enthusiast | 2026-03-10 |
+
+**Plus six unpublished drafts on the same intent**, including four near-identical copies of
+*"The Ultimate Guide to Dinosaur Gifts: 15 Prehistoric Presents for Every Fan"*.
+
+Six live pages chasing `dinosaur gifts` (1,600/mo, SD 21, $1.10 CPC, 4,400 in December) means
+Google picks one and the rest split the link equity. **This is a concrete, page-level instance
+of the Day 1 finding that we rank for more and earn less.**
+
+Duplicates are not limited to gift guides. Also live or drafted more than once:
+*Flying Dinosaurs* (×3, one published), *Spinosaurus mirabilis / Hell Heron* (×4),
+*Foskeia pelendonum* (**×2, both published**), *Doolysaurus* (×2), *Stegosaurus Facts* (×2,
+one published), *Triceratops Facts* (×2, one published), *Dinosaurs for Adults* (×2),
+*The Dinosaur Aesthetic* (×2), *Scientists Just Found a 2-Pound Dinosaur* (×2),
+*Ultimate Dinosaur Birthday Party Guide* (×2), *Dinosaur Hoodie* guides (×2 drafts, plus a
+stray `2026-02-22-dinosaur-hoodie-guide`).
+
+There is also an article literally titled **"Test Post - DELETE ME"** sitting in the blog.
+
+**Proposal:** one consolidation pass. For each cluster, pick the canonical URL (the one with
+rankings — check `page_overview` before choosing), merge the best material into it, 301 the
+rest, and delete the unpublished duplicates and the test post. Gated under the charter, so it
+comes as a brief.
+
+**Process change made today, no approval needed:** the queue is now checked against live blog
+content before a keyword is written, not only against keyword metrics. The old queue was built
+from Ubersuggest alone, which is how `dinosaur gifts` got queued as new content when six live
+pages already served it.
+
+## 13. Collections that are full of DRAFT products read as empty 🟠 HIGH — added 2026-09-05
+
+`data/catalog.json` counts **all** products in a collection, published or not. Two collections
+pass the link check while showing a customer almost nothing:
+
+| Collection | Counted | Actually ACTIVE |
+|---|---|---|
+| `toys` | 30 | **0 — every one of the 30 is DRAFT** |
+| `dinosaur-jewelry` | 6 | **1** |
+
+`scripts/check-links.py` would have waved through a link to `/collections/toys`. It is not a
+zero-product collection by the catalog's definition, but it is an empty page to a shopper and
+to Google — the same defect as BACKLOG #1, hidden behind a number that looks fine.
+
+**Two fixes, and they are separate:**
+
+1. *Agent-side, no approval needed:* the monthly `catalog.json` refresh must record ACTIVE
+   product counts, not total counts, and `check-links.py` should fail on an active count of 0.
+   Scheduled into the 2026-10-01 monthly routine.
+2. *Owner:* decide what happens to the 30 drafted toys. `dinosaur toys` is a real term and
+   the `dinosaur-toys` blog exists with 1 article. Either publish them or unpublish the
+   collection. **Not urgent and not a re-flag of the Christmas pajamas (#0) — different SKUs,
+   no prior decision recorded.**
+
+## 14. Merchandising gap: no adult one-piece garment 🟡 MEDIUM — added 2026-09-05
+
+Today's queued target, `dinosaur onesie adult`, had to be skipped because the catalog contains
+no adult onesie. A product search across *onesie*, *jumpsuit*, *kigurumi*, *union suit*,
+*romper* and *one-piece* returns nothing for adults.
+
+What that costs, at US volumes verified 2026-09-05:
+
+| Keyword | Avg/mo | October | SD |
+|---|---|---|---|
+| dinosaur onesie | 3,600 | **12,100** | 26 |
+| dinosaur onesie adult | 1,900 | **6,600** | 25 |
+
+Both are inside the winnable band for a DA-17 site, both peak hard in October, and both are
+transactional. That is ~18,700 searches in October alone against difficulty we can beat, and
+we cannot honestly write a word of it.
+
+**Ask:** is an adult dinosaur onesie or union suit sourceable from any of the nine POD apps
+already installed? If yes it is a strong October SKU and the content is ready to write. If not,
+say so and both terms get permanently marked ⏭️ Skip so they stop coming back round the queue.
+
+## 15. Two ACTIVE shoe products cannot be bought 🟠 HIGH — added 2026-09-23
+
+*Dinosaur Stomp - Women's High Heels* (`womens-high-heels`) and *Dinosaur Skeleton - Women's
+High Heels* (`dinosaur-skeleton-womens-high-heels`) are ACTIVE and sit in
+`dinosaur-shoes-dinosaur-sneakers`, `dinosaur-shoes-womens` and `shoes-adult`. Unlike every
+other shoe, they **track inventory, have 0 units, and are set to DENY overselling** — so they
+show as sold out. Every other made-to-order shoe has inventory tracking switched off.
+
+A shopper browsing the womens shoes collection hits two dead ends at $79.99 each. The listing
+also says "Estimated shipping time is 2-4 weeks" — the same made-to-order wording as the
+sneakers — which suggests the tracking setting is a mistake rather than a real stock-out.
+
+**Ask (inventory is gated):** if the heels are still producible, switch off inventory
+tracking to match the other shoes; if not, unpublish them. The Day 3 article does not mention
+heels for this reason.
+
+## 16. Shoe titles misstate their size range 🟡 MEDIUM — added 2026-09-23
+
+Found while writing the shoes guide; all read from the live listings 2026-09-23.
+
+| Product | Title says | Sizes actually offered |
+|---|---|---|
+| `splatter-dinos-kids-dinosaur-shoes` | "Kid's Dinosaur Shoes" | Women's + Men's only — **no kids' sizes** |
+| `pastel-dinosaurs-kids-dinosaur-sneaker` | "Kids Dinosaur Sneaker" | Women's + Men's only — **no kids' sizes** |
+| `tiny-dinos-blue-dinosaur-sneakers` | (in kids collection) | Kids' run starts at youth 1, not child 11 |
+
+A parent who clicks "Kid's" and finds only adult sizes bounces. Both products are in
+`dinosaur-shoes-for-kids`, so they also pad that collection with two shoes a child can't wear.
+
+Also: *Color Your Own Dinosaur Shoe* still carries "(Currently experiencing delays)" in its
+shipping copy twice. If the delay is over, that line is costing conversions; if it isn't, the
+other listings are understating lead time.
+
+**Ask (product copy is gated):** retitle or add kids' sizes to the two mislabelled sneakers;
+confirm whether the "delays" note is current.
+
+## 17. Live Christmas-gifts post links out to a third-party site 🟠 HIGH — added 2026-09-24
+
+`/blogs/blog/dinosaur-christmas-gifts-the-ultimate-2026-guide-for-dino-lovers` (published
+2026-03-07) — the only Christmas post on the blog — sends readers to **thebestchristmas.co**
+with four outbound links ("check out The Best Christmas — they've got everything from gift
+guides…"). It also recommends things we don't sell (excavation kits, replica skulls, museum
+memberships), links only to `/collections/all`, `/collections/kids` and
+`/collections/dinosaur-shirts` rather than to the 52-product `dinosaur-christmas` collection,
+and repeats its closing footer paragraph twice, inside an unclosed `<ol>`.
+
+Outbound links like these are usually a paid or swapped placement. Either way, the store's one
+Christmas article is sending December traffic to someone else's site. It also belongs to the
+gift-guide cluster in #12.
+
+**Ask (editing live pages is gated):** do you know why the links are there? If not, remove
+them. The Day 4 ornaments guide deliberately does not link to this post.
+
+## 18. Merchandising gap: no dinosaur Christmas sweater 🟡 MEDIUM — added 2026-09-24
+
+`dinosaur christmas sweater` — 720/mo avg, **2,900 Nov / 4,400 Dec**, SD 26, $0.15 CPC
+(Ubersuggest, locId 2840, 2026-09-24). Checked as today's target; skipped on inventory. There
+is no knit or "ugly" sweater in the catalog. The only Christmas crewnecks are two sweatshirts
+(*T-Rex Winter Forest*, *Merry Little Rexmas*). A product titled *Ugly Dinosaur Sweater - Adult
+Dinosaur Shirt* exists but is a **t-shirt**, and it's in DRAFT.
+
+**Ask:** can one of the installed POD apps do an all-over-print "ugly sweater" style knit or
+sweatshirt? If it can be listed by late October, the article is ready to write for November.
+
+## 19. "Personalized" ornament has no visible personalization field 🟡 MEDIUM — added 2026-09-24
+
+*Watercolor Dino Ornament - Personalized* ($17.99, ACTIVE) has a listing photo showing a name
+("JESSICA") printed under the dinosaur, but the only options are **Shape** and **Design**. The
+product page HTML contains no text input or `properties[...]` field. If no app injects one with
+JavaScript, a customer cannot enter a name and will get the ornament without one.
+
+**Ask (product settings are gated):** open the product page and try to add a name. If it isn't
+possible, either add a personalization field or retitle the product and change the photo. The
+Day 4 article describes it as a watercolor ceramic ornament and makes no personalization claim.
+
+## 20. Mug priced lower in the larger size 🟢 LOW — added 2026-09-24
+
+*T-Rex Winter Forest - Dinosaur Mug*: 11 oz $19.99, 15 oz $21.99, **20 oz $21.50**. Every other
+Christmas mug is $23.99 for 20 oz. Probably a typo. Pricing is gated.
+
 ---
 
 # Klaviyo — added 2026-08-30
@@ -388,9 +556,10 @@ the largest recoverable leak visible in the data.
 
 ---
 
-*Discovered 2026-09-24 while verifying sleepwear inventory for the `dinosaur pajamas` article.*
+*Items 21-24 discovered 2026-09-24 while verifying sleepwear inventory for the `dinosaur pajamas`
+article. Logged by a second run on the same day as items 17-20; the two sets do not overlap.*
 
-## 12. No `dinosaur-pajamas` collection exists, and the term is the best-value keyword we own 🔴 HIGH
+## 21. No `dinosaur-pajamas` collection exists, and the term is the best-value keyword we own 🔴 HIGH — added 2026-09-24
 
 `dinosaur pajamas` is **1,600/mo, SD 17, $1.57 CPC** (Ubersuggest, locId 2840, 2026-09-24),
 peaking at 2,900/mo in December. SD 17 is the joint-lowest difficulty of anything with real
@@ -415,7 +584,7 @@ products. A commercial collection URL is a far better ranking asset for a transa
 than a single product page, and today's article is written to link into it the moment it
 exists. Collection creation is gated by the charter, so the agent cannot do this.
 
-## 13. Two duplicate `dinosaur-christmas-pajamas` collections, both storefront-empty 🟠 HIGH
+## 22. Two duplicate `dinosaur-christmas-pajamas` collections, both storefront-empty 🟠 HIGH — added 2026-09-24
 
 Two collections with the **identical title** "Dinosaur Christmas Pajamas":
 `dinosaur-christmas-pajamas` and `dinosaur-christmas-pajamas-1`. Each lists 7 products, and
@@ -436,7 +605,7 @@ decision changes.
 `empty_collections_do_not_link` in `data/catalog.json`, so `scripts/check-links.py` now blocks
 any article that tries to link them. Verified failing.
 
-## 14. `check-links.py` counted products without checking publish status 🟠 HIGH
+## 23. `check-links.py` counted products without checking publish status 🟠 HIGH — added 2026-09-24
 
 The link checker read product *counts* from `data/catalog.json` and passed any collection with
 a count above zero. `dinosaur-christmas-pajamas` has a count of 7 and would have passed — while
@@ -450,7 +619,7 @@ against collections that were empty in the catalog snapshot, not against collect
 `data/catalog.json` refresh should count only ACTIVE products, so this class of bug cannot
 recur silently. That is an agent-side fix and is scheduled into the Monday routine.
 
-## 15. `Dino Nuggies – Women's Pajama Shorts` is DRAFT while its sibling is ACTIVE 🟡 MEDIUM
+## 24. `Dino Nuggies – Women's Pajama Shorts` is DRAFT while its sibling is ACTIVE 🟡 MEDIUM — added 2026-09-24
 
 `dino-nuggies-womens-pajama-shorts` sits in DRAFT with 59,994 units of inventory available,
 while the near-identical `frosted-dino-cookie-womens-pajama-shorts` is ACTIVE and selling.
