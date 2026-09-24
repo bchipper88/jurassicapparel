@@ -1,6 +1,6 @@
 {
  "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
- "pulled": "2026-09-23",
+ "pulled": "2026-09-24",
  "loc_id": 2840,
  "published": [
   {
@@ -73,17 +73,57 @@
    "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-shoes-buying-guide",
    "shopify_article_id": "gid://shopify/Article/590738063510",
    "published_at": "2026-09-23T11:06:14Z"
+  },
+  {
+   "keyword": "dinosaur ornament",
+   "volume": 1300,
+   "peak_volume": 6600,
+   "peak_month": "202611",
+   "sd": 18,
+   "cpc": 0.6,
+   "competition": 1,
+   "intent": "Transactional",
+   "slug": "dinosaur-christmas-ornaments-guide",
+   "date": "2026-09-24",
+   "status": "draft",
+   "verified": "2026-09-24",
+   "note": "Taken over the queued 'hawaiian dinosaur shirt' (summer curve) and 'dinosaur christmas sweater' (no sweater inventory). 9 of 9 ornaments ACTIVE.",
+   "secondary": [
+    {
+     "keyword": "dinosaur ornaments",
+     "volume": 1300,
+     "peak_volume": 6600,
+     "sd": 25,
+     "cpc": 1.74
+    },
+    {
+     "keyword": "dinosaur christmas ornament",
+     "volume": 880,
+     "peak_volume": 4400,
+     "sd": 18,
+     "cpc": 0.69
+    },
+    {
+     "keyword": "t rex ornament",
+     "volume": 140,
+     "peak_volume": 720,
+     "sd": 17,
+     "cpc": 0.49
+    }
+   ]
   }
  ],
  "next_up": [
   {
-   "keyword": "hawaiian dinosaur shirt",
-   "volume": 260,
-   "sd": 16,
-   "cpc": 0.97,
-   "note": "Selected 2026-09-23 over 'adult dinosaur shirt' to avoid cannibalising the adult-dinosaur-shirt collection (rescue target for 'dinosaur shirt'). Re-verify before writing.",
-   "slug": "hawaiian-dinosaur-shirts",
-   "verified": "2026-08-30"
+   "keyword": "dinosaur stocking",
+   "volume": 390,
+   "peak_volume": 1900,
+   "peak_month": "202611",
+   "sd": 21,
+   "cpc": 0.15,
+   "intent": "Transactional",
+   "verified": "2026-09-24",
+   "note": "Plus 'dinosaur christmas stocking' 320/mo, 1,300 Nov, SD 21. 15 products in christmas-dinosaur-stockings. Ship by mid-October."
   }
  ],
  "queued_seasonal": [
@@ -108,10 +148,33 @@
    "volume": 9900,
    "sd": 30,
    "cpc": 0.21,
-   "blocked_by": "BACKLOG #1 — dinosaur-masks collection has 0 products"
+   "blocked_by": "BACKLOG #1 \u2014 dinosaur-masks collection has 0 products"
+  },
+  {
+   "keyword": "dinosaur wrapping paper",
+   "volume": 1600,
+   "peak_volume": 4400,
+   "peak_month": "202612",
+   "sd": 23,
+   "cpc": 0.51,
+   "intent": "Transactional",
+   "verified": "2026-09-24",
+   "seasonality": "Year-round 880-1,600 (birthdays), Nov 2,400, Dec 4,400",
+   "note": "Only 6 wrapping-paper products, all Christmas prints. Before writing: check whether any non-Christmas (birthday) wrap exists; if not, the page can only serve the Nov-Dec half of the demand. Link the ornaments guide."
   }
  ],
  "queued_evergreen": [
+  {
+   "keyword": "hawaiian dinosaur shirt",
+   "volume": 260,
+   "sd": 16,
+   "cpc": 0.93,
+   "intent": "Transactional",
+   "verified": "2026-09-24",
+   "slug": "hawaiian-dinosaur-shirts",
+   "seasonality": "Summer: Jun 390, Aug 390; falls to Dec 140, Jan 110; ramps from Mar 260",
+   "note": "Deferred 2026-09-24 on seasonality. Publish mid-February, 4-8 weeks ahead of the March-June ramp. 10 ACTIVE products in dinosaur-hawaiian-shirts."
+  },
   {
    "keyword": "adult dinosaur shirt",
    "volume": 880,
@@ -360,6 +423,17 @@
    "intent": "Transactional",
    "skipped_on": "2026-09-05",
    "reason": "Lowest SD and highest CPC found in two days of research, but only three active pajama products in the catalog. Thin inventory, not thin demand."
+  },
+  {
+   "keyword": "dinosaur christmas sweater",
+   "volume": 720,
+   "peak_volume": 4400,
+   "peak_month": "202612",
+   "sd": 26,
+   "cpc": 0.15,
+   "intent": "Transactional",
+   "skipped_on": "2026-09-24",
+   "reason": "No sweater in the catalog: two Christmas sweatshirts only; 'Ugly Dinosaur Sweater' is a t-shirt in DRAFT. Merchandising item BACKLOG #18."
   }
  ],
  "rescue_content": [

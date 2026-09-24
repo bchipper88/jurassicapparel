@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -51,17 +51,26 @@ Ubersuggest figure that justified it.
   `kids dinosaur shoes` 0/mo (Ubersuggest returns no volume).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-shoes-buying-guide
 
+- ✍️ Written (2026-09-24) **dinosaur ornament** — 1,300/mo avg | **6,600/mo Nov–Dec** | SD 18
+  | $0.60 CPC | Transactional → `dinosaur-christmas-ornaments-guide`
+  Day 4. Verified 2026-09-24. Taken off the Christmas cluster early after the queued Hawaiian
+  target showed a summer curve and `dinosaur christmas sweater` failed on inventory. Lowest SD
+  of any seasonal term found so far, and the ramp (Oct 1,300 → Nov 6,600) is 5–6 weeks out.
+  All 9 products in `dinosaur-christmas-ornaments` ACTIVE. Angle: 8 wooden designs × 6 shapes
+  with dimensions, the matching mug + wrap sets, and order-by dates from the listings' own
+  estimates. Secondary: `dinosaur ornaments` 1,300/mo (SD 25, **$1.74 CPC**),
+  `dinosaur christmas ornament` 880/mo (4,400 Nov, SD 18), `t rex ornament` 140/mo (SD 17).
+
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **hawaiian dinosaur shirt** — 260/mo | SD 16 | $0.97 CPC → `hawaiian-dinosaur-shirts`
-  Chosen over `adult dinosaur shirt` (880, SD 19) on 2026-09-23. A blog post on "adult dinosaur
-  shirt" risks competing with our own `adult-dinosaur-shirt` collection, which is the 🔁 Rescue
-  URL for `dinosaur shirt` at #14 — better to rescue that page than cannibalise it. Hawaiian
-  is a distinct intent, lowest SD in the set, 10 products in `dinosaur-hawaiian-shirts`.
-  *Before writing: re-verify numbers (last pulled 2026-08-30), confirm ACTIVE count, and check
-  the live blog for an existing Hawaiian-shirt post.*
+- 🎯 **dinosaur stocking** — 390/mo | **1,900/mo Nov–Dec** | SD 21 | $0.15 CPC | Transactional
+  → `dinosaur-christmas-stockings`
+  Verified 2026-09-24. Pair with `dinosaur christmas stocking` (320/mo, 1,300 Nov, SD 21, $0.39
+  CPC). 15 products in `christmas-dinosaur-stockings`. Chosen over wrapping paper because the
+  inventory is deeper and the intent is purely seasonal, which we can fully serve. *Before
+  writing:* confirm ACTIVE count, read sizes/materials/personalization off the listings.
 
 ---
 
@@ -83,18 +92,36 @@ Priority block. The whole cluster decays after October 31; everything here is da
   **BLOCKED** — `dinosaur-masks` collection has 0 products. Merchandising item first
   (`BACKLOG.md` #1). Do not write into an empty collection.
 
-## 📋 QUEUE — Christmas cluster (research mid-October, ship Nov)
+## 📋 QUEUE — Christmas cluster (ship late Sept – mid Oct)
+
+*2026-09-24: moved forward.* The curves pulled today ramp in **October** (ornament Oct 1,300,
+stocking Oct 320–390), so "research mid-October" would publish into the ramp, not ahead of it.
 
 The `dinosaur-christmas` collection has 52 products, so this one is stocked and ready.
 Tracked project keywords already include `dinosaur christmas`, `dinosaur christmas sweater`,
 `christmas dinosaur mug`, `dino christmas wrapping paper`, `dinosaur stocking`.
 
-- 📋 dinosaur christmas sweater — verify volume in October
-- 📋 dinosaur christmas ornament — verify; note the duplicate-collection issue first (`BACKLOG.md` #2)
-- 📋 dinosaur stocking — verify
+- ⏭️ **dinosaur christmas sweater** — 720/mo | **4,400/mo Dec** | SD 26 | $0.15 CPC — skipped
+  2026-09-24 on inventory: no sweater in the catalog (two Christmas sweatshirts; the "Ugly
+  Dinosaur Sweater" is a t-shirt in DRAFT). BACKLOG #18. Re-queue if a sweater is listed.
+- ✅ dinosaur christmas ornament — covered by the Day 4 ornaments guide (see ✅ Published)
+- 🎯 dinosaur stocking — next up (see 🎯 NEXT UP)
+- 📋 **dinosaur wrapping paper** — 1,600/mo avg | **4,400/mo Dec**, 2,400 Nov | SD 23 | $0.51 CPC
+  | Transactional → `dinosaur-wrapping-paper`
+  Verified 2026-09-24. Unusual curve: 880–1,600/mo all year (birthdays) with a December spike.
+  Our 6 wrapping-paper products are all Christmas prints, so the page can only serve the
+  Nov–Dec half unless birthday wrap exists. *Before writing:* search for non-Christmas wrap;
+  if there is none, write it as the Christmas wrap guide and file the birthday gap to BACKLOG.
+  Links naturally to the Day 4 ornaments guide (matching sets).
 - 📋 christmas dinosaur mug — currently ranks #3 on 70/mo; check for a bigger head term
 
 ## 📋 QUEUE — Evergreen commercial (fills non-seasonal days)
+
+- 📋 **hawaiian dinosaur shirt** — 260/mo | SD 16 | $0.93 CPC | Transactional → `hawaiian-dinosaur-shirts`
+  **Deferred 2026-09-24 on seasonality — schedule for mid-February.** Re-verified today: the
+  numbers hold, but the curve is a summer one (Jun 390, Aug 390 → Dec 140, Jan 110, ramping again
+  from March). Publishing now would go live into six months of decline while Christmas terms
+  with 20× the peak volume are 5–6 weeks from their ramp. 10 ACTIVE products.
 
 - 📋 **dinosaur shirt adults** — 1,000/mo | SD 44 | $0.80 CPC
   SD 44 is above the DA-17 threshold. Only worth it via the `adult-dinosaur-shirt`

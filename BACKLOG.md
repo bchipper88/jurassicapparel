@@ -277,6 +277,50 @@ other listings are understating lead time.
 **Ask (product copy is gated):** retitle or add kids' sizes to the two mislabelled sneakers;
 confirm whether the "delays" note is current.
 
+## 17. Live Christmas-gifts post links out to a third-party site 🟠 HIGH — added 2026-09-24
+
+`/blogs/blog/dinosaur-christmas-gifts-the-ultimate-2026-guide-for-dino-lovers` (published
+2026-03-07) — the only Christmas post on the blog — sends readers to **thebestchristmas.co**
+with four outbound links ("check out The Best Christmas — they've got everything from gift
+guides…"). It also recommends things we don't sell (excavation kits, replica skulls, museum
+memberships), links only to `/collections/all`, `/collections/kids` and
+`/collections/dinosaur-shirts` rather than to the 52-product `dinosaur-christmas` collection,
+and repeats its closing footer paragraph twice, inside an unclosed `<ol>`.
+
+Outbound links like these are usually a paid or swapped placement. Either way, the store's one
+Christmas article is sending December traffic to someone else's site. It also belongs to the
+gift-guide cluster in #12.
+
+**Ask (editing live pages is gated):** do you know why the links are there? If not, remove
+them. The Day 4 ornaments guide deliberately does not link to this post.
+
+## 18. Merchandising gap: no dinosaur Christmas sweater 🟡 MEDIUM — added 2026-09-24
+
+`dinosaur christmas sweater` — 720/mo avg, **2,900 Nov / 4,400 Dec**, SD 26, $0.15 CPC
+(Ubersuggest, locId 2840, 2026-09-24). Checked as today's target; skipped on inventory. There
+is no knit or "ugly" sweater in the catalog. The only Christmas crewnecks are two sweatshirts
+(*T-Rex Winter Forest*, *Merry Little Rexmas*). A product titled *Ugly Dinosaur Sweater - Adult
+Dinosaur Shirt* exists but is a **t-shirt**, and it's in DRAFT.
+
+**Ask:** can one of the installed POD apps do an all-over-print "ugly sweater" style knit or
+sweatshirt? If it can be listed by late October, the article is ready to write for November.
+
+## 19. "Personalized" ornament has no visible personalization field 🟡 MEDIUM — added 2026-09-24
+
+*Watercolor Dino Ornament - Personalized* ($17.99, ACTIVE) has a listing photo showing a name
+("JESSICA") printed under the dinosaur, but the only options are **Shape** and **Design**. The
+product page HTML contains no text input or `properties[...]` field. If no app injects one with
+JavaScript, a customer cannot enter a name and will get the ornament without one.
+
+**Ask (product settings are gated):** open the product page and try to add a name. If it isn't
+possible, either add a personalization field or retitle the product and change the photo. The
+Day 4 article describes it as a watercolor ceramic ornament and makes no personalization claim.
+
+## 20. Mug priced lower in the larger size 🟢 LOW — added 2026-09-24
+
+*T-Rex Winter Forest - Dinosaur Mug*: 11 oz $19.99, 15 oz $21.99, **20 oz $21.50**. Every other
+Christmas mug is $23.99 for 20 oz. Probably a typo. Pricing is gated.
+
 ---
 
 # Klaviyo — added 2026-08-30
