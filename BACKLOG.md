@@ -696,3 +696,33 @@ give `info@jurassicapparel.com`. Three addresses, one personal, on the pages cus
 when deciding whether a store is legitimate.
 
 **Fix:** use the domain address consistently.
+
+## 27. The Routine fires multiple times a day, and the runs collide 🟠 HIGH — infrastructure — added 2026-09-24
+
+**Three scheduled runs fired on 2026-09-24.** Day 4 published the ornaments guide; two further
+runs each started on a stale clone, each researched a keyword, each wrote a full article, and
+each then discovered on `git push` that the day was already done.
+
+Nothing was lost — both later runs caught it and neither published, so the one-article-a-day
+rule held. But the cost is real:
+
+- **Two full articles written for one publishing slot.** One became a gated brief
+  (`content/rescues/2026-09-24-dinosaur-gifts-consolidation.md`), one became tomorrow's post.
+  Salvageable, but by luck rather than design.
+- **Three-way merge conflicts** in `KEYWORDS.md`, `data/keywords.json`, `data/catalog.json`,
+  `BACKLOG.md` and `updates/2026-09-24.md`, all resolved by hand.
+- **Duplicate backlog numbering** — two runs independently filed a `check-links.py` item as #23,
+  and two independently found the draft-collection bug. Merged, but it is a sign of the pattern.
+- **Wasted Ubersuggest quota**, three sets of overlapping keyword pulls in one day.
+
+The root cause is not visible from inside a session: it is either several schedules pointing at
+the same prompt, or one schedule retrying. `docs/ROUTINE-PERMISSIONS.md` already documents the
+permission-prompt stall, and a stalled run that gets retried would produce exactly this.
+
+**Ask (owner, ~5 minutes):** open the Routine settings and confirm how many schedules target
+this prompt. If there is more than one, delete the extras. If there is one that retries, the
+stall in #7 is the thing to fix.
+
+**Agent-side mitigation, already in effect:** every run now starts with
+`git fetch && git pull` before reading the queue, and checks `updates/` for today's date before
+writing. That turns a collision into a cheap no-op instead of a wasted article.

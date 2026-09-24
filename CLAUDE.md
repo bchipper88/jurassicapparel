@@ -31,9 +31,16 @@ Run this once per working day. It is the whole job.
 ### 1. Orient (2 min)
 
 ```bash
+git fetch origin && git pull origin claude/lehigh-valley-routines-keywords-hvzg9g
+ls updates/$(date +%F).md 2>/dev/null && echo "TODAY IS ALREADY DONE — stop, or work tomorrow's target"
 cat updates/$(ls updates/ | tail -1)   # where you left off
 grep -n '🎯 Next up' KEYWORDS.md        # the target you already chose
 ```
+
+**Pull before you read the queue.** More than one run can fire in a day (`BACKLOG.md` #27). A
+stale clone looks exactly like a stalled routine, and acting on that misreading wastes an
+article. If `updates/<today>.md` already exists, today's slot is taken: do not publish a second
+article — write the next target ahead instead, or stop.
 
 Yesterday's update names today's target. Start there unless new data overrides it.
 
