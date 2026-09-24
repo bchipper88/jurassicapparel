@@ -573,8 +573,103 @@ Either the policy is not being enforced, or there is a real quality/sizing probl
 genuine damage claims. **Read the actual refund reasons on the 12 months of returns** — this is
 the largest recoverable leak visible in the data.
 
+---
 
-## 21. The shipping policy page is empty 🔴 HIGH — Q4 conversion risk — added 2026-09-24
+*Items 21-24 discovered 2026-09-24 while verifying sleepwear inventory for the `dinosaur pajamas`
+article. Logged by a second run on the same day as items 17-20; the two sets do not overlap.*
+
+## 21. No `dinosaur-pajamas` collection exists, and the term is the best-value keyword we own 🔴 HIGH — added 2026-09-24
+
+`dinosaur pajamas` is **1,600/mo, SD 17, $1.57 CPC** (Ubersuggest, locId 2840, 2026-09-24),
+peaking at 2,900/mo in December. SD 17 is the joint-lowest difficulty of anything with real
+volume in `KEYWORDS.md` — the same difficulty as `dinosaur shirt`, which the rescue queue
+calls the best single opportunity in the repo. The $1.57 CPC is the **highest of any keyword
+in the entire queue**.
+
+The store already ranks **#14** for it on a single product page
+(`/products/realistic-jurassic-adult-dinosaur-pajamas`, 59 est. clicks/mo) at DA 16 — and a
+DA-18 competitor sits at #4 on this SERP, so page 1 is reachable.
+
+There is no collection page for it. The three ACTIVE sleepwear SKUs are scattered:
+
+| Product | Price | Sizes | Status |
+|---|---|---|---|
+| Realistic Jurassic – Adult Dinosaur Pajamas | $49.99–$58.99 | 2XS–6XL | ACTIVE |
+| Dino Fossils – Adult Dinosaur Pajamas | $50.00–$58.47 | 2XS–6XL | ACTIVE |
+| Frosted Dino Cookie – Women's Pajama Shorts | $31.99–$33.99 | XS–2XL | ACTIVE |
+
+**Fix (owner, ~10 minutes):** create a `dinosaur-pajamas` collection holding those three
+products. A commercial collection URL is a far better ranking asset for a transactional term
+than a single product page, and today's article is written to link into it the moment it
+exists. Collection creation is gated by the charter, so the agent cannot do this.
+
+## 22. Two duplicate `dinosaur-christmas-pajamas` collections, both storefront-empty 🟠 HIGH — added 2026-09-24
+
+Two collections with the **identical title** "Dinosaur Christmas Pajamas":
+`dinosaur-christmas-pajamas` and `dinosaur-christmas-pajamas-1`. Each lists 7 products, and
+every one of those products is DRAFT with 0 inventory — so **both collections render empty to
+customers** while still being crawlable.
+
+This is almost certainly feeding the HIGH-impact duplicate-title and duplicate-meta flags in
+the Ubersuggest site audit (see item 2).
+
+Note this is *not* a re-flag of BACKLOG #0. The products being in draft is the owner's
+deliberate decision and stands. The problem is that two duplicate, customer-facing, empty
+collection pages exist regardless.
+
+**Fix (owner):** delete or merge the `-1` duplicate; leave the primary alone unless the draft
+decision changes.
+
+**Agent side — done 2026-09-24:** both handles were moved into
+`empty_collections_do_not_link` in `data/catalog.json`, so `scripts/check-links.py` now blocks
+any article that tries to link them. Verified failing.
+
+## 23. `check-links.py` counted products without checking publish status 🟠 HIGH — added 2026-09-24
+
+The link checker read product *counts* from `data/catalog.json` and passed any collection with
+a count above zero. `dinosaur-christmas-pajamas` has a count of 7 and would have passed — while
+rendering as an empty page to every customer who clicked through.
+
+The standing rule "never link a collection with zero products" was therefore enforceable only
+against collections that were empty in the catalog snapshot, not against collections that are
+*effectively* empty because their members are unpublished or out of stock.
+
+**Fixed 2026-09-24** for the two known cases by blocklisting them. **Still open:** the weekly
+`data/catalog.json` refresh should count only ACTIVE products, so this class of bug cannot
+recur silently. That is an agent-side fix and is scheduled into the Monday routine.
+
+**Also fixed 2026-09-24, independently and more generally — the "still open" half above is
+done.** A concurrent run hit the same bug from the gifting side and implemented the structural
+fix rather than blocklisting case by case:
+
+- `data/catalog.json` now carries a `draft_heavy_do_not_link` list **and** verified `active`
+  counts per collection.
+- `scripts/check-links.py` fails on any blocklisted collection and prints "N live / M" wherever
+  an active count is recorded. Regression-tested: `/collections/toys` now fails the check.
+
+ACTIVE counts verified live 2026-09-24 for the 15-collection gifting set: `toys` **0 of 30**,
+`dinosaur-jewelry` **1 of 6**, `dinosaur-christmas` 43/52, `dinosaur-ties` 7/9,
+`dinosaur-stickers` 29/31, `dinosaur-socks` 35/36; the rest fully active. This independently
+confirms #13's figures.
+
+Two runs finding this bug the same day, from opposite ends of the catalog, is the argument for
+the structural fix over per-case blocklists. **Remaining:** extend `active` counts from the 15
+verified collections to the whole catalog at the 2026-10-01 refresh.
+
+
+## 24. `Dino Nuggies – Women's Pajama Shorts` is DRAFT while its sibling is ACTIVE 🟡 MEDIUM — added 2026-09-24
+
+`dino-nuggies-womens-pajama-shorts` sits in DRAFT with 59,994 units of inventory available,
+while the near-identical `frosted-dino-cookie-womens-pajama-shorts` is ACTIVE and selling.
+Same garment, same price band ($31.99).
+
+This is not covered by BACKLOG #0 — it is not a Christmas product — so it looks like an
+oversight rather than a decision. Publishing it would double the pajama-shorts range at zero
+cost, ahead of the Nov–Dec sleepwear peak.
+
+**Fix (owner, ~2 minutes):** set the product to ACTIVE, or confirm the draft is intentional so
+the agent stops surfacing it.
+## 25. The shipping policy page is empty 🔴 HIGH — Q4 conversion risk — added 2026-09-24
 
 `shopPolicies` returns `SHIPPING_POLICY` with an **empty body**. The store publishes a shipping
 policy page with nothing on it.
@@ -593,7 +688,7 @@ blank page and leaves.
 transit range beats an empty page, and it would let the blog cite one source instead of
 reverse-engineering dates per product.
 
-## 22. Three different contact addresses across the legal pages 🟢 LOW — added 2026-09-24
+## 26. Three different contact addresses across the legal pages 🟢 LOW — added 2026-09-24
 
 The privacy policy gives `john.honochick@gmail.com` (a personal address) alongside the LLC's
 registered address; the Contact policy gives `john@jurassicapparel.com`; the terms of service
@@ -601,23 +696,3 @@ give `info@jurassicapparel.com`. Three addresses, one personal, on the pages cus
 when deciding whether a store is legitimate.
 
 **Fix:** use the domain address consistently.
-
-## 23. `check-links.py` counted draft products as inventory ✅ FIXED 2026-09-24
-
-This is **fix 1 of BACKLOG #13**, which was scheduled into the 2026-10-01 monthly routine.
-Done early, because Day 5's research needed the checker to be trustworthy today.
-
-`data/catalog.json` now carries a `draft_heavy_do_not_link` list and verified `active` counts
-for the 15 collections checked live on 2026-09-24; `scripts/check-links.py` fails on them and
-prints "N live / M" where an active count is known. Regression-tested: a link to
-`/collections/toys` now fails the check instead of passing it.
-
-Confirms #13's figures independently on 2026-09-24: `toys` 0 of 30 ACTIVE, `dinosaur-jewelry`
-1 of 6. Also newly measured: `dinosaur-christmas` 43 of 52, `dinosaur-ties` 7 of 9,
-`dinosaur-stickers` 29 of 31, `dinosaur-socks` 35 of 36. The rest of the gifting set is fully
-active.
-
-**Still owner-side, unchanged:** #13 fix 2, the decision on the 30 drafted toys.
-
-Remaining agent-side work: the 2026-10-01 refresh should extend `active` counts to the whole
-catalog, not just the 15 verified here.

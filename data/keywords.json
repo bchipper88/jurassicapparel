@@ -118,6 +118,25 @@
   ],
   "next_up": [
     {
+      "keyword": "dinosaur pajamas",
+      "volume": 1600,
+      "peak_volume": 2900,
+      "peak_month": "202612",
+      "sd": 17,
+      "cpc": 1.57,
+      "competition": 0.98,
+      "intent": "Transactional",
+      "slug": "dinosaur-pajamas-for-adults",
+      "verified": "2026-09-24",
+      "article_status": "ready-to-publish",
+      "article_path": "content/articles/2026-09-25-dinosaur-pajamas-for-adults.md",
+      "current_rank": 14,
+      "current_rank_url": "https://jurassicapparel.com/products/realistic-jurassic-adult-dinosaur-pajamas",
+      "note": "Promoted over 'dinosaur stocking' on 2026-09-24: 4x the volume, lower SD, 10x the CPC. Joint-lowest SD of any real-volume keyword in the file. Already ranks #14 at DA 16; a DA-18 competitor sits at #4, so page 1 is not authority-gated. Backed by 3 ACTIVE SKUs. See BACKLOG #21 for the collection that would strengthen it."
+    }
+  ],
+  "queued_seasonal": [
+    {
       "keyword": "dinosaur stocking",
       "volume": 390,
       "peak_volume": 1900,
@@ -125,11 +144,10 @@
       "sd": 21,
       "cpc": 0.15,
       "intent": "Transactional",
+      "slug": "dinosaur-christmas-stockings",
       "verified": "2026-09-24",
-      "note": "Plus 'dinosaur christmas stocking' 320/mo, 1,300 Nov, SD 21. 15 products in christmas-dinosaur-stockings. Ship by mid-October."
-    }
-  ],
-  "queued_seasonal": [
+      "note": "Demoted from next_up 2026-09-24 in favour of 'dinosaur pajamas'. Take it next."
+    },
     {
       "keyword": "dinosaur pajamas adult",
       "volume": 390,
@@ -445,6 +463,30 @@
       "intent": "Transactional",
       "skipped_on": "2026-09-24",
       "reason": "No sweater in the catalog: two Christmas sweatshirts only; 'Ugly Dinosaur Sweater' is a t-shirt in DRAFT. Merchandising item BACKLOG #18."
+    },
+    {
+      "keyword": "dinosaur onesie adult",
+      "volume": 1900,
+      "peak_volume": 8100,
+      "peak_month": "202610",
+      "sd": 24,
+      "cpc": 0.37,
+      "intent": "Transactional",
+      "verified": "2026-09-24",
+      "date": "2026-09-24",
+      "reason": "Numbers held; inventory did not. Verified in Shopify: the store sells no adult one-piece onesie. 'Realistic Jurassic - Adult Dinosaur Pajamas' is unisex wide-leg pajama PANTS. Breaks CEO-CHARTER principle 2. Redirected to 'dinosaur pajamas'."
+    },
+    {
+      "keyword": "dinosaur onesie",
+      "volume": 3600,
+      "peak_volume": 12100,
+      "peak_month": "202610",
+      "sd": 28,
+      "cpc": 0.46,
+      "intent": "Transactional",
+      "verified": "2026-09-24",
+      "date": "2026-09-24",
+      "reason": "Blocked on the same inventory gap as the adult variant. Servable slice is the baby sub-intent; revisit as 'dinosaur baby onesie', never the head term."
     }
   ],
   "rescue_content": [
@@ -486,7 +528,7 @@
       "proposed_canonical": "/blogs/blog/dinosaur-gifts",
       "incumbent_rankings": "none",
       "incumbency_checked": "2026-09-24",
-      "incumbency_note": "page_overview returns noData for both generic guides; no gift-guide URL appears in the domain's top ~180 ranking keywords by traffic (domain_keywords, locId 2840). Consolidation risks no existing ranking."
+      "incumbency_note": "page_overview returns noData for both generic guides; no gift-guide URL appears in the domain's top ~180 ranking keywords by traffic (domain_keywords, locId 2840). Consolidation risks no existing ranking, so the canonical can be chosen on URL quality."
     },
     {
       "keyword": "adult dinosaur gifts",
