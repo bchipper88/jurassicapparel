@@ -2,9 +2,9 @@
 title: "Dinosaur Pajamas for Adults: How to Find a Pair That Actually Fits"
 slug: dinosaur-pajamas-for-adults
 date: 2026-09-25
-status: ready-to-publish
+status: awaiting-publish
 written: 2026-09-24
-metrics_source: "Ubersuggest live, locId 2840, 2026-09-24"
+metrics_source: "Ubersuggest live, locId 2840, re-verified 2026-09-25"
 target_keyword: "dinosaur pajamas"
 target_volume: 1600
 target_sd: 17

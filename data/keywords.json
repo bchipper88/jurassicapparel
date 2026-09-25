@@ -114,9 +114,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-christmas-ornaments-guide",
       "shopify_article_id": "gid://shopify/Article/634818396310",
       "published_at": "2026-09-24T11:15:46Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur pajamas",
       "volume": 1600,
@@ -127,12 +125,26 @@
       "competition": 0.98,
       "intent": "Transactional",
       "slug": "dinosaur-pajamas-for-adults",
-      "verified": "2026-09-24",
-      "article_status": "ready-to-publish",
+      "verified": "2026-09-25",
       "article_path": "content/articles/2026-09-25-dinosaur-pajamas-for-adults.md",
       "current_rank": 14,
       "current_rank_url": "https://jurassicapparel.com/products/realistic-jurassic-adult-dinosaur-pajamas",
-      "note": "Promoted over 'dinosaur stocking' on 2026-09-24: 4x the volume, lower SD, 10x the CPC. Joint-lowest SD of any real-volume keyword in the file. Already ranks #14 at DA 16; a DA-18 competitor sits at #4, so page 1 is not authority-gated. Backed by 3 ACTIVE SKUs. See BACKLOG #21 for the collection that would strengthen it."
+      "note": "Promoted over 'dinosaur stocking' on 2026-09-24: 4x the volume, lower SD, 10x the CPC. Joint-lowest SD of any real-volume keyword in the file. Already ranks #14 at DA 16; a DA-18 competitor sits at #4, so page 1 is not authority-gated. Backed by 3 ACTIVE SKUs. See BACKLOG #21 for the collection that would strengthen it.",
+      "date": "2026-09-25",
+      "status": "published"
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur stocking",
+      "volume": 390,
+      "peak_volume": 1900,
+      "sd": 21,
+      "cpc": 0.15,
+      "intent": "Transactional",
+      "slug": "dinosaur-christmas-stockings",
+      "verified": "2026-09-24",
+      "note": "Pair with 'dinosaur christmas stocking' (320/mo, 1,300 Nov, SD 21). 15 products in christmas-dinosaur-stockings; confirm ACTIVE count before writing."
     }
   ],
   "queued_seasonal": [
@@ -169,7 +181,7 @@
       "volume": 9900,
       "sd": 30,
       "cpc": 0.21,
-      "blocked_by": "BACKLOG #1 \u2014 dinosaur-masks collection has 0 products"
+      "blocked_by": "BACKLOG #1 — dinosaur-masks collection has 0 products"
     },
     {
       "keyword": "dinosaur wrapping paper",

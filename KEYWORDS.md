@@ -62,32 +62,24 @@ Ubersuggest figure that justified it.
   `dinosaur christmas ornament` 880/mo (4,400 Nov, SD 18), `t rex ornament` 140/mo (SD 17).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-christmas-ornaments-guide
 
+- ✅ Published (2026-09-25) **dinosaur pajamas** — 1,600/mo avg | **2,900/mo Dec peak** | **SD 17**
+  | $1.57 CPC | Transactional → `dinosaur-pajamas-for-adults`
+  Day 5. Re-verified 2026-09-25 (unchanged: Sep 1,300 → Oct 2,400 → Dec 2,900). Written
+  2026-09-24 by a colliding run, held, and published today. All 3 linked SKUs ACTIVE; prices,
+  size table and production/shipping estimates re-read from the live listing on 2026-09-25.
+  Already ranks #14 with the product page. Angle: adult sizing 2XS–6XL, because page 1 is all
+  toddler pajamas. `dinosaur-pajamas` collection still does not exist (BACKLOG #21).
+  **LIVE:** (pending)
+
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur pajamas** — 1,600/mo avg | **2,900/mo Dec peak** | **SD 17** | **$1.57 CPC**
-  | Transactional → `dinosaur-pajamas-for-adults`
-  **The article is already written, link-checked and sitting in
-  `content/articles/2026-09-25-dinosaur-pajamas-for-adults.md` with
-  `status: ready-to-publish`.** It only needs publishing.
-  Verified 2026-09-24. Promoted over `dinosaur stocking` on the numbers: **4× the volume, a
-  lower difficulty, and 10× the CPC** ($1.57 vs $0.15). SD 17 is the joint-lowest difficulty of
-  anything with real volume anywhere in this file — the same figure as `dinosaur shirt` in the
-  rescue queue. We already rank **#14** on it at DA 16 with
-  `/products/realistic-jurassic-adult-dinosaur-pajamas` (≈59 clicks/mo), and a DA-18 competitor
-  sits at #4, so page 1 is not authority-gated. Dec peak 2,900 / Nov 2,400 / Oct 2,400.
-  Angle: adult sizing (2XS–6XL), because every page-1 result is toddler pajamas.
-  Backed by 3 ACTIVE SKUs. See `BACKLOG.md` #21 — a `dinosaur-pajamas` collection would make
-  this much stronger, and the article is written to link into it the moment it exists.
-
-- 📋 **dinosaur stocking** — 390/mo | **1,900/mo Nov–Dec** | SD 21 | $0.15 CPC | Transactional
+- 🎯 **dinosaur stocking** — 390/mo | **1,900/mo Nov–Dec** | SD 21 | $0.15 CPC | Transactional
   → `dinosaur-christmas-stockings`
-  Verified 2026-09-24. **Demoted from 🎯 Next up on 2026-09-24** in favour of `dinosaur pajamas`
-  — same seasonal window, far better economics. Still a good target; take it after the pajamas
-  page. Pair with `dinosaur christmas stocking` (320/mo, 1,300 Nov, SD 21, $0.39 CPC). 15
-  products in `christmas-dinosaur-stockings`. *Before writing:* confirm ACTIVE count, read
-  sizes/materials/personalization off the listings.
+  Verified 2026-09-24. Pair with `dinosaur christmas stocking` (320/mo, 1,300 Nov, SD 21, $0.39
+  CPC). 15 products in `christmas-dinosaur-stockings`. *Before writing:* re-verify, confirm
+  ACTIVE count, read sizes/materials/personalization off the listings.
 
 ---
 
@@ -122,8 +114,8 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
   2026-09-24 on inventory: no sweater in the catalog (two Christmas sweatshirts; the "Ugly
   Dinosaur Sweater" is a t-shirt in DRAFT). BACKLOG #18. Re-queue if a sweater is listed.
 - ✅ dinosaur christmas ornament — covered by the Day 4 ornaments guide (see ✅ Published)
-- 🎯 **dinosaur pajamas** — next up (see 🎯 NEXT UP); article already written and ready
-- 📋 dinosaur stocking — 390/mo, 1,900 Nov–Dec, SD 21 — take it after the pajamas page
+- ✅ dinosaur pajamas — published 2026-09-25 (Day 5, see ✅ Published)
+- 🎯 **dinosaur stocking** — next up (see 🎯 NEXT UP)
 - 📋 **dinosaur wrapping paper** — 1,600/mo avg | **4,400/mo Dec**, 2,400 Nov | SD 23 | $0.51 CPC
   | Transactional → `dinosaur-wrapping-paper`
   Verified 2026-09-24. Unusual curve: 880–1,600/mo all year (birthdays) with a December spike.
