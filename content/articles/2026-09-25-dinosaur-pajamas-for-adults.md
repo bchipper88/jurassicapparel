@@ -2,7 +2,10 @@
 title: "Dinosaur Pajamas for Adults: How to Find a Pair That Actually Fits"
 slug: dinosaur-pajamas-for-adults
 date: 2026-09-25
-status: awaiting-publish
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-pajamas-for-adults
+shopify_article_id: "gid://shopify/Article/634823278742"
+published_at: 2026-09-25T11:11:07Z
 written: 2026-09-24
 metrics_source: "Ubersuggest live, locId 2840, re-verified 2026-09-25"
 target_keyword: "dinosaur pajamas"
@@ -93,8 +96,8 @@ below.
 
 ## Sizing: measure your waist, ignore the letter
 
-This is the part that actually decides whether you keep them. Alpha sizing on print-on-
-demand garments does not match the alpha sizing in your wardrobe, and on a drawstring
+This is the part that actually decides whether you keep them. Alpha sizing on print-on-demand
+garments does not match the alpha sizing in your wardrobe, and on a drawstring
 wide-leg pant you have more room for error at the waist than at the hip. Measure both,
 then read the table.
 
@@ -162,7 +165,7 @@ December is when everyone else remembers too.
 
 ## Questions people actually ask
 
-**Are they unisex?** The pants are, genuinely — a relaxed straight cut with a drawstring
+**Are they unisex?** The pants are, genuinely — a relaxed wide-leg cut with a drawstring
 waist, sized by waist and hip measurement rather than by gender. The shorts are cut for
 women.
 

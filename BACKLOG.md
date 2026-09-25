@@ -726,3 +726,11 @@ stall in #7 is the thing to fix.
 **Agent-side mitigation, already in effect:** every run now starts with
 `git fetch && git pull` before reading the queue, and checks `updates/` for today's date before
 writing. That turns a collision into a cheap no-op instead of a wasted article.
+
+## 28. `md-to-shopify.py` needs the `markdown` package, and fresh containers don't have it 🟢 LOW — tooling — added 2026-09-25
+
+On 2026-09-25 the publish step failed with `ModuleNotFoundError: No module named 'markdown'`
+until I ran `pip install markdown` by hand. Every fresh Routine container will fail the same
+way. **Fix:** add `pip install markdown` to the Routine environment's setup script, or have the
+script fall back to a clear error that names the install command. It costs a minute per run
+now, but a run that doesn't know the fix could mark the day blocked.

@@ -69,7 +69,7 @@ Ubersuggest figure that justified it.
   size table and production/shipping estimates re-read from the live listing on 2026-09-25.
   Already ranks #14 with the product page. Angle: adult sizing 2XS–6XL, because page 1 is all
   toddler pajamas. `dinosaur-pajamas` collection still does not exist (BACKLOG #21).
-  **LIVE:** (pending)
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-pajamas-for-adults
 
 ---
 
