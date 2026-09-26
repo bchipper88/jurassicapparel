@@ -78,7 +78,7 @@ Ubersuggest figure that justified it.
   Angle: the listing ships in 10–30 business days after 2–5 of production, so the page leads
   on order-by dates (Oct 8 Thanksgiving / Oct 16 early Dec / Nov 3 Christmas Eve) and sorts the
   15 prints by who they're for. No personalization offered (BACKLOG #29).
-  **STATUS:** written and link-checked; publish pending (see below).
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-christmas-stockings
 
 ---
 

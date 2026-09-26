@@ -159,7 +159,10 @@
       },
       "note": "Re-verified 2026-09-26, unchanged from 2026-09-24. All 15 stockings ACTIVE (untracked POD inventory). Listing shipping estimate is 2-5 + 10-30 business days, so the article leads on order-by dates (Oct 8 / Oct 16 / Nov 3).",
       "date": "2026-09-26",
-      "status": "draft"
+      "status": "published",
+      "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-christmas-stockings",
+      "shopify_article_id": "gid://shopify/Article/634826948758",
+      "published_at": "2026-09-26T11:14:08Z"
     }
   ],
   "next_up": [

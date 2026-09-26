@@ -2,7 +2,10 @@
 title: "Dinosaur Christmas Stockings: 15 Designs, One Size, and When to Order"
 slug: dinosaur-christmas-stockings
 date: 2026-09-26
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-christmas-stockings
+shopify_article_id: "gid://shopify/Article/634826948758"
+published_at: 2026-09-26T11:14:08Z
 metrics_source: "Ubersuggest live, locId 2840, re-verified 2026-09-26"
 target_keyword: "dinosaur stocking"
 target_volume: 390
