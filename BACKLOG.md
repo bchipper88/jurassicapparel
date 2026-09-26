@@ -734,3 +734,25 @@ until I ran `pip install markdown` by hand. Every fresh Routine container will f
 way. **Fix:** add `pip install markdown` to the Routine environment's setup script, or have the
 script fall back to a clear error that names the install command. It costs a minute per run
 now, but a run that doesn't know the fix could mark the day blocked.
+
+## 29. All 15 stocking listings promise a "personalized stocking" that can't be personalized 🟡 MEDIUM — product copy — added 2026-09-26
+
+Every listing in `christmas-dinosaur-stockings` says *"we create your personalized stocking
+with care"* in its shipping block, but none of them has a name field or any personalization
+option (one variant each: `13" × 19.3''`). A shopper who searches "personalized dinosaur
+stocking" and lands here will expect a name on the cuff. Same pattern as #19 (the ornament).
+**Fix (owner, product copy — gated):** change "personalized" to "custom-printed" in the shipping
+block, or add a personalization field. The Day 6 article says plainly that no name option exists.
+
+## 30. Stockings ship in 10–30 business days — the longest window in the Christmas range 🟠 HIGH — Q4 conversion risk — added 2026-09-26
+
+The stocking listings quote **2–5 business days production + 10–30 business days shipping**
+(12–35 door to door) against 3–8 for the pajamas and 3–6 for the ornaments. Working back from the
+slowest estimate, a stocking for Christmas Eve must be ordered by **November 3**; the search peak
+(1,900/mo) is November–December, so much of the demand arrives after the safe window closes.
+**Asks (owner):** (a) check whether the print provider offers a faster shipping tier for this
+product and whether 30 days is still accurate; (b) consider an order-by line on the collection page
+(collection copy is gated). The Day 6 article carries the order-by dates.
+
+Also noted, not a bug: *Merry Christmas* is $33.55 while the other 14 are $34.99. Probably a
+leftover price; worth a glance.

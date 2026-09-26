@@ -1,5 +1,5 @@
 {
-  "_comment": "Shopify catalog snapshot. The internal-link map. Refresh monthly (CLAUDE.md monthly routine). Never link to a collection in empty_collections_do_not_link or draft_heavy_do_not_link. NOTE: a collection's product count includes DRAFT products, which are invisible to customers \u2014 always verify ACTIVE count before linking.",
+  "_comment": "Shopify catalog snapshot. The internal-link map. Refresh monthly (CLAUDE.md monthly routine). Never link to a collection in empty_collections_do_not_link or draft_heavy_do_not_link. NOTE: a collection's product count includes DRAFT products, which are invisible to customers — always verify ACTIVE count before linking.",
   "snapshot_date": "2026-09-24",
   "shop": {
     "name": "Jurassic Apparel",
@@ -425,7 +425,9 @@
       {
         "handle": "christmas-dinosaur-stockings",
         "title": "Dinosaur Christmas Stockings",
-        "products": 15
+        "products": 15,
+        "active": 15,
+        "active_verified": "2026-09-26"
       },
       {
         "handle": "4th-of-july-dinosaur-apparel",
@@ -522,7 +524,7 @@
       "handle": "unique-dinosaur-gifts",
       "products": 3,
       "active": 3,
-      "note": "All live but only 3 products \u2014 too thin to be a link destination. Merchandising item."
+      "note": "All live but only 3 products — too thin to be a link destination. Merchandising item."
     }
   ],
   "collections_verified": "2026-08-30; sleepwear subset re-verified live 2026-09-24; ACTIVE counts for the 15-collection gifting set verified live 2026-09-24"

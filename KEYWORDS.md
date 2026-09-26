@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -71,15 +71,24 @@ Ubersuggest figure that justified it.
   toddler pajamas. `dinosaur-pajamas` collection still does not exist (BACKLOG #21).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-pajamas-for-adults
 
+- ✅ Published (2026-09-26) **dinosaur stocking** — 390/mo avg | **1,900/mo Nov–Dec** | SD 21
+  | $0.15 CPC | Transactional → `dinosaur-christmas-stockings`
+  Day 6. Re-verified 2026-09-26 (unchanged: Sep 110 → Oct 320 → Nov 1,900). Paired with
+  `dinosaur christmas stocking` (320/mo, 1,300 Nov, SD 21, $0.39 CPC). All 15 stockings ACTIVE.
+  Angle: the listing ships in 10–30 business days after 2–5 of production, so the page leads
+  on order-by dates (Oct 8 Thanksgiving / Oct 16 early Dec / Nov 3 Christmas Eve) and sorts the
+  15 prints by who they're for. No personalization offered (BACKLOG #29).
+  **STATUS:** written and link-checked; publish pending (see below).
+
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur stocking** — 390/mo | **1,900/mo Nov–Dec** | SD 21 | $0.15 CPC | Transactional
-  → `dinosaur-christmas-stockings`
-  Verified 2026-09-24. Pair with `dinosaur christmas stocking` (320/mo, 1,300 Nov, SD 21, $0.39
-  CPC). 15 products in `christmas-dinosaur-stockings`. *Before writing:* re-verify, confirm
-  ACTIVE count, read sizes/materials/personalization off the listings.
+- 🎯 **dinosaur wrapping paper** — 1,600/mo avg | **4,400/mo Dec**, 2,400 Nov | SD 23 | $0.51 CPC
+  | Transactional → `dinosaur-wrapping-paper`
+  Verified 2026-09-24; re-verify before writing. 6 wrapping-paper products, all Christmas prints.
+  *Before writing:* search for non-Christmas (birthday) wrap; if none, write it as the Christmas
+  wrap guide and file the birthday gap to BACKLOG. Links the Day 4 ornaments guide.
 
 ---
 
@@ -115,8 +124,8 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
   Dinosaur Sweater" is a t-shirt in DRAFT). BACKLOG #18. Re-queue if a sweater is listed.
 - ✅ dinosaur christmas ornament — covered by the Day 4 ornaments guide (see ✅ Published)
 - ✅ dinosaur pajamas — published 2026-09-25 (Day 5, see ✅ Published)
-- 🎯 **dinosaur stocking** — next up (see 🎯 NEXT UP)
-- 📋 **dinosaur wrapping paper** — 1,600/mo avg | **4,400/mo Dec**, 2,400 Nov | SD 23 | $0.51 CPC
+- ✅ dinosaur stocking — published 2026-09-26 (Day 6, see ✅ Published)
+- 🎯 **dinosaur wrapping paper** — next up (see 🎯 NEXT UP). 1,600/mo avg | **4,400/mo Dec**, 2,400 Nov | SD 23 | $0.51 CPC
   | Transactional → `dinosaur-wrapping-paper`
   Verified 2026-09-24. Unusual curve: 880–1,600/mo all year (birthdays) with a December spike.
   Our 6 wrapping-paper products are all Christmas prints, so the page can only serve the

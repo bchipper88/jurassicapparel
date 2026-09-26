@@ -135,22 +135,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-pajamas-for-adults",
       "shopify_article_id": "gid://shopify/Article/634823278742",
       "published_at": "2026-09-25T11:11:07Z"
-    }
-  ],
-  "next_up": [
-    {
-      "keyword": "dinosaur stocking",
-      "volume": 390,
-      "peak_volume": 1900,
-      "sd": 21,
-      "cpc": 0.15,
-      "intent": "Transactional",
-      "slug": "dinosaur-christmas-stockings",
-      "verified": "2026-09-24",
-      "note": "Pair with 'dinosaur christmas stocking' (320/mo, 1,300 Nov, SD 21). 15 products in christmas-dinosaur-stockings; confirm ACTIVE count before writing."
-    }
-  ],
-  "queued_seasonal": [
+    },
     {
       "keyword": "dinosaur stocking",
       "volume": 390,
@@ -158,11 +143,40 @@
       "peak_month": "202611",
       "sd": 21,
       "cpc": 0.15,
+      "competition": 0.71,
       "intent": "Transactional",
       "slug": "dinosaur-christmas-stockings",
+      "verified": "2026-09-26",
+      "article_path": "content/articles/2026-09-26-dinosaur-christmas-stockings.md",
+      "secondary": {
+        "dinosaur christmas stocking": {
+          "volume": 320,
+          "peak_volume": 1300,
+          "peak_month": "202611",
+          "sd": 21,
+          "cpc": 0.39
+        }
+      },
+      "note": "Re-verified 2026-09-26, unchanged from 2026-09-24. All 15 stockings ACTIVE (untracked POD inventory). Listing shipping estimate is 2-5 + 10-30 business days, so the article leads on order-by dates (Oct 8 / Oct 16 / Nov 3).",
+      "date": "2026-09-26",
+      "status": "draft"
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur wrapping paper",
+      "volume": 1600,
+      "peak_volume": 4400,
+      "peak_month": "202612",
+      "sd": 23,
+      "cpc": 0.51,
+      "intent": "Transactional",
       "verified": "2026-09-24",
-      "note": "Demoted from next_up 2026-09-24 in favour of 'dinosaur pajamas'. Take it next."
-    },
+      "seasonality": "Year-round 880-1,600 (birthdays), Nov 2,400, Dec 4,400",
+      "note": "Only 6 wrapping-paper products, all Christmas prints. Before writing: check whether any non-Christmas (birthday) wrap exists; if not, the page can only serve the Nov-Dec half of the demand. Link the ornaments guide. Promoted to next_up 2026-09-26."
+    }
+  ],
+  "queued_seasonal": [
     {
       "keyword": "dinosaur pajamas adult",
       "volume": 390,
