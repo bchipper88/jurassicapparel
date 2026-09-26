@@ -35,7 +35,7 @@ products_linked:
     status: ACTIVE
   - handle: drinking-rex-dinosaur-christmas-stocking
     status: ACTIVE
-word_count: 1199
+word_count: 1217
 ---
 
 # Dinosaur Christmas Stockings: 15 Designs, One Size, and When to Order
@@ -148,7 +148,8 @@ At the middle of the estimate, a stocking ordered around November 19 would make 
 Christmas; at the fastest, one ordered on December 7 would. But those are the good cases,
 not the promise. If a stocking arriving on December 28 would genuinely
 ruin something, order before November. Tracking is sent once your order moves into the
-shipping stage. These stockings ship within the US only.
+shipping stage. Those estimates are for US standard shipping; the listings don't quote
+times for anywhere else.
 
 ## Filling it
 
@@ -171,7 +172,7 @@ thing to leave folded on top.
 **How big are the stockings?** 13″ × 19.3″ (33 × 49 cm). There's only one size.
 
 **Can I get a name put on one?** No. None of the fifteen has a personalization option.
-Families usually use the different prints to tell them apart instead.
+Giving each person a different print does the same job.
 
 **What are they made of?** 100% polyester faux suede, with a hanging loop.
 
@@ -179,8 +180,8 @@ Families usually use the different prints to tell them apart instead.
 loop, so they're made for the usual small things — candy, socks, small toys. For anything
 heavy, check what your mantel hook is rated for before you trust it.
 
-**Do you ship outside the US?** Not for these. The stocking listings offer US standard
-shipping only.
+**What if I'm outside the US?** The stocking listings only quote US standard shipping
+times, so check the delivery options at checkout before you count on a date.
 
 **Will they arrive by Christmas?** If you order by November 3, the listings' slowest
 estimate still gets it to you by December 23. After that it becomes a gamble, and after
