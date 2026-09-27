@@ -163,9 +163,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-christmas-stockings",
       "shopify_article_id": "gid://shopify/Article/634826948758",
       "published_at": "2026-09-26T11:14:08Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur wrapping paper",
       "volume": 1600,
@@ -174,9 +172,39 @@
       "sd": 23,
       "cpc": 0.51,
       "intent": "Transactional",
-      "verified": "2026-09-24",
+      "verified": "2026-09-27",
       "seasonality": "Year-round 880-1,600 (birthdays), Nov 2,400, Dec 4,400",
-      "note": "Only 6 wrapping-paper products, all Christmas prints. Before writing: check whether any non-Christmas (birthday) wrap exists; if not, the page can only serve the Nov-Dec half of the demand. Link the ornaments guide. Promoted to next_up 2026-09-26."
+      "note": "Re-verified 2026-09-27, unchanged. All 6 products ACTIVE, all Christmas prints; no birthday wrap (BACKLOG #31). Listing: 3 sheets 28.75x19.75in, 70# uncoated matte, $24.99; 2-3 + 3-6 business days, so order-by Dec 10 for Christmas Eve.",
+      "slug": "dinosaur-wrapping-paper",
+      "competition": 1,
+      "article_path": "content/articles/2026-09-27-dinosaur-wrapping-paper.md",
+      "secondary": {
+        "dinosaur christmas wrapping paper": {
+          "volume": 590,
+          "peak_volume": 2900,
+          "peak_month": "202512",
+          "sd": 28,
+          "cpc": 0.03
+        }
+      },
+      "date": "2026-09-27",
+      "status": "awaiting-publish"
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur mug",
+      "volume": 720,
+      "peak_volume": 1600,
+      "peak_month": "202512",
+      "sd": 25,
+      "cpc": 0.62,
+      "competition": 0.99,
+      "intent": "Transactional",
+      "verified": "2026-09-27",
+      "slug": "dinosaur-mugs-guide",
+      "seasonality": "Floor 390-880/mo year-round; Nov 880, Dec 1,600",
+      "note": "dinosaur-mugs: 50 ACTIVE of 85 at catalog snapshot; re-count before linking. Check for an existing mug blog post first. Festive Dino Wonderland mug ranks #3 for 'dinosaur christmas mug'. Mind BACKLOG #20 when quoting prices."
     }
   ],
   "queued_seasonal": [
@@ -204,16 +232,26 @@
       "blocked_by": "BACKLOG #1 — dinosaur-masks collection has 0 products"
     },
     {
-      "keyword": "dinosaur wrapping paper",
-      "volume": 1600,
+      "keyword": "dinosaur christmas sweatshirt",
+      "volume": 720,
       "peak_volume": 4400,
-      "peak_month": "202612",
-      "sd": 23,
-      "cpc": 0.51,
+      "peak_month": "202512",
+      "sd": 29,
+      "cpc": 0.15,
       "intent": "Transactional",
-      "verified": "2026-09-24",
-      "seasonality": "Year-round 880-1,600 (birthdays), Nov 2,400, Dec 4,400",
-      "note": "Only 6 wrapping-paper products, all Christmas prints. Before writing: check whether any non-Christmas (birthday) wrap exists; if not, the page can only serve the Nov-Dec half of the demand. Link the ornaments guide."
+      "verified": "2026-09-27",
+      "note": "Only two Christmas sweatshirts exist (BACKLOG #18). Late-October page only if the range grows."
+    },
+    {
+      "keyword": "dinosaur christmas shirt",
+      "volume": 170,
+      "peak_volume": 880,
+      "peak_month": "202512",
+      "sd": 23,
+      "cpc": 0.34,
+      "intent": "Transactional",
+      "verified": "2026-09-27",
+      "note": "Check Christmas tee inventory before queuing a page."
     }
   ],
   "queued_evergreen": [
@@ -582,5 +620,5 @@
       "note": "Re-pulled 2026-09-24 (SD 16 -> 22). Served by the same live cluster; folds into the consolidation."
     }
   ],
-  "last_repull": "2026-09-24"
+  "last_repull": "2026-09-27"
 }

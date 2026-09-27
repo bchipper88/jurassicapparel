@@ -756,3 +756,17 @@ product and whether 30 days is still accurate; (b) consider an order-by line on 
 
 Also noted, not a bug: *Merry Christmas* is $33.55 while the other 14 are $34.99. Probably a
 leftover price; worth a glance.
+
+## 31. No birthday (non-Christmas) dinosaur wrapping paper — half the keyword's demand is unserved 🟡 MEDIUM — merchandising — added 2026-09-27
+
+`dinosaur wrapping paper` does 1,600/mo on average, and the curve has a year-round floor of
+**880–1,600/mo** (Jan–Oct) before the Christmas spike (Nov 2,400, Dec 4,400; Ubersuggest locId
+2840, 2026-09-27). That floor is birthday wrap. All six products in
+`dinosaur-christmas-wrapping-paper` are Christmas prints, so for ten months of the year the Day 7
+article can only tell searchers we don't have what they want.
+**Ask (owner, catalog — gated):** list two or three non-seasonal dinosaur wrapping papers
+(e.g. a birthday print, a plain T. rex pattern) on the same blank as the Christmas range. The
+print provider and product template already exist, so this is design work, not sourcing. Once
+listed, the article gets a birthday section and the page earns all year.
+Also noted: the Christmas listings' own copy says the paper is "ideal for birthdays", which a
+Santa-hat print isn't. Product copy, gated.

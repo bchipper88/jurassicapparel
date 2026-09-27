@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -80,15 +80,25 @@ Ubersuggest figure that justified it.
   15 prints by who they're for. No personalization offered (BACKLOG #29).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-christmas-stockings
 
+- ✅ Published (2026-09-27) **dinosaur wrapping paper** — 1,600/mo avg | **4,400/mo Dec**, 2,400 Nov | SD 23
+  | $0.51 CPC | Transactional → `dinosaur-wrapping-paper`
+  Day 7. Re-verified 2026-09-27 (unchanged since 2026-09-24). Paired with `dinosaur christmas
+  wrapping paper` (590/mo avg, Oct 720 → **Nov 2,400 → Dec 2,900**, SD 28, $0.03 CPC). All 6
+  wrapping papers ACTIVE, all Christmas prints; no birthday wrap exists (BACKLOG #31), so the page
+  serves the Nov–Dec half of the curve. Angle: which box sizes one 28.75″ × 19.75″ sheet covers,
+  and order-by dates from the listings' 5–9 business-day estimate (Dec 10 for Christmas Eve).
+
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur wrapping paper** — 1,600/mo avg | **4,400/mo Dec**, 2,400 Nov | SD 23 | $0.51 CPC
-  | Transactional → `dinosaur-wrapping-paper`
-  Verified 2026-09-24; re-verify before writing. 6 wrapping-paper products, all Christmas prints.
-  *Before writing:* search for non-Christmas (birthday) wrap; if none, write it as the Christmas
-  wrap guide and file the birthday gap to BACKLOG. Links the Day 4 ornaments guide.
+- 🎯 **dinosaur mug** — 720/mo avg | **1,600/mo Dec**, 880 Nov | SD 25 | $0.62 CPC
+  | Transactional → `dinosaur-mugs-guide`
+  Verified 2026-09-27. Evergreen floor (390–880/mo) with a December gift spike, so it earns all
+  year and ships ~9 weeks ahead of its peak. `dinosaur-mugs` has 50 ACTIVE of 85 in the catalog
+  snapshot; re-count ACTIVE before linking. *Before writing:* check the blog for an existing mug
+  post (cannibalisation), and note the Festive Dino Wonderland mug already ranks #3 for
+  `dinosaur christmas mug`. Watch BACKLOG #20 (20 oz priced below 15 oz) when quoting prices.
 
 ---
 
@@ -125,14 +135,14 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 - ✅ dinosaur christmas ornament — covered by the Day 4 ornaments guide (see ✅ Published)
 - ✅ dinosaur pajamas — published 2026-09-25 (Day 5, see ✅ Published)
 - ✅ dinosaur stocking — published 2026-09-26 (Day 6, see ✅ Published)
-- 🎯 **dinosaur wrapping paper** — next up (see 🎯 NEXT UP). 1,600/mo avg | **4,400/mo Dec**, 2,400 Nov | SD 23 | $0.51 CPC
-  | Transactional → `dinosaur-wrapping-paper`
-  Verified 2026-09-24. Unusual curve: 880–1,600/mo all year (birthdays) with a December spike.
-  Our 6 wrapping-paper products are all Christmas prints, so the page can only serve the
-  Nov–Dec half unless birthday wrap exists. *Before writing:* search for non-Christmas wrap;
-  if there is none, write it as the Christmas wrap guide and file the birthday gap to BACKLOG.
-  Links naturally to the Day 4 ornaments guide (matching sets).
-- 📋 christmas dinosaur mug — currently ranks #3 on 70/mo; check for a bigger head term
+- ✅ dinosaur wrapping paper — published 2026-09-27 (Day 7, see ✅ Published)
+- 📋 christmas dinosaur mug — currently ranks #3 on 70/mo. *2026-09-27:* head term found —
+  `dinosaur mug` 720/mo (Dec 1,600, SD 25) — promoted to 🎯 Next up; this folds into it.
+- 📋 **dinosaur christmas sweatshirt** — 720/mo avg | **Nov 2,900 · Dec 4,400** | SD 29 | $0.15 CPC
+  New 2026-09-27. Big curve, but only two Christmas sweatshirts exist (BACKLOG #18). Write it
+  for late October only if the range grows; otherwise a section in a broader Christmas-wear page.
+- 📋 dinosaur christmas shirt — 170/mo avg | Nov 590 · Dec 880 | SD 23 | $0.34 CPC — new
+  2026-09-27; check Christmas tee inventory before queuing a page.
 
 ## 📋 QUEUE — Evergreen commercial (fills non-seasonal days)
 
