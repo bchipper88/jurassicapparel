@@ -87,6 +87,7 @@ Ubersuggest figure that justified it.
   wrapping papers ACTIVE, all Christmas prints; no birthday wrap exists (BACKLOG #31), so the page
   serves the Nov–Dec half of the curve. Angle: which box sizes one 28.75″ × 19.75″ sheet covers,
   and order-by dates from the listings' 5–9 business-day estimate (Dec 10 for Christmas Eve).
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-wrapping-paper
 
 ---
 

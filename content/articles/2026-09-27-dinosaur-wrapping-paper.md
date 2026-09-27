@@ -2,7 +2,10 @@
 title: "Dinosaur Wrapping Paper: 6 Christmas Prints, What One Sheet Covers, and When to Order"
 slug: dinosaur-wrapping-paper
 date: 2026-09-27
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-wrapping-paper
+shopify_article_id: "gid://shopify/Article/634828652694"
+published_at: 2026-09-27T11:12:55Z
 metrics_source: "Ubersuggest live, locId 2840, re-verified 2026-09-27"
 target_keyword: "dinosaur wrapping paper"
 target_volume: 1600
