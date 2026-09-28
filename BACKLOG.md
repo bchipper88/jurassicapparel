@@ -770,3 +770,26 @@ print provider and product template already exist, so this is design work, not s
 listed, the article gets a birthday section and the page earns all year.
 Also noted: the Christmas listings' own copy says the paper is "ideal for birthdays", which a
 Santa-hat print isn't. Product copy, gated.
+
+## 32. Mug catalog: a mis-typed color-changing mug, inconsistent prices, and no care info 🟡 MEDIUM — catalog / product copy — added 2026-09-28
+
+Found while counting mugs for the Day 8 article (live Shopify, 2026-09-28):
+
+- **Raptor Watching – Disappearing Dinosaur Mug is typed `Mug`, not `Mug - Disappearing`**, so the
+  smart collection `disappearing-dinosaur-mug` (rule: product type) holds 2 of the 3 color-changing mugs.
+  Fix: set its product type to `Mug - Disappearing`. *(Product edit, gated.)*
+- **The color-changing mugs are priced three different ways:** Retro Rex $24.99 / $29.99 (11/15 oz),
+  Raptor Watching $24.99 (11 oz), and Possessed Rex $19.99 / $21.99, the same as a plain mug. One of
+  these is probably wrong. *(Pricing, gated.)*
+- **Two more odd 20 oz prices** beyond #20: *Dinosaurs Never Had Coffee* 20 oz is **$23.54** (every
+  other 20 oz is $23.99), and T-Rex Winter Forest is still $21.50. *(Pricing, gated.)*
+- **No mug listing says whether it's dishwasher or microwave safe.** It's the most common question
+  about a printed mug, and the article has to say "the listings don't say". Asking the print provider
+  and adding one care line to the shared description template would answer it for all 84. *(Product copy, gated.)*
+
+## 33. `catalog.json` active counts were capped at one page (50) 🟢 LOW — tooling — added 2026-09-28
+
+`dinosaur-mugs` was recorded as "50 ACTIVE of 85" on 2026-09-24. A paged count today returns
+**84 ACTIVE**. The 50 was one 50-item page of results, not the total. Any other collection with exactly
+`"active": 50` in `data/catalog.json` is suspect (`phone-cases` shows 50 of 62). Re-count with
+pagination during the monthly catalog refresh on 2026-10-01. Fixed for `dinosaur-mugs` today.

@@ -192,9 +192,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-wrapping-paper",
       "shopify_article_id": "gid://shopify/Article/634828652694",
       "published_at": "2026-09-27T11:12:55Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur mug",
       "volume": 720,
@@ -204,10 +202,52 @@
       "cpc": 0.62,
       "competition": 0.99,
       "intent": "Transactional",
-      "verified": "2026-09-27",
+      "verified": "2026-09-28",
       "slug": "dinosaur-mugs-guide",
       "seasonality": "Floor 390-880/mo year-round; Nov 880, Dec 1,600",
-      "note": "dinosaur-mugs: 50 ACTIVE of 85 at catalog snapshot; re-count before linking. Check for an existing mug blog post first. Festive Dino Wonderland mug ranks #3 for 'dinosaur christmas mug'. Mind BACKLOG #20 when quoting prices."
+      "note": "Re-verified 2026-09-28, unchanged. 84 ACTIVE mugs (the old 50 was a one-page count). 26 designs offer 20 oz. Shipping 1-2 + 2-5 business days (US standard). Collection /collections/dinosaur-mugs ranks #10 for the head term, so watch for cannibalisation.",
+      "article_path": "content/articles/2026-09-28-dinosaur-mugs-guide.md",
+      "date": "2026-09-28",
+      "status": "draft",
+      "secondary": {
+        "t rex mug": {
+          "volume": 140,
+          "peak_volume": 390,
+          "peak_month": "202512",
+          "sd": 12,
+          "cpc": 0.77
+        },
+        "dinosaur coffee mug": {
+          "volume": 170,
+          "peak_volume": 320,
+          "peak_month": "202512",
+          "sd": 25,
+          "cpc": 0.24
+        },
+        "dinosaur christmas mug": {
+          "volume": 70,
+          "peak_volume": 480,
+          "peak_month": "202512",
+          "sd": 26,
+          "cpc": 0
+        }
+      }
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur christmas",
+      "volume": 1000,
+      "peak_volume": 6600,
+      "peak_month": "202512",
+      "sd": 29,
+      "cpc": 0.02,
+      "competition": 0.35,
+      "intent": "Informational",
+      "verified": "2026-09-28",
+      "slug": "dinosaur-christmas",
+      "seasonality": "Oct 720, Nov 3,600, Dec 6,600; Feb-Jun 140-210",
+      "note": "Hub for the Christmas cluster. Ornaments collection ranks #19 (was #24). Check the SERP before writing, and the dinosaur-christmas collection's ACTIVE count; don't link the Christmas pajama drafts."
     }
   ],
   "queued_seasonal": [
@@ -253,8 +293,8 @@
       "sd": 23,
       "cpc": 0.34,
       "intent": "Transactional",
-      "verified": "2026-09-27",
-      "note": "Check Christmas tee inventory before queuing a page."
+      "verified": "2026-09-28",
+      "note": "Only 2 ACTIVE Christmas tees (Christmas Arms Rex, T-Rex Winter Forest). Cover as a section in the dinosaur christmas hub, not a page of its own."
     }
   ],
   "queued_evergreen": [
@@ -623,5 +663,5 @@
       "note": "Re-pulled 2026-09-24 (SD 16 -> 22). Served by the same live cluster; folds into the consolidation."
     }
   ],
-  "last_repull": "2026-09-27"
+  "last_repull": "2026-09-28"
 }

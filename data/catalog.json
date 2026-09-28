@@ -305,8 +305,17 @@
         "handle": "dinosaur-mugs",
         "title": "Dinosaur Mugs",
         "products": 85,
-        "active": 50,
-        "active_verified": "2026-09-24"
+        "active": 84,
+        "active_verified": "2026-09-28",
+        "note": "2026-09-28: 84 ACTIVE (paged count). The 2026-09-24 figure of 50 was one 50-item page, not the total. 26 designs offer 20 oz."
+      },
+      {
+        "handle": "disappearing-dinosaur-mug",
+        "title": "Disappearing Dinosaur Mug",
+        "products": 2,
+        "active": 2,
+        "active_verified": "2026-09-28",
+        "note": "Smart collection on product type 'Mug - Disappearing'. Misses Raptor Watching (typed 'Mug'). BACKLOG #32."
       },
       {
         "handle": "phone-cases",

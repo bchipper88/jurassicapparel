@@ -89,17 +89,31 @@ Ubersuggest figure that justified it.
   and order-by dates from the listings' 5–9 business-day estimate (Dec 10 for Christmas Eve).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-wrapping-paper
 
+- ✅ Published (2026-09-28) **dinosaur mug** — 720/mo avg | **1,600/mo Dec**, 880 Nov | SD 25
+  | $0.62 CPC | Transactional → `dinosaur-mugs-guide`
+  Day 8. Re-verified 2026-09-28 (unchanged). Floor 390–880/mo year-round. Secondary: `t rex mug`
+  140/mo SD 12 (Dec 390), `dinosaur coffee mug` 170/mo SD 25 (Dec 320), `dinosaur christmas mug`
+  70/mo SD 26 (Nov 260, Dec 480). **84 mugs ACTIVE** (the 50 in the old snapshot was one page of
+  results). Angle: 11/15/20 oz and which designs come in 20 oz (26 do), the color-changing mugs, the
+  nine Christmas mugs that match the wrapping paper, and 3–7 business-day shipping (order by Dec 14).
+  *Cannibalisation watch:* `/collections/dinosaur-mugs` already ranks #10 for `dinosaur mug` and
+  `dinosaur mugs` (rank pull 2026-09-28). The article links to it three times. If the collection
+  drops in the next two weekly pulls, re-point the article at the long-tail terms.
+
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur mug** — 720/mo avg | **1,600/mo Dec**, 880 Nov | SD 25 | $0.62 CPC
-  | Transactional → `dinosaur-mugs-guide`
-  Verified 2026-09-27. Evergreen floor (390–880/mo) with a December gift spike, so it earns all
-  year and ships ~9 weeks ahead of its peak. `dinosaur-mugs` has 50 ACTIVE of 85 in the catalog
-  snapshot; re-count ACTIVE before linking. *Before writing:* check the blog for an existing mug
-  post (cannibalisation), and note the Festive Dino Wonderland mug already ranks #3 for
-  `dinosaur christmas mug`. Watch BACKLOG #20 (20 oz priced below 15 oz) when quoting prices.
+- 🎯 **dinosaur christmas** — 1,000/mo avg | **Nov 3,600 · Dec 6,600** | Oct 720 | SD 29 | $0.02 CPC
+  | Informational → `dinosaur-christmas` (hub)
+  Verified 2026-09-28. Biggest peak left in the Christmas cluster. Our
+  `/collections/dinosaur-christmas-ornaments` page ranks #19 (up from #24 this week), so we already
+  have a foothold. Informational intent and a near-zero CPC mean the SERP likely wants ideas and
+  decorations, not a product grid. *Before writing:* look at the SERP and check the
+  `dinosaur-christmas` collection's ACTIVE count (43/52 at the 09-24 snapshot, and the Christmas
+  pajamas in it are deliberate drafts, so don't link those). The angle is a hub for a dinosaur
+  Christmas, linking out to the ornaments, stockings, wrapping paper, mugs and pajamas pages already
+  live. Publishing Sep 29 puts it about five weeks ahead of the November jump.
 
 ---
 
@@ -137,13 +151,15 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 - ✅ dinosaur pajamas — published 2026-09-25 (Day 5, see ✅ Published)
 - ✅ dinosaur stocking — published 2026-09-26 (Day 6, see ✅ Published)
 - ✅ dinosaur wrapping paper — published 2026-09-27 (Day 7, see ✅ Published)
-- 📋 christmas dinosaur mug — currently ranks #3 on 70/mo. *2026-09-27:* head term found —
-  `dinosaur mug` 720/mo (Dec 1,600, SD 25) — promoted to 🎯 Next up; this folds into it.
+- ✅ christmas dinosaur mug — folded into the Day 8 `dinosaur mug` article (2026-09-28), which has
+  a Christmas mugs section. Festive Dino Wonderland product page ranks #5 (was #4).
 - 📋 **dinosaur christmas sweatshirt** — 720/mo avg | **Nov 2,900 · Dec 4,400** | SD 29 | $0.15 CPC
   New 2026-09-27. Big curve, but only two Christmas sweatshirts exist (BACKLOG #18). Write it
   for late October only if the range grows; otherwise a section in a broader Christmas-wear page.
-- 📋 dinosaur christmas shirt — 170/mo avg | Nov 590 · Dec 880 | SD 23 | $0.34 CPC — new
-  2026-09-27; check Christmas tee inventory before queuing a page.
+- 📋 dinosaur christmas shirt — 170/mo avg | Nov 590 · Dec 880 | SD 23 | $0.34 CPC — re-pulled
+  2026-09-28, unchanged. Inventory checked: only **two** ACTIVE Christmas tees (Christmas Arms Rex,
+  T-Rex Winter Forest). Too thin for a page on its own; cover it as a section in the
+  `dinosaur christmas` hub instead.
 
 ## 📋 QUEUE — Evergreen commercial (fills non-seasonal days)
 
