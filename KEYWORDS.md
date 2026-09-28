@@ -99,6 +99,7 @@ Ubersuggest figure that justified it.
   *Cannibalisation watch:* `/collections/dinosaur-mugs` already ranks #10 for `dinosaur mug` and
   `dinosaur mugs` (rank pull 2026-09-28). The article links to it three times. If the collection
   drops in the next two weekly pulls, re-point the article at the long-tail terms.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-mugs-guide
 
 ---
 

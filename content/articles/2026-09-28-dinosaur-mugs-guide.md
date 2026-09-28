@@ -2,7 +2,10 @@
 title: "Dinosaur Mugs: Which Size to Pick, Which Designs Come in 20 oz, and When to Order"
 slug: dinosaur-mugs-guide
 date: 2026-09-28
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-mugs-guide
+shopify_article_id: "gid://shopify/Article/634835599510"
+published_at: 2026-09-28T11:15:59Z
 metrics_source: "Ubersuggest live, locId 2840, re-verified 2026-09-28"
 target_keyword: "dinosaur mug"
 target_volume: 720

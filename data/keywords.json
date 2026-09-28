@@ -208,7 +208,7 @@
       "note": "Re-verified 2026-09-28, unchanged. 84 ACTIVE mugs (the old 50 was a one-page count). 26 designs offer 20 oz. Shipping 1-2 + 2-5 business days (US standard). Collection /collections/dinosaur-mugs ranks #10 for the head term, so watch for cannibalisation.",
       "article_path": "content/articles/2026-09-28-dinosaur-mugs-guide.md",
       "date": "2026-09-28",
-      "status": "draft",
+      "status": "published",
       "secondary": {
         "t rex mug": {
           "volume": 140,
@@ -231,7 +231,10 @@
           "sd": 26,
           "cpc": 0
         }
-      }
+      },
+      "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-mugs-guide",
+      "shopify_article_id": "gid://shopify/Article/634835599510",
+      "published_at": "2026-09-28T11:15:59Z"
     }
   ],
   "next_up": [
