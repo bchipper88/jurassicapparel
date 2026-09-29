@@ -235,9 +235,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-mugs-guide",
       "shopify_article_id": "gid://shopify/Article/634835599510",
       "published_at": "2026-09-28T11:15:59Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur christmas",
       "volume": 1000,
@@ -247,10 +245,29 @@
       "cpc": 0.02,
       "competition": 0.35,
       "intent": "Informational",
-      "verified": "2026-09-28",
+      "verified": "2026-09-29",
       "slug": "dinosaur-christmas",
-      "seasonality": "Oct 720, Nov 3,600, Dec 6,600; Feb-Jun 140-210",
-      "note": "Hub for the Christmas cluster. Ornaments collection ranks #19 (was #24). Check the SERP before writing, and the dinosaur-christmas collection's ACTIVE count; don't link the Christmas pajama drafts."
+      "seasonality": "Sep 390, Oct 720, Nov 3,600, Dec 6,600; Feb-Jun 140-210",
+      "note": "Re-verified 2026-09-29, unchanged. Hub: matching-print table, room-by-room links to Day 4/6/7/8 guides, clothing section, cross-product order-by table. dinosaur-christmas collection 45 ACTIVE / 52 (7 deliberate pajama drafts).",
+      "status": "published",
+      "date": "2026-09-29",
+      "article_path": "content/articles/2026-09-29-dinosaur-christmas.md"
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur gifts for 3 year olds",
+      "volume": 320,
+      "peak_volume": 720,
+      "peak_month": "202512",
+      "sd": 28,
+      "cpc": 1.14,
+      "competition": 1,
+      "intent": "Transactional",
+      "verified": "2026-09-29",
+      "slug": "dinosaur-gifts-for-3-year-olds",
+      "seasonality": "Floor 210-320/mo; Nov 590, Dec 720",
+      "note": "Uncovered by the gift cluster (#12). Pull 'for 4 year olds' and 'for 2 year olds' as secondaries; verify toddler-size inventory in kids-dinosaur-apparel before writing."
     }
   ],
   "queued_seasonal": [
@@ -265,10 +282,14 @@
     },
     {
       "keyword": "dinosaur costume adult",
-      "volume": 3600,
-      "sd": 27,
-      "cpc": 0.37,
-      "note": "verify honest stock angle before writing"
+      "volume": 2900,
+      "sd": 31,
+      "cpc": 0.36,
+      "note": "Skipped 2026-09-29: SD 31, ramp already under way (Sep 6,600 -> Oct 14,800), no costume in stock. Re-queue mid-Aug 2027 only if an adult costume/onesie is listed.",
+      "peak_volume": 14800,
+      "peak_month": "202510",
+      "verified": "2026-09-29",
+      "status": "skipped"
     },
     {
       "keyword": "dino mask",
@@ -297,7 +318,7 @@
       "cpc": 0.34,
       "intent": "Transactional",
       "verified": "2026-09-28",
-      "note": "Only 2 ACTIVE Christmas tees (Christmas Arms Rex, T-Rex Winter Forest). Cover as a section in the dinosaur christmas hub, not a page of its own."
+      "note": "Covered as the clothing section of the Day 9 dinosaur christmas hub (2026-09-29)."
     }
   ],
   "queued_evergreen": [
@@ -666,5 +687,5 @@
       "note": "Re-pulled 2026-09-24 (SD 16 -> 22). Served by the same live cluster; folds into the consolidation."
     }
   ],
-  "last_repull": "2026-09-28"
+  "last_repull": "2026-09-29"
 }

@@ -793,3 +793,20 @@ Found while counting mugs for the Day 8 article (live Shopify, 2026-09-28):
 **84 ACTIVE**. The 50 was one 50-item page of results, not the total. Any other collection with exactly
 `"active": 50` in `data/catalog.json` is suspect (`phone-cases` shows 50 of 62). Re-count with
 pagination during the monthly catalog refresh on 2026-10-01. Fixed for `dinosaur-mugs` today.
+
+## 34. Christmas products missing from the `dinosaur-christmas` collection, and an odd toddler-dress price 🟡 MEDIUM — catalog — added 2026-09-29
+
+Found while counting the collection for the Day 9 hub (live Shopify, 2026-09-29; paged count
+**45 ACTIVE / 52**, the other 7 being the deliberate pajama drafts, #0):
+
+- **Two ACTIVE Christmas products are not in `dinosaur-christmas`:** the *Merry Little Rexmas*
+  sweatshirt and the *Christmas Arms Rex* mug. The hub links both directly, but anyone browsing the
+  collection page (the hub's closing link) won't see them. The *Christmas Arms Rex* tee and the
+  *T-Rex Winter Forest* mug are members, so it's a missed tag rather than a policy.
+  **Fix (owner, collection membership — gated):** add both products to the collection.
+- **The *Dino Christmas Party* toddler dress is $59.37.** The *Christmas Cookies* dress is the same
+  blank (same description and size guide) at **$34.99**. $59.37 looks like a leftover
+  cost-plus calculation. The hub links only the $34.99 dress. *(Pricing, gated.)*
+- Both toddler dresses are sleeveless summer sundresses listed as Christmas wear. The hub
+  suggests layering. If the print provider has a long-sleeve dress blank, it would suit December
+  better. *(Merchandising, low.)*

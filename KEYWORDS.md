@@ -101,20 +101,27 @@ Ubersuggest figure that justified it.
   drops in the next two weekly pulls, re-point the article at the long-tail terms.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-mugs-guide
 
+- ✅ Published (2026-09-29) **dinosaur christmas** — 1,000/mo avg | **6,600/mo Dec**, 3,600 Nov | SD 29
+  | $0.02 CPC | Informational → `dinosaur-christmas` (hub)
+  Day 9. Re-verified 2026-09-29 (unchanged; Sep 390, Oct 720). SERP is mixed: Amazon/Target/Lowe's
+  decoration grids, an ornament shop at #5 (DA 25), a theme park and a 2004 film. No retailer has a
+  planning page, so the angle is "theme the whole house": the matching-print table (six designs as
+  ornament + mug + wrap), one section per room linking the Day 4/6/7/8 guides, a clothing section
+  (absorbs `dinosaur christmas shirt` and the sweatshirts), and one order-by table across every
+  product type (stockings Nov 3 → mugs Dec 14). `dinosaur-christmas` collection: **45 ACTIVE / 52**.
+  **LIVE:** _pending publish_
+
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur christmas** — 1,000/mo avg | **Nov 3,600 · Dec 6,600** | Oct 720 | SD 29 | $0.02 CPC
-  | Informational → `dinosaur-christmas` (hub)
-  Verified 2026-09-28. Biggest peak left in the Christmas cluster. Our
-  `/collections/dinosaur-christmas-ornaments` page ranks #19 (up from #24 this week), so we already
-  have a foothold. Informational intent and a near-zero CPC mean the SERP likely wants ideas and
-  decorations, not a product grid. *Before writing:* look at the SERP and check the
-  `dinosaur-christmas` collection's ACTIVE count (43/52 at the 09-24 snapshot, and the Christmas
-  pajamas in it are deliberate drafts, so don't link those). The angle is a hub for a dinosaur
-  Christmas, linking out to the ornaments, stockings, wrapping paper, mugs and pajamas pages already
-  live. Publishing Sep 29 puts it about five weeks ahead of the November jump.
+- 🎯 **dinosaur gifts for 3 year olds** — 320/mo avg | **Nov 590 · Dec 720** | floor 210–320 | SD 28
+  | $1.14 CPC | Transactional → `dinosaur-gifts-for-3-year-olds`
+  Verified 2026-09-29. Year-round floor (birthdays) plus a Christmas lift, and the highest CPC we've
+  queued in weeks. Genuinely uncovered by the gift-guide cluster (#12), which is all adult/general.
+  *Before writing:* pull `dinosaur gifts for 4 year olds` and `for 2 year olds` as secondaries, and
+  count ACTIVE toddler sizes (2T–5T) in `kids-dinosaur-apparel`. Only recommend what we stock; the
+  honest angle is wearables and room things for a 3-year-old, not toys we don't sell.
 
 ---
 
@@ -129,9 +136,11 @@ Priority block. The whole cluster decays after October 31; everything here is da
 - 📋 **dinosaur pajamas adult** — 390/mo avg | **720/mo Dec peak** | SD 25 | $0.97 CPC | Transactional
   → `adult-dinosaur-pajamas`
   Note the different curve — this one peaks in **December**, not October. Schedule late Oct.
-- 📋 **dinosaur costume adult** — 3,600/mo | SD 27 | $0.37 CPC
-  Verify stock angle before writing. We sell wearables, not costumes; the honest angle is
-  "comfortable alternatives to a rented costume." If that reads as a stretch, skip it.
+- ⏭️ **dinosaur costume adult** — 2,900/mo avg | **Oct 14,800**, Sep 6,600 | **SD 31** | $0.36 CPC
+  Skipped 2026-09-29. Three reasons: SD moved 27 → 31 (stretch at DA 16); the ramp is already
+  under way (Aug 2,900 → Sep 6,600), so a page now publishes into the peak rather than ahead of it;
+  and we sell no costume. Re-queue for **mid-August 2027** only if an adult costume or onesie is
+  listed (BACKLOG #12 merchandising note).
 - 📋 **dino mask** — 9,900/mo | SD 30 | $0.21 CPC
   **BLOCKED** — `dinosaur-masks` collection has 0 products. Merchandising item first
   (`BACKLOG.md` #1). Do not write into an empty collection.
@@ -159,8 +168,8 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
   for late October only if the range grows; otherwise a section in a broader Christmas-wear page.
 - 📋 dinosaur christmas shirt — 170/mo avg | Nov 590 · Dec 880 | SD 23 | $0.34 CPC — re-pulled
   2026-09-28, unchanged. Inventory checked: only **two** ACTIVE Christmas tees (Christmas Arms Rex,
-  T-Rex Winter Forest). Too thin for a page on its own; cover it as a section in the
-  `dinosaur christmas` hub instead.
+  T-Rex Winter Forest). Too thin for a page on its own. ✅ Covered as the clothing section of the
+  Day 9 `dinosaur christmas` hub (2026-09-29).
 
 ## 📋 QUEUE — Evergreen commercial (fills non-seasonal days)
 
