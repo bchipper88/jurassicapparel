@@ -2,7 +2,10 @@
 title: "Dinosaur Christmas: How to Theme the Whole House, From the Tree to the Mug in Your Hand"
 slug: dinosaur-christmas
 date: 2026-09-29
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-christmas
+shopify_article_id: "gid://shopify/Article/634849230998"
+published_at: 2026-09-29T11:14:14Z
 metrics_source: "Ubersuggest live, locId 2840, re-verified 2026-09-29"
 target_keyword: "dinosaur christmas"
 target_volume: 1000

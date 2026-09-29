@@ -109,7 +109,7 @@ Ubersuggest figure that justified it.
   ornament + mug + wrap), one section per room linking the Day 4/6/7/8 guides, a clothing section
   (absorbs `dinosaur christmas shirt` and the sweatshirts), and one order-by table across every
   product type (stockings Nov 3 → mugs Dec 14). `dinosaur-christmas` collection: **45 ACTIVE / 52**.
-  **LIVE:** _pending publish_
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-christmas
 
 ---
 
