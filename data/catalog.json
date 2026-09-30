@@ -196,7 +196,9 @@
       {
         "handle": "toddler-apparel",
         "title": "Toddler Apparel",
-        "products": 37
+        "products": 37,
+        "active": 37,
+        "active_verified": "2026-09-30"
       },
       {
         "handle": "dinosaur-baby-outfit",
@@ -206,7 +208,9 @@
       {
         "handle": "dinosaur-shoes-for-kids",
         "title": "Dinosaur Shoes Kids",
-        "products": 29
+        "products": 29,
+        "active": 27,
+        "active_verified": "2026-09-30"
       },
       {
         "handle": "girls-shoes",
@@ -226,12 +230,16 @@
       {
         "handle": "toddler-shirts",
         "title": "Toddler Dinosaur Shirts",
-        "products": 16
+        "products": 16,
+        "active": 16,
+        "active_verified": "2026-09-30"
       },
       {
         "handle": "kids-dinosaur-hoodie",
         "title": "Kids Dinosaur Hoodie",
-        "products": 7
+        "products": 7,
+        "active": 7,
+        "active_verified": "2026-09-30"
       },
       {
         "handle": "boys-hoodies",
@@ -360,7 +368,7 @@
         "title": "Dinosaur Backpacks",
         "products": 14,
         "active": 14,
-        "active_verified": "2026-09-24"
+        "active_verified": "2026-09-30"
       },
       {
         "handle": "dinosaur-puzzles",
@@ -377,14 +385,16 @@
       {
         "handle": "dinosaur-throw-pillow",
         "title": "Dinosaur Throw Pillow",
-        "products": 11
+        "products": 11,
+        "active": 9,
+        "active_verified": "2026-09-30"
       },
       {
         "handle": "dinosaur-blankets",
         "title": "Dinosaur Blankets",
         "products": 10,
         "active": 10,
-        "active_verified": "2026-09-24"
+        "active_verified": "2026-09-30"
       },
       {
         "handle": "dinosaur-ties",

@@ -255,9 +255,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-christmas",
       "shopify_article_id": "gid://shopify/Article/634849230998",
       "published_at": "2026-09-29T11:14:14Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur gifts for 3 year olds",
       "volume": 320,
@@ -267,10 +265,60 @@
       "cpc": 1.14,
       "competition": 1,
       "intent": "Transactional",
-      "verified": "2026-09-29",
+      "verified": "2026-09-30",
       "slug": "dinosaur-gifts-for-3-year-olds",
       "seasonality": "Floor 210-320/mo; Nov 590, Dec 720",
-      "note": "Uncovered by the gift cluster (#12). Pull 'for 4 year olds' and 'for 2 year olds' as secondaries; verify toddler-size inventory in kids-dinosaur-apparel before writing."
+      "note": "Re-verified 2026-09-30, unchanged. toddler-apparel 37/37 ACTIVE. Angle: what fits a 3-year-old + 'skip at three' (full-size backpacks, shoes from 11C). No toys sold.",
+      "status": "written",
+      "date": "2026-09-30",
+      "article_path": "content/articles/2026-09-30-dinosaur-gifts-for-3-year-olds.md",
+      "secondaries": [
+        {
+          "keyword": "dinosaur gifts for 4 year olds",
+          "volume": 170,
+          "sd": 29,
+          "cpc": 1.42,
+          "peak": "Dec 320"
+        },
+        {
+          "keyword": "dinosaur gifts for 2 year olds",
+          "volume": 90,
+          "sd": 22,
+          "cpc": 1.35,
+          "peak": "Dec 210"
+        },
+        {
+          "keyword": "dinosaur gifts for toddlers",
+          "volume": 0,
+          "sd": 4
+        },
+        {
+          "keyword": "dinosaur gifts for kids",
+          "volume": 0,
+          "sd": 4
+        },
+        {
+          "keyword": "dinosaur gifts for 5 year olds",
+          "volume": 10,
+          "sd": 36
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur pillow",
+      "volume": 1300,
+      "peak_volume": 1900,
+      "peak_month": "202511",
+      "sd": 25,
+      "cpc": 0.69,
+      "competition": 1,
+      "intent": "Transactional",
+      "verified": "2026-09-30",
+      "slug": "dinosaur-pillows",
+      "seasonality": "Floor 1,000-1,300/mo; Nov 1,900, Dec 1,900",
+      "note": "9 ACTIVE of 11 in dinosaur-throw-pillow (5 shaped). Check cannibalisation and dinosaur-pillows-cases before writing."
     }
   ],
   "queued_seasonal": [

@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -111,17 +111,29 @@ Ubersuggest figure that justified it.
   product type (stockings Nov 3 → mugs Dec 14). `dinosaur-christmas` collection: **45 ACTIVE / 52**.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-christmas
 
+- ✅ Published (2026-09-30) **dinosaur gifts for 3 year olds** — 320/mo avg | **Dec 720**, Nov 590 | floor 210–320 | SD 28
+  | $1.14 CPC | Transactional → `dinosaur-gifts-for-3-year-olds`
+  Day 10. Re-verified 2026-09-30 (unchanged). Secondaries pulled today: `for 4 year olds` 170/mo
+  (SD 29, **$1.42 CPC**, Dec 320), `for 2 year olds` 90/mo (SD 22, $1.35, Dec 210); `dinosaur gifts
+  for toddlers` and `for kids` return 0. Inventory checked live: `toddler-apparel` 37/37 ACTIVE
+  (16 tees 2T–5T/2T–7, 13 sundresses 2T–XL), 6 of 7 kids hoodies have an XS "3/4 years", Dino
+  Friends hooded blanket in Youth 60″×41″. Angle: what fits a three-year-old, and an honest
+  "skip at three" section: backpacks are 16⅞″ full-size (only Neon Rex has a Child 4–7 size) and
+  kids' shoes start at 11 Child. We sell no toys (`toys` all DRAFT, #9) and the page says so.
+  Order-by table for Dec 23 arrival (Nov 18 → Dec 8).
+
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur gifts for 3 year olds** — 320/mo avg | **Nov 590 · Dec 720** | floor 210–320 | SD 28
-  | $1.14 CPC | Transactional → `dinosaur-gifts-for-3-year-olds`
-  Verified 2026-09-29. Year-round floor (birthdays) plus a Christmas lift, and the highest CPC we've
-  queued in weeks. Genuinely uncovered by the gift-guide cluster (#12), which is all adult/general.
-  *Before writing:* pull `dinosaur gifts for 4 year olds` and `for 2 year olds` as secondaries, and
-  count ACTIVE toddler sizes (2T–5T) in `kids-dinosaur-apparel`. Only recommend what we stock; the
-  honest angle is wearables and room things for a 3-year-old, not toys we don't sell.
+- 🎯 **dinosaur pillow** — 1,300/mo avg | **Nov 1,900 · Dec 1,900** | floor 1,000 | SD 25
+  | $0.69 CPC | Transactional → `dinosaur-pillows`
+  Found 2026-09-30. Evergreen with a Christmas lift that starts in November, so publishing now
+  is 4–5 weeks ahead of the ramp. 9 ACTIVE of 11 in `dinosaur-throw-pillow` (5 dinosaur-*shaped*
+  pillows 10/16/22″ at $29.99, 4 square prints; 2 personalized pillows DRAFT). *Before writing:*
+  check `dinosaur-pillows-cases` (11), run `page_keywords` on `/collections/dinosaur-throw-pillow`
+  to make sure no existing URL already ranks (cannibalisation), and pull `dinosaur shaped pillow`
+  / `t rex pillow` as secondaries.
 
 ---
 
@@ -212,10 +224,11 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 - 📋 ladies dinosaur shirt — 390/mo | SD 21 | $0.64 CPC — easier sibling of the above
 - 📋 button up dinosaur shirt — 320/mo | SD 25 | $0.74 CPC
 - 📋 birthday dinosaur shirt — 390/mo | SD 28 | $0.59 CPC — pairs with the
-  `dinosaur-birthday-party` blog, which has only 1 article
-- 📋 dinosaur gifts for 3 year olds — 320/mo | SD 28 | $1.14 CPC (re-pulled 2026-09-24)
-  Genuinely uncovered by the existing cluster. Pair with `for 4 year olds` (170/mo, SD 29)
-  and `for 2 year olds` (90/mo, SD 22) in one by-age guide, after consolidation.
+  `dinosaur-birthday-party` blog, which has only 1 article. *2026-09-30:* `dinosaur birthday
+  shirt` re-pulled at 390/mo, SD 28, $0.64, flat year-round (260–480). **Blocked on inventory:**
+  only one ACTIVE product has "birthday" in the title (*Happy Birthday – T-Rex*). BACKLOG #35.
+- ✅ dinosaur gifts for 3 year olds — published 2026-09-30 (Day 10, see ✅ Published), with the
+  2- and 4-year-old variants as sections.
 - 🔁 best dinosaur gifts — 210/mo | SD 22 | $1.45 CPC (re-pulled 2026-09-24; SD moved 16→22)
   Served by the same live cluster. Folds into the consolidation.
 - 📋 unique dinosaur gifts — 90/mo | SD 20 | $1.02 CPC (re-pulled 2026-09-24) —
@@ -241,7 +254,7 @@ the work is a rewrite brief, not a new article. Ordered by volume ÷ difficulty.
 | mapusaurus dinosaur | 8,100 | 25 | 38 | `/blogs/dinosaur-facts/mapusaurus` |
 | **carnivore dino** *(+5 variants, all 6,600)* | 6,600 | 20 | 23 | `/blogs/blog/carnivore-dinosaurs-...-predators` |
 | dinosaur ornithomimus | 6,600 | 34 | 27 | `/blogs/dinosaur-facts/ornithomimus` |
-| **dinosaur backpack** | 6,600 | 28 | 25 | `/collections/dinosaur-backpack` ← **commercial** |
+| **dinosaur backpack** | 6,600 | 28 | 25 | `/collections/dinosaur-backpack` ← **commercial; back-to-school curve (Jul 22,200, Sep 4,400, Jan 2,400) — brief by May** |
 | chasmosaurus dinosaur | 5,400 | 34 | 21 | `/blogs/dinosaur-facts/chasmosaurus` |
 | dinosaur struthiomimus | 5,400 | 23 | 28 | `/blogs/dinosaur-facts/struthiomimus` |
 | nodosaurus dinosaur | 5,400 | 22 | 34 | `/blogs/dinosaur-facts/nodosaurus` |

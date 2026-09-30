@@ -810,3 +810,25 @@ Found while counting the collection for the Day 9 hub (live Shopify, 2026-09-29;
 - Both toddler dresses are sleeveless summer sundresses listed as Christmas wear. The hub
   suggests layering. If the print provider has a long-sleeve dress blank, it would suit December
   better. *(Merchandising, low.)*
+
+## 35. Toddler range gaps: no toddler-size shoes or backpack, a wrong size guide, and one birthday shirt 🟡 MEDIUM — merchandising / product copy — added 2026-09-30
+
+Found while checking inventory for the Day 10 `dinosaur gifts for 3 year olds` guide (live Shopify,
+2026-09-30):
+
+- **Kids' shoes start at 11 Child (EU 28).** Every one of the 27 ACTIVE kids' shoes has 11C as its
+  smallest size, which is bigger than many three-year-olds wear. `dinosaur gifts for 3 year olds`
+  (320/mo, $1.14 CPC) and `for 2 year olds` (90/mo) can't be sold a shoe. The article tells readers
+  to check their child's size first and points shoes at four- and five-year-olds.
+  **Fix (merchandising):** if the print provider offers toddler sizes (7T–10T), add them.
+- **Backpacks are full-size.** 13 of 14 are 16⅞″ × 12¼″ with a 15″ laptop sleeve; only *Neon Rex*
+  has a "Child (Ages 4 to 7)" size. A preschool-size backpack would serve the 3-year-old gift term
+  and the back-to-school `dinosaur backpack` curve (Jul 22,200/mo). *(Merchandising.)*
+- **Wrong size guide on *Cute Baby Dinosaurs – Girl Toddler Dinosaur Shirt*.** Its variants are
+  2T–7, but its description shows the big-kid 8–20 size chart. A parent sizing a 3T from that
+  chart gets the wrong numbers. The sibling *POW Dinosaur Shirt* has the correct 2T–7 chart.
+  **Fix (owner, product copy — gated):** paste the 2T–7 chart.
+- **Only one birthday product.** `dinosaur birthday shirt` is 390/mo, SD 28, flat all year
+  (260–480), but *Happy Birthday – T-Rex* is the only ACTIVE product with "birthday" in its title.
+  An "I'm 3 / Three-Rex"-style age-number range would serve this term, the by-age gift terms, and
+  the `dinosaur-birthday-party` blog. *(Merchandising.)*
