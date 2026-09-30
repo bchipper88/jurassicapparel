@@ -269,7 +269,7 @@
       "slug": "dinosaur-gifts-for-3-year-olds",
       "seasonality": "Floor 210-320/mo; Nov 590, Dec 720",
       "note": "Re-verified 2026-09-30, unchanged. toddler-apparel 37/37 ACTIVE. Angle: what fits a 3-year-old + 'skip at three' (full-size backpacks, shoes from 11C). No toys sold.",
-      "status": "written",
+      "status": "published",
       "date": "2026-09-30",
       "article_path": "content/articles/2026-09-30-dinosaur-gifts-for-3-year-olds.md",
       "secondaries": [
@@ -302,7 +302,10 @@
           "volume": 10,
           "sd": 36
         }
-      ]
+      ],
+      "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-gifts-for-3-year-olds",
+      "shopify_article_id": "gid://shopify/Article/634858406038",
+      "published_at": "2026-09-30T11:14:02Z"
     }
   ],
   "next_up": [

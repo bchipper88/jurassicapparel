@@ -121,6 +121,7 @@ Ubersuggest figure that justified it.
   "skip at three" section: backpacks are 16⅞″ full-size (only Neon Rex has a Child 4–7 size) and
   kids' shoes start at 11 Child. We sell no toys (`toys` all DRAFT, #9) and the page says so.
   Order-by table for Dec 23 arrival (Nov 18 → Dec 8).
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-gifts-for-3-year-olds
 
 ---
 

@@ -2,7 +2,10 @@
 title: "Dinosaur Gifts for 3 Year Olds: What to Wear, Snuggle and Carry (and What to Skip)"
 slug: dinosaur-gifts-for-3-year-olds
 date: 2026-09-30
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-gifts-for-3-year-olds
+shopify_article_id: "gid://shopify/Article/634858406038"
+published_at: 2026-09-30T11:14:02Z
 metrics_source: "Ubersuggest live, locId 2840, re-verified 2026-09-30"
 target_keyword: "dinosaur gifts for 3 year olds"
 target_volume: 320
