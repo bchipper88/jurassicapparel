@@ -380,14 +380,18 @@
       {
         "handle": "dinosaur-pillows-cases",
         "title": "Dinosaur Pillows & Cases",
-        "products": 11
+        "products": 11,
+        "active": 9,
+        "active_verified": "2026-10-01",
+        "note": "Duplicate of dinosaur-throw-pillow (same 11 products). Link dinosaur-throw-pillow instead. BACKLOG #2/#36."
       },
       {
         "handle": "dinosaur-throw-pillow",
         "title": "Dinosaur Throw Pillow",
         "products": 11,
         "active": 9,
-        "active_verified": "2026-09-30"
+        "active_verified": "2026-10-01",
+        "note": "2026-10-01: 6 shaped (10/16/22in, $29.99-$34.54) + 3 square ACTIVE; 2 personalized DRAFT. Same 11 products as dinosaur-pillows-cases (BACKLOG #36)."
       },
       {
         "handle": "dinosaur-blankets",

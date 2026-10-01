@@ -41,6 +41,7 @@ site profile, and converts nobody. **Either stock them or unpublish them.**
 - `dinosaur-ornaments` **and** `dinosaur-christmas-ornaments` — both 9 products
 - `dinosaur-christmas-pajamas` **and** `dinosaur-christmas-pajamas-1` — both 7 products
 - `miscellaneous` **and** `all-misc` — both 13 products
+- `dinosaur-throw-pillow` **and** `dinosaur-pillows-cases` — the same 11 products *(added 2026-10-01, see #36)*
 
 These are near-certainly the source of Ubersuggest's **HIGH-impact** `have_title_duplicates`
 and `duplicate_meta_descriptions` audit flags. Duplicates split link equity and make Google
@@ -832,3 +833,23 @@ Found while checking inventory for the Day 10 `dinosaur gifts for 3 year olds` g
   (260–480), but *Happy Birthday – T-Rex* is the only ACTIVE product with "birthday" in its title.
   An "I'm 3 / Three-Rex"-style age-number range would serve this term, the by-age gift terms, and
   the `dinosaur-birthday-party` blog. *(Merchandising.)*
+
+## 36. Pillow range: two identical collections, blank alt text, and square listings missing size and shipping info 🟡 MEDIUM — catalog / product copy — added 2026-10-01
+
+Found while checking inventory for the Day 11 `dinosaur pillow` article (live Shopify, 2026-10-01):
+
+- **`dinosaur-throw-pillow` and `dinosaur-pillows-cases` hold the same 11 products.** That's a
+  fourth duplicate pair to add to #2. The articles link `dinosaur-throw-pillow` only.
+  **Fix (owner, gated):** keep one and 301 the other. `dinosaur-pillows` would be the best handle
+  for the 1,300/mo term if a rename is ever on the table.
+- **8 of 9 ACTIVE pillows have blank image alt text** (Jurassic Fuji is the exception, with a
+  generic "Dinosaur Throw Pillow"). Image search is a real channel for a visual product like this,
+  and blank alt text is also an accessibility gap. **Fix (owner, product copy, gated):** one line
+  per image naming the dinosaur and shape, e.g. "Triceratops-shaped dinosaur pillow, 16 inch".
+- **The three square pillows share one generic description** with no production or shipping time,
+  where the shaped pillows give 2–5 + 4–13 business days. *American Pride T-Rex* is a single
+  "Default Title" variant with no size stated anywhere. The article gives no delivery date for
+  the square pillows and no size for American Pride, because neither is on the listing.
+  **Fix (owner, product copy, gated):** add the size and the shipping block.
+- **`catalog.json` had the split wrong:** it said 5 shaped and 4 square. The live count is 6
+  shaped and 3 square. Corrected in the 2026-10-01 refresh.

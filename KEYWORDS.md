@@ -123,18 +123,28 @@ Ubersuggest figure that justified it.
   Order-by table for Dec 23 arrival (Nov 18 → Dec 8).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-gifts-for-3-year-olds
 
+- ✅ Published (2026-10-01) **dinosaur pillow** — 1,300/mo avg | **Nov 1,900 · Dec 1,900** | floor 1,000
+  | SD 25 | $0.69 CPC | Transactional → `dinosaur-pillows`
+  Day 11. Re-verified 2026-10-01, unchanged. No URL ranked for it (`page_keywords` on
+  `/collections/dinosaur-throw-pillow` returns nothing in the US), so there is no cannibalisation.
+  Secondaries: `t rex pillow` 70/mo, SD 22, $0.46 (Dec 110); `dinosaur shaped pillow` 40/mo, SD 26.
+  Live inventory differs from the 09-30 note: **6 shaped** (10/16/22″, $29.99–$34.54, sealed,
+  printed one side, US only, 2–5 + 4–13 business days) and **3 square** (zip cover, insert
+  included, $34.99–$40.99, one 20″×12″ lumbar); 2 personalized DRAFT. Angle: shaped vs square,
+  which size, order by Nov 27.
+
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur pillow** — 1,300/mo avg | **Nov 1,900 · Dec 1,900** | floor 1,000 | SD 25
-  | $0.69 CPC | Transactional → `dinosaur-pillows`
-  Found 2026-09-30. Evergreen with a Christmas lift that starts in November, so publishing now
-  is 4–5 weeks ahead of the ramp. 9 ACTIVE of 11 in `dinosaur-throw-pillow` (5 dinosaur-*shaped*
-  pillows 10/16/22″ at $29.99, 4 square prints; 2 personalized pillows DRAFT). *Before writing:*
-  check `dinosaur-pillows-cases` (11), run `page_keywords` on `/collections/dinosaur-throw-pillow`
-  to make sure no existing URL already ranks (cannibalisation), and pull `dinosaur shaped pillow`
-  / `t rex pillow` as secondaries.
+- 🎯 **dinosaur socks** — 880/mo avg | **Nov 1,600 · Dec 1,900** | floor 480–590 | **SD 15** | **$1.16 CPC**
+  | Transactional → `dinosaur-socks`
+  Found 2026-10-01. Lowest difficulty of any target we have shipped, a CPC above $1, and a curve
+  that roughly doubles in November. Publishing tomorrow puts it 4 weeks ahead of the ramp.
+  `dinosaur-socks` 35/36 ACTIVE, `dinosaur-socks-mens` 34; no URL ranks for it yet
+  (`page_keywords`, locId 2840, empty). Stocking-stuffer angle; links the Day 6 stockings post.
+  *Before writing:* read the sock listings for sizes, material and shipping time, and check the
+  `dinosaur-dress-socks` duplicate (0 products, BACKLOG #1). Never link that one.
 
 ---
 
@@ -185,6 +195,17 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
   Day 9 `dinosaur christmas` hub (2026-09-29).
 
 ## 📋 QUEUE — Evergreen commercial (fills non-seasonal days)
+
+- 📋 **dinosaur puzzle** — 1,900/mo avg | **Nov 2,400 · Dec 2,900** | SD 19 | $0.62 CPC | Informational
+  New 2026-10-01. `dinosaur-puzzles` 13/13 ACTIVE. Biggest clean volume found this month. The
+  intent is mixed (toy puzzles for kids), so check what the 13 puzzles actually are (piece count,
+  age) before committing. Target mid-October, ahead of the November lift.
+- 📋 **dinosaur phone case** — 720/mo avg | flat 590–1,000 (Jul peak) | SD 25 | $0.87 CPC | Transactional
+  New 2026-10-01. `phone-cases` 50/62 ACTIVE. Evergreen, so a filler day, not a deadline.
+- 📋 **dinosaur leggings** — 320/mo avg | Nov 590 | SD 15 | $1.26 CPC | Transactional
+  New 2026-10-01. `dinosaur-leggings` (36). Winter curve, which collapses after January. Write
+  in October or wait until next August.
+- 📋 dinosaur tote bag — 170/mo | SD 23 | $0.57 CPC — flat. `dinosaur-tote-bag` 48/48. Low priority.
 
 - 📋 **hawaiian dinosaur shirt** — 260/mo | SD 16 | $0.93 CPC | Transactional → `hawaiian-dinosaur-shirts`
   **Deferred 2026-09-24 on seasonality — schedule for mid-February.** Re-verified today: the

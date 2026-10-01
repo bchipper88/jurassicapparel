@@ -306,9 +306,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-gifts-for-3-year-olds",
       "shopify_article_id": "gid://shopify/Article/634858406038",
       "published_at": "2026-09-30T11:14:02Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur pillow",
       "volume": 1300,
@@ -318,10 +316,45 @@
       "cpc": 0.69,
       "competition": 1,
       "intent": "Transactional",
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "slug": "dinosaur-pillows",
       "seasonality": "Floor 1,000-1,300/mo; Nov 1,900, Dec 1,900",
-      "note": "9 ACTIVE of 11 in dinosaur-throw-pillow (5 shaped). Check cannibalisation and dinosaur-pillows-cases before writing."
+      "note": "Re-verified 2026-10-01, unchanged. No URL ranks (page_keywords empty, locId 2840). Live: 6 shaped (10/16/22in, $29.99-$34.54, sealed, US only) + 3 square (zip cover, insert, $34.99-$40.99); 2 personalized DRAFT.",
+      "status": "draft",
+      "date": "2026-10-01",
+      "article_path": "content/articles/2026-10-01-dinosaur-pillows.md",
+      "secondaries": [
+        {
+          "keyword": "t rex pillow",
+          "volume": 70,
+          "sd": 22,
+          "cpc": 0.46,
+          "peak": "Dec 110"
+        },
+        {
+          "keyword": "dinosaur shaped pillow",
+          "volume": 40,
+          "sd": 26,
+          "cpc": 0.66,
+          "peak": "Dec 70"
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur socks",
+      "volume": 880,
+      "peak_volume": 1900,
+      "peak_month": "202512",
+      "sd": 15,
+      "cpc": 1.16,
+      "competition": 0.99,
+      "intent": "Transactional",
+      "verified": "2026-10-01",
+      "slug": "dinosaur-socks",
+      "seasonality": "Floor 480-590/mo; Oct 880, Nov 1,600, Dec 1,900",
+      "note": "dinosaur-socks 35/36 ACTIVE, dinosaur-socks-mens 34. No URL ranks yet. Never link dinosaur-dress-socks (0)."
     }
   ],
   "queued_seasonal": [
@@ -376,6 +409,50 @@
     }
   ],
   "queued_evergreen": [
+    {
+      "keyword": "dinosaur puzzle",
+      "volume": 1900,
+      "peak_volume": 2900,
+      "peak_month": "202512",
+      "sd": 19,
+      "cpc": 0.62,
+      "intent": "Informational",
+      "verified": "2026-10-01",
+      "note": "dinosaur-puzzles 13/13 ACTIVE. Mixed intent; check what the puzzles are first. Target mid-Oct."
+    },
+    {
+      "keyword": "dinosaur phone case",
+      "volume": 720,
+      "peak_volume": 1000,
+      "peak_month": "202507",
+      "sd": 25,
+      "cpc": 0.87,
+      "intent": "Transactional",
+      "verified": "2026-10-01",
+      "note": "phone-cases 50/62 ACTIVE. Evergreen filler."
+    },
+    {
+      "keyword": "dinosaur leggings",
+      "volume": 320,
+      "peak_volume": 590,
+      "peak_month": "202511",
+      "sd": 15,
+      "cpc": 1.26,
+      "intent": "Transactional",
+      "verified": "2026-10-01",
+      "note": "dinosaur-leggings 36. Winter curve; October or next August."
+    },
+    {
+      "keyword": "dinosaur tote bag",
+      "volume": 170,
+      "peak_volume": 210,
+      "peak_month": "202508",
+      "sd": 23,
+      "cpc": 0.57,
+      "intent": "Transactional",
+      "verified": "2026-10-01",
+      "note": "dinosaur-tote-bag 48/48. Flat, low priority."
+    },
     {
       "keyword": "hawaiian dinosaur shirt",
       "volume": 260,
@@ -741,5 +818,5 @@
       "note": "Re-pulled 2026-09-24 (SD 16 -> 22). Served by the same live cluster; folds into the consolidation."
     }
   ],
-  "last_repull": "2026-09-29"
+  "last_repull": "2026-10-01"
 }
