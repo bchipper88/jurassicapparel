@@ -125,8 +125,12 @@ Ubersuggest figure that justified it.
 
 - ✅ Published (2026-10-01) **dinosaur pillow** — 1,300/mo avg | **Nov 1,900 · Dec 1,900** | floor 1,000
   | SD 25 | $0.69 CPC | Transactional → `dinosaur-pillows`
-  Day 11. Re-verified 2026-10-01, unchanged. No URL ranked for it (`page_keywords` on
-  `/collections/dinosaur-throw-pillow` returns nothing in the US), so there is no cannibalisation.
+  Day 11. Re-verified 2026-10-01, unchanged. **Correction, same day:** the pre-write check ran
+  `page_keywords` on `/collections/dinosaur-throw-pillow` (empty) and concluded nothing ranked.
+  That was wrong. The duplicate `/collections/dinosaur-pillows-cases` ranks **#14** for "dinosaur
+  pillows" (found in the monthly `domain_keywords` pull after publishing). The post links the
+  non-ranking duplicate. A 3-link swap is with the owner (BACKLOG #36), and the playbook now
+  requires a domain-level check.
   Secondaries: `t rex pillow` 70/mo, SD 22, $0.46 (Dec 110); `dinosaur shaped pillow` 40/mo, SD 26.
   Live inventory differs from the 09-30 note: **6 shaped** (10/16/22″, $29.99–$34.54, sealed,
   printed one side, US only, 2–5 + 4–13 business days) and **3 square** (zip cover, insert
@@ -142,8 +146,10 @@ Ubersuggest figure that justified it.
   | Transactional → `dinosaur-socks`
   Found 2026-10-01. Lowest difficulty of any target we have shipped, a CPC above $1, and a curve
   that roughly doubles in November. Publishing tomorrow puts it 4 weeks ahead of the ramp.
-  `dinosaur-socks` 35/36 ACTIVE, `dinosaur-socks-mens` 34; no URL ranks for it yet
-  (`page_keywords`, locId 2840, empty). Stocking-stuffer angle; links the Day 6 stockings post.
+  `dinosaur-socks` 35 ACTIVE + 1 UNLISTED, `dinosaur-socks-mens` 34. **Domain-level check done
+  (2026-10-01):** no collection ranks for the head term. A product page, *Space Dinos* socks, ranks
+  #33 (tracked), and `/collections/dinosaur-socks/womens` ranks #11–15 for the 90/mo women's
+  variants. Link both from the post. Stocking-stuffer angle; links the Day 6 stockings post.
   *Before writing:* read the sock listings for sizes, material and shipping time, and check the
   `dinosaur-dress-socks` duplicate (0 products, BACKLOG #1). Never link that one.
 
@@ -198,14 +204,16 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 ## 📋 QUEUE — Evergreen commercial (fills non-seasonal days)
 
 - 📋 **dinosaur puzzle** — 1,900/mo avg | **Nov 2,400 · Dec 2,900** | SD 19 | $0.62 CPC | Informational
-  New 2026-10-01. `dinosaur-puzzles` 13/13 ACTIVE. Biggest clean volume found this month. The
+  New 2026-10-01. `dinosaur-puzzles` 13/13 ACTIVE; tracked and **not ranking**, so there's no
+  cannibalisation. Biggest clean volume found this month. The
   intent is mixed (toy puzzles for kids), so check what the 13 puzzles actually are (piece count,
   age) before committing. Target mid-October, ahead of the November lift.
-- 📋 **dinosaur phone case** — 720/mo avg | flat 590–1,000 (Jul peak) | SD 25 | $0.87 CPC | Transactional
-  New 2026-10-01. `phone-cases` 50/62 ACTIVE. Evergreen, so a filler day, not a deadline.
-- 📋 **dinosaur leggings** — 320/mo avg | Nov 590 | SD 15 | $1.26 CPC | Transactional
-  New 2026-10-01. `dinosaur-leggings` (36). Winter curve, which collapses after January. Write
-  in October or wait until next August.
+- 🔁 **dinosaur phone case** — 720/mo avg | flat 590–1,000 (Jul peak) | SD 25 | $0.87 CPC | Transactional
+  Found 2026-10-01, reclassified the same day: `/collections/phone-cases` already ranks **#13**
+  (tracked) and 62/62 are ACTIVE. That makes it a collection-copy rescue, not a post.
+- ⏭️ **dinosaur leggings** — 320/mo avg | Nov 590 | SD 15 | $1.26 CPC | Transactional
+  Skipped 2026-10-01. `/collections/dinosaur-leggings` already ranks **#3** (tracked). A post
+  would only compete with it.
 - 📋 dinosaur tote bag — 170/mo | SD 23 | $0.57 CPC — flat. `dinosaur-tote-bag` 48/48. Low priority.
 
 - 📋 **hawaiian dinosaur shirt** — 260/mo | SD 16 | $0.93 CPC | Transactional → `hawaiian-dinosaur-shirts`
@@ -269,33 +277,47 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 ## 🔁 RESCUE QUEUE — striking distance (existing URLs, position 8–40)
 
 **This is the highest-value list in the repo.** Each is an existing page already ranking;
-the work is a rewrite brief, not a new article. Ordered by volume ÷ difficulty.
+the work is a rewrite brief, not a new article.
+
+**Regenerated 2026-10-01** (monthly) from `domain_keywords` (locId 2840, top 1,000 terms by
+traffic) and the tracked-keyword report. `seo_opportunities` now returns too small a subset to
+build this list from (see `docs/RESEARCH-PLAYBOOK.md`). Filter: position 8–40, ≥1,500/mo,
+SD ≤ 35.
 
 | Keyword | Vol/mo | Pos | SD | URL |
 |---|---|---|---|---|
-| dinosaur albertosaurus | 14,800 | 22 | 29 | `/blogs/dinosaur-facts/albertosaurus-the-agile-predator-of-the-late-cretaceous` |
-| mapusaurus dinosaur | 8,100 | 25 | 38 | `/blogs/dinosaur-facts/mapusaurus` |
-| **carnivore dino** *(+5 variants, all 6,600)* | 6,600 | 20 | 23 | `/blogs/blog/carnivore-dinosaurs-...-predators` |
-| dinosaur ornithomimus | 6,600 | 34 | 27 | `/blogs/dinosaur-facts/ornithomimus` |
-| **dinosaur backpack** | 6,600 | 28 | 25 | `/collections/dinosaur-backpack` ← **commercial; back-to-school curve (Jul 22,200, Sep 4,400, Jan 2,400) — brief by May** |
-| chasmosaurus dinosaur | 5,400 | 34 | 21 | `/blogs/dinosaur-facts/chasmosaurus` |
-| dinosaur struthiomimus | 5,400 | 23 | 28 | `/blogs/dinosaur-facts/struthiomimus` |
-| nodosaurus dinosaur | 5,400 | 22 | 34 | `/blogs/dinosaur-facts/nodosaurus` |
-| giraffatitan dinosaur | 4,400 | 20 | 30 | `/blogs/dinosaur-facts/giraffatitan` |
-| pentaceratops dinosaur | 4,400 | 23 | 33 | `/blogs/dinosaur-facts/pentaceratops` |
-| centrosaurus dinosaur | 4,400 | 23 | 39 | `/blogs/dinosaur-facts/centrosaurus` |
-| **infant dinosaur costume** | 4,400 | 37 | 27 | `/collections/dinosaur-baby-outfit` ← **commercial + seasonal** |
-| how do you spell dinosaur | 4,400 | 30 | 31 | `/blogs/blog/dinosaur-names-...` |
-| **dinosaur blanket** | 3,600 | 18 | 25 | `/products/dinosaur-array-dinosaur-blanket` ← **commercial** |
-| **dinosaur shirt** | 2,900 | 14 | 17 | `/collections/adult-dinosaur-shirt/women%27s` ← **SD 17, closest to page 1** |
+| **dinosaurs that fly** *(+6 variants, all 27,100)* | 27,100 | 20–30 | 23–34 | `/blogs/blog/flying-dinosaurs-the-complete-guide-to-prehistoric-creatures-of-the-sky-2` |
+| **names of flying dinosaurs** | 5,400 | **13** | 25 | same URL |
+| gorgosaurus | 9,900 | 32 | 28 | `/blogs/dinosaur-facts/gorgosaurus` |
+| carnivorous dinosaurs | 6,600 | 25 | 32 | `/blogs/blog/carnivore-dinosaurs-the-complete-guide-to-meat-eating-prehistoric-predators` |
+| **dinosaur backpack** | 6,600 | 24 *(tracked)* | 25 | `/collections/dinosaur-backpack` ← commercial; back-to-school curve, brief by May |
+| beipiaosaurus | 3,600 | 19 | 25 | `/blogs/dinosaur-facts/beipiaosaurus` |
+| **dinosaur blanket** | 3,600 | 28 *(tracked)* | 25 | `/collections/dinosaur-blankets` ← commercial, ramps into Christmas |
+| **dinosaur outfit for adults** | 2,900 | 30 | 27 | `/collections/adult-dinosaur-apparel` ← commercial |
+| scelidosaurus | 2,900 | 33 | 31 | `/blogs/dinosaur-facts/scelidosaurus` |
+| **dinosaur shirt** | 2,900 | 16 *(tracked)* | 17 | `/collections/adult-dinosaur-shirt/women%27s` ← commercial, SD 17 |
+| **dino shoe** | 1,900 | 16 | 21 | `/collections/mens-unisex-shoes` ← commercial |
+| dinosaur with crest on head | 1,900 | 28 | 28 | `/blogs/dinosaur-facts/parasaurolophus` |
+| fukuisaurus / homalocephale | 1,900 each | 17 / 18 | 30 | `/blogs/dinosaur-facts/…` |
+| **dinosaur pajamas** | 1,600 | 14 | 17 | `/products/realistic-jurassic-adult-dinosaur-pajamas` ← blocked on #21 |
+| **dinosaur pillows** | 1,300 | 14 | 25 | `/collections/dinosaur-pillows-cases` ← new post links the duplicate (BACKLOG #36) |
+| achelousaurus / ampelosaurus / europasaurus | 1,600 each | 10 / 8 / 20 | 22–28 | `/blogs/dinosaur-facts/…` |
 
-**Start with the two starred for value-per-effort:**
-1. `dinosaur shirt` — SD 17, position 14. Lowest difficulty and nearest the first page of
-   anything on this list, on a commercial URL. Best single rescue available.
-2. `carnivore dino` — one URL serves six separate 6,600/mo variants at positions 20–25.
-   Highest total volume per rewrite of anything we own.
-3. `infant dinosaur costume` — 4,400/mo at #37, commercial, and **seasonal right now**.
-   Fold into the September costume push.
+**Start here:**
+1. **Flying dinosaurs.** One URL ranks 20–30 for **seven 27,100/mo variants** and #13 for
+   `names of flying dinosaurs` (5,400). By total volume it's the biggest recoverable asset we
+   own, and it's new to this list: it was the "Indonesian title" page (#3), now English. The
+   cheap half: its `<title>` is cut off at "…of the S" and it has no meta description. The
+   full half: depth and internal links. Brief to be written next.
+2. **`dinosaur shirt`.** SD 17 at #16, a commercial URL. Still the best commercial rescue.
+3. **`dinosaur blanket`.** 3,600/mo at #28 on the collection, ahead of a Christmas lift.
+
+**Dropped from last month's table:** `dinosaur albertosaurus` (14,800) — the page now ranks only
+for long-tail terms (40–70/mo, positions 38–62). Mapusaurus, ornithomimus, chasmosaurus,
+struthiomimus, nodosaurus, giraffatitan, pentaceratops, centrosaurus, `how do you spell
+dinosaur` and `infant dinosaur costume` don't appear in this month's top-1,000 pull. That pull
+only covers the top 1,000 terms by traffic (out of 5,283 ranked), so those terms may still rank
+with little traffic. Re-check them with `page_keywords` before writing any brief for them.
 
 ---
 

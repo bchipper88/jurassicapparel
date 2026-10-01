@@ -53,6 +53,51 @@
         }
       },
       "notes": "First weekly pull. DA 17 -> 16, referring domains 1,268 -> 1,226. Traffic figure is Ubersuggest's Aug 2026 estimate (1,163), so none of the Day 1-8 articles show in it yet. Moves of 5+ positions: dinosaur hat 15->7, dinosaur accent pillow 11->5, dadasaurus 19->13, dinosaur christmas 24->19, dinosaur socks 38->33, dinosaur stickers 53->48; dinosaur sweater 19->27, dinosaurs clothes 9->15, dinosaur backpack 19->24. dinosaur sticker (2,900/mo) dropped out of the top 100 (was 42)."
+    },
+    {
+      "date": "2026-10-01",
+      "type": "monthly",
+      "source": "Ubersuggest domain_overview + project_position_info (locId 2840, desktop, 2026-09-01 to 2026-10-01; rank data complete through 2026-09-30)",
+      "domain_authority": 16,
+      "organic_keywords": 5283,
+      "est_monthly_organic_traffic": 1014,
+      "backlinks": 2637,
+      "referring_domains": 1221,
+      "follow_links": 2418,
+      "nofollow_links": 219,
+      "paid_traffic": 0,
+      "tracked_keywords": 91,
+      "rank_movement": {
+        "up": 19,
+        "down": 39,
+        "unchanged": 33
+      },
+      "tracked_bins": {
+        "top_3": {
+          "old": 20,
+          "new": 22
+        },
+        "top_10": {
+          "old": 29,
+          "new": 21
+        },
+        "top_100": {
+          "old": 33,
+          "new": 35
+        },
+        "not_ranking": {
+          "old": 9,
+          "new": 13
+        }
+      },
+      "average_position_series": {
+        "2026-09-01": 10.78,
+        "2026-09-08": 10.75,
+        "2026-09-15": 10.99,
+        "2026-09-23": 6.55,
+        "2026-09-30": 9.33
+      },
+      "notes": "Traffic is Ubersuggest's Sep 2026 estimate: 1,014, down from 1,163 in Aug and 2,076 in Aug 2025. Organic keywords rose to 5,283 (from 4,699): more terms, fewer clicks, the same pattern as the baseline. Top-tier keywords fell from 24 to 22. Most Day 1-11 articles went live in the second half of September, so they barely show in a September estimate. DATA WARNING: a 7-day window (09-24 to 10-01) showed 49 of 91 not ranking. That was a partial 09-30 collection (has_gap/unstable), not a collapse; the 30-day window used here shows 13. Always use the 30-day window. The 4-10 bin fell from 29 to 21 (the leading indicator), mostly from #8-9 slipping to #10-12 (dinosaur hoodie 8->11, purses 8->11, adult dinosaur shirt 9->12)."
     }
   ],
   "traffic_history": {

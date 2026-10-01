@@ -5,6 +5,23 @@ scopes and proposes. The owner executes or approves.
 
 Ordered by value ÷ effort. Discovered 2026-08-30 unless noted.
 
+### Monthly review — 2026-10-01
+
+**Closed this month:** #0 (deliberate), #3 (title now English), #23 (structural fix), #33 (paged
+recount). #13's agent-side fix is done; its owner-side toy decision is still open.
+
+**If the owner does five things this month, in this order:**
+1. **#36:** swap 3 links in the new pillow post to the collection that ranks, and pick
+   `dinosaur-pillows-cases` as the canonical pillow collection. About 5 minutes.
+2. **#21 + #22:** a live `dinosaur-pajamas` collection before the December peak.
+3. **#30 / #25:** stocking shipping times and the empty shipping policy page, before
+   Christmas orders start.
+4. **Flying-dinosaurs rescue** (KEYWORDS.md): fix the cut-off title and write a meta
+   description, on the page that ranks #13–30 for eight terms worth 5,400–27,100/mo each.
+5. **#2 / #36:** 301 the four duplicate collection pairs.
+
+Everything else stands as written below.
+
 ---
 
 ## 0. ~~Christmas pajama line unpublished~~ ✅ RESOLVED 2026-08-30 — deliberate
@@ -50,17 +67,14 @@ pick a canonical for us.
 **Proposal:** keep the better-named URL of each pair, 301 the other to it. The Christmas
 pair matters most — resolve before the November season.
 
-## 3. One blog post is titled in Indonesian 🟡 MEDIUM
+## 3. ~~One blog post is titled in Indonesian~~ ✅ RESOLVED — verified 2026-10-01
 
-`/blogs/blog/flying-dinosaurs-the-complete-guide-to-prehistoric-creatures-of-the-sky-2`
-renders as **"Dinosaurus Terbang: Panduan Lengkap Makhluk Prasejarah"** on an
-English-language US store — while pulling ~64 visits/mo.
-
-Also note the `-2` suffix: there is likely an original version of this post, meaning a
-duplicate-content pair on top of the language problem.
-
-**Proposal:** retitle to English, check for the original, consolidate if both exist.
-Low effort, and it's currently on a page earning real traffic.
+The live page now renders an English `<title>` and body (last edited 2026-02-22, so the
+2026-08-30 finding most likely came from stale crawl data). The `-2` URL is the only published
+copy; the original and `-1` versions are unpublished drafts, so there is no live duplicate.
+What remains is folded into the **flying-dinosaurs rescue** (KEYWORDS.md): the `<title>` is cut
+off at "…of the S" and there's no meta description of its own. This page now ranks #13–30 for
+eight terms worth 5,400–27,100/mo each, so that rescue is worth doing.
 
 ## 4. Thin content flagged site-wide 🟡 MEDIUM
 
@@ -788,12 +802,11 @@ Found while counting mugs for the Day 8 article (live Shopify, 2026-09-28):
   about a printed mug, and the article has to say "the listings don't say". Asking the print provider
   and adding one care line to the shared description template would answer it for all 84. *(Product copy, gated.)*
 
-## 33. `catalog.json` active counts were capped at one page (50) 🟢 LOW — tooling — added 2026-09-28
+## 33. ~~`catalog.json` active counts were capped at one page (50)~~ ✅ RESOLVED 2026-10-01
 
-`dinosaur-mugs` was recorded as "50 ACTIVE of 85" on 2026-09-24. A paged count today returns
-**84 ACTIVE**. The 50 was one 50-item page of results, not the total. Any other collection with exactly
-`"active": 50` in `data/catalog.json` is suspect (`phone-cases` shows 50 of 62). Re-count with
-pagination during the monthly catalog refresh on 2026-10-01. Fixed for `dinosaur-mugs` today.
+Monthly refresh re-counted every collection from a full paged list of the 109 DRAFT and 1
+UNLISTED products. `phone-cases` is **62/62** ACTIVE (not 50), `dinosaur-mugs` **85/85**, and
+`dinosaur-socks` 35 ACTIVE + 1 UNLISTED. All 100 live collections now carry an `active` count.
 
 ## 34. Christmas products missing from the `dinosaur-christmas` collection, and an odd toddler-dress price 🟡 MEDIUM — catalog — added 2026-09-29
 
@@ -840,8 +853,20 @@ Found while checking inventory for the Day 11 `dinosaur pillow` article (live Sh
 
 - **`dinosaur-throw-pillow` and `dinosaur-pillows-cases` hold the same 11 products.** That's a
   fourth duplicate pair to add to #2. The articles link `dinosaur-throw-pillow` only.
-  **Fix (owner, gated):** keep one and 301 the other. `dinosaur-pillows` would be the best handle
-  for the 1,300/mo term if a rename is ever on the table.
+  **Fix (owner, gated):** keep **`dinosaur-pillows-cases`**, which ranks **#14 for "dinosaur
+  pillows" (1,300/mo)**, #5 for "dinosaur throw pillow" and #9 for "dinosaur accent pillow".
+  Then 301 `dinosaur-throw-pillow` to it.
+- **My miss, 2026-10-01: today's article links the duplicate, not the collection that ranks.**
+  The pre-write cannibalisation check ran `page_keywords` on `/collections/dinosaur-throw-pillow`.
+  It came back empty, but that URL is the duplicate that doesn't rank. The domain-level pull an
+  hour later showed `/collections/dinosaur-pillows-cases` at #14. The new post and that
+  collection now both target the term. A guide and a collection page usually serve different
+  intents and can both rank, but the post should pass authority to the page that ranks, not to
+  its duplicate. **Fix (owner, about 1 minute, gated because the post is live):** in
+  `/blogs/blog/dinosaur-pillows`, change the 3 links from `/collections/dinosaur-throw-pillow` to
+  `/collections/dinosaur-pillows-cases`. The repo copy will be updated to match once approved.
+  Process fix (agent-side, done today): `docs/RESEARCH-PLAYBOOK.md` now requires a domain-level
+  check (`domain_keywords` + tracked positions) for the exact term, not one guessed URL.
 - **8 of 9 ACTIVE pillows have blank image alt text** (Jurassic Fuji is the exception, with a
   generic "Dinosaur Throw Pillow"). Image search is a real channel for a visual product like this,
   and blank alt text is also an accessibility gap. **Fix (owner, product copy, gated):** one line
@@ -853,3 +878,26 @@ Found while checking inventory for the Day 11 `dinosaur pillow` article (live Sh
   **Fix (owner, product copy, gated):** add the size and the shipping block.
 - **`catalog.json` had the split wrong:** it said 5 shaped and 4 square. The live count is 6
   shaped and 3 square. Corrected in the 2026-10-01 refresh.
+- **A 7th shaped pillow is in DRAFT:** *Neon Dinos – Dinosaur Pillow* (`neon-dinos-dinosaur-pillow`),
+  in no collection. If it's sellable, publishing it and adding it to the pillow collection costs
+  nothing. *(Owner decision.)*
+
+## 37. Monthly catalog refresh, 2026-10-01: drafts hiding behind demand 🟡 MEDIUM — merchandising — added 2026-10-01
+
+From the full DRAFT/UNLISTED pass (109 DRAFT, 1 UNLISTED, 910 ACTIVE):
+
+- **`dinosaur beanie` is 390/mo, SD 23 and tracked; `dinosaur-beanie` is empty (#1).** A beanie
+  product exists, *Pastel Dinos – Dinosaur Beanie*, but it's DRAFT and in no collection.
+  Publishing it into `dinosaur-beanie` would turn an empty collection (a liability) into a
+  winter page. *(Owner decision.)*
+- **Four more collections are storefront-empty because every product in them is DRAFT:**
+  `on-sale` (4: dropship toys/socks), `personalized` (2 pillows), `dinosaur-earrings` (2), and
+  `dinosaur-christmas-pajamas-1` (7, deliberate per #0). All four are now in
+  `draft_heavy_do_not_link`, and the articles don't link them. Unpublishing the first three
+  would stop them rendering as empty pages. *(Owner, gated.)*
+- **22 live collections were missing from `catalog.json`.** They're now mapped under
+  `unmapped_2026_10_01` with ACTIVE counts. Worth knowing: `dinosaur-leggings-plus-size` (15/15),
+  `dinosaur-nuggie-clothing` (21/23), `america-dinosaurs` (16/17), `womens-dinosaur-sweatshirts` (6/6).
+- **No total changed among the 73 mapped collections since 2026-08-30**, and the five empty
+  collections in #1 are still empty. The catalog hasn't moved in a month, so the merchandising
+  items in this file (#1, #14, #18, #21, #31, #35) are the bottleneck, not content.

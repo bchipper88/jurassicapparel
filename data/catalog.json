@@ -1,6 +1,6 @@
 {
   "_comment": "Shopify catalog snapshot. The internal-link map. Refresh monthly (CLAUDE.md monthly routine). Never link to a collection in empty_collections_do_not_link or draft_heavy_do_not_link. NOTE: a collection's product count includes DRAFT products, which are invisible to customers — always verify ACTIVE count before linking.",
-  "snapshot_date": "2026-09-24",
+  "snapshot_date": "2026-10-01",
   "shop": {
     "name": "Jurassic Apparel",
     "domain": "jurassicapparel.com",
@@ -73,6 +73,12 @@
       "keep": "miscellaneous",
       "duplicate": "all-misc",
       "products": 13
+    },
+    {
+      "keep": "dinosaur-pillows-cases",
+      "duplicate": "dinosaur-throw-pillow",
+      "products": 11,
+      "note": "2026-10-01: keep dinosaur-pillows-cases, which ranks #14 for \"dinosaur pillows\" (1,300/mo) and #5 for \"dinosaur throw pillow\". BACKLOG #36."
     }
   ],
   "collections": {
@@ -80,232 +86,305 @@
       {
         "handle": "adult-dinosaur-apparel",
         "title": "Adult Dinosaur Apparel",
-        "products": 420
+        "products": 420,
+        "active": 401,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "adult-dinosaur-shirt",
         "title": "Adult Dinosaur Shirt",
-        "products": 102
+        "products": 102,
+        "active": 101,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "adult-dinosaur-hoodie",
         "title": "Adult Dinosaur Hoodie",
-        "products": 50
+        "products": 50,
+        "active": 48,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "shoes-adult",
         "title": "Dinosaur Shoes For Adults",
-        "products": 56
+        "products": 56,
+        "active": 49,
+        "active_verified": "2026-10-01"
       }
     ],
     "mens": [
       {
         "handle": "mens-dinosaur-t-shirts",
         "title": "Men's Dinosaur T-Shirts",
-        "products": 55
+        "products": 55,
+        "active": 54,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "mens-unisex-shirts",
         "title": "Dinosaur Shirt Mens",
-        "products": 79
+        "products": 79,
+        "active": 78,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "mens-unisex-shoes",
         "title": "Dinosaur Shoes Mens",
-        "products": 30
+        "products": 30,
+        "active": 29,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "mens-dinosaur-sweatshirts",
         "title": "Men's Dinosaur Sweatshirts",
-        "products": 6
+        "products": 6,
+        "active": 6,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-socks-mens",
         "title": "Dinosaur Socks Mens",
-        "products": 34
+        "products": 34,
+        "active": 34,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dadasaurus-collection",
         "title": "Dadasaurus Collection",
-        "products": 9
+        "products": 9,
+        "active": 9,
+        "active_verified": "2026-10-01"
       }
     ],
     "womens": [
       {
         "handle": "womens-dinosaur-dresses-skirts",
         "title": "Dinosaur Dresses & Skirts",
-        "products": 65
+        "products": 65,
+        "active": 64,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-shoes-womens",
         "title": "Dinosaur Shoes Womens",
-        "products": 51
+        "products": 51,
+        "active": 44,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "womens-shirts",
         "title": "Dinosaur Shirt Womens",
-        "products": 41
+        "products": 41,
+        "active": 41,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "womens-dinosaur-hoodies",
         "title": "Women's Dinosaur Hoodies",
-        "products": 29
+        "products": 29,
+        "active": 29,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "womens-dinosaur-swimsuits",
         "title": "Womens Dinosaur Swimsuits",
-        "products": 14
+        "products": 14,
+        "active": 14,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "womens-dinosaur-tank-tops",
         "title": "Women's Dinosaur Tank Tops",
-        "products": 9
+        "products": 9,
+        "active": 9,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "mamasaurus",
         "title": "Mamasaurus Collection",
-        "products": 17
+        "products": 17,
+        "active": 17,
+        "active_verified": "2026-10-01"
       }
     ],
     "kids": [
       {
         "handle": "kids-dinosaur-apparel",
         "title": "Kids Dinosaur Apparel",
-        "products": 185
+        "products": 185,
+        "active": 175,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "girls-dinosaur-apparel",
         "title": "Girls Dinosaur Apparel",
-        "products": 117
+        "products": 117,
+        "active": 110,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "boys-dinosaur-apparel",
         "title": "Boys Dinosaur Apparel",
-        "products": 81
+        "products": 81,
+        "active": 74,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-shirts-for-girls",
         "title": "Girls Dinosaur Shirts",
-        "products": 43
+        "products": 43,
+        "active": 41,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "boys-dinosaur-shirts",
         "title": "Boys Dinosaur Shirts",
-        "products": 41
+        "products": 41,
+        "active": 39,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "toddler-apparel",
         "title": "Toddler Apparel",
         "products": 37,
         "active": 37,
-        "active_verified": "2026-09-30"
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-baby-outfit",
         "title": "Dinosaur Baby Outfit",
-        "products": 36
+        "products": 36,
+        "active": 35,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-shoes-for-kids",
         "title": "Dinosaur Shoes Kids",
         "products": 29,
         "active": 27,
-        "active_verified": "2026-09-30"
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "girls-shoes",
         "title": "Girls Dinosaur Shoes",
-        "products": 28
+        "products": 28,
+        "active": 26,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "boys-shoes",
         "title": "Boys Dinosaur Shoes",
-        "products": 21
+        "products": 21,
+        "active": 20,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "baby-dinosaur-bodysuits",
         "title": "Baby Dinosaur Bodysuits",
-        "products": 19
+        "products": 19,
+        "active": 18,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "toddler-shirts",
         "title": "Toddler Dinosaur Shirts",
         "products": 16,
         "active": 16,
-        "active_verified": "2026-09-30"
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "kids-dinosaur-hoodie",
         "title": "Kids Dinosaur Hoodie",
         "products": 7,
         "active": 7,
-        "active_verified": "2026-09-30"
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "boys-hoodies",
         "title": "Boys Dinosaur Hoodies",
-        "products": 7
+        "products": 7,
+        "active": 7,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "girls-dinosaur-hoodies",
         "title": "Girls Dinosaur Hoodies",
-        "products": 7
+        "products": 7,
+        "active": 7,
+        "active_verified": "2026-10-01"
       }
     ],
     "core": [
       {
         "handle": "dinosaur-apparel",
         "title": "Dinosaur Apparel",
-        "products": 567
+        "products": 567,
+        "active": 541,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-shirts",
         "title": "Dinosaur Shirts",
-        "products": 199
+        "products": 199,
+        "active": 196,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-shoes-dinosaur-sneakers",
         "title": "Dinosaur Shoes",
-        "products": 78
+        "products": 78,
+        "active": 70,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-hoodie",
         "title": "Dinosaur Hoodies",
-        "products": 57
+        "products": 57,
+        "active": 55,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-leggings",
         "title": "Dinosaur Leggings",
-        "products": 36
+        "products": 36,
+        "active": 36,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-socks",
         "title": "Dinosaur Socks",
         "products": 36,
         "active": 35,
-        "active_verified": "2026-09-24"
+        "active_verified": "2026-10-01",
+        "note": "35 ACTIVE + 1 UNLISTED (sublimation-crew-socks-sketch2), 2026-10-01."
       },
       {
         "handle": "dinosaur-high-tops",
         "title": "Dinosaur High Tops",
-        "products": 29
+        "products": 29,
+        "active": 28,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-swimsuits",
         "title": "Dinosaur Swimsuits",
-        "products": 25
+        "products": 25,
+        "active": 25,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-polos",
         "title": "Dinosaur Polo's",
-        "products": 15
+        "products": 15,
+        "active": 15,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-hawaiian-shirts",
         "title": "Dinosaur Hawaiian Shirts",
         "products": 10,
         "active": 10,
-        "active_verified": "2026-09-24"
+        "active_verified": "2026-10-01"
       }
     ],
     "accessories_home": [
@@ -313,69 +392,74 @@
         "handle": "dinosaur-mugs",
         "title": "Dinosaur Mugs",
         "products": 85,
-        "active": 84,
-        "active_verified": "2026-09-28",
-        "note": "2026-09-28: 84 ACTIVE (paged count). The 2026-09-24 figure of 50 was one 50-item page, not the total. 26 designs offer 20 oz."
+        "active": 85,
+        "active_verified": "2026-10-01",
+        "note": "2026-09-28: 84 ACTIVE (paged count). The 2026-09-24 figure of 50 was one 50-item page, not the total. 26 designs offer 20 oz. 2026-10-01: active 84 -> 85 (paged recount)."
       },
       {
         "handle": "disappearing-dinosaur-mug",
         "title": "Disappearing Dinosaur Mug",
         "products": 2,
         "active": 2,
-        "active_verified": "2026-09-28",
+        "active_verified": "2026-10-01",
         "note": "Smart collection on product type 'Mug - Disappearing'. Misses Raptor Watching (typed 'Mug'). BACKLOG #32."
       },
       {
         "handle": "phone-cases",
         "title": "Dinosaur Phone Cases",
         "products": 62,
-        "active": 50,
-        "active_verified": "2026-09-24"
+        "active": 62,
+        "active_verified": "2026-10-01",
+        "note": "2026-10-01: active 50 -> 62 (paged recount)."
       },
       {
         "handle": "dinosaur-tote-bag",
         "title": "Dinosaur Tote Bag",
         "products": 48,
         "active": 48,
-        "active_verified": "2026-09-24"
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-stickers",
         "title": "Dinosaur Stickers",
         "products": 31,
         "active": 29,
-        "active_verified": "2026-09-24"
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "toys",
         "title": "Dinosaur Toys",
         "products": 30,
         "active": 0,
-        "active_verified": "2026-09-24"
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-purses",
         "title": "Dinosaur Purses",
-        "products": 24
+        "products": 24,
+        "active": 24,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-hats",
         "title": "Dinosaur Hats",
-        "products": 17
+        "products": 17,
+        "active": 15,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-backpack",
         "title": "Dinosaur Backpacks",
         "products": 14,
         "active": 14,
-        "active_verified": "2026-09-30"
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-puzzles",
         "title": "Dinosaur Puzzles",
         "products": 13,
         "active": 13,
-        "active_verified": "2026-09-24"
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-pillows-cases",
@@ -398,43 +482,49 @@
         "title": "Dinosaur Blankets",
         "products": 10,
         "active": 10,
-        "active_verified": "2026-09-30"
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-ties",
         "title": "Dinosaur Ties",
         "products": 9,
         "active": 7,
-        "active_verified": "2026-09-24"
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-posters",
         "title": "Dinosaur Posters",
-        "products": 8
+        "products": 8,
+        "active": 8,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-dog-bandanas",
         "title": "Dinosaur Dog Bandanas",
         "products": 6,
         "active": 6,
-        "active_verified": "2026-09-24"
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-bandanas",
         "title": "Dinosaur Bandanas",
-        "products": 6
+        "products": 6,
+        "active": 6,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-jewelry",
         "title": "Dinosaur Jewelry",
         "products": 6,
         "active": 1,
-        "active_verified": "2026-09-24"
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-flip-flops",
         "title": "Dinosaur Flip Flops",
-        "products": 4
+        "products": 4,
+        "active": 4,
+        "active_verified": "2026-10-01"
       }
     ],
     "seasonal": [
@@ -443,7 +533,7 @@
         "title": "Dinosaur Christmas",
         "products": 52,
         "active": 45,
-        "active_verified": "2026-09-29",
+        "active_verified": "2026-10-01",
         "note": "2026-09-29: 45 ACTIVE / 7 DRAFT (the deliberate Christmas pajamas, BACKLOG #0), paged count. Merry Little Rexmas sweatshirt and Christmas Arms Rex mug are NOT members (BACKLOG #34)."
       },
       {
@@ -451,61 +541,216 @@
         "title": "Dinosaur Christmas Stockings",
         "products": 15,
         "active": 15,
-        "active_verified": "2026-09-26"
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "4th-of-july-dinosaur-apparel",
         "title": "4th of July Dinosaur Apparel",
-        "products": 12
+        "products": 12,
+        "active": 12,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-christmas-ornaments",
         "title": "Dinosaur Christmas Ornaments",
-        "products": 9
+        "products": 9,
+        "active": 9,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-christmas-pajamas",
         "title": "Dinosaur Christmas Pajamas",
-        "products": 7
+        "products": 7,
+        "active": 0,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-christmas-wrapping-paper",
         "title": "Dinosaur Christmas Wrapping Paper",
-        "products": 6
+        "products": 6,
+        "active": 6,
+        "active_verified": "2026-10-01"
       }
     ],
     "gifting": [
       {
         "handle": "best-sellers",
         "title": "Best Sellers",
-        "products": 1017
+        "products": 1017,
+        "active": 912,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "new-arrivals",
         "title": "New Arrivals",
-        "products": 1019
+        "products": 1019,
+        "active": 913,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "dinosaur-gifts-for-girlfriend",
         "title": "Dinosaur Gifts for Girlfriend",
-        "products": 294
+        "products": 294,
+        "active": 284,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "womens-best-sellers",
         "title": "Women's Best Sellers",
-        "products": 294
+        "products": 294,
+        "active": 282,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "mens-best-sellers",
         "title": "Men's Best Sellers",
-        "products": 213
+        "products": 213,
+        "active": 202,
+        "active_verified": "2026-10-01"
       },
       {
         "handle": "unique-dinosaur-gifts",
         "title": "Unique Dinosaur Gifts",
         "products": 3,
         "active": 3,
-        "active_verified": "2026-09-24"
+        "active_verified": "2026-10-01"
+      }
+    ],
+    "unmapped_2026_10_01": [
+      {
+        "handle": "miscellaneous",
+        "products": 13,
+        "active": 11,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "all-misc",
+        "products": 13,
+        "active": 11,
+        "active_verified": "2026-10-01",
+        "note": "Duplicate collection; link the kept one instead (duplicate_collections)."
+      },
+      {
+        "handle": "on-sale",
+        "products": 4,
+        "active": 0,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "personalized",
+        "products": 2,
+        "active": 0,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "funny-dinosaur-shirts",
+        "products": 4,
+        "active": 4,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "dinosaur-ornaments",
+        "products": 9,
+        "active": 9,
+        "active_verified": "2026-10-01",
+        "note": "Duplicate collection; link the kept one instead (duplicate_collections)."
+      },
+      {
+        "handle": "baby-girl-dinosaur-clothes",
+        "products": 30,
+        "active": 29,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "dinosaur-baby-bibs",
+        "products": 5,
+        "active": 5,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "dinosaur-laptop-bags",
+        "products": 2,
+        "active": 2,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "america-dinosaurs",
+        "products": 17,
+        "active": 16,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "dinosaur-flower-pots",
+        "products": 2,
+        "active": 2,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "dinosaur-leggings-plus-size",
+        "products": 15,
+        "active": 15,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "dinosaur-earrings",
+        "products": 2,
+        "active": 0,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "dinosaur-christmas-pajamas-1",
+        "products": 7,
+        "active": 0,
+        "active_verified": "2026-10-01",
+        "note": "Duplicate collection; link the kept one instead (duplicate_collections)."
+      },
+      {
+        "handle": "dinosaur-flags",
+        "products": 1,
+        "active": 1,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "dinosaur-welcome-mats",
+        "products": 2,
+        "active": 2,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "womens-dinosaur-sweatshirts",
+        "products": 6,
+        "active": 6,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "womens-just-arrived",
+        "products": 294,
+        "active": 282,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "mens-dinosaur-swimsuits",
+        "products": 4,
+        "active": 4,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "mens-just-arrived",
+        "products": 213,
+        "active": 203,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "boys-shirts",
+        "products": 41,
+        "active": 39,
+        "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "dinosaur-nuggie-clothing",
+        "products": 23,
+        "active": 21,
+        "active_verified": "2026-10-01"
       }
     ]
   },
@@ -549,7 +794,37 @@
       "products": 3,
       "active": 3,
       "note": "All live but only 3 products — too thin to be a link destination. Merchandising item."
+    },
+    {
+      "handle": "on-sale",
+      "products": 4,
+      "active": 0,
+      "note": "All 4 products DRAFT (dropship toys/socks). Renders empty. Verified 2026-10-01."
+    },
+    {
+      "handle": "personalized",
+      "products": 2,
+      "active": 0,
+      "note": "Both products (personalized pillows) DRAFT. Renders empty. Verified 2026-10-01."
+    },
+    {
+      "handle": "dinosaur-earrings",
+      "products": 2,
+      "active": 0,
+      "note": "Both earrings DRAFT. Renders empty. Verified 2026-10-01."
+    },
+    {
+      "handle": "dinosaur-christmas-pajamas",
+      "products": 7,
+      "active": 0,
+      "note": "All 7 DRAFT by design (BACKLOG #0). Do not link. Verified 2026-10-01."
+    },
+    {
+      "handle": "dinosaur-christmas-pajamas-1",
+      "products": 7,
+      "active": 0,
+      "note": "Duplicate of dinosaur-christmas-pajamas; all 7 DRAFT by design. Do not link. Verified 2026-10-01."
     }
   ],
-  "collections_verified": "2026-08-30; sleepwear subset re-verified live 2026-09-24; ACTIVE counts for the 15-collection gifting set verified live 2026-09-24"
+  "collections_verified": "2026-10-01 monthly refresh: product totals for all 100 live collections re-pulled (no total changed among the 73 mapped); ACTIVE counts derived from a full paged list of the 109 DRAFT + 1 UNLISTED products, then spot-checked live for mugs, socks, toys and phone-cases. Earlier: 2026-08-30 baseline; 2026-09-24 gifting/sleepwear subsets."
 }

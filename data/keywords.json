@@ -319,7 +319,7 @@
       "verified": "2026-10-01",
       "slug": "dinosaur-pillows",
       "seasonality": "Floor 1,000-1,300/mo; Nov 1,900, Dec 1,900",
-      "note": "Re-verified 2026-10-01, unchanged. No URL ranks (page_keywords empty, locId 2840). Live: 6 shaped (10/16/22in, $29.99-$34.54, sealed, US only) + 3 square (zip cover, insert, $34.99-$40.99); 2 personalized DRAFT.",
+      "note": "CORRECTION 2026-10-01: /collections/dinosaur-pillows-cases ranks #14 for 'dinosaur pillows' (missed by a page_keywords check on the duplicate throw-pillow URL). Post links the duplicate; 3-link swap with owner (BACKLOG #36). Live: 6 shaped + 3 square ACTIVE.",
       "status": "published",
       "date": "2026-10-01",
       "article_path": "content/articles/2026-10-01-dinosaur-pillows.md",
@@ -357,7 +357,7 @@
       "verified": "2026-10-01",
       "slug": "dinosaur-socks",
       "seasonality": "Floor 480-590/mo; Oct 880, Nov 1,600, Dec 1,900",
-      "note": "dinosaur-socks 35/36 ACTIVE, dinosaur-socks-mens 34. No URL ranks yet. Never link dinosaur-dress-socks (0)."
+      "note": "dinosaur-socks 35 ACTIVE + 1 UNLISTED, dinosaur-socks-mens 34. No collection ranks for the head term; product space-dinos-dinosaur-socks ranks #33 and /collections/dinosaur-socks/womens #11-15 for women's variants. Link both. Never link dinosaur-dress-socks (0)."
     }
   ],
   "queued_seasonal": [
@@ -421,7 +421,7 @@
       "cpc": 0.62,
       "intent": "Informational",
       "verified": "2026-10-01",
-      "note": "dinosaur-puzzles 13/13 ACTIVE. Mixed intent; check what the puzzles are first. Target mid-Oct."
+      "note": "dinosaur-puzzles 13/13 ACTIVE. Mixed intent; check what the puzzles are first. Target mid-Oct. Tracked, not ranking: no cannibalisation."
     },
     {
       "keyword": "dinosaur phone case",
@@ -432,7 +432,8 @@
       "cpc": 0.87,
       "intent": "Transactional",
       "verified": "2026-10-01",
-      "note": "phone-cases 50/62 ACTIVE. Evergreen filler."
+      "note": "/collections/phone-cases ranks #13 (tracked); 62/62 ACTIVE. Collection-copy rescue, not a post.",
+      "status": "rescue"
     },
     {
       "keyword": "dinosaur leggings",
@@ -443,7 +444,8 @@
       "cpc": 1.26,
       "intent": "Transactional",
       "verified": "2026-10-01",
-      "note": "dinosaur-leggings 36. Winter curve; October or next August."
+      "note": "/collections/dinosaur-leggings ranks #3 (tracked). A post would only compete with it.",
+      "status": "skipped"
     },
     {
       "keyword": "dinosaur tote bag",

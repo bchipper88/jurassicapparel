@@ -1,133 +1,111 @@
 # Strategy — Jurassic Apparel
 
-**Written:** 2026-08-30 · **Next review:** 2026-10-01
-**Basis:** Ubersuggest domain overview, 2,067 keyword opportunities, site audit, and a
-full Shopify catalog map. All figures US (`locId 2840`), pulled 2026-08-30.
+**Written:** 2026-10-01 (replaces the 2026-08-30 version) · **Next review:** 2026-11-01
+**Basis:** Ubersuggest `domain_overview`, `domain_keywords` (top 1,000), tracked positions
+(91 keywords, 30-day window), `seo_opportunities`, and a full paged Shopify catalog recount.
+All figures US (`locId 2840`), pulled 2026-10-01.
 
 ---
 
-## Diagnosis
+## Where we are
 
-**The store has authority and is slowly losing traffic with it.**
+| Metric | 2026-08-30 | 2026-10-01 |
+|---|---|---|
+| Domain authority | 17 | 16 |
+| Organic keywords | 4,544 | 5,283 |
+| Est. monthly organic traffic | 1,141 (Jul) | 1,014 (Sep) |
+| Referring domains | 1,268 | 1,221 |
+| Tracked keywords in positions 4–10 | 29 | 21 |
+| Articles published | 0 | 11 |
+| Rescue briefs approved | 0 | 0 |
 
-| Metric | Value |
-|---|---|
-| Domain authority | 17 |
-| Organic keywords | 4,544 |
-| Est. monthly organic traffic | 1,141 |
-| Backlinks / referring domains | 2,732 / 1,268 |
-| Paid traffic | 0 |
+The pattern from August holds: **more terms, fewer clicks.** We rank for 16% more keywords
+than a month ago, and traffic is still drifting down (2,076 in Aug 2025 → 1,014 now).
+Ubersuggest's September estimate barely includes the new articles, which mostly went live in
+the second half of the month, so the first fair read on them is the 2026-11-01 review.
 
-Traffic peaked at **2,076/mo in Aug 2025** and has drifted to **1,141/mo by Jul 2026** —
-down ~45% in a year. Meanwhile ranked keywords went *up* (4,005 → 4,544). The store is
-ranking for **more** terms and getting **less** traffic from them.
+The leading indicator moved the wrong way: positions 4–10 fell from 29 to 21. Most of those
+are slips from #8–9 to #10–12 (hoodie, purses, adult shirt), not losses. They're also the
+cheapest rankings to win back.
 
-That pattern has one dominant cause: **a large body of pages sitting on page 2–4 for
-high-volume terms.** Ubersuggest's own audit confirms it — `content_count_words` is
-flagged HIGH impact, alongside duplicate titles and duplicate meta descriptions.
+## What the month taught us
 
-The 323-article `dinosaur-facts` blog is the clearest case. It ranks for enormous terms,
-just not high enough to earn clicks:
+1. **Inventory decides more targets than the numbers do.** The costume/onesie play, last
+   month's "most urgent", produced one article. The terms were real, but the store sells no
+   adult onesie, sweater or costume. Five of the queue's best-looking keywords were skipped on
+   stock, not data. The fix is upstream: check inventory when a term is *queued*, not when
+   it's written.
+2. **Front-loading Christmas worked.** Ornaments, pajamas, stockings, wrapping paper, mugs and
+   the Christmas hub all went live 4–10 weeks ahead of their November–December ramps. That was
+   the right call. Whether they rank is November's question.
+3. **The rescue play hasn't started.** One brief (gift-guide consolidation) has been with the
+   owner since 2026-09-24. No rewrite has shipped. New content alone can't reverse the traffic
+   trend, and the August assumptions said so.
+4. **We can compete with ourselves.** Today's pillow post went live against our own
+   collection ranking #14, because the check looked at a duplicate URL. Duplicate collections
+   (#2, #36) are no longer just an audit flag: they cause mistakes downstream.
+   The playbook now requires a domain-level check before writing.
+5. **The biggest asset was hiding in the backlog.** The "Indonesian title" post (#3) is now
+   English and ranks 20–30 for **seven 27,100/mo variants** of "flying dinosaurs", plus #13 for
+   "names of flying dinosaurs" (5,400). The August list of dinosaur-facts rescues (albertosaurus
+   and others) has mostly fallen out of view. This one replaces it at the top.
 
-| Keyword | Volume/mo | Position | SD |
-|---|---|---|---|
-| dinosaur albertosaurus | 14,800 | 22 | 29 |
-| mapusaurus dinosaur | 8,100 | 25 | 38 |
-| dinosaur ornithomimus | 6,600 | 34 | 27 |
-| carnivore dino *(and 5 variants)* | 6,600 | 20–25 | 23–39 |
-| chasmosaurus dinosaur | 5,400 | 34 | 21 |
-| dinosaur struthiomimus | 5,400 | 23 | 28 |
-| nodosaurus dinosaur | 5,400 | 22 | 34 |
-| giraffatitan dinosaur | 4,400 | 20 | 30 |
+## The plays, re-ranked
 
-Difficulty scores of 21–34 against a DA-17 site are **winnable**. These pages are thin,
-not outgunned. This is the single largest recoverable asset the business owns.
+### Play 1 — Christmas-ramp commercial content *(daily, through mid-November)*
 
-**What is working:** commercial collection pages convert search intent cleanly —
-`dino kidswear` (12,100/mo) at #2, `dinosaur shoes for adults` at #2, `dinosaur golf
-shirt` at #2, `dinosaur women's clothing` at #1. The money pages are healthy. The
-content engine around them is not.
+Product-led terms that are flat now and lift in November–December, with stocked collections
+and no ranking URL of ours. Next five, in order:
 
----
-
-## The three plays
-
-### Play 1 — Rescue the striking-distance pages *(highest expected value)*
-
-Roughly 1,261 keyword opportunities are "existing content" — we already rank, just too
-low. Moving a page from #22 to #8 on a 6,600/mo term is worth more than a new page on a
-200/mo term, and it needs no new authority.
-
-**Approach:** rank candidates by `volume ÷ difficulty`, prioritize clusters where one URL
-serves many variants (the carnivore-dinosaurs page alone covers six 6,600/mo variants).
-Rewrite to genuine depth, add internal links to commercial collections, fix the title and
-meta. Delivered as rewrite briefs for owner approval — we do not edit live pages.
-
-**Expected:** the slowest to start (rewrites need sign-off), the largest ceiling.
-
-### Play 2 — Own the seasonal costume/onesie cluster *(most urgent)*
-
-The store has **zero presence** across a cluster worth 150,000+ searches/mo at peak, and
-the window opens now:
-
-| Keyword | Avg/mo | Oct peak | SD | Intent |
+| Keyword | Avg/mo | Peak | SD | Stock |
 |---|---|---|---|---|
-| dinosaur costume | 27,100 | — | 28 | Commercial |
-| inflatable dinosaur suits | 22,200 | — | 35 | Commercial |
-| dino mask | 9,900 | — | 30 | Commercial |
-| **dinosaur onesie adult** | **1,900** | **6,600** | **25** | **Transactional** |
-| **family dinosaur costume** | **1,000** | **5,400** | **28** | **Commercial** |
-| dinosaur onesie | 3,600 | — | 26 | Commercial |
+| dinosaur socks | 880 | Dec 1,900 | 15 | 35 ACTIVE |
+| dinosaur puzzle | 1,900 | Dec 2,900 | 19 | 13 ACTIVE (check what they are) |
+| dinosaur pajamas adult | 390 | Dec 720 | 25 | thin, so late October, and only if #21 moves |
+| dinosaur christmas sweatshirt | 720 | Dec 4,400 | 29 | 2 products, so a section, not a page, unless the range grows |
+| dinosaur tote bag | 170 | flat | 23 | 48 ACTIVE (filler) |
 
-The head terms (27k, 22k) are not realistically winnable at DA 17 this season, and we
-don't stock inflatable suits — chasing them would violate charter principle 2.
+After mid-November, new Christmas pages publish into their peak instead of ahead of it. From
+then on, the daily slot goes to evergreen terms and to drafting rescue briefs.
 
-**The winnable, stockable slice is the onesie/pajama/family-matching cluster**, and it
-maps directly onto inventory we already have: *Realistic Jurassic Adult Dinosaur Pajamas*
-is currently the store's **single highest-traffic page (461 est. visits/mo)**, plus the
-Mamasaurus (17), Dadasaurus (9), Kids Apparel (185) and Hoodie (57) collections.
+### Play 2 — Rescues, starting with the cheapest *(needs the owner)*
 
-**Timing is the whole play.** `family dinosaur costume` runs 90/mo in February and
-5,400/mo in October. Publishing 2026-08-30 gives 4–6 weeks to index before the September
-ramp (4,400) and the October peak. Two weeks later and we've missed it.
+Ranked by value per minute of owner time:
 
-### Play 3 — Fix the catalog liabilities *(cheap, blocked on owner)*
+1. **Flying-dinosaurs post: title tag and meta description.** About 10 minutes, and it touches
+   the page with the largest ranked volume we own. Then a depth and internal-link rewrite.
+2. **Pillow post: 3-link swap** to the collection that ranks (#36). About 1 minute.
+3. **`dinosaur shirt`** (SD 17, #16), **`dinosaur blanket`** (#28, Christmas lift),
+   **`dinosaur phone case`** (#13): collection copy.
+4. **Gift-guide consolidation** (brief delivered 2026-09-24).
 
-Found while building the link map:
+The agent's job here is to make each approval as small as possible: one page, one diff, one
+paragraph of why.
 
-- **Five collections have zero products** — `dinosaur-masks`, `dinosaur-beanie`,
-  `hooded-dinosaur-blankets`, `personalized-dinosaur-shirt`, `dinosaur-dress-socks`.
-  `dinosaur-masks` empty while "dino mask" does 9,900/mo is a straight miss.
-- **Three duplicate collection pairs** — `dinosaur-ornaments` / `dinosaur-christmas-ornaments`,
-  `dinosaur-christmas-pajamas` / `-1`, `miscellaneous` / `all-misc`. These are the source
-  of the HIGH-impact duplicate-title and duplicate-meta audit flags.
-- **One blog post has an Indonesian title on an English store** —
-  `/blogs/blog/flying-dinosaurs-...-2` renders as *"Dinosaurus Terbang: Panduan Lengkap
-  Makhluk Prasejarah"* while pulling 64 visits/mo.
+### Play 3 — Catalog fixes that unlock demand *(owner, merchandising)*
 
-All are owner-sign-off items. Tracked in `BACKLOG.md`.
+The catalog hasn't changed in a month: no collection total moved and all five empty
+collections are still empty. Each of these items blocks a keyword we've already measured:
 
----
+- `dinosaur-pajamas` collection (#21): `dinosaur pajamas` 1,600/mo, SD 17, $1.27–$1.57 CPC.
+- Duplicate collections (#2, #36): four pairs, including the pillow pair we just tripped on.
+- A beanie product is in DRAFT while `dinosaur-beanie` is empty (#37): 390/mo, SD 23.
+- Stocking shipping (10–30 business days) and the empty shipping-policy page (#25, #30):
+  these hurt conversion in Q4.
 
-## Sequencing
+## What success looks like by 2026-11-01
 
-| When | Focus |
-|---|---|
-| **Sept 2026** | Play 2 — costume/onesie/family cluster, front-loaded before the ramp |
-| **Sept, in parallel** | Play 3 briefs handed over (cheap wins, owner-gated) |
-| **Oct–Nov 2026** | Play 1 — striking-distance rescues at volume; Christmas cluster opens (`dinosaur christmas` collection has 52 products and real seasonal demand) |
-| **Dec 2026** | Holiday gifting terms; review whether rescues moved rank |
+Honest ranges, with assumptions:
 
-## What success looks like
+- **Traffic estimate for October: 1,000–1,300.** At least half the September articles indexed
+  and ranking somewhere in the top 50 for their target. If October comes in under 1,000 with
+  the articles indexed, the new-content play isn't working at this DA, and November shifts
+  toward rescues.
+- **Positions 4–10: back to 25 or more.** It moves before traffic does.
+- **At least one rescue live.** The flying-dinosaurs title fix is the obvious first one.
+  Without any rescue, the 180-day range from August (2,500–3,500/mo) is out of reach and should
+  be halved.
 
-Honest ranges, not promises:
-
-- **90 days:** reverse the traffic decline — return to 1,700–2,000/mo (the Aug 2025 level).
-  Driven mostly by Play 2 landing before peak and the first rescues taking effect.
-- **180 days:** 2,500–3,500/mo, if rescues get approved and shipped at a steady rate.
-- **Leading indicator to watch weekly:** count of tracked keywords in positions 4–10.
-  It moves before traffic does.
-
-Assumptions: no algorithm shock, rewrite briefs approved within ~2 weeks of delivery,
-one article/day sustained. If rescues stay blocked, halve the 180-day figure — new
-content alone cannot carry it.
+Assumptions: no algorithm shock, one article a day sustained, the routine keeps publishing
+unattended (#7/#8), and the owner clears at least the five-minute items in the BACKLOG
+monthly review.

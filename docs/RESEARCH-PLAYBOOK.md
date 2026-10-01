@@ -26,6 +26,28 @@ us to ship it in August.
 | 31–40 | Stretch — only with a genuinely better page, or existing rank on the URL |
 | > 40 | Skip, unless we have an unfair advantage (existing position, unique inventory) |
 
+### Cannibalisation check: do it at the domain level, not on one URL
+
+*Added 2026-10-01 after a miss.* Before writing, find out whether **any** URL of ours already
+ranks for the exact term. Don't stop at `page_keywords` on the collection you expect to rank:
+that's how Day 11 missed `/collections/dinosaur-pillows-cases` at #14 while checking its
+duplicate, `/collections/dinosaur-throw-pillow`, which ranks for nothing.
+
+```bash
+domain_keywords(domain: "jurassicapparel.com", locId: 2840, limit: 1000)   # -> file
+jq -r --arg k "<target>" '.results[] | select(.keyword|test($k)) |
+  "\(.volume) pos\(.position) | \(.keyword) -> \(.url)"' "$F"
+```
+
+Also check the target in the weekly `project_position_info` file if it's tracked. That list
+sometimes catches a product page `domain_keywords` misses (`dinosaur socks` → a product at #33).
+`domain_keywords` returns the top ~1,000 terms by traffic, so absence there is not proof.
+
+If a **collection** already ranks in the top ~15, don't write a post. File the term as a
+🔁 rescue of that collection (`dinosaur leggings` → collection #3). If a URL ranks lower, a
+post can still go ahead, but it must link to **that** URL, so authority flows to the page
+Google already prefers.
+
 ## Expanding a cluster
 
 ```
@@ -62,6 +84,11 @@ jq -r '[.opportunities[] | select(.subtype=="new_content") | .item
 # The site audit flags, with impact
 jq -c '.opportunities[] | select(.type=="SITE_AUDIT") | {subtype, impact, effort}' "$F"
 ```
+
+**2026-10-01:** `seo_opportunities` now returns a much smaller striking-distance subset (one
+term ≥1,500/mo in positions 8–40, against fifteen in August). Build the striking-distance list
+from `domain_keywords` (limit 1000, written to a file) with the same position/volume filter
+instead. That's where the flying-dinosaurs cluster turned up.
 
 `unique_by(.keyword)` matters — the raw list repeats keywords across locations and will
 make one opportunity look like six.
