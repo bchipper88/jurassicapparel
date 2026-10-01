@@ -132,6 +132,7 @@ Ubersuggest figure that justified it.
   printed one side, US only, 2–5 + 4–13 business days) and **3 square** (zip cover, insert
   included, $34.99–$40.99, one 20″×12″ lumbar); 2 personalized DRAFT. Angle: shaped vs square,
   which size, order by Nov 27.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-pillows
 
 ---
 

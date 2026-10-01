@@ -2,7 +2,10 @@
 title: "Dinosaur Pillows: Shaped or Square, Which Size, and When to Order"
 slug: dinosaur-pillows
 date: 2026-10-01
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-pillows
+shopify_article_id: "gid://shopify/Article/634865483926"
+published_at: 2026-10-01T11:14:13Z
 metrics_source: "Ubersuggest live, locId 2840, re-verified 2026-10-01"
 target_keyword: "dinosaur pillow"
 target_volume: 1300
@@ -76,8 +79,8 @@ character more than a cushion. That's why it works as a bedtime buddy.
 
 There are six, named for what they are:
 
-- **[Baby Dino](/products/baby-dino-dinosaur-pillow)**: the one for anyone who searched
-  "t rex pillow" and wants a little one.
+- **[Baby Dino](/products/baby-dino-dinosaur-pillow)**: a baby dinosaur, and a natural pick for
+  a toddler's first big-kid bed.
 - **[Triceratops](/products/triceratops-dinosaur-pillow)**: horns and a frill make a
   silhouette even a three-year-old can name.
 - **[Ankylosaurus](/products/ankylosaurus-dinosaur-pillow)**: the armoured one with the tail
@@ -173,8 +176,9 @@ They're decorative pillows, 3–5″ thick and soft. Fine for cuddling and loung
 toddler's sleeping pillow, use one made for that and keep this one as the bedtime buddy.
 
 **Is there a T. rex pillow?**
-Yes, three ways: the shaped [Baby Dino](/products/baby-dino-dinosaur-pillow), and two square
-T. rex prints, Pink Retro and American Pride.
+Yes. Two of the square pillows are T. rex prints:
+[Pink Retro T-Rex](/products/dinosaur-throw-pillow-pink-retro-t-rex) and
+[American Pride T-Rex](/products/dinosaur-throw-pillow-american-pride-t-rex).
 
 **Does the cover come off?**
 On the square pillows, yes: there's a concealed zipper. The shaped pillows are sealed, with no
