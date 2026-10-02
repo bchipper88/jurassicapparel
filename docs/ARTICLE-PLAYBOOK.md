@@ -94,3 +94,8 @@ the long end of that range.
 - [ ] No claim about a product that isn't true of the actual listing
 - [ ] Front matter complete, `word_count` filled in
 - [ ] It genuinely answers the query better than what's ranking now — if not, don't ship it
+- [ ] **No live post already owns the slug or the keyword.** Query Shopify
+      `articles(query: "handle:<slug> OR title:*<head noun>*")` before writing. Ubersuggest only
+      sees pages that rank; an old post that ranks for nothing is invisible to it but still
+      takes the handle and splits the topic. If one exists, the job is a rescue brief, not a new
+      post. (Added 2026-10-02 after a 2020 `dinosaur-socks` post blocked Day 12's publish.)

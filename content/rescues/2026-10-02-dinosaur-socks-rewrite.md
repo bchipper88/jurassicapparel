@@ -2,7 +2,10 @@
 title: "Dinosaur Socks: Which Pair, Which Size, and When to Order for Christmas"
 slug: dinosaur-socks
 date: 2026-10-02
-status: draft
+type: rescue-brief
+status: awaiting-owner-approval
+replaces_live_url: https://jurassicapparel.com/blogs/blog/dinosaur-socks
+replaces_article_id: "gid://shopify/Article/384364150877"
 metrics_source: "Ubersuggest live, locId 2840, re-verified 2026-10-02"
 target_keyword: "dinosaur socks"
 target_volume: 880
@@ -46,6 +49,49 @@ articles_linked:
   - /blogs/blog/dinosaur-christmas
 word_count: 1050
 ---
+
+# Rescue brief: rewrite the 2020 dinosaur-socks post in place
+
+**This is a brief, not a published article. It needs the owner's yes**, because it replaces a
+live page (`CEO-CHARTER.md`: rewrites of existing live pages are gated).
+
+## What happened
+
+I wrote the copy below as Day 12's new article for `dinosaur socks` (880/mo, SD 15, $1.16 CPC,
+Nov 1,600 · Dec 1,900; Ubersuggest locId 2840, verified 2026-10-02). It was link-checked and
+committed. `articleCreate` then failed: **the handle `dinosaur-socks` is taken** by a live post
+from 2020, *The Best Dinosaur Socks Money Can Buy* (`gid://shopify/Article/384364150877`,
+published 2020-04-18).
+
+I did not publish under another handle. Two posts chasing the same term is the cannibalisation
+problem in BACKLOG #12. The right move is to replace the old post at its existing URL.
+
+## Why the old post should be replaced
+
+- **It earns nothing.** `page_keywords` (locId 2840, 2026-10-02) returns no ranking keywords for
+  it, and the 10-01 domain-level check found no page of ours ranking for the head term except the
+  Space Dino's product (#33).
+- **It links a deleted product.** "Dinosaur Socks For Kids" links `kids-dinosaur-socks-5-pack`,
+  which no longer exists. That section is an image and a dead link.
+- **It promises socks we don't sell.** "We have dinosaur socks for kids. We have dinosaur socks
+  for toddlers." The smallest fit in today's range is women's US 5.
+- **It's structurally weak**: four H1s, no summary/meta description, no tags, blank image alt
+  text, links products through an old `socks` collection path, and no sizing, material or
+  shipping information at all.
+
+## What the owner does (about 5 minutes)
+
+1. Open the post in Shopify admin (Blog posts → *The Best Dinosaur Socks Money Can Buy*).
+2. Replace the title and body with the copy below (or run
+   `python3 scripts/md-to-shopify.py` on this file for ready HTML), keep the handle
+   `dinosaur-socks`, and set the excerpt to the `meta_description` above.
+3. Or reply "yes" and the next run does it via `articleUpdate`.
+
+Keeping the URL keeps whatever age and link equity the 2020 post has.
+
+---
+
+## Replacement copy
 
 # Dinosaur Socks: Which Pair, Which Size, and When to Order for Christmas
 
