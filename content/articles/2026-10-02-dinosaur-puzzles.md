@@ -77,8 +77,8 @@ shelf and makes a tidy gift. They're cardboard, in two sizes:
 Four of the six are T. rex:
 [Samurai T-Rex](/products/dinosaur-puzzle-samurai-t-rex),
 [Pug T-Rex](/products/dinosaur-puzzle-pug-t-rex),
-[Volcano T-Rex](/products/volcano-t-rex-dinosaur-puzzle), Beach & Palm T-Rex, Red Sunset and
-Last of the Dinosaurs.
+[Volcano T-Rex](/products/volcano-t-rex-dinosaur-puzzle) and Beach & Palm T-Rex. The other two
+are Red Sunset and Last of the Dinosaurs.
 
 ### The flat puzzles: 252 or 520 pieces
 
