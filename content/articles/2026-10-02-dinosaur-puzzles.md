@@ -2,7 +2,10 @@
 title: "Dinosaur Puzzles: 120, 252 or 520 Pieces, and Which One to Give"
 slug: dinosaur-puzzles
 date: 2026-10-02
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-puzzles
+shopify_article_id: "gid://shopify/Article/634870399126"
+published_at: 2026-10-02T11:18:05Z
 metrics_source: "Ubersuggest live, locId 2840, re-verified 2026-10-02"
 target_keyword: "dinosaur puzzle"
 target_volume: 1900

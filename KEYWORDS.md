@@ -147,6 +147,7 @@ Ubersuggest figure that justified it.
   all $24.99 / $39.99. Angle: piece count by person, and two order-by dates (jar Nov 25, flat Dec 10).
   Says plainly there are no toddler/wooden puzzles. Secondaries: `dinosaur puzzles` 1,900/mo,
   SD 29; `dinosaur jigsaw puzzle` 140/mo, SD 16; `dinosaur puzzles for adults` 70/mo, SD 17 (Dec 140).
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-puzzles
 ---
 
 ## 🎯 NEXT UP
