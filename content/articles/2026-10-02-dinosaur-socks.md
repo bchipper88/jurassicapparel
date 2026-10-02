@@ -115,12 +115,12 @@ bigger than most young children's feet.
 
 ## Dinosaur socks for men, for women, and for the person who has everything
 
-**For men.** All 34 pairs in [our men's dinosaur socks](/collections/dinosaur-socks-mens)
-fit up to a men's 12 in one size, or 13 in a sized L. The skeleton prints read as quietly
+**For men.** [Our men's dinosaur socks](/collections/dinosaur-socks-mens) gathers 34 designs.
+The one-size pairs fit up to a men's 12; for a 13, pick a sized pair in L. The skeleton prints read as quietly
 nerdy under a suit; the Dino Nuggies pair is for the man who wants someone to notice.
 
-**For women.** [Women's dinosaur socks](/collections/dinosaur-socks/womens) covers the same
-designs filtered for women's fits, plus Pink and Yellow Brontosaurus, which is listed as a women's sock. The
+**For women.** [Women's dinosaur socks](/collections/dinosaur-socks/womens) is the same range
+filtered to the pairs tagged for women, including Pink and Yellow Brontosaurus, which is listed as a women's sock. The
 one-size pairs fit from a women's 5.
 
 **For the dinosaur person.** The skeleton series comes in a few colourways (blue, pink and
@@ -146,7 +146,7 @@ Every pair is printed when you order it, so plan around the listing estimates:
 
 Working back from the slowest estimate, **order by Monday, December 7** for socks to arrive
 by December 22. Earlier is better: the slow end of an estimate is the one that matters in
-December. All of them ship within the US only.
+December. The listings that state shipping give US addresses only.
 
 For the rest of a dinosaur Christmas, from ornaments to wrapping, see our
 [dinosaur Christmas guide](/blogs/blog/dinosaur-christmas).
@@ -168,7 +168,7 @@ cushioned sole; the crew pairs are cushioned heel to toe and include 3% cotton.
 Yes: [Santa Hat](/products/santa-hat-christmas-dinosaur-socks), one size, $19.99.
 
 **Do you ship outside the US?**
-The sock listings give US shipping only.
+The sock listings that state shipping give US shipping only.
 
 ---
 
