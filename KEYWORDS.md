@@ -139,26 +139,24 @@ Ubersuggest figure that justified it.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-pillows
 
 
-- ✅ Published (2026-10-02) **dinosaur socks** — 880/mo avg | **Nov 1,600 · Dec 1,900** | floor 480–590
-  | SD 15 | $1.16 CPC | Transactional → `dinosaur-socks`
-  Day 12. Re-verified 2026-10-02, unchanged. Lowest SD we've shipped; published 4 weeks ahead of
-  the November ramp. Angle: the three constructions (one-size half-terry, fully cushioned crew,
-  sized S/M/L sublimation), the sizing chart, and an order-by date (Dec 7). Says plainly we
-  have no kids' socks (smallest fit women's 5). Links `dinosaur-socks` (35 ACTIVE),
-  `dinosaur-socks-mens` (34), the ranking `/collections/dinosaur-socks/womens` view, and the
-  ranking Space Dino's product (#33).
-  Secondaries: `dinosaur socks for men` 170/mo, SD 15, $1.20 (Dec 480); `dinosaur socks for kids`
-  0/mo (no data).
+- ✅ Published (2026-10-02) **dinosaur puzzle** — 1,900/mo avg | **Nov 2,400 · Dec 2,900** | SD 19
+  | $0.62 CPC | Informational → `dinosaur-puzzles`
+  Day 12 (taken same day after `dinosaur socks` turned into a rescue). Re-verified 2026-10-02,
+  unchanged; no blog post on the topic (Shopify articles query). 13/13 ACTIVE in two styles: 6 jar
+  puzzles (120/252 pcs, 2–7 + 6–9 days) and 7 flat chipboard puzzles (252/520 pcs, 1–3 + 2–5 days),
+  all $24.99 / $39.99. Angle: piece count by person, and two order-by dates (jar Nov 25, flat Dec 10).
+  Says plainly there are no toddler/wooden puzzles. Secondaries: `dinosaur puzzles` 1,900/mo,
+  SD 29; `dinosaur jigsaw puzzle` 140/mo, SD 16; `dinosaur puzzles for adults` 70/mo, SD 17 (Dec 140).
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur puzzle** — 1,900/mo avg | **Nov 2,400 · Dec 2,900** | SD 19 | $0.62 CPC | Informational
-  → `dinosaur-puzzles`
-  Promoted 2026-10-02 from the evergreen queue. `dinosaur-puzzles` 13/13 ACTIVE; tracked and not
-  ranking, so no cannibalisation. Publishing Oct 3 is ~4 weeks ahead of the November lift.
-  *Before writing:* re-verify, then read all 13 listings (piece count, age, size, shipping) — the
-  intent is mixed between kids' toy puzzles and adult jigsaws, and the angle depends on which we sell.
+- 🎯 **dinosaur stickers** — 2,900/mo | flat 2,400–2,900, **Aug 4,400** (back to school) | SD 23 | $0.37 CPC
+  | Transactional → `dinosaur-stickers`
+  Found 2026-10-02. Evergreen, four-figure, winnable, and `dinosaur-stickers` has 29/31 ACTIVE. No
+  blog post on stickers exists (Shopify articles query, 2026-10-02). *Before writing:* run the
+  domain-level check (does `/collections/dinosaur-stickers` already rank?), read the listings
+  (size, finish, waterproof or not, shipping), and see BACKLOG #6 on whether stickers are core.
 
 ---
 
@@ -210,6 +208,12 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 
 ## 📋 QUEUE — Evergreen commercial (fills non-seasonal days)
 
+- 📋 **dinosaur hat** — 1,600/mo | Oct 2,400 spike | SD 20 | $0.46 CPC — found 2026-10-02.
+  `dinosaur-hats` 15 ACTIVE. Check whether the October spike is costume hats we don't sell.
+- 📋 **dinosaur purse** — 1,000/mo | Dec 1,300, Apr 2,400 | SD 27 | $0.72 CPC — found 2026-10-02.
+  `dinosaur-purses` 24 ACTIVE.
+- 📋 dinosaur dress — 880/mo | SD 21 | $1.00 CPC — found 2026-10-02. Spring/summer curve (Dec 590);
+  schedule for February. `womens-dinosaur-dresses-skirts` 64 ACTIVE.
 - 🔁 **dinosaur phone case** — 720/mo avg | flat 590–1,000 (Jul peak) | SD 25 | $0.87 CPC | Transactional
   Found 2026-10-01, reclassified the same day: `/collections/phone-cases` already ranks **#13**
   (tracked) and 62/62 are ACTIVE. That makes it a collection-copy rescue, not a post.
@@ -277,6 +281,15 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 ---
 
 ## 🔁 RESCUE QUEUE — striking distance (existing URLs, position 8–40)
+
+- 🔁 **dinosaur socks** — 880/mo avg | **Nov 1,600 · Dec 1,900** | floor 480–590 | SD 15 | $1.16 CPC
+  | Transactional → rewrite `/blogs/blog/dinosaur-socks` in place
+  **Not published 2026-10-02.** Written and link-checked as Day 12, then `articleCreate` failed:
+  the handle `dinosaur-socks` belongs to a live 2020 post, *The Best Dinosaur Socks Money Can Buy*,
+  which ranks for nothing (`page_keywords`, locId 2840), promises kids'/toddler socks we don't sell,
+  and links a deleted product. Full replacement copy and brief: `content/rescues/2026-10-02-dinosaur-socks-rewrite.md`.
+  Owner: approve the in-place rewrite (gated). Secondaries: `dinosaur socks for men` 170/mo, SD 15,
+  $1.20 (Dec 480); `dinosaur socks for kids` 0/mo.
 
 **This is the highest-value list in the repo.** Each is an existing page already ranking;
 the work is a rewrite brief, not a new article.

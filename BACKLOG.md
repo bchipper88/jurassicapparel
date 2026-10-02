@@ -904,7 +904,7 @@ From the full DRAFT/UNLISTED pass (109 DRAFT, 1 UNLISTED, 910 ACTIVE):
 
 ---
 
-## 38. Sock range: two stray duplicate listings, a one-size "sized" sock, and missing shipping/size info 🟡 MEDIUM — catalog / product copy — added 2026-10-02
+## 38. Sock range: a stale 2020 sock post, two stray duplicate listings, a one-size "sized" sock, and missing shipping/size info 🟡 MEDIUM — catalog / product copy — added 2026-10-02
 
 Found while reading all 36 `dinosaur-socks` listings for the Day 12 article.
 
@@ -921,3 +921,8 @@ Found while reading all 36 `dinosaur-socks` listings for the Day 12 article.
 - **Typo:** "Orange Stegasaurus Socks" (Stegosaurus).
 - No kids' socks exist (smallest fit women's 5); `dinosaur socks for kids` shows 0 volume in
   Ubersuggest, so this is a note, not a merchandising ask.
+- **The 2020 blog post `/blogs/blog/dinosaur-socks` is stale and holds the handle.** *The Best
+  Dinosaur Socks Money Can Buy* ranks for nothing, says "we have dinosaur socks for kids… for
+  toddlers" (we don't), and its kids section links `kids-dinosaur-socks-5-pack`, which no longer
+  exists. Replacement copy is ready: `content/rescues/2026-10-02-dinosaur-socks-rewrite.md`.
+  Owner: approve the in-place rewrite (or say yes and the next run does it via `articleUpdate`).

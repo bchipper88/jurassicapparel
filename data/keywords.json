@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-09-24",
+  "pulled": "2026-10-02",
   "loc_id": 2840,
   "published": [
     {
@@ -344,41 +344,6 @@
       "published_at": "2026-10-01T11:14:13Z"
     },
     {
-      "keyword": "dinosaur socks",
-      "volume": 880,
-      "peak_volume": 1900,
-      "peak_month": "202512",
-      "sd": 15,
-      "cpc": 1.16,
-      "competition": 0.99,
-      "intent": "Transactional",
-      "verified": "2026-10-02",
-      "slug": "dinosaur-socks",
-      "seasonality": "Floor 480-590/mo; Oct 880, Nov 1,600, Dec 1,900",
-      "note": "dinosaur-socks 35 ACTIVE + 1 UNLISTED, dinosaur-socks-mens 34. No collection ranks for the head term; product space-dinos-dinosaur-socks ranks #33 and /collections/dinosaur-socks/womens #11-15 for women's variants. Link both. Never link dinosaur-dress-socks (0).",
-      "status": "published",
-      "date": "2026-10-02",
-      "article_path": "content/articles/2026-10-02-dinosaur-socks.md",
-      "secondaries": [
-        {
-          "keyword": "dinosaur socks for men",
-          "volume": 170,
-          "sd": 15,
-          "cpc": 1.2,
-          "peak": "Dec 480"
-        },
-        {
-          "keyword": "dinosaur socks for kids",
-          "volume": 0,
-          "sd": 4,
-          "cpc": 0,
-          "peak": "no data"
-        }
-      ]
-    }
-  ],
-  "next_up": [
-    {
       "keyword": "dinosaur puzzle",
       "volume": 1900,
       "peak_volume": 2900,
@@ -386,9 +351,48 @@
       "sd": 19,
       "cpc": 0.62,
       "intent": "Informational",
-      "verified": "2026-10-01",
+      "verified": "2026-10-02",
       "note": "dinosaur-puzzles 13/13 ACTIVE. Mixed intent; check what the puzzles are first. Target mid-Oct. Tracked, not ranking: no cannibalisation. Promoted to next_up 2026-10-02 for Day 13.",
-      "slug": "dinosaur-puzzles"
+      "slug": "dinosaur-puzzles",
+      "status": "published",
+      "date": "2026-10-02",
+      "article_path": "content/articles/2026-10-02-dinosaur-puzzles.md",
+      "seasonality": "Floor 1,600/mo; Aug-Oct 1,900, Nov 2,400, Dec 2,900",
+      "secondaries": [
+        {
+          "keyword": "dinosaur puzzles",
+          "volume": 1900,
+          "sd": 29,
+          "cpc": 0.57
+        },
+        {
+          "keyword": "dinosaur jigsaw puzzle",
+          "volume": 140,
+          "sd": 16,
+          "cpc": 0.44
+        },
+        {
+          "keyword": "dinosaur puzzles for adults",
+          "volume": 70,
+          "sd": 17,
+          "cpc": 0.56,
+          "peak": "Dec 140"
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur stickers",
+      "volume": 2900,
+      "peak_volume": 4400,
+      "peak_month": "202508",
+      "sd": 23,
+      "cpc": 0.37,
+      "intent": "Transactional",
+      "verified": "2026-10-02",
+      "slug": "dinosaur-stickers",
+      "note": "dinosaur-stickers 29/31 ACTIVE. No blog post exists. Run domain-level check and read listings first; see BACKLOG #6."
     }
   ],
   "queued_seasonal": [
@@ -443,6 +447,39 @@
     }
   ],
   "queued_evergreen": [
+    {
+      "keyword": "dinosaur hat",
+      "volume": 1600,
+      "peak_volume": 2400,
+      "peak_month": "202510",
+      "sd": 20,
+      "cpc": 0.46,
+      "intent": "Transactional",
+      "verified": "2026-10-02",
+      "note": "dinosaur-hats 15 ACTIVE; check if Oct spike is costume intent."
+    },
+    {
+      "keyword": "dinosaur purse",
+      "volume": 1000,
+      "peak_volume": 2400,
+      "peak_month": "202604",
+      "sd": 27,
+      "cpc": 0.72,
+      "intent": "Transactional",
+      "verified": "2026-10-02",
+      "note": "dinosaur-purses 24 ACTIVE."
+    },
+    {
+      "keyword": "dinosaur dress",
+      "volume": 880,
+      "peak_volume": 1000,
+      "peak_month": "202603",
+      "sd": 21,
+      "cpc": 1.0,
+      "intent": "Transactional",
+      "verified": "2026-10-02",
+      "note": "Spring curve; schedule Feb. womens-dinosaur-dresses-skirts 64 ACTIVE."
+    },
     {
       "keyword": "dinosaur phone case",
       "volume": 720,
@@ -557,6 +594,39 @@
     }
   ],
   "rescue_queue": [
+    {
+      "keyword": "dinosaur socks",
+      "volume": 880,
+      "peak_volume": 1900,
+      "peak_month": "202512",
+      "sd": 15,
+      "cpc": 1.16,
+      "competition": 0.99,
+      "intent": "Transactional",
+      "verified": "2026-10-02",
+      "slug": "dinosaur-socks",
+      "seasonality": "Floor 480-590/mo; Oct 880, Nov 1,600, Dec 1,900",
+      "note": "Not published: handle dinosaur-socks held by live 2020 post (gid://shopify/Article/384364150877) that ranks for nothing. Replacement copy in content/rescues/2026-10-02-dinosaur-socks-rewrite.md; owner approval needed.",
+      "status": "rescue",
+      "date": "2026-10-02",
+      "article_path": "content/rescues/2026-10-02-dinosaur-socks-rewrite.md",
+      "secondaries": [
+        {
+          "keyword": "dinosaur socks for men",
+          "volume": 170,
+          "sd": 15,
+          "cpc": 1.2,
+          "peak": "Dec 480"
+        },
+        {
+          "keyword": "dinosaur socks for kids",
+          "volume": 0,
+          "sd": 4,
+          "cpc": 0,
+          "peak": "no data"
+        }
+      ]
+    },
     {
       "keyword": "dinosaur albertosaurus",
       "volume": 14800,
