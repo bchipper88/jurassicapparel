@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -138,20 +138,27 @@ Ubersuggest figure that justified it.
   which size, order by Nov 27.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-pillows
 
+
+- ✅ Published (2026-10-02) **dinosaur socks** — 880/mo avg | **Nov 1,600 · Dec 1,900** | floor 480–590
+  | SD 15 | $1.16 CPC | Transactional → `dinosaur-socks`
+  Day 12. Re-verified 2026-10-02, unchanged. Lowest SD we've shipped; published 4 weeks ahead of
+  the November ramp. Angle: the three constructions (one-size half-terry, fully cushioned crew,
+  sized S/M/L sublimation), the sizing chart, and an order-by date (Dec 7). Says plainly we
+  have no kids' socks (smallest fit women's 5). Links `dinosaur-socks` (35 ACTIVE),
+  `dinosaur-socks-mens` (34), the ranking `/collections/dinosaur-socks/womens` view, and the
+  ranking Space Dino's product (#33).
+  Secondaries: `dinosaur socks for men` 170/mo, SD 15, $1.20 (Dec 480); `dinosaur socks for kids`
+  0/mo (no data).
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur socks** — 880/mo avg | **Nov 1,600 · Dec 1,900** | floor 480–590 | **SD 15** | **$1.16 CPC**
-  | Transactional → `dinosaur-socks`
-  Found 2026-10-01. Lowest difficulty of any target we have shipped, a CPC above $1, and a curve
-  that roughly doubles in November. Publishing tomorrow puts it 4 weeks ahead of the ramp.
-  `dinosaur-socks` 35 ACTIVE + 1 UNLISTED, `dinosaur-socks-mens` 34. **Domain-level check done
-  (2026-10-01):** no collection ranks for the head term. A product page, *Space Dinos* socks, ranks
-  #33 (tracked), and `/collections/dinosaur-socks/womens` ranks #11–15 for the 90/mo women's
-  variants. Link both from the post. Stocking-stuffer angle; links the Day 6 stockings post.
-  *Before writing:* read the sock listings for sizes, material and shipping time, and check the
-  `dinosaur-dress-socks` duplicate (0 products, BACKLOG #1). Never link that one.
+- 🎯 **dinosaur puzzle** — 1,900/mo avg | **Nov 2,400 · Dec 2,900** | SD 19 | $0.62 CPC | Informational
+  → `dinosaur-puzzles`
+  Promoted 2026-10-02 from the evergreen queue. `dinosaur-puzzles` 13/13 ACTIVE; tracked and not
+  ranking, so no cannibalisation. Publishing Oct 3 is ~4 weeks ahead of the November lift.
+  *Before writing:* re-verify, then read all 13 listings (piece count, age, size, shipping) — the
+  intent is mixed between kids' toy puzzles and adult jigsaws, and the angle depends on which we sell.
 
 ---
 
@@ -203,11 +210,6 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 
 ## 📋 QUEUE — Evergreen commercial (fills non-seasonal days)
 
-- 📋 **dinosaur puzzle** — 1,900/mo avg | **Nov 2,400 · Dec 2,900** | SD 19 | $0.62 CPC | Informational
-  New 2026-10-01. `dinosaur-puzzles` 13/13 ACTIVE; tracked and **not ranking**, so there's no
-  cannibalisation. Biggest clean volume found this month. The
-  intent is mixed (toy puzzles for kids), so check what the 13 puzzles actually are (piece count,
-  age) before committing. Target mid-October, ahead of the November lift.
 - 🔁 **dinosaur phone case** — 720/mo avg | flat 590–1,000 (Jul peak) | SD 25 | $0.87 CPC | Transactional
   Found 2026-10-01, reclassified the same day: `/collections/phone-cases` already ranks **#13**
   (tracked) and 62/62 are ACTIVE. That makes it a collection-copy rescue, not a post.

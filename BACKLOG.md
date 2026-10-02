@@ -901,3 +901,23 @@ From the full DRAFT/UNLISTED pass (109 DRAFT, 1 UNLISTED, 910 ACTIVE):
 - **No total changed among the 73 mapped collections since 2026-08-30**, and the five empty
   collections in #1 are still empty. The catalog hasn't moved in a month, so the merchandising
   items in this file (#1, #14, #18, #21, #31, #35) are the bottleneck, not content.
+
+---
+
+## 38. Sock range: two stray duplicate listings, a one-size "sized" sock, and missing shipping/size info 🟡 MEDIUM — catalog / product copy — added 2026-10-02
+
+Found while reading all 36 `dinosaur-socks` listings for the Day 12 article.
+
+- **`xray-sock` and `mashup-sock` look like stray duplicates.** Lowercase titles ("XRAY sock",
+  "mashup sock"), $18.63 instead of $19.99, both ACTIVE and in the collection next to the real
+  *X-Ray Dinosaur Dress Socks* and *Dinosaur Dress Socks - Mashup Dinosaurs*. Owner: confirm and
+  DRAFT them, or retitle and reprice.
+- **Space Dino's (`space-dinos-dinosaur-socks`) is listed in size M only**, though its copy says
+  "3 different sizes". It is the sock page that ranks (#33 for "dinosaur socks"), so shoppers
+  outside M land on it and bounce. Add S and L, or fix the copy.
+- **Sized S/M/L listings give no shipping time** (Multi-Color Dinos, Space Dino's, Pink and
+  Yellow Brontosaurus). The one-size listings do (4–5 + 2–5 or 2–5 + 3–6 business days).
+  Multi-Color Dinos also has no size chart; only Pink and Yellow Brontosaurus has one.
+- **Typo:** "Orange Stegasaurus Socks" (Stegosaurus).
+- No kids' socks exist (smallest fit women's 5); `dinosaur socks for kids` shows 0 volume in
+  Ubersuggest, so this is a note, not a merchandising ask.

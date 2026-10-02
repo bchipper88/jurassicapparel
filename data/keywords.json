@@ -342,9 +342,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-pillows",
       "shopify_article_id": "gid://shopify/Article/634865483926",
       "published_at": "2026-10-01T11:14:13Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur socks",
       "volume": 880,
@@ -354,10 +352,43 @@
       "cpc": 1.16,
       "competition": 0.99,
       "intent": "Transactional",
-      "verified": "2026-10-01",
+      "verified": "2026-10-02",
       "slug": "dinosaur-socks",
       "seasonality": "Floor 480-590/mo; Oct 880, Nov 1,600, Dec 1,900",
-      "note": "dinosaur-socks 35 ACTIVE + 1 UNLISTED, dinosaur-socks-mens 34. No collection ranks for the head term; product space-dinos-dinosaur-socks ranks #33 and /collections/dinosaur-socks/womens #11-15 for women's variants. Link both. Never link dinosaur-dress-socks (0)."
+      "note": "dinosaur-socks 35 ACTIVE + 1 UNLISTED, dinosaur-socks-mens 34. No collection ranks for the head term; product space-dinos-dinosaur-socks ranks #33 and /collections/dinosaur-socks/womens #11-15 for women's variants. Link both. Never link dinosaur-dress-socks (0).",
+      "status": "published",
+      "date": "2026-10-02",
+      "article_path": "content/articles/2026-10-02-dinosaur-socks.md",
+      "secondaries": [
+        {
+          "keyword": "dinosaur socks for men",
+          "volume": 170,
+          "sd": 15,
+          "cpc": 1.2,
+          "peak": "Dec 480"
+        },
+        {
+          "keyword": "dinosaur socks for kids",
+          "volume": 0,
+          "sd": 4,
+          "cpc": 0,
+          "peak": "no data"
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur puzzle",
+      "volume": 1900,
+      "peak_volume": 2900,
+      "peak_month": "202512",
+      "sd": 19,
+      "cpc": 0.62,
+      "intent": "Informational",
+      "verified": "2026-10-01",
+      "note": "dinosaur-puzzles 13/13 ACTIVE. Mixed intent; check what the puzzles are first. Target mid-Oct. Tracked, not ranking: no cannibalisation. Promoted to next_up 2026-10-02 for Day 13.",
+      "slug": "dinosaur-puzzles"
     }
   ],
   "queued_seasonal": [
@@ -412,17 +443,6 @@
     }
   ],
   "queued_evergreen": [
-    {
-      "keyword": "dinosaur puzzle",
-      "volume": 1900,
-      "peak_volume": 2900,
-      "peak_month": "202512",
-      "sd": 19,
-      "cpc": 0.62,
-      "intent": "Informational",
-      "verified": "2026-10-01",
-      "note": "dinosaur-puzzles 13/13 ACTIVE. Mixed intent; check what the puzzles are first. Target mid-Oct. Tracked, not ranking: no cannibalisation."
-    },
     {
       "keyword": "dinosaur phone case",
       "volume": 720,
