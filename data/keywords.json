@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-02",
+  "pulled": "2026-10-03",
   "loc_id": 2840,
   "published": [
     {
@@ -382,9 +382,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-puzzles",
       "shopify_article_id": "gid://shopify/Article/634870399126",
       "published_at": "2026-10-02T11:18:05Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur stickers",
       "volume": 2900,
@@ -393,9 +391,61 @@
       "sd": 23,
       "cpc": 0.37,
       "intent": "Transactional",
-      "verified": "2026-10-02",
+      "verified": "2026-10-03",
       "slug": "dinosaur-stickers",
-      "note": "dinosaur-stickers 29/31 ACTIVE. No blog post exists. Run domain-level check and read listings first; see BACKLOG #6."
+      "note": "dinosaur-stickers 29/31 ACTIVE in two vinyl ranges (18 original waterproof, 11 opaque art). No blog post; collection not in top-500 ranking keywords.",
+      "status": "published",
+      "date": "2026-10-03",
+      "article_path": "content/articles/2026-10-03-dinosaur-stickers.md",
+      "seasonality": "Evergreen 2,900/mo; Jun 2,400, Aug 4,400, Sep 3,600",
+      "secondaries": [
+        {
+          "keyword": "cute dinosaur stickers",
+          "volume": 260,
+          "sd": 26,
+          "cpc": 0.22
+        },
+        {
+          "keyword": "vinyl dinosaur stickers",
+          "volume": 50,
+          "sd": 14,
+          "cpc": 0.27
+        },
+        {
+          "keyword": "funny dinosaur stickers",
+          "volume": 40,
+          "sd": 25,
+          "cpc": 0.36
+        }
+      ],
+      "unserved": [
+        {
+          "keyword": "dinosaur stickers wall",
+          "volume": 1600,
+          "sd": 27,
+          "cpc": 0.71
+        },
+        {
+          "keyword": "dinosaur stickers for wall",
+          "volume": 1300,
+          "sd": 16,
+          "cpc": 0.73
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur hat",
+      "volume": 1600,
+      "peak_volume": 2400,
+      "peak_month": "202510",
+      "sd": 20,
+      "cpc": 0.46,
+      "intent": "Transactional",
+      "verified": "2026-10-02",
+      "note": "dinosaur-hats 15 ACTIVE; check if Oct spike is costume intent.",
+      "slug": "dinosaur-hats"
     }
   ],
   "queued_seasonal": [
@@ -450,17 +500,6 @@
     }
   ],
   "queued_evergreen": [
-    {
-      "keyword": "dinosaur hat",
-      "volume": 1600,
-      "peak_volume": 2400,
-      "peak_month": "202510",
-      "sd": 20,
-      "cpc": 0.46,
-      "intent": "Transactional",
-      "verified": "2026-10-02",
-      "note": "dinosaur-hats 15 ACTIVE; check if Oct spike is costume intent."
-    },
     {
       "keyword": "dinosaur purse",
       "volume": 1000,

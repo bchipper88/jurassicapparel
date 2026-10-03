@@ -148,16 +148,24 @@ Ubersuggest figure that justified it.
   Says plainly there are no toddler/wooden puzzles. Secondaries: `dinosaur puzzles` 1,900/mo,
   SD 29; `dinosaur jigsaw puzzle` 140/mo, SD 16; `dinosaur puzzles for adults` 70/mo, SD 17 (Dec 140).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-puzzles
+- ✅ Published (2026-10-03) **dinosaur stickers** — 2,900/mo | Jun 2,400 · **Aug 4,400** · Sep 3,600 | SD 23
+  | $0.37 CPC | Transactional → `dinosaur-stickers`
+  Day 13. Re-verified 2026-10-03, unchanged. No blog post on stickers (Shopify articles query); the
+  collection is not in our top 500 ranking keywords, so no cannibalisation. 29/31 ACTIVE in two vinyl
+  ranges: 18 "original" (waterproof per listing, 2–6″, white or transparent, 1–2 + 2–5 days) and 11
+  "opaque art" (95µ high-opacity, 3–5.5″ + a 15″×3.75″ strip on 3 designs, 3–5 + 3–6 days). Angle:
+  size by surface, white vs clear, order-by Dec 11 / Dec 7. Says plainly we make no wall decals.
+  Secondaries: `cute dinosaur stickers` 260/mo, SD 26; `vinyl dinosaur stickers` 50/mo, SD 14;
+  `funny dinosaur stickers` 40/mo, SD 25. Unserved: `dinosaur stickers wall` 1,600/mo, SD 27 and
+  `dinosaur stickers for wall` 1,300/mo, SD 16 (BACKLOG #39).
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur stickers** — 2,900/mo | flat 2,400–2,900, **Aug 4,400** (back to school) | SD 23 | $0.37 CPC
-  | Transactional → `dinosaur-stickers`
-  Found 2026-10-02. Evergreen, four-figure, winnable, and `dinosaur-stickers` has 29/31 ACTIVE. No
-  blog post on stickers exists (Shopify articles query, 2026-10-02). *Before writing:* run the
-  domain-level check (does `/collections/dinosaur-stickers` already rank?), read the listings
-  (size, finish, waterproof or not, shipping), and see BACKLOG #6 on whether stickers are core.
+- 🎯 **dinosaur hat** — 1,600/mo | Oct 2,400 spike | SD 20 | $0.46 CPC → `dinosaur-hats`
+  Found 2026-10-02. `dinosaur-hats` 15 ACTIVE. *Before writing:* pull the 12-month curve (the
+  October spike is probably costume intent we can't serve, so the article should target the
+  evergreen beanie/cap demand), run the Shopify articles query for `hat`, read all 15 listings.
 
 ---
 
@@ -209,8 +217,7 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 
 ## 📋 QUEUE — Evergreen commercial (fills non-seasonal days)
 
-- 📋 **dinosaur hat** — 1,600/mo | Oct 2,400 spike | SD 20 | $0.46 CPC — found 2026-10-02.
-  `dinosaur-hats` 15 ACTIVE. Check whether the October spike is costume hats we don't sell.
+- 🎯 **dinosaur hat** — promoted to Next up for Day 14 (2026-10-04).
 - 📋 **dinosaur purse** — 1,000/mo | Dec 1,300, Apr 2,400 | SD 27 | $0.72 CPC — found 2026-10-02.
   `dinosaur-purses` 24 ACTIVE.
 - 📋 dinosaur dress — 880/mo | SD 21 | $1.00 CPC — found 2026-10-02. Spring/summer curve (Dec 590);

@@ -926,3 +926,25 @@ Found while reading all 36 `dinosaur-socks` listings for the Day 12 article.
   toddlers" (we don't), and its kids section links `kids-dinosaur-socks-5-pack`, which no longer
   exists. Replacement copy is ready: `content/rescues/2026-10-02-dinosaur-socks-rewrite.md`.
   Owner: approve the in-place rewrite (or say yes and the next run does it via `articleUpdate`).
+
+## 39. Sticker range: no wall decals for 2,900/mo of wall demand, a size guide offering a size that isn't sold, and generic handles 🟡 MEDIUM — merchandising / product copy — added 2026-10-03
+
+Found while reading all 31 `dinosaur-stickers` listings for the Day 13 article.
+
+- **Wall stickers are the biggest unserved sticker demand.** `dinosaur stickers wall` 1,600/mo,
+  SD 27 and `dinosaur stickers for wall` 1,300/mo, SD 16 (Ubersuggest, locId 2840, 2026-10-03).
+  Our largest sticker is 6″ square (or the 15″ × 3.75″ strip). The article says so plainly. If a
+  print partner offers wall decals, this is a cheap category to add: Owner decision.
+- **Dryptosaurus's size guide lists 15″ × 3.75″, but the listing only sells 3″/4″/5.5″.** Only
+  Nipponosaurus River, Neon Bambiraptor and Synthwave Dinosaur actually offer the strip. The
+  opaque-art range shares one description, so the other 7 single-size-set listings likely carry the
+  same mismatch (verified on Dryptosaurus only). Either add the variant or trim the size guide.
+- **Two descriptions, one headline.** Both ranges open "Vinyl Dinosaur Stickers", but only the
+  original range claims waterproof. If the opaque range is waterproof too, saying so would help.
+- **Typo:** "T-Rex Mendala - Sticker" (Mandala).
+- **Generic handles:** Rex's First Snowman is `/products/square-stickers`, Target Rex is
+  `/products/kiss-cut-stickers`, T-Rex Sunset is `/products/brown-dinosaur-sticker`, Raptor
+  Watching is `/products/raptor-watching-1`. Renaming needs 301s, so low priority.
+- **Two DRAFTs in the collection:** 80's Rex (looks finished, same variants as the live range) and
+  a "Dinosaur Sticker Pack" with an imported marketplace-style handle. Publish 80's Rex if it was
+  left in draft by accident.
