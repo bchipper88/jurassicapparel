@@ -158,6 +158,7 @@ Ubersuggest figure that justified it.
   Secondaries: `cute dinosaur stickers` 260/mo, SD 26; `vinyl dinosaur stickers` 50/mo, SD 14;
   `funny dinosaur stickers` 40/mo, SD 25. Unserved: `dinosaur stickers wall` 1,600/mo, SD 27 and
   `dinosaur stickers for wall` 1,300/mo, SD 16 (BACKLOG #39).
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-stickers
 ---
 
 ## 🎯 NEXT UP

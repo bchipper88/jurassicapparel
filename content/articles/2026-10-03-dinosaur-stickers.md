@@ -2,7 +2,10 @@
 title: "Dinosaur Stickers: Our Two Vinyl Ranges, What Size to Pick, and Where They Stick"
 slug: dinosaur-stickers
 date: 2026-10-03
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-stickers
+shopify_article_id: "gid://shopify/Article/634879082646"
+published_at: 2026-10-03T11:12:16Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-03"
 target_keyword: "dinosaur stickers"
 target_volume: 2900
