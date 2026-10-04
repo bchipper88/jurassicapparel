@@ -447,7 +447,7 @@
       "verified": "2026-10-04",
       "slug": "dinosaur-purses",
       "note": "dinosaur-purses 24/24 ACTIVE: 19 faux leather crossbodies, 3 canvas saddle bags, 2 mini clutches. No blog post. Tracked: 'dinosaur purse' #8 and 'dinosaur purses' #11 on the Blue & Gold Dinos product page; 'dinosaur handbag' #31 on Crazy 90's. Both linked from the post.",
-      "status": "draft",
+      "status": "published",
       "date": "2026-10-04",
       "article_path": "content/articles/2026-10-04-dinosaur-purses.md",
       "seasonality": "Evergreen ~1,000/mo; Sep-Oct 720, Dec 1,300, Apr 2,400, Jun 1,600",
@@ -486,7 +486,10 @@
           "cpc": 1.17,
           "why": "brand search"
         }
-      ]
+      ],
+      "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-purses",
+      "shopify_article_id": "gid://shopify/Article/634883834006",
+      "published_at": "2026-10-04T11:14:55Z"
     }
   ],
   "next_up": [

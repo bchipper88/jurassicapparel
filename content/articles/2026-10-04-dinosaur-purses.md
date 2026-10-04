@@ -2,7 +2,10 @@
 title: "Dinosaur Purses: Crossbody, Canvas Saddle Bag or Mini Clutch, and When to Order for Christmas"
 slug: dinosaur-purses
 date: 2026-10-04
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-purses
+shopify_article_id: "gid://shopify/Article/634883834006"
+published_at: 2026-10-04T11:14:55Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-04"
 target_keyword: "dinosaur purse"
 target_volume: 1000

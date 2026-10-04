@@ -173,6 +173,7 @@ Ubersuggest figure that justified it.
   Secondaries: `dinosaur purses` 1,000/mo SD 22; `dinosaur handbag` 1,000/mo SD 29;
   `dinosaur purse for adults` 30/mo SD 23. Unserved: `dinosaur purse coach` 3,600/mo and
   `coach dinosaur purse` 2,400/mo are brand searches for another company's bag; not ours to target.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-purses
 ---
 
 ## 🎯 NEXT UP
