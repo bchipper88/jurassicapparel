@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -159,14 +159,31 @@ Ubersuggest figure that justified it.
   `funny dinosaur stickers` 40/mo, SD 25. Unserved: `dinosaur stickers wall` 1,600/mo, SD 27 and
   `dinosaur stickers for wall` 1,300/mo, SD 16 (BACKLOG #39).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-stickers
+- ✅ Published (2026-10-04) **dinosaur purse** — 1,000/mo | Sep–Oct low 720 · Dec 1,300 · **Apr 2,400** · Jun 1,600
+  | SD 27 | $0.72 CPC | Transactional → `dinosaur-purses`
+  Day 14. Taken from the queue after `dinosaur hat` was skipped (collection ranks #3). Verified
+  2026-10-04. No blog post on purses (Shopify articles query); the collection ranks only for
+  `dinosaur coin purse` (#49, 70/mo). Tracked: `dinosaur purse` **#8** and `dinosaur purses`
+  (1,000/mo, SD 22) **#11**, both on the Blue & Gold Dinos *product* page, and `dinosaur handbag`
+  (1,000/mo, SD 29) #31 on Crazy 90's. The post links both products, so it should lift rather than
+  compete; watch on Monday's pull. 24/24 ACTIVE in three styles: 19 faux leather crossbodies
+  (11″×8″×1.5″, zip top, removable wrist + 14–27″ shoulder strap, 7–11 + 7–12 days), 3 canvas
+  saddle bags (waterproof canvas, 3–7 + 10–15 days, "experiencing delays"), 2 mini clutches
+  (6.3″×4″, 2–5 + 3–6 days). All $44.99 except clutches $29.99. Order-by: Nov 13 / Nov 16 / Dec 7.
+  Secondaries: `dinosaur purses` 1,000/mo SD 22; `dinosaur handbag` 1,000/mo SD 29;
+  `dinosaur purse for adults` 30/mo SD 23. Unserved: `dinosaur purse coach` 3,600/mo and
+  `coach dinosaur purse` 2,400/mo are brand searches for another company's bag; not ours to target.
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur hat** — 1,600/mo | Oct 2,400 spike | SD 20 | $0.46 CPC → `dinosaur-hats`
-  Found 2026-10-02. `dinosaur-hats` 15 ACTIVE. *Before writing:* pull the 12-month curve (the
-  October spike is probably costume intent we can't serve, so the article should target the
-  evergreen beanie/cap demand), run the Shopify articles query for `hat`, read all 15 listings.
+- 🎯 **dinosaur blanket** — 3,600/mo | Oct 2,400 · **Nov 5,400 · Dec 8,100** · Feb 6,600 | SD 25 | $0.79 CPC
+  → `dinosaur-blankets` (10 ACTIVE). Pulled 2026-10-04. The biggest seasonal curve left that we
+  stock, and publishing in early October is 4–8 weeks ahead of the November ramp. The collection
+  ranks only **#28** (tracked, was #23), so a buying guide won't compete with a page that's doing
+  well, the same call as pillows (#14) and stickers. The collection-copy rescue stays in the rescue
+  table for the owner. *Before writing:* Shopify articles query for `blanket`, read all 10 listings
+  (sizes, materials, hooded vs throw), check `hooded dinosaur blanket` (320/mo, product page #6).
 
 ---
 
@@ -218,9 +235,12 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 
 ## 📋 QUEUE — Evergreen commercial (fills non-seasonal days)
 
-- 🎯 **dinosaur hat** — promoted to Next up for Day 14 (2026-10-04).
-- 📋 **dinosaur purse** — 1,000/mo | Dec 1,300, Apr 2,400 | SD 27 | $0.72 CPC — found 2026-10-02.
-  `dinosaur-purses` 24 ACTIVE.
+- ⏭️ **dinosaur hat** — skipped 2026-10-04: `/collections/dinosaur-hats` already ranks #3 (see ⏭️ Skipped).
+- ✅ **dinosaur purse** — published 2026-10-04 (Day 14, see ✅ Published).
+- 📋 **dinosaur sweatshirt** — 390/mo | Oct 590 · Nov 720 · **Dec 880** | SD 17 | $0.52 CPC — pulled
+  2026-10-04. Collection not yet mapped; check `womens-dinosaur-sweatshirts` and inventory first.
+- ⏭️ dinosaur poster — 1,600/mo | flat | **SD 40** — pulled 2026-10-04. Stretch at DA 16 and only 8
+  posters live. Skip unless the range grows.
 - 📋 dinosaur dress — 880/mo | SD 21 | $1.00 CPC — found 2026-10-02. Spring/summer curve (Dec 590);
   schedule for February. `womens-dinosaur-dresses-skirts` 64 ACTIVE.
 - 🔁 **dinosaur phone case** — 720/mo avg | flat 590–1,000 (Jul peak) | SD 25 | $0.87 CPC | Transactional
@@ -346,6 +366,14 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
 ---
 
 ## ⏭️ SKIPPED
+
+- ⏭️ **dinosaur hat** — 1,600/mo | Oct 2,400 | SD 20 | $0.46 CPC *(skipped 2026-10-04)*
+  The numbers held (re-verified today, unchanged), but rank tracking shows
+  `/collections/dinosaur-hats` already ranks **#3** for it (up from #11 on 2026-09-08; data through
+  2026-09-30), and #14 for `dinosaur bucket hat`. A blog post would compete with our own
+  top-3 commercial page, the same call as `dinosaur leggings` (#3). Nothing to do: the collection
+  is winning. Secondaries are long-tail or not ours (`crochet dinosaur hat` 390, `roblox dinosaur
+  hat` 390). Re-check only if the collection drops below #8.
 
 - ⏭️ **dinosaur onesie adult** — 1,900/mo | **8,100/mo Oct peak** | SD 24 | $0.37 CPC | Transactional
   *(skipped 2026-09-24)*

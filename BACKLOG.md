@@ -948,3 +948,22 @@ Found while reading all 31 `dinosaur-stickers` listings for the Day 13 article.
 - **Two DRAFTs in the collection:** 80's Rex (looks finished, same variants as the live range) and
   a "Dinosaur Sticker Pack" with an imported marketplace-style handle. Publish 80's Rex if it was
   left in draft by accident.
+
+## 40. Purse range: a stale "experiencing delays" banner, a size chart hosted off-site, and a kids' tag on adult bags 🟡 MEDIUM — product copy — added 2026-10-04
+
+Found while reading all 24 `dinosaur-purses` listings for the Day 14 article.
+
+- **The three canvas saddle bags** (Blue & Gold Dinos, Chalkboard Rex, Watercolor Plesiosaur) say
+  "(Currently experiencing delays)" with 10–15 business days shipping, *and* "Estimated shipping
+  time is 2–4 weeks" in the same description. If the delay is over, the banner is costing
+  Christmas sales; if it isn't, the two estimates should agree. Blue & Gold Dinos is the page that
+  ranks **#8 for `dinosaur purse`** (1,000/mo), so it's the one shoppers actually land on.
+- **Their size chart is images only**, and one of the four is hot-linked from `i.postimg.cc`, a
+  free third-party image host. If that host drops it, the chart disappears. Re-upload it to
+  Shopify Files, and put the measurements in text so search engines (and the blog) can use them.
+- **Tags:** 10 of the 19 faux leather crossbodies are tagged `Girls`, and Flower Power is titled
+  "Cute Kids Dinosaur Purse", but it's the same 11″ × 8″ adult bag with a 14″ minimum strap drop.
+  Fine as a teen bag; misleading for a young child. The article says so.
+- **Brand demand we can't serve:** `dinosaur purse coach` 3,600/mo and `coach dinosaur purse`
+  2,400/mo (locId 2840, 2026-10-04) are searches for another company's product. Logged so nobody
+  writes for them.

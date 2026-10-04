@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-03",
+  "pulled": "2026-10-04",
   "loc_id": 2840,
   "published": [
     {
@@ -435,20 +435,72 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-stickers",
       "shopify_article_id": "gid://shopify/Article/634879082646",
       "published_at": "2026-10-03T11:12:16Z"
+    },
+    {
+      "keyword": "dinosaur purse",
+      "volume": 1000,
+      "peak_volume": 2400,
+      "peak_month": "202604",
+      "sd": 27,
+      "cpc": 0.72,
+      "intent": "Transactional",
+      "verified": "2026-10-04",
+      "slug": "dinosaur-purses",
+      "note": "dinosaur-purses 24/24 ACTIVE: 19 faux leather crossbodies, 3 canvas saddle bags, 2 mini clutches. No blog post. Tracked: 'dinosaur purse' #8 and 'dinosaur purses' #11 on the Blue & Gold Dinos product page; 'dinosaur handbag' #31 on Crazy 90's. Both linked from the post.",
+      "status": "draft",
+      "date": "2026-10-04",
+      "article_path": "content/articles/2026-10-04-dinosaur-purses.md",
+      "seasonality": "Evergreen ~1,000/mo; Sep-Oct 720, Dec 1,300, Apr 2,400, Jun 1,600",
+      "secondaries": [
+        {
+          "keyword": "dinosaur purses",
+          "volume": 1000,
+          "sd": 22,
+          "cpc": null
+        },
+        {
+          "keyword": "dinosaur handbag",
+          "volume": 1000,
+          "sd": 29,
+          "cpc": 0.54
+        },
+        {
+          "keyword": "dinosaur purse for adults",
+          "volume": 30,
+          "sd": 23,
+          "cpc": 0.74
+        }
+      ],
+      "unserved": [
+        {
+          "keyword": "dinosaur purse coach",
+          "volume": 3600,
+          "sd": 22,
+          "cpc": 0.74,
+          "why": "brand search for another company's product"
+        },
+        {
+          "keyword": "coach dinosaur purse",
+          "volume": 2400,
+          "sd": 27,
+          "cpc": 1.17,
+          "why": "brand search"
+        }
+      ]
     }
   ],
   "next_up": [
     {
-      "keyword": "dinosaur hat",
-      "volume": 1600,
-      "peak_volume": 2400,
-      "peak_month": "202510",
-      "sd": 20,
-      "cpc": 0.46,
+      "keyword": "dinosaur blanket",
+      "volume": 3600,
+      "peak_volume": 8100,
+      "peak_month": "202512",
+      "sd": 25,
+      "cpc": 0.79,
       "intent": "Transactional",
-      "verified": "2026-10-02",
-      "note": "dinosaur-hats 15 ACTIVE; check if Oct spike is costume intent.",
-      "slug": "dinosaur-hats"
+      "verified": "2026-10-04",
+      "note": "dinosaur-blankets 10 ACTIVE. Collection ranks #28 (tracked). Nov 5,400 / Dec 8,100 ramp; publish now. Read all 10 listings; check hooded blanket product page (#6 for 'hooded dinosaur blanket').",
+      "slug": "dinosaur-blankets"
     }
   ],
   "queued_seasonal": [
@@ -503,17 +555,6 @@
     }
   ],
   "queued_evergreen": [
-    {
-      "keyword": "dinosaur purse",
-      "volume": 1000,
-      "peak_volume": 2400,
-      "peak_month": "202604",
-      "sd": 27,
-      "cpc": 0.72,
-      "intent": "Transactional",
-      "verified": "2026-10-02",
-      "note": "dinosaur-purses 24 ACTIVE."
-    },
     {
       "keyword": "dinosaur dress",
       "volume": 880,
@@ -636,6 +677,17 @@
       "intent": "Commercial",
       "note": "Highest CPC in the whole keyword set. A section, never a page.",
       "metrics_source": "Ubersuggest locId 2840, 2026-09-24"
+    },
+    {
+      "keyword": "dinosaur sweatshirt",
+      "volume": 390,
+      "peak_volume": 880,
+      "peak_month": "202512",
+      "sd": 17,
+      "cpc": 0.52,
+      "intent": "Transactional",
+      "verified": "2026-10-04",
+      "note": "Collection not yet mapped; check womens-dinosaur-sweatshirts inventory first."
     }
   ],
   "rescue_queue": [
@@ -895,6 +947,28 @@
       "verified": "2026-09-24",
       "date": "2026-09-24",
       "reason": "Blocked on the same inventory gap as the adult variant. Servable slice is the baby sub-intent; revisit as 'dinosaur baby onesie', never the head term."
+    },
+    {
+      "keyword": "dinosaur hat",
+      "volume": 1600,
+      "peak_volume": 2400,
+      "peak_month": "202510",
+      "sd": 20,
+      "cpc": 0.46,
+      "intent": "Transactional",
+      "verified": "2026-10-04",
+      "date": "2026-10-04",
+      "reason": "/collections/dinosaur-hats already ranks #3 (tracked, up from #11; data through 2026-09-30). A post would compete with our own top-3 commercial page. Re-check only if it drops below #8."
+    },
+    {
+      "keyword": "dinosaur poster",
+      "volume": 1600,
+      "sd": 40,
+      "cpc": 0.53,
+      "intent": "Transactional",
+      "verified": "2026-10-04",
+      "date": "2026-10-04",
+      "reason": "SD 40 is a stretch at DA 16 and only 8 posters are live. Flat curve, no deadline."
     }
   ],
   "rescue_content": [
