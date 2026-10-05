@@ -2,7 +2,10 @@
 title: "Dinosaur Blankets: Throw, Hooded or Woven, Which Size, and When to Order for Christmas"
 slug: dinosaur-blankets
 date: 2026-10-05
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-blankets
+shopify_article_id: "gid://shopify/Article/634888880278"
+published_at: 2026-10-05T11:15:40Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-05"
 target_keyword: "dinosaur blanket"
 target_volume: 3600

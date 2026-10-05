@@ -187,6 +187,7 @@ Ubersuggest figure that justified it.
   Order-by: Dec 4 / Dec 7 / Nov 24. Secondaries: `dinosaur blankets` 3,600/mo SD 50;
   `dinosaur throw blanket` 260/mo SD 26 (Nov–Dec 590); `hooded dinosaur blanket` 320/mo SD 25
   (Dec 720); `dinosaur blanket for adults` 140/mo SD 25 (Dec 320). BACKLOG #41.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-blankets
 ---
 
 ## 🎯 NEXT UP
