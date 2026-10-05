@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-04",
+  "pulled": "2026-10-05",
   "loc_id": 2840,
   "published": [
     {
@@ -490,9 +490,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-purses",
       "shopify_article_id": "gid://shopify/Article/634883834006",
       "published_at": "2026-10-04T11:14:55Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur blanket",
       "volume": 3600,
@@ -501,9 +499,53 @@
       "sd": 25,
       "cpc": 0.79,
       "intent": "Transactional",
-      "verified": "2026-10-04",
-      "note": "dinosaur-blankets 10 ACTIVE. Collection ranks #28 (tracked). Nov 5,400 / Dec 8,100 ramp; publish now. Read all 10 listings; check hooded blanket product page (#6 for 'hooded dinosaur blanket').",
-      "slug": "dinosaur-blankets"
+      "verified": "2026-10-05",
+      "note": "dinosaur-blankets 10/10 ACTIVE: 7 throws (50x60 $44.99 / 60x80 $59.99), 2 hooded (Dino Friends $59.99; Hover Board $59.99/$79.99), 1 woven ($75). No blog post. Collection #28 / #22 tracked; Dino Friends product #6 for 'hooded dinosaur blanket'. Post links collection + both hooded products.",
+      "slug": "dinosaur-blankets",
+      "status": "published",
+      "date": "2026-10-05",
+      "article_path": "content/articles/2026-10-05-dinosaur-blankets.md",
+      "seasonality": "Oct 2,400, Nov 5,400, Dec 8,100, Jan 4,400, Feb 6,600, Jun low 1,600",
+      "secondaries": [
+        {
+          "keyword": "dinosaur blankets",
+          "volume": 3600,
+          "sd": 50,
+          "cpc": 0.86
+        },
+        {
+          "keyword": "dinosaur throw blanket",
+          "volume": 260,
+          "sd": 26,
+          "cpc": 0.5
+        },
+        {
+          "keyword": "hooded dinosaur blanket",
+          "volume": 320,
+          "sd": 25,
+          "cpc": 0.47
+        },
+        {
+          "keyword": "dinosaur blanket for adults",
+          "volume": 140,
+          "sd": 25,
+          "cpc": 0.5
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur sweatshirt",
+      "volume": 390,
+      "peak_volume": 880,
+      "peak_month": "202512",
+      "sd": 17,
+      "cpc": 0.52,
+      "intent": "Transactional",
+      "verified": "2026-10-05",
+      "note": "Day 16. mens-dinosaur-sweatshirts 6 + womens-dinosaur-sweatshirts 6 ACTIVE. Fold 'dinosaur christmas sweatshirt' (720/mo, Nov 2,900, Dec 4,400, SD 29) in as an H2. Check hoodie guide for overlap first.",
+      "slug": "dinosaur-sweatshirts"
     }
   ],
   "queued_seasonal": [
@@ -542,8 +584,8 @@
       "sd": 29,
       "cpc": 0.15,
       "intent": "Transactional",
-      "verified": "2026-09-27",
-      "note": "Only two Christmas sweatshirts exist (BACKLOG #18). Late-October page only if the range grows."
+      "verified": "2026-10-05",
+      "note": "Folded into Day 16 dinosaur sweatshirt article as a section (2026-10-05)."
     },
     {
       "keyword": "dinosaur christmas shirt",
@@ -680,17 +722,6 @@
       "intent": "Commercial",
       "note": "Highest CPC in the whole keyword set. A section, never a page.",
       "metrics_source": "Ubersuggest locId 2840, 2026-09-24"
-    },
-    {
-      "keyword": "dinosaur sweatshirt",
-      "volume": 390,
-      "peak_volume": 880,
-      "peak_month": "202512",
-      "sd": 17,
-      "cpc": 0.52,
-      "intent": "Transactional",
-      "verified": "2026-10-04",
-      "note": "Collection not yet mapped; check womens-dinosaur-sweatshirts inventory first."
     }
   ],
   "rescue_queue": [

@@ -98,6 +98,50 @@
         "2026-09-30": 9.33
       },
       "notes": "Traffic is Ubersuggest's Sep 2026 estimate: 1,014, down from 1,163 in Aug and 2,076 in Aug 2025. Organic keywords rose to 5,283 (from 4,699): more terms, fewer clicks, the same pattern as the baseline. Top-tier keywords fell from 24 to 22. Most Day 1-11 articles went live in the second half of September, so they barely show in a September estimate. DATA WARNING: a 7-day window (09-24 to 10-01) showed 49 of 91 not ranking. That was a partial 09-30 collection (has_gap/unstable), not a collapse; the 30-day window used here shows 13. Always use the 30-day window. The 4-10 bin fell from 29 to 21 (the leading indicator), mostly from #8-9 slipping to #10-12 (dinosaur hoodie 8->11, purses 8->11, adult dinosaur shirt 9->12)."
+    },
+    {
+      "date": "2026-10-05",
+      "type": "weekly",
+      "source": "Ubersuggest domain_overview (locId 2840) + project_position_info (locId 2840, en, desktop, 2026-09-05 to 2026-10-05; rank data complete through 2026-09-30, next collection 2026-10-07)",
+      "domain_authority": 16,
+      "organic_keywords": 5283,
+      "est_monthly_organic_traffic": 1050,
+      "backlinks": 2628,
+      "referring_domains": 1217,
+      "follow_links": 2416,
+      "nofollow_links": 212,
+      "paid_traffic": 0,
+      "tracked_keywords": 91,
+      "rank_movement": {
+        "up": 19,
+        "down": 32,
+        "unchanged": 40
+      },
+      "tracked_bins": {
+        "top_3": {
+          "old": 21,
+          "new": 22
+        },
+        "top_10": {
+          "old": 25,
+          "new": 21
+        },
+        "top_100": {
+          "old": 35,
+          "new": 35
+        },
+        "not_ranking": {
+          "old": 10,
+          "new": 13
+        }
+      },
+      "average_position_series": {
+        "2026-09-08": 10.75,
+        "2026-09-15": 10.99,
+        "2026-09-23": 6.55,
+        "2026-09-30": 9.33
+      },
+      "notes": "No new rank collection since the 2026-10-01 monthly snapshot: data is still complete only through 2026-09-30 (flagged has_gap/unstable), next update 2026-10-07. Differences from 10-01 (down 39->32, top_10 old 29->25) are the baseline date moving from 09-01 to 09-08, not new movement. Traffic estimate for Sep revised 1,014 -> 1,050; refdomains 1,221 -> 1,217. Moves of 5+ (09-08 -> latest): dinosaur hat 11->3, dinosaur purses 16->11, dinosaur handbag 36->31, dinosaur bucket hat 18->14; dinosaur blanket 23->28, dinosaur christmas ornament 29->35, dinosaur tote bag 8->13. Dropped out on the unstable 09-30 collection: dino shoes (1,900/mo, was #4), dinosaur sticker (2,900, was #44), women's dinosaur shoes (#1), dinosaur swimsuit women's (#2). Treat these as unconfirmed until the 10-07 collection; re-check next Monday."
     }
   ],
   "traffic_history": {

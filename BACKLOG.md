@@ -967,3 +967,23 @@ Found while reading all 24 `dinosaur-purses` listings for the Day 14 article.
 - **Brand demand we can't serve:** `dinosaur purse coach` 3,600/mo and `coach dinosaur purse`
   2,400/mo (locId 2840, 2026-10-04) are searches for another company's product. Logged so nobody
   writes for them.
+
+## 41. Blanket range: a woven blanket with a typo, no size and no lead time; a hot-linked image on a hooded blanket 🟢 LOW — product copy — added 2026-10-05
+
+Found while reading all 10 `dinosaur-blankets` listings for the Day 15 article.
+
+- **Jurassic Painting woven blanket** ($75): the title says "Blaket" and the handle is
+  `jurassic-painting-woven-dinosaur-blaket`. The listing gives **no dimensions and no make/ship
+  time**, so the article can't give a Christmas order-by date for it and tells shoppers to check
+  first. Fix the title (keep the handle, or add a 301 if it changes), and add size + lead time.
+- **Hover Board hooded blanket:** the description's only size image is hot-linked from
+  `i.postimg.cc` (same free host as the purse chart in #40). Its sizes (Youth 60″×45″, Adult
+  80″×60″) and lead time ("3–7 days to tracking, 7–10 days shipping", business or calendar not
+  stated) also differ from Dino Friends (80″×55″ / 60″×41″, 2–7 + 4 business days). Both are
+  correct per their listings; the article states each separately. Worth putting the Hover Board
+  text in the same format as the others, and saying "US only" if it is.
+- **Inventory tracking:** both of these listings have tracking off (inventory 0, still
+  purchasable). Not a problem, just noted so nobody reads "0" as sold out.
+- The `hooded-dinosaur-blankets` collection is still empty (see #1). The two hooded products live
+  in `dinosaur-blankets`; adding them there would give `hooded dinosaur blanket` (320/mo, Dec 720,
+  SD 25) a real landing page.
