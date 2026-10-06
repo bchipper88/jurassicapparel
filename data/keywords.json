@@ -535,9 +535,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-blankets",
       "shopify_article_id": "gid://shopify/Article/634888880278",
       "published_at": "2026-10-05T11:15:40Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur sweatshirt",
       "volume": 390,
@@ -546,9 +544,58 @@
       "sd": 17,
       "cpc": 0.52,
       "intent": "Transactional",
-      "verified": "2026-10-05",
-      "note": "Day 16. mens-dinosaur-sweatshirts 6 + womens-dinosaur-sweatshirts 6 ACTIVE. Fold 'dinosaur christmas sweatshirt' (720/mo, Nov 2,900, Dec 4,400, SD 29) in as an H2. Check hoodie guide for overlap first.",
-      "slug": "dinosaur-sweatshirts"
+      "verified": "2026-10-06",
+      "note": "7 ACTIVE sweatshirts: 6 unisex adult (men's and women's collections hold the same six; premium blank runs small S-3XL, classic blank S-5XL) + youth 9 Halloween Dinos. Unpublished March 2026 draft on the same topic exists (BACKLOG #42); no live collision.",
+      "slug": "dinosaur-sweatshirts",
+      "status": "published",
+      "date": "2026-10-06",
+      "article_path": "content/articles/2026-10-06-dinosaur-sweatshirts.md",
+      "seasonality": "Sep 390, Oct 590, Nov 720, Dec 880, Jan 390, Jun low 110",
+      "secondaries": [
+        {
+          "keyword": "dinosaur christmas sweatshirt",
+          "volume": 720,
+          "sd": 29,
+          "cpc": 0.15,
+          "note": "Nov 2,900, Dec 4,400"
+        },
+        {
+          "keyword": "dinosaur sweatshirts",
+          "volume": 390,
+          "sd": 48,
+          "cpc": 0.895
+        },
+        {
+          "keyword": "dinosaur crewneck",
+          "volume": 70,
+          "sd": 27,
+          "cpc": 0.5
+        },
+        {
+          "keyword": "dinosaur halloween sweatshirt",
+          "volume": 0,
+          "sd": 12
+        },
+        {
+          "keyword": "kids dinosaur sweatshirt",
+          "volume": 0,
+          "sd": 12
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur backpack",
+      "volume": 6600,
+      "peak_volume": 22200,
+      "peak_month": "202507",
+      "sd": 25,
+      "cpc": 0.68,
+      "intent": "Transactional",
+      "verified": "2026-10-06",
+      "note": "Back-to-school curve; Oct-Feb floor 2,400-2,900. dinosaur-backpack 14 ACTIVE. Check collection ranking + articles query first.",
+      "slug": "dinosaur-backpacks"
     }
   ],
   "queued_seasonal": [
@@ -725,6 +772,14 @@
       "intent": "Commercial",
       "note": "Highest CPC in the whole keyword set. A section, never a page.",
       "metrics_source": "Ubersuggest locId 2840, 2026-09-24"
+    },
+    {
+      "keyword": "dinosaur polo shirt",
+      "volume": 110,
+      "sd": 12,
+      "cpc": 0.98,
+      "verified": "2026-10-06",
+      "note": "Spring/summer curve (May 170, Dec 40). dinosaur-polos 15 ACTIVE. Schedule April."
     }
   ],
   "rescue_queue": [
@@ -1069,5 +1124,5 @@
       "note": "Re-pulled 2026-09-24 (SD 16 -> 22). Served by the same live cluster; folds into the consolidation."
     }
   ],
-  "last_repull": "2026-10-01"
+  "last_repull": "2026-10-06"
 }

@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -188,19 +188,33 @@ Ubersuggest figure that justified it.
   `dinosaur throw blanket` 260/mo SD 26 (Nov–Dec 590); `hooded dinosaur blanket` 320/mo SD 25
   (Dec 720); `dinosaur blanket for adults` 140/mo SD 25 (Dec 320). BACKLOG #41.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-blankets
+- ✅ Published (2026-10-06) **dinosaur sweatshirt** — 390/mo | Oct 590 · Nov 720 · **Dec 880** | SD 17
+  | $0.52 CPC | Transactional → `dinosaur-sweatshirts`
+  Day 16. Re-verified 2026-10-06, unchanged. Collision check: the hoodie guide only points to the
+  sweatshirt collection in two lines. Shopify `articles` query found an **unpublished** March 2026
+  draft, *Dinosaur Sweatshirt: Your Complete Guide to Cozy Prehistoric Style* (different handle,
+  never live, ranks for nothing), so no live page owns the topic: BACKLOG #42. 7 ACTIVE sweatshirts:
+  6 unisex adult (the men's and women's collections hold the same six) on two blanks, premium
+  (Skeleton & Pumpkins, Happy Halloween Broom: cotton face, 65/35, runs small, S–3XL $41.99–$45.99)
+  and classic (T-Rex or Treat, Merry Little Rexmas, T-Rex Winter Forest, Dinosaurs Never Had
+  Coffee: 50/50, pre-shrunk, S–5XL $41.99–$49.99; Winter Forest $41.99 flat), plus youth
+  9 Halloween Dinos (XS–XL $29.99). All 2–5 + 3–6 business days, US only. Order-by: Halloween
+  Oct 15, Christmas Dec 4. Designs read from product images. Secondaries: `dinosaur christmas
+  sweatshirt` 720/mo SD 29 (Nov 2,900 · Dec 4,400) as an H2; `dinosaur sweatshirts` 390/mo SD 48;
+  `dinosaur crewneck` 70/mo SD 27; `dinosaur halloween sweatshirt` and `kids dinosaur sweatshirt`
+  return 0.
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur sweatshirt** — 390/mo | Oct 590 · Nov 720 · **Dec 880** | SD 17 | $0.52 CPC | Transactional
-  + **dinosaur christmas sweatshirt** as an H2 — 720/mo | Oct 590 · **Nov 2,900 · Dec 4,400** | SD 29 | $0.15 CPC
-  Both re-pulled 2026-10-05. `mens-dinosaur-sweatshirts` 6 ACTIVE + `womens-dinosaur-sweatshirts`
-  6 ACTIVE (catalog, 2026-10-01). Christmas sweatshirts alone are too thin for a page (two, BACKLOG
-  #18), but as a section of a sweatshirt guide they catch a 4,400/mo December curve 8 weeks early.
-  SD 17 is the easiest commercial term left in the queue. *Before writing:* the Day 2 hoodie guide
-  may already cover sweatshirts; read it and run the Shopify articles query for `sweatshirt`. If the
-  hoodie guide owns the topic, this becomes a rescue brief, not a post. Read every listing in both
-  collections, and check whether Merry Little Rexmas is still outside `dinosaur-christmas` (#34).
+- 🎯 **dinosaur backpack** — 6,600/mo avg | Oct–Dec 2,900 · Jun–Jul 6,600 · **Jul 22,200 / Aug 18,100 peak**
+  | SD 25 | $0.68 CPC | Transactional → `dinosaur-backpacks`
+  Pulled 2026-10-06. A back-to-school curve, but the floor (2,400–2,900/mo, Oct–Feb) is bigger than
+  most of our seasonal peaks, and a page published now has nine months to age before the July ramp.
+  `dinosaur-backpack` 14 ACTIVE (catalog 2026-10-01). *Before writing:* re-pull, check whether
+  `/collections/dinosaur-backpack` already ranks (if it's top 10, this is a skip like `dinosaur
+  hat`), run the Shopify articles query for `backpack`, and read all 14 listings for size,
+  material and lead time. BACKLOG #35 notes there's no toddler-size backpack; don't promise one.
 
 ---
 
@@ -212,8 +226,8 @@ Priority block. The whole cluster decays after October 31; everything here is da
   Skipped 2026-09-05 for the same reason as `dinosaur onesie adult` below: the store has no
   one-piece adult garment. Re-queue the day an adult onesie/union suit exists — a 12,100/mo
   October term at SD 26 is worth stocking for, and it is filed as BACKLOG #12.
-- 📋 **dinosaur pajamas adult** — 390/mo avg | **720/mo Dec peak** | SD 25 | $0.97 CPC | Transactional
-  → `adult-dinosaur-pajamas`
+- ✅ **dinosaur pajamas adult** — 390/mo avg | **720/mo Dec peak** | SD 25 | $0.97 CPC | Transactional
+  Already covered by the Day 5 `dinosaur-pajamas-for-adults` post (noted 2026-10-06). A second page would cannibalise it.
   Note the different curve — this one peaks in **December**, not October. Schedule late Oct.
 - ⏭️ **dinosaur costume adult** — 2,900/mo avg | **Oct 14,800**, Sep 6,600 | **SD 31** | $0.36 CPC
   Skipped 2026-09-29. Three reasons: SD moved 27 → 31 (stretch at DA 16); the ramp is already
@@ -242,8 +256,8 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 - ✅ dinosaur wrapping paper — published 2026-09-27 (Day 7, see ✅ Published)
 - ✅ christmas dinosaur mug — folded into the Day 8 `dinosaur mug` article (2026-09-28), which has
   a Christmas mugs section. Festive Dino Wonderland product page ranks #5 (was #4).
-- 🎯 **dinosaur christmas sweatshirt** — 720/mo avg | **Nov 2,900 · Dec 4,400** | SD 29 | $0.15 CPC
-  Folded into Day 16 `dinosaur sweatshirt` as a section (2026-10-05). New 2026-09-27. Big curve, but only two Christmas sweatshirts exist (BACKLOG #18). Write it
+- ✅ **dinosaur christmas sweatshirt** — 720/mo avg | **Nov 2,900 · Dec 4,400** | SD 29 | $0.15 CPC
+  ✅ Covered 2026-10-06 as the Christmas H2 of the Day 16 `dinosaur-sweatshirts` article (re-pulled that day, unchanged). New 2026-09-27. Big curve, but only two Christmas sweatshirts exist (BACKLOG #18). Write it
   for late October only if the range grows; otherwise a section in a broader Christmas-wear page.
 - 📋 dinosaur christmas shirt — 170/mo avg | Nov 590 · Dec 880 | SD 23 | $0.34 CPC — re-pulled
   2026-09-28, unchanged. Inventory checked: only **two** ACTIVE Christmas tees (Christmas Arms Rex,
@@ -254,7 +268,8 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 
 - ⏭️ **dinosaur hat** — skipped 2026-10-04: `/collections/dinosaur-hats` already ranks #3 (see ⏭️ Skipped).
 - ✅ **dinosaur purse** — published 2026-10-04 (Day 14, see ✅ Published).
-- 🎯 **dinosaur sweatshirt** — moved to 🎯 Next up for Day 16 (2026-10-06).
+- ✅ **dinosaur sweatshirt** — published 2026-10-06 (Day 16, see ✅ Published).
+- 📋 dinosaur polo shirt — 110/mo | SD 12 | $0.98 CPC — pulled 2026-10-06. Spring/summer curve (May 170, Dec 40). `dinosaur-polos` 15 ACTIVE. Schedule for April.
 - ⏭️ dinosaur poster — 1,600/mo | flat | **SD 40** — pulled 2026-10-04. Stretch at DA 16 and only 8
   posters live. Skip unless the range grows.
 - 📋 dinosaur dress — 880/mo | SD 21 | $1.00 CPC — found 2026-10-02. Spring/summer curve (Dec 590);

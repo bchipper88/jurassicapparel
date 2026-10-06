@@ -987,3 +987,32 @@ Found while reading all 10 `dinosaur-blankets` listings for the Day 15 article.
 - The `hooded-dinosaur-blankets` collection is still empty (see #1). The two hooded products live
   in `dinosaur-blankets`; adding them there would give `hooded dinosaur blanket` (320/mo, Dec 720,
   SD 25) a real landing page.
+
+## 42. Sweatshirt range: an unpublished duplicate sweatshirt post, a youth sweatshirt in no sweatshirt collection, a broken size-chart header, and Rexmas still outside Christmas 🟡 MEDIUM — blog / catalog — added 2026-10-06
+
+Found while writing the Day 16 `dinosaur-sweatshirts` article.
+
+- **Unpublished duplicate draft.** The `blog` blog holds *Dinosaur Sweatshirt: Your Complete Guide
+  to Cozy Prehistoric Style* (`gid://shopify/Article/578687860886`, handle
+  `dinosaur-sweatshirt-your-complete-guide-to-cozy-prehistoric-style`), created 2026-03-19, **never
+  published**. Because it was never live, it ranks for nothing and didn't block today's post. But
+  if anyone publishes it now, it splits `dinosaur sweatshirt` across two pages. It also claims
+  things the store doesn't sell: embroidered and "minimalist" designs, scientifically accurate
+  feathered dinosaurs, kids' sweatshirts in general, "consistent sizing" (the premium blank runs
+  small). It has two duplicate footer paragraphs as well. **Recommend deleting it, or at least
+  leaving it unpublished.** Owner's call; I haven't touched it.
+- **The youth sweatshirt is in neither sweatshirt collection.** *9 Halloween Dinos - Youth Dinosaur
+  Sweatshirt* (`youth-crewneck-sweatshirt`) is ACTIVE and only sits in the kids/boys/girls apparel
+  collections. Shoppers browsing sweatshirts never see it. Its handle is also the generic
+  `youth-crewneck-sweatshirt` (like `unisex-premium-sweatshirt` for Skeleton & Pumpkins).
+- **The youth size chart is misaligned.** The headers read Length / Chest / Sleeve Length, but each
+  row has four cells (size, then three numbers), so the size column has no header and every
+  measurement sits under the wrong label. The article points shoppers to the chart without quoting
+  it. Fix: add a "Size" header cell.
+- **Men's and women's sweatshirt collections are identical** (same six unisex products). Fine for
+  browsing, but both compete for `dinosaur sweatshirt`; neither is tracked. A single
+  `dinosaur-sweatshirts` collection would be the natural landing page.
+- **#34 still open:** Merry Little Rexmas is still not in `dinosaur-christmas` (checked 2026-10-06);
+  T-Rex Winter Forest is. Two Christmas sweatshirts, and the Christmas collection shows one.
+- `Dino Jungle - Dinosaur Sweatshirt` is DRAFT (not linked). If it's meant to sell, it's a 7th adult
+  design waiting.
