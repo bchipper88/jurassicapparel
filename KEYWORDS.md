@@ -203,6 +203,7 @@ Ubersuggest figure that justified it.
   sweatshirt` 720/mo SD 29 (Nov 2,900 · Dec 4,400) as an H2; `dinosaur sweatshirts` 390/mo SD 48;
   `dinosaur crewneck` 70/mo SD 27; `dinosaur halloween sweatshirt` and `kids dinosaur sweatshirt`
   return 0.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-sweatshirts
 ---
 
 ## 🎯 NEXT UP

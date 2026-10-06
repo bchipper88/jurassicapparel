@@ -2,7 +2,10 @@
 title: "Dinosaur Sweatshirts: Every Design, Which Fit, and When to Order for Halloween and Christmas"
 slug: dinosaur-sweatshirts
 date: 2026-10-06
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-sweatshirts
+shopify_article_id: "gid://shopify/Article/634894450838"
+published_at: 2026-10-06T11:16:17Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-06"
 target_keyword: "dinosaur sweatshirt"
 target_volume: 390
@@ -56,7 +59,7 @@ word_count: 1370
 A dinosaur sweatshirt is the easy version of dinosaur clothing. No hood to flop around, no
 all-over print to commit to: one good picture on the chest of a plain crewneck, worn to work on a
 Friday, to a pumpkin patch in October, or to a family Christmas where everyone else is in a
-reindeer jumper.
+reindeer sweater.
 
 We make seven of them right now: three for Halloween, two for Christmas, one for the rest of the
 year, and one youth crewneck. They're printed on two different adult sweatshirts, and that
