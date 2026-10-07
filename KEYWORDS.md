@@ -217,6 +217,7 @@ Ubersuggest figure that justified it.
   Neon Rex Nov 18, medium Nov 20, kids prints Dec 4. Secondaries: `t rex backpack` 320/mo SD 27
   (Jul 880); `dinosaur backpack for adults` 210/mo SD 18 (Jul 590) as an H2; `kids dinosaur backpack`
   and `dinosaur school backpack` return 0. BACKLOG #43.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-backpacks
 ---
 
 ## 🎯 NEXT UP

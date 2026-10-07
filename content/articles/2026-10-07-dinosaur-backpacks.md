@@ -2,7 +2,10 @@
 title: "Dinosaur Backpacks: All 14 Designs, What Fits Inside, and Which Age Each One Suits"
 slug: dinosaur-backpacks
 date: 2026-10-07
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-backpacks
+shopify_article_id: "gid://shopify/Article/634902544534"
+published_at: 2026-10-07T11:14:30Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-07"
 target_keyword: "dinosaur backpack"
 target_volume: 6600
