@@ -1016,3 +1016,27 @@ Found while writing the Day 16 `dinosaur-sweatshirts` article.
   T-Rex Winter Forest is. Two Christmas sweatshirts, and the Christmas collection shows one.
 - `Dino Jungle - Dinosaur Sweatshirt` is DRAFT (not linked). If it's meant to sell, it's a 7th adult
   design waiting.
+
+## 43. Backpack range: "Kids" titles on full-size bags, one listing with no shipping info, and missing image alt text 🟢 LOW — product copy — added 2026-10-07
+
+Found while reading all 14 `dinosaur-backpack` listings for the Day 17 `dinosaur-backpacks` article
+(live Shopify, 2026-10-07).
+
+- **"Kids" in the name, adult-size bag.** Nine titles say "Kids Dinosaur Backpack" (one says
+  "Girls"), but 13 of the 14 bags are the same 16⅞″ × 12¼″ × 3⅞″ full-size blank with a 15″ laptop
+  sleeve. A parent of a five-year-old reads "Kids" as "child-sized". The article says plainly that
+  only the Neon Rex comes in a child size. **Fix (owner, product copy — gated):** drop "Kids" from
+  the titles or add a "full size, best for ages 8+" line to each description.
+- **Typo:** *Jungle T-Rex - Kids DInosaur Backpack* (capital I).
+- **Dinosaur Skeletons has no shipping block.** Its description is the raw print-provider copy
+  (ends "Blank product components sourced from China") with no "Sold Exclusively" header and no
+  lead time, unlike the other 13. The article tells readers to allow the longer window.
+- **Neon Rex** says "Jurassi Backpacks" (typo) and gives no dimensions, fabric or laptop-sleeve
+  detail for any of its three sizes. Worth adding the measurements per size.
+- **Image alt text:** Colorful Fossils, Playful Dinosaur Doodles, Mixed Dinos and Dinosaur
+  Skeletons have empty featured-image alt text; Construction Dinos' is "Product mockup". Small
+  SEO/accessibility fix.
+- **Rank note, not a fault:** `/collections/dinosaur-backpack` jumped 16 → #2 for `dinosaur
+  backpacks` on the 10-07 pull, but sits #24 for the singular. If the owner ever edits the
+  collection description, using the singular in its first line would be the cheapest rank gain
+  available here (gated, collection copy).

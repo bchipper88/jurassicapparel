@@ -585,9 +585,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-sweatshirts",
       "shopify_article_id": "gid://shopify/Article/634894450838",
       "published_at": "2026-10-06T11:16:17Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur backpack",
       "volume": 6600,
@@ -596,9 +594,58 @@
       "sd": 25,
       "cpc": 0.68,
       "intent": "Transactional",
-      "verified": "2026-10-06",
-      "note": "Back-to-school curve; Oct-Feb floor 2,400-2,900. dinosaur-backpack 14 ACTIVE. Check collection ranking + articles query first.",
-      "slug": "dinosaur-backpacks"
+      "verified": "2026-10-07",
+      "note": "Re-verified 2026-10-07. Collection #24 for singular, #2 for plural (10-07). 14 ACTIVE $54.99. Order-by Nov 18/Nov 20/Dec 4.",
+      "slug": "dinosaur-backpacks",
+      "date": "2026-10-07",
+      "day": 17,
+      "status": "published",
+      "secondary": [
+        {
+          "keyword": "t rex backpack",
+          "volume": 320,
+          "sd": 27,
+          "cpc": 0.88,
+          "note": "Jul 880"
+        },
+        {
+          "keyword": "dinosaur backpack for adults",
+          "volume": 210,
+          "sd": 18,
+          "cpc": 0.43,
+          "note": "Jul 590"
+        },
+        {
+          "keyword": "dinosaur backpacks",
+          "volume": 6600,
+          "sd": 42,
+          "cpc": 0.61
+        },
+        {
+          "keyword": "kids dinosaur backpack",
+          "volume": 0,
+          "sd": 12
+        },
+        {
+          "keyword": "dinosaur school backpack",
+          "volume": 0,
+          "sd": 12
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur tote bag",
+      "volume": 170,
+      "peak_volume": 210,
+      "peak_month": "202508",
+      "sd": 23,
+      "cpc": 0.57,
+      "intent": "Transactional",
+      "verified": "2026-10-07",
+      "note": "Flat 110-210. 48/48 ACTIVE. Product page ranks #12 (10-07), collection not top 10. Fallback: dinosaur tie 390/mo SD 15.",
+      "slug": "dinosaur-tote-bags"
     }
   ],
   "queued_seasonal": [
@@ -687,17 +734,6 @@
       "verified": "2026-10-01",
       "note": "/collections/dinosaur-leggings ranks #3 (tracked). A post would only compete with it.",
       "status": "skipped"
-    },
-    {
-      "keyword": "dinosaur tote bag",
-      "volume": 170,
-      "peak_volume": 210,
-      "peak_month": "202508",
-      "sd": 23,
-      "cpc": 0.57,
-      "intent": "Transactional",
-      "verified": "2026-10-01",
-      "note": "dinosaur-tote-bag 48/48. Flat, low priority."
     },
     {
       "keyword": "hawaiian dinosaur shirt",

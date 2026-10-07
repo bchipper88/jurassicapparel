@@ -204,19 +204,30 @@ Ubersuggest figure that justified it.
   `dinosaur crewneck` 70/mo SD 27; `dinosaur halloween sweatshirt` and `kids dinosaur sweatshirt`
   return 0.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-sweatshirts
+- ✅ Published (2026-10-07) **dinosaur backpack** — 6,600/mo avg | Oct–Dec 2,900 · Jan–Feb 2,400 · **Jul 22,200 / Aug 18,100 peak**
+  | SD 25 | $0.68 CPC | Transactional → `dinosaur-backpacks`
+  Day 17. Re-verified 2026-10-07, unchanged. Rank check (tracked, 10-07): `/collections/dinosaur-backpack`
+  is **#24** for `dinosaur backpack` (not top 10, so not a skip), but jumped **16 → #2** for the plural
+  `dinosaur backpacks` (6,600/mo, SD 42). The post is written as a sizing/lead-time guide that funnels
+  to the collection, and links it three times, so it supports the collection rather than competing with
+  it; watch both terms on the 10-14 pull. Shopify `articles` query for backpack: none. 14 ACTIVE, all
+  $54.99: 13 on one full-size blank (16⅞″×12¼″×3⅞″, 15″ laptop sleeve, water-resistant polyester) in
+  two shipping profiles (8 "kids" prints 2–7 + 3–4 business days; 4 medium prints 4–10 + 4–8; Skeletons
+  states none) plus Neon Rex in Child 4–7 / Youth 8–12 / Adult 13+ (5–7 days + 2–4 weeks). Order-by:
+  Neon Rex Nov 18, medium Nov 20, kids prints Dec 4. Secondaries: `t rex backpack` 320/mo SD 27
+  (Jul 880); `dinosaur backpack for adults` 210/mo SD 18 (Jul 590) as an H2; `kids dinosaur backpack`
+  and `dinosaur school backpack` return 0. BACKLOG #43.
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur backpack** — 6,600/mo avg | Oct–Dec 2,900 · Jun–Jul 6,600 · **Jul 22,200 / Aug 18,100 peak**
-  | SD 25 | $0.68 CPC | Transactional → `dinosaur-backpacks`
-  Pulled 2026-10-06. A back-to-school curve, but the floor (2,400–2,900/mo, Oct–Feb) is bigger than
-  most of our seasonal peaks, and a page published now has nine months to age before the July ramp.
-  `dinosaur-backpack` 14 ACTIVE (catalog 2026-10-01). *Before writing:* re-pull, check whether
-  `/collections/dinosaur-backpack` already ranks (if it's top 10, this is a skip like `dinosaur
-  hat`), run the Shopify articles query for `backpack`, and read all 14 listings for size,
-  material and lead time. BACKLOG #35 notes there's no toddler-size backpack; don't promise one.
-
+- 🎯 **dinosaur tote bag** — 170/mo | flat 110–210 (Aug/Mar 210) | SD 23 | $0.57 CPC | Transactional → `dinosaur-tote-bags`
+  Pulled 2026-10-07, unchanged from 10-01. Small but flat and easy, and a tote is a stocking-sized
+  Christmas gift. `dinosaur-tote-bag` 48/48 ACTIVE (catalog 2026-10-01). Tracked rank 10-07: a
+  *product* page (Last of the Dinosaurs tote) is #12, the collection isn't in the top 10, so a guide
+  doesn't collide. *Before writing:* re-pull, run the Shopify articles query for `tote`, read the
+  listings for size, material and lead time. Fallback if it fails: `dinosaur tie` (390/mo, SD 15,
+  $0.93, flat), though the 90s Retro tie product page already ranks #8.
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)
@@ -281,7 +292,7 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 - ⏭️ **dinosaur leggings** — 320/mo avg | Nov 590 | SD 15 | $1.26 CPC | Transactional
   Skipped 2026-10-01. `/collections/dinosaur-leggings` already ranks **#3** (tracked). A post
   would only compete with it.
-- 📋 dinosaur tote bag — 170/mo | SD 23 | $0.57 CPC — flat. `dinosaur-tote-bag` 48/48. Low priority.
+- 🎯 dinosaur tote bag — moved to 🎯 Next up 2026-10-07 (Day 18).
 
 - 📋 **hawaiian dinosaur shirt** — 260/mo | SD 16 | $0.93 CPC | Transactional → `hawaiian-dinosaur-shirts`
   **Deferred 2026-09-24 on seasonality — schedule for mid-February.** Re-verified today: the
