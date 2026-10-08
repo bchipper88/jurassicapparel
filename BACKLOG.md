@@ -1040,3 +1040,24 @@ Found while reading all 14 `dinosaur-backpack` listings for the Day 17 `dinosaur
   backpacks` on the 10-07 pull, but sits #24 for the singular. If the owner ever edits the
   collection description, using the singular in its first line would be the cheapest rank gain
   available here (gated, collection copy).
+
+## 44. Tote range: "every sticker" in the tote shipping text, no care or closure info, and an unexplained color option 🟢 LOW — product copy — added 2026-10-08
+
+Found while reading all 48 `dinosaur-tote-bag` listings for the Day 18 `dinosaur-tote-bags` article
+(live Shopify, 2026-10-08).
+
+- **"We custom print every sticker."** The shipping block shared by the older polyester totes and the
+  sized poly-cotton totes was copied from the sticker listings (seen on all six of those checked in
+  full: Up Close, Last of the Dinosaurs, Tiny Dino, Realistic Raptor, Freedom Forever, Pink Retro
+  T-Rex). The six newer totes say "every order". **Fix (owner, product copy — gated):** replace "sticker" with "order".
+- **What does Black / Red / Yellow change?** 33 totes offer a Color option of Black, Red or Yellow,
+  but no description says whether it's the handle, the trim or the bag. The article tells readers
+  to check the photos. One line in the description would settle it.
+- **No care instructions, closure or pocket info** on any tote. The FAQ answers "the listings don't
+  say". A care line (and "open top, no inner pocket" if true) would remove the most common doubt.
+- **Neon Rex tote** gives no size, unlike the four other poly-cotton totes; it also has no "Shipping
+  Info" block, just the "2–4 days + 2–4 weeks" sentence.
+- **Sized totes, same price at every size.** 13″, 16″ and 18″ are all $24.99. Possibly deliberate,
+  but the 18″ is underpriced against the 13″ if blank costs differ. Owner's call.
+- **Typo:** "Realistic Triceratops - DinosaurTote bag" (missing space; handle
+  `realistic-triceratops-dinosaurtote-bag`). Three realistic titles use lower-case "bag".

@@ -218,17 +218,25 @@ Ubersuggest figure that justified it.
   (Jul 880); `dinosaur backpack for adults` 210/mo SD 18 (Jul 590) as an H2; `kids dinosaur backpack`
   and `dinosaur school backpack` return 0. BACKLOG #43.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-backpacks
+- ✅ Published (2026-10-08) **dinosaur tote bag** — 170/mo | flat 110–210 (Aug 2025 / Mar 2026 210, Feb 110) | Oct–Dec 170
+  | SD 23 | $0.57 CPC | Transactional → `dinosaur-tote-bags`
+  Day 18. Re-verified 2026-10-08, unchanged. Shopify `articles` query for tote: none (only the purse post
+  mentions totes in passing). 48/48 ACTIVE, all $24.99, three bags: 43 on a 15″×15″ spun-polyester blank
+  with denim handles (2.6 gal, 44 lb; 33 offer Black/Red/Yellow, 10 no option), 37 at 3–4 + 3–6 business
+  days and 6 at 3–5 + 3–6; 4 double-sided 50/50 poly-cotton in 13/16/18″ (two stop at 16″), 3–4 + 3–6;
+  Neon Rex poly-cotton, 2–4 days + 2–4 weeks. Order-by: Neon Rex Nov 18, all others Dec 4. Secondaries:
+  `dinosaur tote` 50/mo SD 21; `dinosaur bag` **720/mo SD 17** (flat 590–1,000) as an H2 pointing to the
+  purse and backpack posts; `t rex tote bag` 10/mo. BACKLOG #44.
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur tote bag** — 170/mo | flat 110–210 (Aug/Mar 210) | SD 23 | $0.57 CPC | Transactional → `dinosaur-tote-bags`
-  Pulled 2026-10-07, unchanged from 10-01. Small but flat and easy, and a tote is a stocking-sized
-  Christmas gift. `dinosaur-tote-bag` 48/48 ACTIVE (catalog 2026-10-01). Tracked rank 10-07: a
-  *product* page (Last of the Dinosaurs tote) is #12, the collection isn't in the top 10, so a guide
-  doesn't collide. *Before writing:* re-pull, run the Shopify articles query for `tote`, read the
-  listings for size, material and lead time. Fallback if it fails: `dinosaur tie` (390/mo, SD 15,
-  $0.93, flat), though the 90s Retro tie product page already ranks #8.
+- 🎯 **dinosaur tie** — 390/mo | Oct 390 · Dec 390 · **Mar 590** · Jul 210 low | SD 15 | $0.93 CPC | Transactional → `dinosaur-ties`
+  Pulled 2026-10-08. Lowest SD left in the evergreen queue and a classic Christmas/Father's Day gift.
+  `dinosaur-ties` 7/9 ACTIVE (catalog 2026-10-01). *Collision risk:* the 90s Retro tie *product* page
+  ranked #8 (tracked); a product page in the top 10 isn't the `dinosaur hat` skip rule (that was a
+  collection at #3), but re-check the rank tomorrow and write the post as a guide that links that
+  product. Also run the Shopify articles query for `tie`. Fallback: `ladies dinosaur shirt` (390/mo, SD 21).
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)
@@ -293,7 +301,9 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 - ⏭️ **dinosaur leggings** — 320/mo avg | Nov 590 | SD 15 | $1.26 CPC | Transactional
   Skipped 2026-10-01. `/collections/dinosaur-leggings` already ranks **#3** (tracked). A post
   would only compete with it.
-- 🎯 dinosaur tote bag — moved to 🎯 Next up 2026-10-07 (Day 18).
+- ✅ **dinosaur tote bag** — published 2026-10-08 (Day 18, see ✅ Published).
+- 🎯 dinosaur tie — moved to 🎯 Next up 2026-10-08 (Day 19).
+- 📋 **dinosaur bag** — 720/mo | flat 590–1,000 (Apr 1,000) | SD 17 | $0.54 CPC — found 2026-10-08. Broad: totes, purses and backpacks now each have a post, and the tote post carries it as an H2. A fourth "hub" post would split those; revisit only if none of the three ranks for it by the November pull.
 
 - 📋 **hawaiian dinosaur shirt** — 260/mo | SD 16 | $0.93 CPC | Transactional → `hawaiian-dinosaur-shirts`
   **Deferred 2026-09-24 on seasonality — schedule for mid-February.** Re-verified today: the
