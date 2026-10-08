@@ -227,6 +227,7 @@ Ubersuggest figure that justified it.
   Neon Rex poly-cotton, 2–4 days + 2–4 weeks. Order-by: Neon Rex Nov 18, all others Dec 4. Secondaries:
   `dinosaur tote` 50/mo SD 21; `dinosaur bag` **720/mo SD 17** (flat 590–1,000) as an H2 pointing to the
   purse and backpack posts; `t rex tote bag` 10/mo. BACKLOG #44.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-tote-bags
 ---
 
 ## 🎯 NEXT UP

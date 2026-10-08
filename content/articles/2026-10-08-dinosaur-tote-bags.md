@@ -2,7 +2,10 @@
 title: "Dinosaur Tote Bags: 48 Designs, Three Kinds of Bag, and When to Order for Christmas"
 slug: dinosaur-tote-bags
 date: 2026-10-08
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-tote-bags
+shopify_article_id: "gid://shopify/Article/634910179478"
+published_at: 2026-10-08T11:13:27Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-08"
 target_keyword: "dinosaur tote bag"
 target_volume: 170
