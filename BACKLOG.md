@@ -1061,3 +1061,27 @@ Found while reading all 48 `dinosaur-tote-bag` listings for the Day 18 `dinosaur
   but the 18″ is underpriced against the 13″ if blank costs differ. Owner's call.
 - **Typo:** "Realistic Triceratops - DinosaurTote bag" (missing space; handle
   `realistic-triceratops-dinosaurtote-bag`). Three realistic titles use lower-case "bag".
+
+## 45. Tie range: a `<style>` block that restyles the whole product page, no tie length, no image alt text 🟢 LOW — product copy / technical — added 2026-10-09
+
+Found while reading all nine `dinosaur-ties` listings for the Day 19 `dinosaur-ties` article
+(live Shopify, 2026-10-09).
+
+- **Each of the 7 ACTIVE tie descriptions embeds a full HTML `<meta>` + `<style>` block** whose rules
+  target `body`, `h2`–`h5`, `p` and `ul` (Arial font, white background, centered headings, 20px side
+  margins). Inline in a product description, those rules apply to the *whole product page*, not just
+  the description, so the tie pages can render in a different font and layout from the rest of the
+  theme. **Fix (owner, product copy — gated):** delete the `<meta>` and `<style>` lines from the
+  seven descriptions; the text and lists underneath don't need them. Worth checking other print-on-
+  demand imports from the same period (Oct 2024 image timestamps) for the same block.
+- **No length or width** on any tie. The article has to say "one size; the listing doesn't give a
+  length". Ties are one of the few items where buyers ask (tall wearers, skinny-tie preference). One
+  line per listing settles it.
+- **No care instructions.** The article recommends spot-clean and hang dry as the cautious default.
+- **Generic description copy:** all seven say "Whether it's a playful T-Rex, a sleek Velociraptor, or a
+  dazzling fossil pattern", including Dino Nuggies, which is none of those. A one-line design
+  description per tie would help both buyers and search.
+- **Featured images have empty alt text** on all seven ties (same pattern as #43).
+- **Two older ties are DRAFT** in the collection (Forest Dino Tie, Beige Dinosaur Tie, both $19.99 with
+  the old "Est. 10 Business Days" shipping block), plus a DRAFT "Neck Ties" product outside it. Not
+  linked. Owner's call whether to revive or delete; no action needed if deliberate.

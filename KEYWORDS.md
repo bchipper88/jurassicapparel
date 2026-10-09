@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -228,16 +228,24 @@ Ubersuggest figure that justified it.
   `dinosaur tote` 50/mo SD 21; `dinosaur bag` **720/mo SD 17** (flat 590–1,000) as an H2 pointing to the
   purse and backpack posts; `t rex tote bag` 10/mo. BACKLOG #44.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-tote-bags
+- ✅ Published (2026-10-09) **dinosaur tie** — 390/mo | Mar 590 · Apr 480 · Jul 210 low | Oct 390 · Nov 320 · Dec 390
+  | SD 15 | $0.93 CPC | Transactional → `dinosaur-ties`
+  Day 19. Re-verified 2026-10-09, unchanged. Shopify `articles` query for `tie`: none. `dinosaur-ties` 7/9
+  ACTIVE (Forest Dino Tie and Beige Dinosaur Tie are DRAFT, not linked), all $21.99, one size (no length
+  given), 105 gsm polyester, one-sided print, V end, keeper loop; 1–4 + 4–8 business days, US only.
+  Order-by Dec 3. SERP (Ubersuggest snapshot 2026-09-12): ties.com category #2 (DA 65), the rest mostly
+  product pages; our 90's Retro product page at #19, so a guide that links it doesn't compete with it.
+  Secondaries: `dinosaur necktie` 390/mo SD 16 ($0.95) as an H2; `t rex tie` 50/mo SD 12 in the FAQ.
+  BACKLOG #45.
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur tie** — 390/mo | Oct 390 · Dec 390 · **Mar 590** · Jul 210 low | SD 15 | $0.93 CPC | Transactional → `dinosaur-ties`
-  Pulled 2026-10-08. Lowest SD left in the evergreen queue and a classic Christmas/Father's Day gift.
-  `dinosaur-ties` 7/9 ACTIVE (catalog 2026-10-01). *Collision risk:* the 90s Retro tie *product* page
-  ranked #8 (tracked); a product page in the top 10 isn't the `dinosaur hat` skip rule (that was a
-  collection at #3), but re-check the rank tomorrow and write the post as a guide that links that
-  product. Also run the Shopify articles query for `tie`. Fallback: `ladies dinosaur shirt` (390/mo, SD 21).
+- 🎯 **ladies dinosaur shirt** — 390/mo | flat 260–480 (Aug–Oct 2025 480, Apr/Jul 480, Dec low 260) | SD 20 | $0.66 CPC | Transactional → `ladies-dinosaur-shirts`
+  Pulled 2026-10-09. `womens-shirts` 41/41 ACTIVE (catalog 2026-10-01). Before writing: check whether
+  `/collections/womens-shirts` already ranks (the `dinosaur leggings`/`dinosaur hat` skip rule) and run
+  the Shopify articles query for women's shirts. Sibling `dinosaur shirt for women` is 480/mo but SD 36,
+  so this phrasing is the one to target. Fallback: `button up dinosaur shirt` (320/mo, SD 25).
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)
@@ -303,7 +311,7 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
   Skipped 2026-10-01. `/collections/dinosaur-leggings` already ranks **#3** (tracked). A post
   would only compete with it.
 - ✅ **dinosaur tote bag** — published 2026-10-08 (Day 18, see ✅ Published).
-- 🎯 dinosaur tie — moved to 🎯 Next up 2026-10-08 (Day 19).
+- ✅ **dinosaur tie** — published 2026-10-09 (Day 19, see ✅ Published).
 - 📋 **dinosaur bag** — 720/mo | flat 590–1,000 (Apr 1,000) | SD 17 | $0.54 CPC — found 2026-10-08. Broad: totes, purses and backpacks now each have a post, and the tote post carries it as an H2. A fourth "hub" post would split those; revisit only if none of the three ranks for it by the November pull.
 
 - 📋 **hawaiian dinosaur shirt** — 260/mo | SD 16 | $0.93 CPC | Transactional → `hawaiian-dinosaur-shirts`
@@ -342,7 +350,7 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
   `/blogs/blog/dinosaur-gifts` slug (no existing URL is exact-match), 301s from the three
   generic guides, and keeping girlfriend / Christmas / Valentine's as distinct intents.
 - 📋 dinosaur shirt for women — 480/mo | SD 36 | $0.97 CPC
-- 📋 ladies dinosaur shirt — 390/mo | SD 21 | $0.64 CPC — easier sibling of the above
+- 🎯 ladies dinosaur shirt — 390/mo | SD 20 | $0.66 CPC — easier sibling of the above. Moved to 🎯 Next up 2026-10-09 (Day 20).
 - 📋 button up dinosaur shirt — 320/mo | SD 25 | $0.74 CPC
 - 📋 birthday dinosaur shirt — 390/mo | SD 28 | $0.59 CPC — pairs with the
   `dinosaur-birthday-party` blog, which has only 1 article. *2026-09-30:* `dinosaur birthday

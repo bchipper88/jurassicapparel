@@ -674,9 +674,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-tote-bags",
       "shopify_article_id": "gid://shopify/Article/634910179478",
       "published_at": "2026-10-08T11:13:27Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur tie",
       "volume": 390,
@@ -685,9 +683,40 @@
       "sd": 15,
       "cpc": 0.93,
       "intent": "Transactional",
-      "verified": "2026-10-08",
-      "note": "dinosaur-ties 7/9 ACTIVE. 90s Retro tie product page ranked #8 (tracked) - re-check. Fallback: ladies dinosaur shirt 390/mo SD 21.",
-      "slug": "dinosaur-ties"
+      "verified": "2026-10-09",
+      "note": "Re-verified 2026-10-09, unchanged. 7/9 ACTIVE (2 DRAFT not linked), all $21.99, 105gsm polyester, one-sided print, 1-4 + 4-8 business days, US only. Order-by Dec 3. 90's Retro product page at SERP position 19 (Ubersuggest SERP snapshot 2026-09-12).",
+      "slug": "dinosaur-ties",
+      "date": "2026-10-09",
+      "day": 19,
+      "status": "committed",
+      "secondary": [
+        {
+          "keyword": "dinosaur necktie",
+          "volume": 390,
+          "sd": 16,
+          "cpc": 0.95
+        },
+        {
+          "keyword": "t rex tie",
+          "volume": 50,
+          "sd": 12,
+          "cpc": 0.5
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "ladies dinosaur shirt",
+      "volume": 390,
+      "peak_volume": 480,
+      "peak_month": "202510",
+      "sd": 20,
+      "cpc": 0.66,
+      "intent": "Transactional",
+      "verified": "2026-10-09",
+      "note": "Flat 260-480 (Dec low 260). womens-shirts 41/41 ACTIVE (catalog 2026-10-01). Check whether /collections/womens-shirts already ranks and run the Shopify articles query for women's shirts before writing. Sibling 'dinosaur shirt for women' 480/mo is SD 36.",
+      "slug": "ladies-dinosaur-shirts"
     }
   ],
   "queued_seasonal": [
@@ -811,8 +840,9 @@
     {
       "keyword": "ladies dinosaur shirt",
       "volume": 390,
-      "sd": 21,
-      "cpc": 0.64
+      "sd": 20,
+      "cpc": 0.66,
+      "note": "moved to next_up 2026-10-09"
     },
     {
       "keyword": "button up dinosaur shirt",
@@ -1214,5 +1244,5 @@
       "note": "Re-pulled 2026-09-24 (SD 16 -> 22). Served by the same live cluster; folds into the consolidation."
     }
   ],
-  "last_repull": "2026-10-06"
+  "last_repull": "2026-10-09"
 }
