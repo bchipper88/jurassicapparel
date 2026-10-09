@@ -688,7 +688,7 @@
       "slug": "dinosaur-ties",
       "date": "2026-10-09",
       "day": 19,
-      "status": "committed",
+      "status": "published",
       "secondary": [
         {
           "keyword": "dinosaur necktie",
@@ -702,7 +702,10 @@
           "sd": 12,
           "cpc": 0.5
         }
-      ]
+      ],
+      "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-ties",
+      "shopify_article_id": "gid://shopify/Article/634928431254",
+      "published_at": "2026-10-09T11:13:21Z"
     }
   ],
   "next_up": [

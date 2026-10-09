@@ -237,6 +237,7 @@ Ubersuggest figure that justified it.
   product pages; our 90's Retro product page at #19, so a guide that links it doesn't compete with it.
   Secondaries: `dinosaur necktie` 390/mo SD 16 ($0.95) as an H2; `t rex tie` 50/mo SD 12 in the FAQ.
   BACKLOG #45.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-ties
 ---
 
 ## 🎯 NEXT UP

@@ -2,7 +2,10 @@
 title: "Dinosaur Ties: Seven Designs, What They're Made Of, and When to Order for Christmas"
 slug: dinosaur-ties
 date: 2026-10-09
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-ties
+shopify_article_id: "gid://shopify/Article/634928431254"
+published_at: 2026-10-09T11:13:21Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-09"
 target_keyword: "dinosaur tie"
 target_volume: 390
