@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -238,15 +238,25 @@ Ubersuggest figure that justified it.
   Secondaries: `dinosaur necktie` 390/mo SD 16 ($0.95) as an H2; `t rex tie` 50/mo SD 12 in the FAQ.
   BACKLOG #45.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-ties
+- ✅ Published (2026-10-10) **ladies dinosaur shirt** — 390/mo | flat 260–480 (Aug–Oct 2025 480, Dec low 260)
+  | SD 20 | $0.66 CPC | Transactional → `ladies-dinosaur-shirts`
+  Day 20. Re-verified 2026-10-10, unchanged. Shopify `articles` query: no women's shirt post. SERP
+  (snapshot 2026-09-11) is carousels and category pages; our tag view
+  `/collections/adult-dinosaur-shirt/women's` is #11. **Judgement call against the top-~15 skip rule:**
+  that URL is a tag filter with no copy of its own to rescue, and the dedicated `womens-shirts`
+  collection doesn't rank, so the post goes ahead and links both. Angle: three cuts (relaxed women's
+  tee S–3XL, unisex XS–4XL, stretch tank XS–XL) before designs. Order-by Dec 3 / Dec 4 / Dec 1.
+  Secondaries: `dinosaur shirt for women` 480 SD 36; `mamasaurus shirt` 320 SD 25 (collection #12, a
+  section here); `dinosaur mom shirt` 70 SD 27. BACKLOG #46.
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **ladies dinosaur shirt** — 390/mo | flat 260–480 (Aug–Oct 2025 480, Apr/Jul 480, Dec low 260) | SD 20 | $0.66 CPC | Transactional → `ladies-dinosaur-shirts`
-  Pulled 2026-10-09. `womens-shirts` 41/41 ACTIVE (catalog 2026-10-01). Before writing: check whether
-  `/collections/womens-shirts` already ranks (the `dinosaur leggings`/`dinosaur hat` skip rule) and run
-  the Shopify articles query for women's shirts. Sibling `dinosaur shirt for women` is 480/mo but SD 36,
-  so this phrasing is the one to target. Fallback: `button up dinosaur shirt` (320/mo, SD 25).
+- 🎯 **dinosaur lover gifts** — 210/mo | Nov 480 · **Dec 590** · floor 140–210 | SD 18 | $1.36 CPC | Commercial → `dinosaur-lover-gifts`
+  Pulled 2026-10-10. Gift cluster, so check first that no live gift guide already serves it (see the
+  `dinosaur gifts` consolidation brief); if one does, fold it into that brief and run a fresh
+  `keyword_suggestions` sweep for an in-season, stocked term instead. Nearby: `dinosaur christmas
+  gifts` 110/mo (Nov 390, Dec 480, SD 21, no CPC); `t rex gifts` 70/mo (Dec 210, SD 21).
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)
@@ -297,6 +307,12 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 
 ## 📋 QUEUE — Evergreen commercial (fills non-seasonal days)
 
+- ⏭️ **mamasaurus shirt** — 320/mo | SD 25 | $0.89 — skipped 2026-10-10: `/collections/mamasaurus`
+  already ranks #12. Collection-copy rescue; covered as a section of the Day 20 post.
+- ⏭️ **dinosaur slippers** — 1,900/mo | Oct 2,900 · Nov 3,600 · **Dec 4,400** | SD 23 | $0.39 — skipped
+  2026-10-10: we sell no slippers. Biggest unserved Christmas term found this month. BACKLOG #46.
+- ⏭️ **dinosaur beanie** — 390/mo | Nov 880 · Dec 1,000 | SD 23 — skipped 2026-10-10: the only beanie is
+  DRAFT and `dinosaur-beanie` is empty (BACKLOG #1).
 - ⏭️ **dinosaur hat** — skipped 2026-10-04: `/collections/dinosaur-hats` already ranks #3 (see ⏭️ Skipped).
 - ✅ **dinosaur purse** — published 2026-10-04 (Day 14, see ✅ Published).
 - ✅ **dinosaur sweatshirt** — published 2026-10-06 (Day 16, see ✅ Published).
@@ -351,8 +367,12 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
   `/blogs/blog/dinosaur-gifts` slug (no existing URL is exact-match), 301s from the three
   generic guides, and keeping girlfriend / Christmas / Valentine's as distinct intents.
 - 📋 dinosaur shirt for women — 480/mo | SD 36 | $0.97 CPC
-- 🎯 ladies dinosaur shirt — 390/mo | SD 20 | $0.66 CPC — easier sibling of the above. Moved to 🎯 Next up 2026-10-09 (Day 20).
-- 📋 button up dinosaur shirt — 320/mo | SD 25 | $0.74 CPC
+- ✅ ladies dinosaur shirt — published 2026-10-10 (Day 20, see ✅ Published).
+- 📋 button up dinosaur shirt — 320/mo | SD 25 | $0.74 CPC — **deferred 2026-10-10.** Summer curve
+  (May–Aug 480 → Nov–Dec 210, Jan 170) and our `adult-dinosaur-shirt/men's` tag view already ranks #10.
+  All ten button-ups we sell are the Hawaiian shirts: fold into `hawaiian dinosaur shirt`, mid-February.
+- 📋 funny dinosaur shirts — 170/mo | flat 110–210 | SD 23 | $0.60 CPC — found 2026-10-10. Our
+  `adult-dinosaur-shirt/men's` tag view ranks #8 (snapshot 2026-09-16). Not a post; BACKLOG #46.
 - 📋 birthday dinosaur shirt — 390/mo | SD 28 | $0.59 CPC — pairs with the
   `dinosaur-birthday-party` blog, which has only 1 article. *2026-09-30:* `dinosaur birthday
   shirt` re-pulled at 390/mo, SD 28, $0.64, flat year-round (260–480). **Blocked on inventory:**

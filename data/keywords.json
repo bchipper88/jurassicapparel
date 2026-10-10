@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-05",
+  "pulled": "2026-10-10",
   "loc_id": 2840,
   "published": [
     {
@@ -706,9 +706,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-ties",
       "shopify_article_id": "gid://shopify/Article/634928431254",
       "published_at": "2026-10-09T11:13:21Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "ladies dinosaur shirt",
       "volume": 390,
@@ -717,9 +715,48 @@
       "sd": 20,
       "cpc": 0.66,
       "intent": "Transactional",
-      "verified": "2026-10-09",
-      "note": "Flat 260-480 (Dec low 260). womens-shirts 41/41 ACTIVE (catalog 2026-10-01). Check whether /collections/womens-shirts already ranks and run the Shopify articles query for women's shirts before writing. Sibling 'dinosaur shirt for women' 480/mo is SD 36.",
-      "slug": "ladies-dinosaur-shirts"
+      "verified": "2026-10-10",
+      "note": "Re-verified 2026-10-10, unchanged (390, SD 20, $0.66; Aug-Oct 2025 480, Dec 260, Aug 2026 390). Shopify articles query (shirt/women/ladies): only one live shirt post, the general adult guide; no women's post. SERP (Ubersuggest snapshot 2026-09-11): page 1 is product carousels and category pages; our tag-filter view /collections/adult-dinosaur-shirt/women's at #11 (~4 clicks). Written anyway as a judgement call: the ranking URL is a tag view with no copy of its own to rescue, and the dedicated womens-shirts collection doesn't rank. Post links adult-dinosaur-shirt and womens-shirts. Three cuts: women's relaxed tee S-3XL (2-4 + 3-8 bd), unisex XS-4XL (2-6 + 2-5), tank XS-XL 82/18 poly-spandex $34.99 (2-4 + 7-10). Order-by Dec 3 / Dec 4 / Dec 1.",
+      "slug": "ladies-dinosaur-shirts",
+      "date": "2026-10-10",
+      "day": 20,
+      "status": "published",
+      "secondary": [
+        {
+          "keyword": "dinosaur shirt for women",
+          "volume": 480,
+          "sd": 36,
+          "cpc": 0.97
+        },
+        {
+          "keyword": "mamasaurus shirt",
+          "volume": 320,
+          "sd": 25,
+          "cpc": 0.89,
+          "verified": "2026-10-10"
+        },
+        {
+          "keyword": "dinosaur mom shirt",
+          "volume": 70,
+          "sd": 27,
+          "cpc": 0.66,
+          "verified": "2026-10-10"
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur lover gifts",
+      "volume": 210,
+      "peak_volume": 590,
+      "peak_month": "202512",
+      "sd": 18,
+      "cpc": 1.36,
+      "intent": "Commercial",
+      "verified": "2026-10-10",
+      "note": "Pulled 2026-10-10. Nov 480, Dec 590, floor 140-210. Gift cluster: before writing, check it isn't already served by a live gift guide in the dinosaur-gifts consolidation brief (content/rescues/2026-09-24-dinosaur-gifts-consolidation.md). If it is, fold it in there and fall back to a fresh keyword_suggestions sweep for an in-season stocked term.",
+      "slug": "dinosaur-lover-gifts"
     }
   ],
   "queued_seasonal": [
@@ -845,13 +882,15 @@
       "volume": 390,
       "sd": 20,
       "cpc": 0.66,
-      "note": "moved to next_up 2026-10-09"
+      "note": "published 2026-10-10 (Day 20)"
     },
     {
       "keyword": "button up dinosaur shirt",
       "volume": 320,
       "sd": 25,
-      "cpc": 0.74
+      "cpc": 0.74,
+      "verified": "2026-10-10",
+      "note": "Deferred 2026-10-10: summer curve (May-Aug 480 -> Nov-Dec 210, Jan 170) and our tag view /collections/adult-dinosaur-shirt/men's ranks #10 (SERP 2026-10-10). All 10 button-ups are the Hawaiian shirts, so fold into 'hawaiian dinosaur shirt' for mid-February."
     },
     {
       "keyword": "dinosaur gifts for 3 year olds",
@@ -903,6 +942,14 @@
       "intent": "Transactional",
       "verified": "2026-10-08",
       "note": "Broad; covered by tote/purse/backpack posts. Revisit at November pull."
+    },
+    {
+      "keyword": "funny dinosaur shirts",
+      "volume": 170,
+      "sd": 23,
+      "cpc": 0.6,
+      "verified": "2026-10-10",
+      "note": "Flat 110-210. Our tag view /collections/adult-dinosaur-shirt/men's ranks #8 (SERP snapshot 2026-09-16). Don't write a post; part of the shirt tag-view finding (BACKLOG #46)."
     }
   ],
   "rescue_queue": [
@@ -1184,6 +1231,39 @@
       "verified": "2026-10-04",
       "date": "2026-10-04",
       "reason": "SD 40 is a stretch at DA 16 and only 8 posters are live. Flat curve, no deadline."
+    },
+    {
+      "keyword": "mamasaurus shirt",
+      "volume": 320,
+      "sd": 25,
+      "cpc": 0.89,
+      "intent": "Transactional",
+      "verified": "2026-10-10",
+      "date": "2026-10-10",
+      "reason": "/collections/mamasaurus already ranks #12 (SERP snapshot 2026-09-09). Collection-copy rescue, not a post. Covered as a section of the Day 20 ladies' shirt post, which links the collection."
+    },
+    {
+      "keyword": "dinosaur slippers",
+      "volume": 1900,
+      "peak_volume": 4400,
+      "peak_month": "202512",
+      "sd": 23,
+      "cpc": 0.39,
+      "intent": "Transactional",
+      "verified": "2026-10-10",
+      "date": "2026-10-10",
+      "reason": "No slipper product exists (Shopify search, 2026-10-10). Oct 2,900 / Nov 3,600 / Dec 4,400. Merchandising item, BACKLOG #46."
+    },
+    {
+      "keyword": "dinosaur beanie",
+      "volume": 390,
+      "peak_volume": 1000,
+      "peak_month": "202512",
+      "sd": 23,
+      "cpc": 0.51,
+      "verified": "2026-10-10",
+      "date": "2026-10-10",
+      "reason": "Only beanie is DRAFT; dinosaur-beanie collection empty (BACKLOG #1). Nov 880 / Dec 1,000."
     }
   ],
   "rescue_content": [
@@ -1247,5 +1327,5 @@
       "note": "Re-pulled 2026-09-24 (SD 16 -> 22). Served by the same live cluster; folds into the consolidation."
     }
   ],
-  "last_repull": "2026-10-09"
+  "last_repull": "2026-10-10"
 }

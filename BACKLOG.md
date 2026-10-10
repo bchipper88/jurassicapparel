@@ -1085,3 +1085,28 @@ Found while reading all nine `dinosaur-ties` listings for the Day 19 `dinosaur-t
 - **Two older ties are DRAFT** in the collection (Forest Dino Tie, Beige Dinosaur Tie, both $19.99 with
   the old "Est. 10 Business Days" shipping block), plus a DRAFT "Neck Ties" product outside it. Not
   linked. Owner's call whether to revive or delete; no action needed if deliberate.
+
+## 46. Shirt cluster: tag-filter views rank instead of the real collections; no slippers for a 4,400/mo December term; a kids' header on the women's tanks 🟡 MEDIUM — SEO / merchandising / product copy — added 2026-10-10
+
+Found while verifying the Day 20 target (`ladies dinosaur shirt`) and its fallbacks (live Shopify and
+Ubersuggest, locId 2840, 2026-10-10).
+
+- **The URLs Google ranks for our shirt terms are tag-filter views of `adult-dinosaur-shirt`, not the
+  dedicated collections.** `/collections/adult-dinosaur-shirt/women's` is #11 for `ladies dinosaur shirt`
+  (390/mo); `/collections/adult-dinosaur-shirt/men's` is #10 for `button up dinosaur shirt` (320/mo) and
+  #8 for `funny dinosaur shirts` (170/mo). The dedicated `womens-shirts` collection (41 live) doesn't
+  appear in the top 14 for its own head term. Tag views have no copy of their own, so they can't be
+  rescued directly. **Proposal (owner, theme/collection — gated):** decide whether tag views should
+  canonicalize to the matching dedicated collection (`/women's` → `womens-shirts`,
+  `/men's` → `mens-dinosaur-t-shirts`) so the authority they've earned lands on a page we can write
+  copy for. Until then, every shirt term in the queue hits the "our page already ranks" rule.
+- **`dinosaur slippers` is 1,900/mo (Oct 2,900, Nov 3,600, Dec 4,400), SD 23, and we sell none.**
+  Largest unserved Christmas term found this month. Merchandising note only; too late for this
+  December unless a print-on-demand slipper can be listed within days.
+- **`womens-shirts` includes items that aren't women's shirts:** *Dinosaur Nuggies – Men's T-shirt*,
+  *Oviraptor* and other unisex adult shirts, and *Mamasaurus – Girl / Boy*. The unisex ones are
+  reasonable; the "Men's" title in a women's collection isn't.
+- **All women's tank top listings say "Dino-Mite Kids T-Shirt – Shipping Information"** above their
+  shipping block (checked on Pastel Dinos). Copy-paste header; product copy fix (gated).
+- **Women's relaxed tee listings have no size chart** (the unisex tees and the tanks do), and carry the
+  same page-wide `<style>` block as the ties (#45).
