@@ -248,6 +248,7 @@ Ubersuggest figure that justified it.
   tee S–3XL, unisex XS–4XL, stretch tank XS–XL) before designs. Order-by Dec 3 / Dec 4 / Dec 1.
   Secondaries: `dinosaur shirt for women` 480 SD 36; `mamasaurus shirt` 320 SD 25 (collection #12, a
   section here); `dinosaur mom shirt` 70 SD 27. BACKLOG #46.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/ladies-dinosaur-shirts
 ---
 
 ## 🎯 NEXT UP

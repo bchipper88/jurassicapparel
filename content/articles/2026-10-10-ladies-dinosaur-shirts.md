@@ -2,7 +2,10 @@
 title: "Ladies' Dinosaur Shirts: The Fits, the Fabrics, and Which Design Suits Whom"
 slug: ladies-dinosaur-shirts
 date: 2026-10-10
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/ladies-dinosaur-shirts
+shopify_article_id: "gid://shopify/Article/634934657174"
+published_at: 2026-10-10T11:16:06Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-10"
 target_keyword: "ladies dinosaur shirt"
 target_volume: 390
