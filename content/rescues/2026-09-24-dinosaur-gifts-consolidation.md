@@ -308,3 +308,11 @@ floor in the entire catalog — no size, no age, no taste risk, used every morni
 And if the person you're buying for is a whole family rather than one person, the
 [family dinosaur costume guide](/blogs/blog/family-dinosaur-costume-ideas) covers the matching-set
 version of this same problem.
+
+## Addendum 2026-10-11: `dinosaur lover gifts` folds in here
+
+`dinosaur lover gifts` — 210/mo, Nov 480, **Dec 590**, SD 18, $1.36 CPC (Ubersuggest, locId 2840,
+verified 2026-10-11). It was queued as a new post; checked against live posts first and folded in
+here instead. Four live guides already chase it, one titled *Dinosaur Christmas Gifts: The Ultimate
+2026 Guide for Dino Lovers*. The cluster this brief would consolidate now totals ~3,460/mo average
+and ~9,400/mo in December. The December window is ten weeks out, so the brief is getting more urgent, not less.

@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-10",
+  "pulled": "2026-10-11",
   "loc_id": 2840,
   "published": [
     {
@@ -744,20 +744,53 @@
         }
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/ladies-dinosaur-shirts"
+    },
+    {
+      "keyword": "dino nuggets shirt",
+      "volume": 260,
+      "peak_volume": 720,
+      "peak_month": "202503",
+      "sd": 12,
+      "cpc": 0.72,
+      "intent": "Transactional",
+      "verified": "2026-10-11",
+      "note": "Day 21 fallback after 'dinosaur lover gifts' folded into the gifts consolidation. Curve Dec 2024-Dec 2025: Mar 720, Apr 590, Dec 260-320, floor 110-170. SERP 2026-10-11: small-shop product pages (DA 4-32) + Amazon/Etsy, no blog post, nothing of ours. dinosaur-nuggie-clothing 22 ACTIVE / 26. Order-by Nov 25 (AOP men's) / Nov 30 (polo) / Dec 3 (cotton, kids).",
+      "slug": "dino-nuggets-shirt",
+      "date": "2026-10-11",
+      "day": 21,
+      "status": "draft",
+      "secondary": [
+        {
+          "keyword": "dino nugget shirt",
+          "volume": 210,
+          "sd": 15,
+          "cpc": 0.58
+        },
+        {
+          "keyword": "dino nugget pillow",
+          "volume": 1900,
+          "sd": 28,
+          "cpc": 0.27
+        },
+        {
+          "keyword": "dino nugget socks",
+          "volume": 30,
+          "sd": 19,
+          "cpc": 0.41
+        },
+        {
+          "keyword": "dino nugget hat",
+          "volume": 50,
+          "sd": 6,
+          "cpc": 0.3
+        }
+      ]
     }
   ],
   "next_up": [
     {
-      "keyword": "dinosaur lover gifts",
-      "volume": 210,
-      "peak_volume": 590,
-      "peak_month": "202512",
-      "sd": 18,
-      "cpc": 1.36,
-      "intent": "Commercial",
-      "verified": "2026-10-10",
-      "note": "Pulled 2026-10-10. Nov 480, Dec 590, floor 140-210. Gift cluster: before writing, check it isn't already served by a live gift guide in the dinosaur-gifts consolidation brief (content/rescues/2026-09-24-dinosaur-gifts-consolidation.md). If it is, fold it in there and fall back to a fresh keyword_suggestions sweep for an in-season stocked term.",
-      "slug": "dinosaur-lover-gifts"
+      "keyword": null,
+      "note": "Monday 2026-10-12: weekly rank pull first, then choose. Ruled out 2026-10-11: dinosaur pajama pants 210 SD 22 (Day 5 H2), dinosaur hat 1600 SD 20 (collection #3), dinosaur bucket hat 110 SD 15 (summer curve), dinosaur sweater 1000 SD 27 (no stock), dinosaur high tops 30, dinosaur dog bandana 20 SD 44."
     }
   ],
   "queued_seasonal": [
@@ -1098,6 +1131,19 @@
       "path": "/collections/adult-dinosaur-shirt/women%27s",
       "commercial": true,
       "note": "best single rescue: lowest SD, closest to page 1, commercial URL"
+    },
+    {
+      "keyword": "dinosaur lover gifts",
+      "volume": 210,
+      "peak_volume": 590,
+      "peak_month": "202512",
+      "sd": 18,
+      "cpc": 1.36,
+      "intent": "Commercial",
+      "verified": "2026-10-11",
+      "note": "Verified 2026-10-11 unchanged (210, SD 18, $1.36; Nov 480, Dec 590). Folded into the dinosaur-gifts consolidation brief: four live gift guides already chase this intent, one titled '...Guide for Dino Lovers'. Not written.",
+      "slug": "dinosaur-lover-gifts",
+      "status": "rescue"
     }
   ],
   "skipped": [

@@ -249,15 +249,27 @@ Ubersuggest figure that justified it.
   Secondaries: `dinosaur shirt for women` 480 SD 36; `mamasaurus shirt` 320 SD 25 (collection #12, a
   section here); `dinosaur mom shirt` 70 SD 27. BACKLOG #46.
   **LIVE:** https://jurassicapparel.com/blogs/blog/ladies-dinosaur-shirts
+- ✅ Published (2026-10-11) **dino nuggets shirt** — 260/mo | spring peak Mar 720 · Apr 590, Dec 260–320, floor 110–170
+  | SD 12 | $0.72 CPC | Transactional → `dino-nuggets-shirt`
+  Day 21. Fallback after `dinosaur lover gifts` was folded into the gifts consolidation (see 🔁 below).
+  Found in a fresh `keyword_suggestions` sweep, verified 2026-10-11 (locId 2840; curve is Dec 2024–Dec
+  2025, the latest Ubersuggest holds for this term). SERP 2026-10-11: product pages from small shops
+  (DA 4, 9, 19, 32) plus Amazon/Etsy; no blog post, no page of ours. Shopify `articles` query for
+  "nug": no post. `dinosaur-nuggie-clothing` 22 ACTIVE / 26. Angle: six tees in two fabrics (cotton
+  slogan tees XS–5XL vs all-over-print poly/spandex, men's XS–2XL, kid's 8–20, toddler 2T–7), then polo,
+  pillow, socks. Order-by Nov 25 / Nov 30 / Dec 3. Secondaries: `dino nugget shirt` 210 SD 15;
+  `dino nugget pillow` **1,900** SD 28 (section; BACKLOG #47); `dino nugget socks` 30; `dino nugget hat` 50 SD 6.
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur lover gifts** — 210/mo | Nov 480 · **Dec 590** · floor 140–210 | SD 18 | $1.36 CPC | Commercial → `dinosaur-lover-gifts`
-  Pulled 2026-10-10. Gift cluster, so check first that no live gift guide already serves it (see the
-  `dinosaur gifts` consolidation brief); if one does, fold it into that brief and run a fresh
-  `keyword_suggestions` sweep for an in-season, stocked term instead. Nearby: `dinosaur christmas
-  gifts` 110/mo (Nov 390, Dec 480, SD 21, no CPC); `t rex gifts` 70/mo (Dec 210, SD 21).
+- 🎯 **Monday 2026-10-12: weekly rank pull first, then choose.** The queue has no verified, in-season,
+  stocked, uncannibalised term left (see Day 21 update). Run `project_position_info` and pick the
+  target from what moved, or from a sweep seeded on stocked lines not yet covered (bucket hat, bibs,
+  dog bandanas, nuggie line extras). Checked and ruled out 2026-10-11: `dinosaur pajama pants` 210
+  (Dec 480, SD 22) is the Day 5 post's own H2; `dinosaur hat` 1,600 SD 20 is the #3 collection;
+  `dinosaur bucket hat` 110 SD 15 is a summer curve (Oct 70, Apr–Aug 140–170); `dinosaur sweater`
+  1,000 SD 27 has no stock (#18); `dinosaur high tops` 30; `dinosaur dog bandana` 20 SD 44.
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)
@@ -380,6 +392,10 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
   only one ACTIVE product has "birthday" in the title (*Happy Birthday – T-Rex*). BACKLOG #35.
 - ✅ dinosaur gifts for 3 year olds — published 2026-09-30 (Day 10, see ✅ Published), with the
   2- and 4-year-old variants as sections.
+- 🔁 **dinosaur lover gifts** — 210/mo | Nov 480 · Dec 590 · floor 140–170 | SD 18 | $1.36 CPC
+  **Folded into the gifts consolidation 2026-10-11** (verified that day, unchanged). Four live posts
+  already chase it, one with "Dino Lovers" in its title (*Dinosaur Christmas Gifts: The Ultimate 2026
+  Guide for Dino Lovers*). A fifth would deepen the cannibalisation the brief is trying to fix.
 - 🔁 best dinosaur gifts — 210/mo | SD 22 | $1.45 CPC (re-pulled 2026-09-24; SD moved 16→22)
   Served by the same live cluster. Folds into the consolidation.
 - 📋 unique dinosaur gifts — 90/mo | SD 20 | $1.02 CPC (re-pulled 2026-09-24) —

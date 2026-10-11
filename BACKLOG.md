@@ -1110,3 +1110,21 @@ Ubersuggest, locId 2840, 2026-10-10).
   shipping block (checked on Pastel Dinos). Copy-paste header; product copy fix (gated).
 - **Women's relaxed tee listings have no size chart** (the unisex tees and the tanks do), and carry the
   same page-wide `<style>` block as the ties (#45).
+
+## 47. Nuggie line: the two plain "Dino Nuggies" tees are DRAFT, the nugget pillow hides behind a generic handle, kids' nuggie tees have no size chart 🟡 MEDIUM — catalog / product SEO — added 2026-10-11
+
+Found while writing Day 21 (`dino nuggets shirt`, 260/mo, SD 12). Live Shopify, 2026-10-11.
+
+- **`Dino Nuggies T-Shirt` and `Dino Nuggies Stack T-Shirt` are DRAFT**, inside `dinosaur-nuggie-clothing`.
+  These are the two products most literally matching the search "dino nuggets shirt", and they
+  are cheaper than the live all-over tee ($19.95+/$24.99+ vs $34.99). If the drafts are
+  intentional, ignore; if not, publishing them strengthens the Day 21 post. **Owner, ~2 min.**
+  (The pins set is also DRAFT; the women's pajama shorts are #24.)
+- **`dino nugget pillow` is 1,900/mo (SD 28; `dino nugget pillows` another 2,400, SD 28)** and our
+  product sits at `/products/custom-shaped-pillow`, titled *Dino Nuggie – Dinosaur Pillow*. The
+  handle carries no keyword and the title says "nuggie", not "nugget". **Proposal (gated, product
+  copy/URL):** retitle to *Dino Nugget Pillow* and change the handle to `dino-nugget-pillow` with
+  Shopify's automatic redirect. Biggest single-product term found this month.
+- **The kid's (8–20) and toddler (2T–7) nuggie tees list no measurement chart**, unlike the men's
+  all-over tee. The Day 21 post tells parents to size up when unsure.
+- `dinosaur-nuggie-clothing` count moved 23 → 26 (22 ACTIVE). `data/catalog.json` updated.

@@ -748,9 +748,10 @@
       },
       {
         "handle": "dinosaur-nuggie-clothing",
-        "products": 23,
-        "active": 21,
-        "active_verified": "2026-10-01"
+        "products": 26,
+        "active": 22,
+        "active_verified": "2026-10-11",
+        "note": "2026-10-11: 26 products, 22 ACTIVE / 4 DRAFT (pins set, women's pajama shorts, Dino Nuggies Stack T-Shirt, Dino Nuggies T-Shirt)."
       }
     ]
   },
