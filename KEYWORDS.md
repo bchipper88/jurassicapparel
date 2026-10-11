@@ -259,6 +259,7 @@ Ubersuggest figure that justified it.
   slogan tees XS–5XL vs all-over-print poly/spandex, men's XS–2XL, kid's 8–20, toddler 2T–7), then polo,
   pillow, socks. Order-by Nov 25 / Nov 30 / Dec 3. Secondaries: `dino nugget shirt` 210 SD 15;
   `dino nugget pillow` **1,900** SD 28 (section; BACKLOG #47); `dino nugget socks` 30; `dino nugget hat` 50 SD 6.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dino-nuggets-shirt
 ---
 
 ## 🎯 NEXT UP

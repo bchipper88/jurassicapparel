@@ -2,7 +2,10 @@
 title: "Dino Nuggets Shirts: Every Nuggie Tee We Make, Sized and Priced for the Whole Family"
 slug: dino-nuggets-shirt
 date: 2026-10-11
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dino-nuggets-shirt
+shopify_article_id: "gid://shopify/Article/634939900054"
+published_at: 2026-10-11T11:14:14Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-11"
 target_keyword: "dino nuggets shirt"
 target_volume: 260
@@ -51,7 +54,7 @@ word_count: 1375
 
 Some people grow out of dinosaur chicken nuggets. Plenty don't, and a dino nuggets shirt is how
 they tell the world. We make nuggie tees for men, women, kids and toddlers, and they aren't the
-same shirt in four sizes: two are soft cotton with a printed graphic, two are stretchy all-over
+same shirt in four sizes: three are soft cotton with a printed graphic, three are stretchy all-over
 prints, and the sizing runs differ a lot.
 
 Everything below comes from the live product listings: fabric, sizes, prices and lead times. If a
