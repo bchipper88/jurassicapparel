@@ -1128,3 +1128,22 @@ Found while writing Day 21 (`dino nuggets shirt`, 260/mo, SD 12). Live Shopify, 
 - **The kid's (8–20) and toddler (2T–7) nuggie tees list no measurement chart**, unlike the men's
   all-over tee. The Day 21 post tells parents to size up when unsure.
 - `dinosaur-nuggie-clothing` count moved 23 → 26 (22 ACTIVE). `data/catalog.json` updated.
+
+## 48. All five organic baby bodysuits are ACTIVE but cannot be bought; baby listings carry typos and a duplicate 🟠 HIGH — catalog — added 2026-10-12
+
+Found while writing Day 22 (`infant dinosaur clothes`, 720/mo, SD 19). Live Shopify, 2026-10-12.
+
+- **Five organic bodysuits show on the storefront but every variant is `availableForSale: false`**
+  (inventory tracked, policy DENY, quantity 0): *T-Rex or Treat – Organic*, *Freshly Hatched, Ready to
+  Roar – Organic*, *Tiny, but Mighty-Saurus – Organic*, *Newborn-a-saurus – Organic*, *Queen of the
+  Jurassic – Organic* ($29.99 each). They sit in `dinosaur-baby-outfit`, `baby-dinosaur-bodysuits` and
+  `baby-girl-dinosaur-clothes`, so a shopper picks one and hits "sold out". The cotton versions are
+  untracked/available. **Owner:** either turn off inventory tracking (if print-on-demand like the rest)
+  or set them to DRAFT. Same pattern as #15. The Day 22 post does not link them.
+- **Typos in titles:** *Cute Dino Friends – Baby Dinosaur Bodysuirt* and *Dinosaur Baby Bodysuit – Pink
+  Pterodactly*. The "Bodysuirt" listing also looks like a duplicate of *Cute Dino Friends – Baby Dinosaur
+  Bodysuit* (same colors, sizes, price). Product copy (gated).
+- **Only one piece comes in a newborn size** (*Best Friends*, NB). Standard bodysuits start at 3–6m
+  (12–16 lbs). `newborn dinosaur clothes` is 480/mo, SD 19, and `dinosaur-baby-outfit` already ranks #19
+  for it. Merchandising note: an NB variant on the standard bodysuit blank would serve that demand.
+- `catalog.json` updated: `dinosaur-baby-outfit` 37 (35 ACTIVE), `baby-dinosaur-bodysuits` 20 (18 ACTIVE).

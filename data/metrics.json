@@ -142,6 +142,50 @@
         "2026-09-30": 9.33
       },
       "notes": "No new rank collection since the 2026-10-01 monthly snapshot: data is still complete only through 2026-09-30 (flagged has_gap/unstable), next update 2026-10-07. Differences from 10-01 (down 39->32, top_10 old 29->25) are the baseline date moving from 09-01 to 09-08, not new movement. Traffic estimate for Sep revised 1,014 -> 1,050; refdomains 1,221 -> 1,217. Moves of 5+ (09-08 -> latest): dinosaur hat 11->3, dinosaur purses 16->11, dinosaur handbag 36->31, dinosaur bucket hat 18->14; dinosaur blanket 23->28, dinosaur christmas ornament 29->35, dinosaur tote bag 8->13. Dropped out on the unstable 09-30 collection: dino shoes (1,900/mo, was #4), dinosaur sticker (2,900, was #44), women's dinosaur shoes (#1), dinosaur swimsuit women's (#2). Treat these as unconfirmed until the 10-07 collection; re-check next Monday."
+    },
+    {
+      "date": "2026-10-12",
+      "type": "weekly",
+      "source": "Ubersuggest domain_overview (locId 2840) + project_position_info (locId 2840, en, desktop, 2026-09-12 to 2026-10-12; rank data complete through 2026-10-07, next collection 2026-10-14)",
+      "domain_authority": 16,
+      "organic_keywords": 5283,
+      "est_monthly_organic_traffic": 1050,
+      "backlinks": 2624,
+      "referring_domains": 1217,
+      "follow_links": 2413,
+      "nofollow_links": 211,
+      "paid_traffic": 0,
+      "tracked_keywords": 91,
+      "rank_movement": {
+        "up": 23,
+        "down": 26,
+        "unchanged": 42
+      },
+      "tracked_bins": {
+        "top_3": {
+          "old": 23,
+          "new": 19
+        },
+        "top_10": {
+          "old": 24,
+          "new": 24
+        },
+        "top_100": {
+          "old": 35,
+          "new": 32
+        },
+        "not_ranking": {
+          "old": 9,
+          "new": 16
+        }
+      },
+      "average_position_series": {
+        "2026-09-15": 10.99,
+        "2026-09-23": 6.55,
+        "2026-09-30": 9.33,
+        "2026-10-07": 5.3
+      },
+      "notes": "First new rank collection since 09-30 (10-07, still flagged has_gap/has_unstable). Domain overview unchanged from 10-05 except backlinks 2,628->2,624, follow 2,416->2,413, nofollow 212->211; Ubersuggest has not published an October traffic month yet. Moves of 5+ (09-15 baseline -> latest): dinosaur backpacks (6,600/mo) 20->2 on 10-07, the day the Day 17 backpack post went live; dinosaur handbag 31->15 (10-07); adult dinosaur shirt 11->4 (10-07); dinosaur hat 16->3; dinosaurs clothes 15->9; dinosaur sweater 27->20; dinosaur bucket hat 19->14; dinosaur swimsuit womens 2->11; dinosaur christmas ornament 25->35 (09-30). Out of the top 100 on the 10-07 collection: dino shoes (1,900, was #2), dinosaur sticker (2,900, was #29), dinosaur converse adults (390, #7), dino shoes adults, women's dinosaur shoes, dinosaur skirt, womens dinosaur swimsuit. dino shoes has now dropped on two consecutive collections (09-30, 10-07) while domain_overview still shows /collections/shoes-adult #2 for 'dinosaur shoes' and /collections/mens-unisex-shoes #16 for 'dino shoe'. Average position 5.3 is the best in the series but is computed over fewer ranking keywords (not_ranking 9->16), so read it with that."
     }
   ],
   "traffic_history": {
@@ -169,6 +213,14 @@
         "previous": 29,
         "previous_date": "2026-09-01",
         "top_3": 22
+      },
+      {
+        "date": "2026-10-12",
+        "positions_4_10": 24,
+        "previous": 24,
+        "previous_date": "2026-09-15",
+        "top_3": 19,
+        "note": "positions_4_10 counted from keywords whose latest position is 4-10 (24); top_3 fell 23->19 mostly from keywords dropping out of the top 100, not sliding to 4-10."
       }
     ]
   },

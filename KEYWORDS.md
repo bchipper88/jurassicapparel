@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -260,17 +260,26 @@ Ubersuggest figure that justified it.
   pillow, socks. Order-by Nov 25 / Nov 30 / Dec 3. Secondaries: `dino nugget shirt` 210 SD 15;
   `dino nugget pillow` **1,900** SD 28 (section; BACKLOG #47); `dino nugget socks` 30; `dino nugget hat` 50 SD 6.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dino-nuggets-shirt
+
+- ✅ Published (2026-10-12) **infant dinosaur clothes** — 720/mo | Nov 1,000 · Dec 1,000 · **Jan 1,600** | SD 19
+  | $0.88 CPC | Transactional → `infant-dinosaur-clothes`
+  Day 22. Found in a `keyword_suggestions` sweep after the Monday rank pull (locId 2840, verified
+  2026-10-12; curve Nov 2024–Nov 2025, floor 390–590). Winter peak is 3–12 weeks out. SERP for
+  `newborn dinosaur clothes`: underthenile (DA 37) #1, then Carter's, Gap, Pinterest, Amazon; our
+  `/collections/dinosaur-baby-outfit` sits #19, so this post links into it rather than competing. No
+  blog post on baby clothes (Shopify `articles` query). Angle: size first (standard bodysuits start
+  at 3–6m; *Best Friends* is the only NB piece), then bodysuits by buyer, the baby tee, two kinds of
+  bibs, a shower bundle, lead times. Organic bodysuits not linked: all 5 unbuyable (BACKLOG #48).
+  Secondaries: `newborn dinosaur clothes` 480 SD 19 $0.75; `dinosaur baby onesie` and `dinosaur baby
+  clothes` return 0.
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **Monday 2026-10-12: weekly rank pull first, then choose.** The queue has no verified, in-season,
-  stocked, uncannibalised term left (see Day 21 update). Run `project_position_info` and pick the
-  target from what moved, or from a sweep seeded on stocked lines not yet covered (bucket hat, bibs,
-  dog bandanas, nuggie line extras). Checked and ruled out 2026-10-11: `dinosaur pajama pants` 210
-  (Dec 480, SD 22) is the Day 5 post's own H2; `dinosaur hat` 1,600 SD 20 is the #3 collection;
-  `dinosaur bucket hat` 110 SD 15 is a summer curve (Oct 70, Apr–Aug 140–170); `dinosaur sweater`
-  1,000 SD 27 has no stock (#18); `dinosaur high tops` 30; `dinosaur dog bandana` 20 SD 44.
+- 🎯 **vintage dinosaur shirt** — 260/mo | SD 23 | $0.42 CPC (from the 2026-10-12 `keyword_suggestions`
+  sweep, locId 2840; curve not yet pulled). Day 23 candidate. Before writing: pull the curve, confirm we
+  stock retro/vintage-style designs, and check no tag view of ours already ranks (#46). Fallbacks from the
+  same sweep: `retro dinosaur shirt` 210 SD 21; `long sleeve dinosaur shirt` 110 SD 18.
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)

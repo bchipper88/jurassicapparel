@@ -253,9 +253,10 @@
       {
         "handle": "dinosaur-baby-outfit",
         "title": "Dinosaur Baby Outfit",
-        "products": 36,
+        "products": 37,
         "active": 35,
-        "active_verified": "2026-10-01"
+        "active_verified": "2026-10-12",
+        "note": "5 ACTIVE organic bodysuits are unbuyable (BACKLOG #48)"
       },
       {
         "handle": "dinosaur-shoes-for-kids",
@@ -281,9 +282,10 @@
       {
         "handle": "baby-dinosaur-bodysuits",
         "title": "Baby Dinosaur Bodysuits",
-        "products": 19,
+        "products": 20,
         "active": 18,
-        "active_verified": "2026-10-01"
+        "active_verified": "2026-10-12",
+        "note": "5 of the 18 ACTIVE are organic bodysuits that cannot be bought (BACKLOG #48)"
       },
       {
         "handle": "toddler-shirts",
@@ -665,7 +667,7 @@
         "handle": "dinosaur-baby-bibs",
         "products": 5,
         "active": 5,
-        "active_verified": "2026-10-01"
+        "active_verified": "2026-10-12"
       },
       {
         "handle": "dinosaur-laptop-bags",

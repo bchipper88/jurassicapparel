@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-11",
+  "pulled": "2026-10-12",
   "loc_id": 2840,
   "published": [
     {
@@ -788,12 +788,51 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dino-nuggets-shirt",
       "shopify_article_id": "gid://shopify/Article/634939900054",
       "published_at": "2026-10-11T11:14:14Z"
+    },
+    {
+      "keyword": "infant dinosaur clothes",
+      "volume": 720,
+      "peak_volume": 1600,
+      "peak_month": "202501",
+      "sd": 19,
+      "cpc": 0.88,
+      "intent": "Transactional",
+      "verified": "2026-10-12",
+      "note": "Day 22. Found in a keyword_suggestions sweep on 'dinosaur shirt'/'dinosaur clothes' after the Monday rank pull. Curve Nov 2024-Nov 2025: Nov 1,000, Dec 1,000, Jan 1,600, floor 390-590, Oct 2025 390, Nov 2025 720. dinosaur-baby-outfit ranks #19 for 'newborn dinosaur clothes' (SERP 2026-10-12); a post that links into it supports the collection rather than competing with it. No blog post on baby clothes (Shopify articles query). Standard bodysuits 3-6m to 18-24m; Best Friends is the only NB size. All 5 organic bodysuits are ACTIVE but unbuyable (BACKLOG #48), not linked.",
+      "slug": "infant-dinosaur-clothes",
+      "date": "2026-10-12",
+      "day": 22,
+      "status": "draft",
+      "secondary": [
+        {
+          "keyword": "newborn dinosaur clothes",
+          "volume": 480,
+          "sd": 19,
+          "cpc": 0.75
+        },
+        {
+          "keyword": "dinosaur baby onesie",
+          "volume": 0,
+          "sd": 12,
+          "cpc": 0
+        },
+        {
+          "keyword": "dinosaur baby clothes",
+          "volume": 0,
+          "sd": 12,
+          "cpc": 0
+        }
+      ]
     }
   ],
   "next_up": [
     {
-      "keyword": null,
-      "note": "Monday 2026-10-12: weekly rank pull first, then choose. Ruled out 2026-10-11: dinosaur pajama pants 210 SD 22 (Day 5 H2), dinosaur hat 1600 SD 20 (collection #3), dinosaur bucket hat 110 SD 15 (summer curve), dinosaur sweater 1000 SD 27 (no stock), dinosaur high tops 30, dinosaur dog bandana 20 SD 44."
+      "keyword": "vintage dinosaur shirt",
+      "volume": 260,
+      "sd": 23,
+      "cpc": 0.42,
+      "verified": "2026-10-12 (keyword_suggestions only; curve not yet pulled)",
+      "note": "Day 23 candidate. Needs keyword_overview curve, an inventory check for retro/vintage-style designs, and a check that no tag view of ours already ranks (#46). Fallbacks from the same sweep: retro dinosaur shirt 210 SD 21; long sleeve dinosaur shirt 110 SD 18."
     }
   ],
   "queued_seasonal": [
