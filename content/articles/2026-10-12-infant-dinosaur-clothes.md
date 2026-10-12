@@ -2,7 +2,10 @@
 title: "Infant Dinosaur Clothes: Every Baby Bodysuit, Tee and Bib We Make, Sized From Newborn Up"
 slug: infant-dinosaur-clothes
 date: 2026-10-12
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/infant-dinosaur-clothes
+shopify_article_id: "gid://shopify/Article/634942324886"
+published_at: 2026-10-12T11:15:58Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-12"
 target_keyword: "infant dinosaur clothes"
 target_volume: 720
@@ -195,7 +198,7 @@ from there with shirts and more.
 
 **How fast will it arrive?**
 Most bodysuits take 3–5 business days to make and 3–6 to ship within the US. Check the shipping
-block on each listing; the bibs take longer.
+block on each listing; the polyester bib takes longer.
 
 ## Where to start
 
