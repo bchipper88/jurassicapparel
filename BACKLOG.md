@@ -1147,3 +1147,47 @@ Found while writing Day 22 (`infant dinosaur clothes`, 720/mo, SD 19). Live Shop
   (12–16 lbs). `newborn dinosaur clothes` is 480/mo, SD 19, and `dinosaur-baby-outfit` already ranks #19
   for it. Merchandising note: an NB variant on the standard bodysuit blank would serve that demand.
 - `catalog.json` updated: `dinosaur-baby-outfit` 37 (35 ACTIVE), `baby-dinosaur-bodysuits` 20 (18 ACTIVE).
+
+## 49. Shirt drafts and a dead link: an unpublished retro-shirt post, five more unpublished shirt drafts, a live post linking a collection that doesn't exist, an unbuyable phone case 🟡 MEDIUM — blog / catalog — added 2026-10-13
+
+Found while writing Day 23 (`retro dinosaur shirt`, 210/mo, SD 21). Live Shopify, 2026-10-13.
+
+- **Live post links a 404.** *Best Dinosaur Shirts for Adults in 2026: T-Rex, Raptor & More*
+  (`gid://shopify/Article/578537062550`, published 2026-02-28) links `/collections/dinosaur-hoodies`
+  twice (the "Shop" line under Dinosaur Hoodies and the hoodie card in its CTA grid).
+  `collectionByHandle("dinosaur-hoodies")` returns null; the real handles are `dinosaur-hoodie` (55
+  live) and `adult-dinosaur-hoodie` (48). **Owner (live page edit, gated):** change both links to
+  `/collections/adult-dinosaur-hoodie`, or add a URL redirect `/collections/dinosaur-hoodies` →
+  `/collections/dinosaur-hoodie`, which fixes it with no copy edit. The same post also has its closing
+  footer paragraphs inside an unclosed `<ol>`. Five-minute fix.
+- **Unpublished retro draft.** *Retro Dinosaur T-Shirt: The Ultimate Guide to Vintage Dino Style*
+  (`gid://shopify/Article/578560688278`, created 2026-03-07, never published). It talks up
+  "distressed textures"; I found no product described as distressed. Today's `retro-dinosaur-shirts`
+  post covers the topic from the live listings. **Recommend deleting it, or leaving it unpublished.**
+  Publishing it now would split `retro dinosaur shirt` across two pages.
+- **Five more unpublished shirt drafts in `blog`:** *10 Best Dinosaur Shirts for Adults*, *Dinosaur
+  T-Shirt Guide: From Vintage Classics to Modern Designs (2026)*, *Dinosaur T-Shirt: The Complete
+  Guide...*, *Dinosaur Shirt for Kids: The Complete Guide...*, and *Dinosaur Jr T-Shirt Guide: The
+  Ultimate Band Merch for Alt-Rock Fans*. We don't sell Dinosaur Jr band merch, so that one should
+  never go live. Same advice as #42: delete or leave unpublished. Owner's call; I haven't touched any.
+- **Unbuyable live product:** *Crazy 90's – Dinosaur Samsung Case* is ACTIVE, but the variants returned
+  (Galaxy S10, S10e, S10 Plus) all show `availableForSale: false`, while the matching iPhone case is
+  available. Same pattern as #15 and #48: turn off tracking or draft the dead variants.
+
+## 50. Jewelry and long sleeves: 2,100+/mo of easy demand with nothing live to sell 🟠 HIGH — merchandising — added 2026-10-13
+
+Ubersuggest, locId 2840, 2026-10-13, pulled while choosing the Day 24 target.
+
+| Keyword | Vol/mo | Peak | SD | CPC | What we have live |
+|---|---|---|---|---|---|
+| dinosaur earrings | **1,300** | Jul/Dec 1,600 | **16** | $0.84 | `dinosaur-earrings`: 0 ACTIVE of 2 |
+| dinosaur necklace | 720 | Dec 1,300 | 30 | $0.99 | `dinosaur-jewelry`: 1 ACTIVE of 6 (a jewelry box) |
+| long sleeve dinosaur shirt | 110 | Aug 260, Oct–Nov 170 | 18 | $0.81 | no long-sleeve tee |
+
+`dinosaur earrings` is the easiest high-volume term I've pulled this month (lower SD than anything
+we've published), and it peaks in December. **Proposal (owner, merchandising):** if the print
+provider offers earrings or pendant necklaces, a small run of existing designs (Retro Rex, the 90's
+Dinos print) live by mid-November would let a post catch the December peak. Same for a long-sleeve
+tee blank in the adult and kids lines. Until then all three stay ⏭️ in `KEYWORDS.md`.
+Cheapest first step: the two earrings already exist as **DRAFT** (`catalog.json`, verified
+2026-10-01). If they can still be fulfilled, setting them ACTIVE is a one-click test.

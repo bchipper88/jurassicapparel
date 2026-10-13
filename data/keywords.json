@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-12",
+  "pulled": "2026-10-13",
   "loc_id": 2840,
   "published": [
     {
@@ -826,16 +826,42 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/infant-dinosaur-clothes",
       "shopify_article_id": "gid://shopify/Article/634942324886",
       "published_at": "2026-10-12T11:15:58Z"
+    },
+    {
+      "keyword": "retro dinosaur shirt",
+      "volume": 210,
+      "peak_volume": 320,
+      "peak_month": "202507",
+      "sd": 21,
+      "cpc": 0.29,
+      "intent": "Transactional",
+      "verified": "2026-10-13",
+      "note": "Day 23. Fallback for 'vintage dinosaur shirt', whose SERP has our /products/retro-rex at #8 with the phrase in its title. Retro SERP 2026-10-13: no page of ours, no editorial guide. Unpublished March 2026 draft on the same topic (BACKLOG #49) never live. 8 retro-style shirts ACTIVE: Retro Rex, Mamasaurus Sunset, 90's Dinos tank and polo, Neon T-Rex, Sunset T-Rex, T-Rex Sunset Beach, Multicolor Skeleton.",
+      "slug": "retro-dinosaur-shirts",
+      "date": "2026-10-13",
+      "day": 23,
+      "status": "draft",
+      "secondary": [
+        {
+          "keyword": "vintage dinosaur shirt",
+          "volume": 260,
+          "sd": 23,
+          "cpc": 0.42
+        }
+      ]
     }
   ],
   "next_up": [
     {
-      "keyword": "vintage dinosaur shirt",
-      "volume": 260,
-      "sd": 23,
-      "cpc": 0.42,
-      "verified": "2026-10-12 (keyword_suggestions only; curve not yet pulled)",
-      "note": "Day 23 candidate. Needs keyword_overview curve, an inventory check for retro/vintage-style designs, and a check that no tag view of ours already ranks (#46). Fallbacks from the same sweep: retro dinosaur shirt 210 SD 21; long sleeve dinosaur shirt 110 SD 18."
+      "keyword": "t rex shirt",
+      "volume": 480,
+      "peak_volume": 720,
+      "peak_month": "202506",
+      "sd": 22,
+      "cpc": 0.65,
+      "intent": "Transactional",
+      "verified": "2026-10-13",
+      "note": "Day 24 candidate. Curve Jun 2025-Jun 2026: Jun-Jul 720, Nov 590, Dec-Feb 390. Before writing: SERP + own-ranking check (#46), overlap with live Feb 2026 'Best Dinosaur Shirts for Adults in 2026: T-Rex, Raptor & More', count ACTIVE T-Rex tees. Fallback: dinosaur tumbler 170/mo SD 25 $0.64 (Dec 260), needs inventory count."
     }
   ],
   "queued_seasonal": [
@@ -1356,6 +1382,70 @@
       "verified": "2026-10-10",
       "date": "2026-10-10",
       "reason": "Only beanie is DRAFT; dinosaur-beanie collection empty (BACKLOG #1). Nov 880 / Dec 1,000."
+    },
+    {
+      "keyword": "vintage dinosaur shirt",
+      "volume": 260,
+      "sd": 23,
+      "cpc": 0.42,
+      "verified": "2026-10-13",
+      "reason": "/products/retro-rex already ranks #8 with the phrase in its title; carried as secondary in retro-dinosaur-shirts."
+    },
+    {
+      "keyword": "long sleeve dinosaur shirt",
+      "volume": 110,
+      "sd": 18,
+      "cpc": 0.81,
+      "verified": "2026-10-13",
+      "reason": "No long-sleeve dinosaur tee in the catalog. BACKLOG #50."
+    },
+    {
+      "keyword": "dinosaur earrings",
+      "volume": 1300,
+      "sd": 16,
+      "cpc": 0.84,
+      "verified": "2026-10-13",
+      "reason": "dinosaur-earrings 0 ACTIVE of 2; dinosaur-jewelry 1 of 6. BACKLOG #50."
+    },
+    {
+      "keyword": "dinosaur necklace",
+      "volume": 720,
+      "sd": 30,
+      "cpc": 0.99,
+      "verified": "2026-10-13",
+      "reason": "Same jewelry inventory gap. BACKLOG #50."
+    },
+    {
+      "keyword": "dinosaur skirt",
+      "volume": 110,
+      "sd": 24,
+      "cpc": 0.79,
+      "verified": "2026-10-13",
+      "reason": "Spring/summer curve (Apr 170, Jan 50); schedule with dinosaur dress in February."
+    },
+    {
+      "keyword": "dinosaur laptop bag",
+      "volume": 10,
+      "sd": 44,
+      "cpc": 0,
+      "verified": "2026-10-13",
+      "reason": "No volume."
+    },
+    {
+      "keyword": "dinosaur dog bandana",
+      "volume": 20,
+      "sd": 44,
+      "cpc": 0.61,
+      "verified": "2026-10-13",
+      "reason": "No volume."
+    },
+    {
+      "keyword": "triceratops shirt",
+      "volume": 50,
+      "sd": 14,
+      "cpc": 0.6,
+      "verified": "2026-10-13",
+      "reason": "Too small for a page; section candidate in a t rex shirt post."
     }
   ],
   "rescue_content": [

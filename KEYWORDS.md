@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12, 2026-10-13.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -273,14 +273,31 @@ Ubersuggest figure that justified it.
   Secondaries: `newborn dinosaur clothes` 480 SD 19 $0.75; `dinosaur baby onesie` and `dinosaur baby
   clothes` return 0.
   **LIVE:** https://jurassicapparel.com/blogs/blog/infant-dinosaur-clothes
+
+- ✅ Published (2026-10-13) **retro dinosaur shirt** — 210/mo | evergreen 170–320 (Jul 320, Oct 170) | SD 21
+  | $0.29 CPC | Transactional → `retro-dinosaur-shirts`
+  Day 23. Fallback for the queued `vintage dinosaur shirt` (260/mo, SD 23, flat 170–320, verified
+  2026-10-13): its SERP (snapshot 2026-09-10) has **our `/products/retro-rex` at #8**, titled "Vintage
+  Dinosaur Shirt - Retro Rex", so a post on that exact phrase would compete with our own product page.
+  `retro dinosaur shirt` SERP (fresh, 2026-10-13): Redbubble, AMNH, Walmart, Reddit, Pinterest, Etsy,
+  Target; no page of ours and no editorial guide. The post carries "vintage" as a secondary and links
+  Retro Rex first, which supports the #8 page. Collision check: Shopify holds an **unpublished** March
+  2026 draft, *Retro Dinosaur T-Shirt: The Ultimate Guide to Vintage Dino Style* (never live, ranks for
+  nothing; Day 16 precedent), so no live page owns the topic: BACKLOG #49. 8 retro-style shirts, all
+  ACTIVE and availableForSale: Retro Rex (adult S–2XL, runs big), Mamasaurus Sunset (women S–3XL),
+  90's Dinos tank (XS–XL) and polo (XS–3XL, runs small), kids' Neon T-Rex (runs small), Sunset T-Rex,
+  T-Rex Sunset Beach, Multicolor Skeleton (8–20). Order-by Nov 30 / Dec 1 / Dec 3 / Dec 4.
+  Secondaries: `vintage dinosaur shirt` 260 SD 23 $0.42.
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **vintage dinosaur shirt** — 260/mo | SD 23 | $0.42 CPC (from the 2026-10-12 `keyword_suggestions`
-  sweep, locId 2840; curve not yet pulled). Day 23 candidate. Before writing: pull the curve, confirm we
-  stock retro/vintage-style designs, and check no tag view of ours already ranks (#46). Fallbacks from the
-  same sweep: `retro dinosaur shirt` 210 SD 21; `long sleeve dinosaur shirt` 110 SD 18.
+- 🎯 **t rex shirt** — 480/mo | Jun–Jul 720, Nov 590, Dec–Feb 390 | SD 22 | $0.65 CPC | Transactional
+  (keyword_overview, locId 2840, 2026-10-13; curve Jun 2025–Jun 2026). Day 24 candidate. Before writing:
+  pull the SERP and check whether one of our product or tag pages already ranks (#46); check overlap with
+  the live Feb 2026 post *Best Dinosaur Shirts for Adults in 2026: T-Rex, Raptor & More* (it is a
+  general adult-shirt list, "T-Rex" only in the title); count ACTIVE T-Rex tees across adult/kids.
+  Fallback: `dinosaur tumbler` 170/mo SD 25 $0.64 (Dec 260), needs an inventory count.
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)
@@ -478,6 +495,20 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
 ---
 
 ## ⏭️ SKIPPED
+
+- ⏭️ **vintage dinosaur shirt** — 260/mo | flat 170–320 | SD 23 | $0.42 CPC — skipped 2026-10-13 as a
+  primary: `/products/retro-rex` already ranks #8 with the phrase in its title. Carried as a secondary
+  in the Day 23 `retro-dinosaur-shirts` post, which links that page.
+- ⏭️ **long sleeve dinosaur shirt** — 110/mo | Aug 260, Oct–Nov 170, May–Jun 50 | SD 18 | $0.81 CPC —
+  skipped 2026-10-13: no long-sleeve dinosaur tee in the catalog (Shopify search, ACTIVE). BACKLOG #50.
+- ⏭️ **dinosaur earrings** — **1,300/mo** | Jul/Dec 1,600, floor 880 | **SD 16** | $0.84 CPC — skipped
+  2026-10-13 on inventory: `dinosaur-earrings` has 0 ACTIVE of 2, `dinosaur-jewelry` 1 of 6. The
+  easiest high-volume term found this month. BACKLOG #50.
+- ⏭️ **dinosaur necklace** — 720/mo | Dec 1,300 | SD 30 | $0.99 CPC — skipped 2026-10-13, same
+  reason. BACKLOG #50.
+- ⏭️ dinosaur laptop bag 10/mo SD 44; dinosaur dog bandana 20/mo SD 44; triceratops shirt 50/mo SD 14;
+  dinosaur skirt 110/mo SD 24 (spring/summer curve, Apr 170, Jan 50: schedule with `dinosaur dress`
+  in February). All pulled 2026-10-13.
 
 - ⏭️ **dinosaur hat** — 1,600/mo | Oct 2,400 | SD 20 | $0.46 CPC *(skipped 2026-10-04)*
   The numbers held (re-verified today, unchanged), but rank tracking shows
