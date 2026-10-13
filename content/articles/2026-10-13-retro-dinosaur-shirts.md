@@ -2,7 +2,10 @@
 title: "Retro Dinosaur Shirts: Our 80s and 90s Designs, From Retro Rex to Sunset Tees"
 slug: retro-dinosaur-shirts
 date: 2026-10-13
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/retro-dinosaur-shirts
+shopify_article_id: "gid://shopify/Article/634956611734"
+published_at: 2026-10-13T11:16:33Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-13"
 target_keyword: "retro dinosaur shirt"
 target_volume: 210
@@ -101,7 +104,7 @@ for 15 oz), or the plain [Retro Rex mug](/products/retro-rex-mug) for $19.99–$
 For more adult designs that aren't specifically retro, the full
 [adult dinosaur shirt collection](/collections/adult-dinosaur-shirt) has about a hundred.
 
-## Retro for women: sunsets and 90s neon
+## Retro for women: sunsets and 90s prints
 
 Two very different shirts, so pick by fit first.
 
@@ -157,7 +160,7 @@ same sunset look comes as a hoodie: the
 [T-Rex Retro Sunset hoodie](/products/t-rex-retro-sunset-adult-dinosaur-hoodie) is $44.99–$46.99
 in colors including Black, Navy Blazer and Purple, and there's a Retro Triceratops Sunset version at the same price.
 The [adult dinosaur hoodie collection](/collections/adult-dinosaur-hoodie) has those plus the
-all-over 90s prints. Our [dinosaur hoodie buying guide](/blogs/blog/dinosaur-hoodie-buying-guide)
+Crazy 90's and Neon 90's hoodies. Our [dinosaur hoodie buying guide](/blogs/blog/dinosaur-hoodie-buying-guide)
 explains the difference between the printed-front hoodies and the all-over ones.
 
 ## Ordering for Christmas
@@ -193,9 +196,9 @@ the skeleton tee give measurements in their size charts. The sunset tees are rel
 3XL, in the Mamasaurus Sunset tee and the 90's Dinos polo. Retro Rex stops at 2XL.
 
 **Is there a long-sleeve version?**
-Not right now. Every retro design here is short-sleeved; for warmth, go for the matching hoodie.
+Not right now. Every retro design here is short-sleeved; for warmth, go for one of the retro hoodies.
 
 ## Where to start
 
 If you're buying one retro dinosaur shirt for a grown-up and don't know their taste, get
-[Retro Rex](/products/retro-rex) in Heather Grey, one size down from what they usually wear.
+[Retro Rex](/products/retro-rex) in Heather Grey, keeping in mind that the listing says it runs big.

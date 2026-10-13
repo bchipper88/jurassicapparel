@@ -840,7 +840,7 @@
       "slug": "retro-dinosaur-shirts",
       "date": "2026-10-13",
       "day": 23,
-      "status": "draft",
+      "status": "published",
       "secondary": [
         {
           "keyword": "vintage dinosaur shirt",
@@ -848,7 +848,8 @@
           "sd": 23,
           "cpc": 0.42
         }
-      ]
+      ],
+      "live_url": "https://jurassicapparel.com/blogs/blog/retro-dinosaur-shirts"
     }
   ],
   "next_up": [

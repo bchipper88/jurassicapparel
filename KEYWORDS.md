@@ -288,6 +288,7 @@ Ubersuggest figure that justified it.
   90's Dinos tank (XS–XL) and polo (XS–3XL, runs small), kids' Neon T-Rex (runs small), Sunset T-Rex,
   T-Rex Sunset Beach, Multicolor Skeleton (8–20). Order-by Nov 30 / Dec 1 / Dec 3 / Dec 4.
   Secondaries: `vintage dinosaur shirt` 260 SD 23 $0.42.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/retro-dinosaur-shirts
 ---
 
 ## 🎯 NEXT UP
