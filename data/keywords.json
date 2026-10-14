@@ -864,7 +864,7 @@
       "slug": "t-rex-shirts",
       "date": "2026-10-14",
       "day": 24,
-      "status": "draft",
+      "status": "published",
       "secondary": [
         {
           "keyword": "t rex t shirt",
@@ -872,7 +872,10 @@
           "sd": 17,
           "cpc": 0.77
         }
-      ]
+      ],
+      "live_url": "https://jurassicapparel.com/blogs/blog/t-rex-shirts",
+      "shopify_article_id": "gid://shopify/Article/634963493014",
+      "published_at": "2026-10-14T11:13:42Z"
     }
   ],
   "next_up": [

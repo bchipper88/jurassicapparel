@@ -300,6 +300,7 @@ Ubersuggest figure that justified it.
   owns the handle or "T-Rex shirt"; the Feb 2026 *Best Dinosaur Shirts for Adults* list is general.
   45 ACTIVE T-Rex shirts; 13 linked, all `availableForSale`. Biggest sizes 5XL (Dadasaurus Rex,
   Winter Forest, T-Rex or Treat). Order-by Dec 3 / Dec 4. Duplicate T-Rex listings: BACKLOG #51.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/t-rex-shirts
 ---
 
 ## 🎯 NEXT UP

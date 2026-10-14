@@ -2,7 +2,10 @@
 title: "T-Rex Shirts: Our Tyrannosaurus Tees for Adults, Kids and Toddlers"
 slug: t-rex-shirts
 date: 2026-10-14
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/t-rex-shirts
+shopify_article_id: "gid://shopify/Article/634963493014"
+published_at: 2026-10-14T11:13:42Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-14"
 target_keyword: "t rex shirt"
 target_volume: 480
@@ -121,7 +124,7 @@ If you like the 80s look, Retro Rex lives in our separate guide to
 ## A T-Rex shirt for dad
 
 [Cool Dadasaurus Rex](/products/cool-dadasaurus-rex-dinosaur-t-shirt) is the one for a dad who will
-wear a dinosaur shirt to the school pickup and not mind. It has the widest size run of anything here,
+wear a dinosaur shirt to the school pickup and not mind. It shares the widest size run in this guide,
 **XS through 5XL**, in eight colors including Olive, Heather Dust and Steel Blue, $24.99. Combed
 ring-spun cotton, 4.2 oz, pre-shrunk. One limit the listing spells out: it can't ship to South Korea,
 Hong Kong, Taiwan or Japan.
@@ -184,8 +187,9 @@ only, and tracking arrives by email once the order ships.
 Samurai tees go to 4XL; Rex's First Pullup, Chillin Rex and Christmas Arms Rex stop at 3XL.
 
 **Do they run true to size?**
-Rex's First Pullup, Chillin Rex and Christmas Arms Rex say they run bigger than usual. The others
-give a size chart; compare it against a shirt that already fits.
+Rex's First Pullup, Chillin Rex and Christmas Arms Rex say they run bigger than usual. The plain
+T-Rex, Half Moon, Samurai and kids' listings include a size chart; compare it against a shirt that
+already fits.
 
 **Can I get adult and kids' T-Rex shirts that go together?**
 Yes. There's a T-Rex tee under the same name in adult XS–4XL and youth S–XL, and T-Rex or Treat
