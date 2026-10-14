@@ -850,9 +850,7 @@
         }
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/retro-dinosaur-shirts"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "t rex shirt",
       "volume": 480,
@@ -861,8 +859,33 @@
       "sd": 22,
       "cpc": 0.65,
       "intent": "Transactional",
-      "verified": "2026-10-13",
-      "note": "Day 24 candidate. Curve Jun 2025-Jun 2026: Jun-Jul 720, Nov 590, Dec-Feb 390. Before writing: SERP + own-ranking check (#46), overlap with live Feb 2026 'Best Dinosaur Shirts for Adults in 2026: T-Rex, Raptor & More', count ACTIVE T-Rex tees. Fallback: dinosaur tumbler 170/mo SD 25 $0.64 (Dec 260), needs inventory count."
+      "verified": "2026-10-14",
+      "note": "Day 24. Re-verified unchanged. SERP 2026-10-14 split with T. Rex the band (Merchbar #1, Good Records #4, Walmart #5, Redbubble #8); dinosaur-tee results Zazzle, BecauseTees, Bonfire, Amazon, Etsy, TeePublic. No page of ours, no editorial guide. No colliding post. 45 ACTIVE T-Rex shirts, 13 linked. Duplicate listings BACKLOG #51.",
+      "slug": "t-rex-shirts",
+      "date": "2026-10-14",
+      "day": 24,
+      "status": "draft",
+      "secondary": [
+        {
+          "keyword": "t rex t shirt",
+          "volume": 480,
+          "sd": 17,
+          "cpc": 0.77
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur tumbler",
+      "volume": 170,
+      "peak_volume": 260,
+      "peak_month": "202512",
+      "sd": 25,
+      "cpc": 0.64,
+      "intent": "Transactional",
+      "verified": "2026-10-14",
+      "note": "Day 25. Curve Aug 2025-Aug 2026: Dec 260, Aug 210, Jan/May 110. Mid-Oct is 7-8 weeks ahead of the Dec peak. 4 ACTIVE tumblers (Dinosaur Mom, Serene Stegosaurus, Pastel Sunrise, Dinosaurs Never Had Coffee). Before writing: SERP, collection handle/count, capacity, overlap with the mugs post."
     }
   ],
   "queued_seasonal": [

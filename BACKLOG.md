@@ -1191,3 +1191,22 @@ Dinos print) live by mid-November would let a post catch the December peak. Same
 tee blank in the adult and kids lines. Until then all three stay ⏭️ in `KEYWORDS.md`.
 Cheapest first step: the two earrings already exist as **DRAFT** (`catalog.json`, verified
 2026-10-01). If they can still be fulfilled, setting them ACTIVE is a one-click test.
+
+## 51. T-Rex shirts: two duplicate T-Rex listings, a "girl's wardrobe" line on the boys'/kids' tees 🟢 LOW — catalog / product copy — added 2026-10-14
+
+Found while counting T-Rex tees for the Day 24 `t-rex-shirts` post (Shopify, 2026-10-14).
+
+- **Duplicate listings.** Two products are both titled *T-Rex - Adult Dinosaur Shirt*
+  (`t-rex-adult-dinosaur-shirt`, 9 colors, and `t-rex-adult-dinosaur-shirt-1`, size only, no color
+  option), and two are both *T-Rex - Kids Dinosaur Shirt* (`t-rex-kids-dinosaur-shirt` and `-1`). All
+  four are ACTIVE, $24.99 and buyable. Same-titled pages split whatever search signal "t rex shirt"
+  sends to product pages. **Proposal:** retitle the `-1` listings to describe their actual design, or
+  draft them if they duplicate the originals. The post links only the non-`-1` versions.
+- **Copy.** The kids' T-Rex and T-Rex Fracture tees (unisex, sold in the kids/boys range) open with
+  "bound to become a favorite in any girl's wardrobe", copied from the girls' template. One-word fix
+  ("any kid's").
+- **Not a bug, for the record:** nine ACTIVE T-Rex tees report `totalInventory: 0`. The ones I
+  checked are buyable anyway (`availableForSale: true`: Retro Rex, Rex's First Pullup, Chillin Rex,
+  Christmas Arms Rex on 2026-10-14; Neon T-Rex on 2026-10-13), so this looks like inventory tracking
+  being off on print-on-demand listings. Don't read the zero as out of
+  stock.

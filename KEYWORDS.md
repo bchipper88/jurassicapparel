@@ -289,16 +289,26 @@ Ubersuggest figure that justified it.
   T-Rex Sunset Beach, Multicolor Skeleton (8–20). Order-by Nov 30 / Dec 1 / Dec 3 / Dec 4.
   Secondaries: `vintage dinosaur shirt` 260 SD 23 $0.42.
   **LIVE:** https://jurassicapparel.com/blogs/blog/retro-dinosaur-shirts
+
+- ✅ Published (2026-10-14) **t rex shirt** — 480/mo | Jun–Jul 720, Nov 590, Dec–Feb 390, Oct 480 | SD 22
+  | $0.65 CPC | Transactional → `t-rex-shirts`
+  Day 24. Re-verified 2026-10-14 (locId 2840), unchanged. Secondary `t rex t shirt` 480/mo, SD 17,
+  $0.77 (Jul 880, Jan–Feb 320). SERP (fresh 2026-10-14) is split: Merchbar #1, Good Records #4,
+  Walmart #5 and Redbubble #8 are **T. Rex the band** (Marc Bolan); Zazzle, BecauseTees, Bonfire,
+  Amazon, Etsy, TeePublic are dinosaur tees. No page of ours in the top 24, no editorial guide. The post
+  has a one-line band FAQ so band searchers bounce knowingly. Collision check: no live or draft post
+  owns the handle or "T-Rex shirt"; the Feb 2026 *Best Dinosaur Shirts for Adults* list is general.
+  45 ACTIVE T-Rex shirts; 13 linked, all `availableForSale`. Biggest sizes 5XL (Dadasaurus Rex,
+  Winter Forest, T-Rex or Treat). Order-by Dec 3 / Dec 4. Duplicate T-Rex listings: BACKLOG #51.
 ---
 
 ## 🎯 NEXT UP
 
-- 🎯 **t rex shirt** — 480/mo | Jun–Jul 720, Nov 590, Dec–Feb 390 | SD 22 | $0.65 CPC | Transactional
-  (keyword_overview, locId 2840, 2026-10-13; curve Jun 2025–Jun 2026). Day 24 candidate. Before writing:
-  pull the SERP and check whether one of our product or tag pages already ranks (#46); check overlap with
-  the live Feb 2026 post *Best Dinosaur Shirts for Adults in 2026: T-Rex, Raptor & More* (it is a
-  general adult-shirt list, "T-Rex" only in the title); count ACTIVE T-Rex tees across adult/kids.
-  Fallback: `dinosaur tumbler` 170/mo SD 25 $0.64 (Dec 260), needs an inventory count.
+- 🎯 **dinosaur tumbler** — 170/mo | Dec 260, Aug 210, Jan/May 110 | SD 25 | $0.64 CPC | Transactional
+  (keyword_overview, locId 2840, 2026-10-14; curve Aug 2025–Aug 2026). Day 25. Publishing mid-October is
+  7–8 weeks ahead of the December gift peak. Inventory: 4 ACTIVE tumblers (Dinosaur Mom, Serene
+  Stegosaurus, Pastel Sunrise, Dinosaurs Never Had Coffee). Before writing: SERP, collection handle and
+  count in `catalog.json`, listing sizes/capacity, and the live `dinosaur-mugs-guide` post for overlap.
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)
