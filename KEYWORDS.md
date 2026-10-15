@@ -301,15 +301,27 @@ Ubersuggest figure that justified it.
   45 ACTIVE T-Rex shirts; 13 linked, all `availableForSale`. Biggest sizes 5XL (Dadasaurus Rex,
   Winter Forest, T-Rex or Treat). Order-by Dec 3 / Dec 4. Duplicate T-Rex listings: BACKLOG #51.
   **LIVE:** https://jurassicapparel.com/blogs/blog/t-rex-shirts
----
+- ✅ Published (2026-10-15) **dinosaur tumbler** — 170/mo | Dec 260, Aug 210, Nov 170, Jan/May 110 | SD 25
+  | $0.64 CPC | Transactional → `dinosaur-tumblers`
+  Day 25. Re-verified 2026-10-15 (locId 2840), unchanged. Secondaries: `dinosaur travel mug` 50/mo, SD 28,
+  $0.70 (Dec 70); `t rex tumbler` 30/mo, SD 15 (Dec 50). SERP (Ubersuggest snapshot 2026-09-16) is product
+  carousels plus kids' cups: HydroJug #3, Zak #5, Tervis #10, iScream #12, then Amazon/Target/Walmart/Etsy.
+  No editorial guide, no page of ours. Collision check: no post owns the handle or "tumbler".
+  Inventory was **7 ACTIVE, not 4**: three 20 oz insulated tumblers are titled "Dinosaur **Tumblr**" and
+  were missed by a title search. Two styles: 20 oz insulated, slide lid, dishwasher safe (3–7 + 10
+  biz days, order by Nov 30) vs 25 oz travel mug with handle, hand-wash only (order by Dec 7). No tumbler
+  collection exists, so the post links products plus `mamasaurus` and `dinosaur-mugs`. BACKLOG #52.
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur tumbler** — 170/mo | Dec 260, Aug 210, Jan/May 110 | SD 25 | $0.64 CPC | Transactional
-  (keyword_overview, locId 2840, 2026-10-14; curve Aug 2025–Aug 2026). Day 25. Publishing mid-October is
-  7–8 weeks ahead of the December gift peak. Inventory: 4 ACTIVE tumblers (Dinosaur Mom, Serene
-  Stegosaurus, Pastel Sunrise, Dinosaurs Never Had Coffee). Before writing: SERP, collection handle and
-  count in `catalog.json`, listing sizes/capacity, and the live `dinosaur-mugs-guide` post for overlap.
+- 🎯 **Discovery day (Fri 2026-10-16)** — the queue has no winnable, stocked, unwritten term left.
+  Everything remaining is skipped on inventory, a rescue (gated), or seasonally wrong (polo, dress,
+  Hawaiian → spring). Probed today, all too small to carry a page: `dadasaurus shirt` 50 (SD 24),
+  `dinosaur dad shirt` 30, `dinosaur dog bandana` 20 (SD 44), `kids dinosaur hoodie` 0,
+  `dinosaur shirt for boys` 0, `dinosaur gifts for dad` 0. Tomorrow: `keyword_suggestions` on
+  December-peak seeds with stock behind them (Christmas gifts for men and women, stocking
+  stuffers), pick the best SD ≤ 30 term with ≥ 5 ACTIVE
+  products, verify, write and publish the same day.
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)

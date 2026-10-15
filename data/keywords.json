@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-13",
+  "pulled": "2026-10-15",
   "loc_id": 2840,
   "published": [
     {
@@ -876,9 +876,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/t-rex-shirts",
       "shopify_article_id": "gid://shopify/Article/634963493014",
       "published_at": "2026-10-14T11:13:42Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur tumbler",
       "volume": 170,
@@ -887,8 +885,32 @@
       "sd": 25,
       "cpc": 0.64,
       "intent": "Transactional",
-      "verified": "2026-10-14",
-      "note": "Day 25. Curve Aug 2025-Aug 2026: Dec 260, Aug 210, Jan/May 110. Mid-Oct is 7-8 weeks ahead of the Dec peak. 4 ACTIVE tumblers (Dinosaur Mom, Serene Stegosaurus, Pastel Sunrise, Dinosaurs Never Had Coffee). Before writing: SERP, collection handle/count, capacity, overlap with the mugs post."
+      "verified": "2026-10-15",
+      "note": "Day 25. Re-verified unchanged. SERP snapshot 2026-09-16: product carousels + kids' cups (HydroJug #3, Zak #5, Tervis #10). No colliding post. 7 ACTIVE tumblers in two styles (3x 20oz insulated 'Tumblr', 4x 25oz travel mug); no tumbler collection. BACKLOG #52.",
+      "slug": "dinosaur-tumblers",
+      "date": "2026-10-15",
+      "day": 25,
+      "status": "draft",
+      "secondary": [
+        {
+          "keyword": "dinosaur travel mug",
+          "volume": 50,
+          "sd": 28,
+          "cpc": 0.7
+        },
+        {
+          "keyword": "t rex tumbler",
+          "volume": 30,
+          "sd": 15,
+          "cpc": 0.24
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": null,
+      "note": "Discovery day 2026-10-16: queue exhausted of winnable stocked terms. Probed 2026-10-15 (locId 2840): dadasaurus shirt 50/SD24, dinosaur dad shirt 30/SD24, dinosaur dog bandana 20/SD44, kids dinosaur hoodie 0, dinosaur shirt for boys 0, dinosaur gifts for dad 0."
     }
   ],
   "queued_seasonal": [

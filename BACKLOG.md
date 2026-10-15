@@ -1210,3 +1210,23 @@ Found while counting T-Rex tees for the Day 24 `t-rex-shirts` post (Shopify, 202
   Christmas Arms Rex on 2026-10-14; Neon T-Rex on 2026-10-13), so this looks like inventory tracking
   being off on print-on-demand listings. Don't read the zero as out of
   stock.
+
+## 52. Tumblers: no tumbler collection, three listings titled "Tumblr", a 40 oz option the description doesn't cover 🟡 MEDIUM — catalog / product copy — added 2026-10-15
+
+Found while mapping inventory for the Day 25 `dinosaur-tumblers` post (Shopify, 2026-10-15).
+
+- **No collection.** Seven ACTIVE tumblers (product type `Tumbler`) sit only in `new-arrivals` and
+  `best-sellers` (plus `mamasaurus`, `miscellaneous`/`all-misc`, `america-dinosaurs` for one each).
+  There is nowhere to browse them together and no URL that can rank for "dinosaur tumbler" (170/mo,
+  Dec 260, SD 25) other than the blog post. **Proposal:** a smart collection `dinosaur-tumblers` on
+  product type = Tumbler. About 2 minutes; the post would then link it.
+- **"Tumblr" in three titles.** *Dinosaur Tumblr – African Dinosaur Safari / Pink Retro T-Rex /
+  American T-Rex* (handles `dinosaur-tumblr-*`). The misspelling is in the titles, the H2 and the copy
+  ("stainless steel tumblr"), so these pages don't match the word people search. One image alt reads
+  "alcoholic dinosaur tumblr". **Proposal:** retitle to "Tumbler" (leave the handles alone, or add
+  redirects if they change).
+- **40 oz option.** *Dinosaurs Never Had Coffee – Dinosaur Tumbler* sells 25 oz ($29.99) and 40 oz
+  ($30.99), but the description lists 25 oz specs only. Add the 40 oz height/details, or remove the
+  option if it's not the same blank. The post tells readers to check the option before ordering.
+- **For the record:** the 25 oz travel tumblers say hand-wash only and don't claim insulation; the
+  20 oz ones say vacuum insulated and dishwasher safe. The post keeps to exactly that.
