@@ -311,6 +311,7 @@ Ubersuggest figure that justified it.
   were missed by a title search. Two styles: 20 oz insulated, slide lid, dishwasher safe (3–7 + 10
   biz days, order by Nov 30) vs 25 oz travel mug with handle, hand-wash only (order by Dec 7). No tumbler
   collection exists, so the post links products plus `mamasaurus` and `dinosaur-mugs`. BACKLOG #52.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-tumblers
 
 ## 🎯 NEXT UP
 

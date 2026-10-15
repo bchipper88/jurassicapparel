@@ -890,7 +890,7 @@
       "slug": "dinosaur-tumblers",
       "date": "2026-10-15",
       "day": 25,
-      "status": "draft",
+      "status": "published",
       "secondary": [
         {
           "keyword": "dinosaur travel mug",
@@ -904,7 +904,10 @@
           "sd": 15,
           "cpc": 0.24
         }
-      ]
+      ],
+      "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-tumblers",
+      "shopify_article_id": "gid://shopify/Article/634972569750",
+      "published_at": "2026-10-15T11:14:23Z"
     }
   ],
   "next_up": [

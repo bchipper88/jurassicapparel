@@ -2,7 +2,10 @@
 title: "Dinosaur Tumblers: Our 20 oz and 25 oz Designs, and How They Differ"
 slug: dinosaur-tumblers
 date: 2026-10-15
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-tumblers
+shopify_article_id: "gid://shopify/Article/634972569750"
+published_at: 2026-10-15T11:14:23Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-15"
 target_keyword: "dinosaur tumbler"
 target_volume: 170
