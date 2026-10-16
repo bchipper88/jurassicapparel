@@ -1230,3 +1230,24 @@ Found while mapping inventory for the Day 25 `dinosaur-tumblers` post (Shopify, 
   option if it's not the same blank. The post tells readers to check the option before ordering.
 - **For the record:** the 25 oz travel tumblers say hand-wash only and don't claim insulation; the
   20 oz ones say vacuum insulated and dishwasher safe. The post keeps to exactly that.
+
+## 53. Notebooks: no stationery collection, a duplicate Minimalist Dino listing, a 2019 notebook with no size or ship time; no "ask me about my dinosaur" shirt 🟢 LOW — catalog / product copy / merchandising — added 2026-10-16
+
+Found while mapping inventory for the Day 26 `dinosaur-notebooks` post (Shopify, 2026-10-16).
+
+- **No collection.** Six ACTIVE notebooks (product types `Notebook` and `Spiral Notebook`), plus a mouse
+  pad, a magnet and a jewelry box, sit only in `new-arrivals`/`best-sellers` (one notebook also in
+  `miscellaneous`/`all-misc`). "Dinosaur notebook" is 140/mo (Jul–Aug 260) at SD 24, and
+  shopdinosaur.com ranks #5 with a `notebooks-stationery` collection page at DA 19. **Proposal:** a
+  smart collection `dinosaur-notebooks` on product type = Notebook OR Spiral Notebook. About 2 minutes;
+  the post would then link it.
+- **Duplicate listing.** *Minimalist Dino – Dinosaur Notebook* exists twice: `minimalist-dino-dinosaur-notebook`
+  (type Notebook, published 2024-08-09) and `minimalist-dino-dinosaur-notebook-1` (type Spiral Notebook,
+  published 2025-01-29), same title, same copy. The post links the first. **Proposal:** archive `-1` and
+  redirect it to the original.
+- **Jurassic Fuji notebook (2019).** The listing describes 120 ruled pages but gives no page size and no
+  production/shipping estimate, unlike the four newer notebooks. Its inventory isn't tracked. Confirm it
+  still prints from the same supplier, then add size and ship time, or archive it.
+- **Merchandising note.** `ask me about my dinosaur shirt` is **590/mo at SD 30** (plus `ask about my
+  dinosaur shirt` 50). That's the flip-up T-Rex arms shirt. We don't sell one. Worth a look if the
+  print supplier offers a flip-print blank.

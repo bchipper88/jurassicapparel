@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-15",
+  "pulled": "2026-10-16",
   "loc_id": 2840,
   "published": [
     {
@@ -908,12 +908,48 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-tumblers",
       "shopify_article_id": "gid://shopify/Article/634972569750",
       "published_at": "2026-10-15T11:14:23Z"
+    },
+    {
+      "keyword": "dinosaur notebook",
+      "volume": 140,
+      "peak_volume": 260,
+      "peak_month": "202507",
+      "sd": 24,
+      "cpc": 0.38,
+      "intent": "Transactional",
+      "verified": "2026-10-16",
+      "note": "Day 26 (discovery). SERP 2026-10-16: Pinterest, decomposition.com, shopdinosaur.com (DA 19), Etsy/Amazon; no editorial guide. 6 ACTIVE notebooks = 5 designs (Minimalist Dino duplicated): 4 dotted 140pp + Jurassic Fuji 120 ruled. No notebook collection. BACKLOG #53.",
+      "slug": "dinosaur-notebooks",
+      "date": "2026-10-16",
+      "day": 26,
+      "status": "draft",
+      "secondary": [
+        {
+          "keyword": "dinosaur journal",
+          "volume": 90,
+          "sd": 21,
+          "cpc": 0.47
+        },
+        {
+          "keyword": "dinosaur mouse pad",
+          "volume": 70,
+          "sd": 11,
+          "cpc": 0.56
+        }
+      ]
     }
   ],
   "next_up": [
     {
-      "keyword": null,
-      "note": "Discovery day 2026-10-16: queue exhausted of winnable stocked terms. Probed 2026-10-15 (locId 2840): dadasaurus shirt 50/SD24, dinosaur dad shirt 30/SD24, dinosaur dog bandana 20/SD44, kids dinosaur hoodie 0, dinosaur shirt for boys 0, dinosaur gifts for dad 0."
+      "keyword": "dinosaur stocking stuffers",
+      "volume": 50,
+      "peak_volume": 390,
+      "peak_month": "202512",
+      "sd": 30,
+      "cpc": 0,
+      "intent": "Transactional",
+      "verified": "2026-10-16",
+      "note": "Day 27 target. Nov 260 / Dec 390. Collision-check against the live gift guides before writing. Probed 2026-10-16 and passed over: dinosaur bandana 90/SD19, mom dinosaur shirt 90/SD25, dinosaur mom shirt 70/SD27, dinosaur gifts for men 30/SD27, dinosaur gifts for women 30/SD21, dinosaur doormat 50/SD27, ask me about my dinosaur shirt 590/SD30 (not stocked)."
     }
   ],
   "queued_seasonal": [

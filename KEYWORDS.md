@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12, 2026-10-13.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12, 2026-10-13, 2026-10-15, 2026-10-16.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -313,16 +313,34 @@ Ubersuggest figure that justified it.
   collection exists, so the post links products plus `mamasaurus` and `dinosaur-mugs`. BACKLOG #52.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-tumblers
 
+- ✅ Published (2026-10-16) **dinosaur notebook** — 140/mo | Jul–Aug 260, Nov 170, Dec 140, Apr 70 | SD 24
+  | $0.38 CPC | Transactional → `dinosaur-notebooks`
+  Day 26, a discovery day. Found by walking Shopify's product types for stocked lines with no post.
+  Secondaries: `dinosaur journal` 90/mo, SD 21, $0.47 (Nov/Mar 140); `dinosaur mouse pad` 70/mo, SD 11.
+  SERP (Ubersuggest, 2026-10-16): Pinterest boards #3/#7/#9, decomposition.com #4, shopdinosaur.com
+  (DA 19) #5, Etsy/Amazon listings, ofaspen.com (DA 17) #24. No editorial guide. Collision check: no
+  post owns the handle; two gift guides mention notebooks in passing. 6 ACTIVE notebooks = 5 designs
+  (Minimalist Dino is listed twice) in two kinds: 4 dotted (140 pp, 5.5×8.5, wire-o, soft-touch,
+  1–2 + 2–5 biz days, order by Dec 14) and the 2019 Jurassic Fuji (120 ruled pp, no size or ship time
+  on the listing). No notebook/stationery collection exists. BACKLOG #53.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Discovery day (Fri 2026-10-16)** — the queue has no winnable, stocked, unwritten term left.
-  Everything remaining is skipped on inventory, a rescue (gated), or seasonally wrong (polo, dress,
-  Hawaiian → spring). Probed today, all too small to carry a page: `dadasaurus shirt` 50 (SD 24),
-  `dinosaur dad shirt` 30, `dinosaur dog bandana` 20 (SD 44), `kids dinosaur hoodie` 0,
-  `dinosaur shirt for boys` 0, `dinosaur gifts for dad` 0. Tomorrow: `keyword_suggestions` on
-  December-peak seeds with stock behind them (Christmas gifts for men and women, stocking
-  stuffers), pick the best SD ≤ 30 term with ≥ 5 ACTIVE
-  products, verify, write and publish the same day.
+- 🎯 **dinosaur stocking stuffers** (Day 27, Sat 2026-10-17) — 50/mo avg | **Nov 260 · Dec 390** | SD 30 |
+  Transactional. Pulled 2026-10-16 (locId 2840). The ramp starts in November, so mid-October is 2–7
+  weeks ahead of it. SD 30 is the top of the winnable band. A distinct intent from the gifts
+  consolidation (small, under-$25 items), and the store can serve it: stickers, notebooks, ornaments,
+  socks, magnets, mugs. Before writing: re-verify, run the collision check against the six live gift
+  guides (if one already targets stocking stuffers, this becomes a section of the consolidation, not a
+  post), and confirm every product is ACTIVE.
+  Also probed 2026-10-16, too small or unservable: `dinosaur bandana` 90 (SD 19, flat, spring-leaning),
+  `mom dinosaur shirt` 90 (SD 25, Mamasaurus already covered), `dinosaur mom shirt` 70 (SD 27),
+  `dinosaur gifts for men` 30 (SD 27, Dec 110), `dinosaur gifts for women` 30 (SD 21), `dinosaur doormat`
+  50 (SD 27, 2 mats), `dinosaur desk accessories` 40, `dinosaur office decor` 30,
+  `dinosaur composition notebook` 20 (SD 43). Zero volume returned for `girls dinosaur shirt`,
+  `toddler dinosaur shirt`, `kids dinosaur pajamas`, `dinosaur gifts for kids`, `dinosaur shirts for kids`,
+  `dinosaur gifts for boys`. `ask me about my dinosaur shirt` is 590/mo at SD 30, but we sell no flip-up
+  shirt (BACKLOG #53).
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)
