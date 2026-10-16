@@ -922,7 +922,7 @@
       "slug": "dinosaur-notebooks",
       "date": "2026-10-16",
       "day": 26,
-      "status": "draft",
+      "status": "published",
       "secondary": [
         {
           "keyword": "dinosaur journal",
@@ -936,7 +936,10 @@
           "sd": 11,
           "cpc": 0.56
         }
-      ]
+      ],
+      "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-notebooks",
+      "shopify_article_id": "gid://shopify/Article/634980597910",
+      "published_at": "2026-10-16T11:18:50Z"
     }
   ],
   "next_up": [

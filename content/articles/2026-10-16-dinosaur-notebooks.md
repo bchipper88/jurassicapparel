@@ -2,7 +2,10 @@
 title: "Dinosaur Notebooks: Five Covers, Dotted or Ruled Pages, and What Each One Is For"
 slug: dinosaur-notebooks
 date: 2026-10-16
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-notebooks
+shopify_article_id: "gid://shopify/Article/634980597910"
+published_at: 2026-10-16T11:18:50Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-16"
 target_keyword: "dinosaur notebook"
 target_volume: 140

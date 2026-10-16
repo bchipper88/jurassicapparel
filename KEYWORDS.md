@@ -323,6 +323,7 @@ Ubersuggest figure that justified it.
   (Minimalist Dino is listed twice) in two kinds: 4 dotted (140 pp, 5.5×8.5, wire-o, soft-touch,
   1–2 + 2–5 biz days, order by Dec 14) and the 2019 Jurassic Fuji (120 ruled pp, no size or ship time
   on the listing). No notebook/stationery collection exists. BACKLOG #53.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-notebooks
 
 ## 🎯 NEXT UP
 
