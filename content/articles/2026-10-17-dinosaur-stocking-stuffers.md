@@ -2,7 +2,10 @@
 title: "Dinosaur Stocking Stuffers: Small Gifts Under $25, What Fits, and When to Order"
 slug: dinosaur-stocking-stuffers
 date: 2026-10-17
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-stocking-stuffers
+shopify_article_id: "gid://shopify/Article/634986266774"
+published_at: 2026-10-17T11:13:36Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-17"
 target_keyword: "dinosaur stocking stuffers"
 target_volume: 50

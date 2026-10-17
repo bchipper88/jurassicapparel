@@ -334,6 +334,7 @@ Ubersuggest figure that justified it.
   only. Built around price tiers ($3.29 stickers to $22.99 notebooks), three filled stockings, and an
   order-by table where the slowest item sets the date (Dec 8 opaque stickers → Dec 14 original stickers
   and notebooks). 9 products linked, all ACTIVE and `availableForSale` (checked live today). BACKLOG #54.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-stocking-stuffers
 
 ## 🎯 NEXT UP
 
