@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12, 2026-10-13, 2026-10-15, 2026-10-16.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12, 2026-10-13, 2026-10-15, 2026-10-16, 2026-10-17.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -325,23 +325,31 @@ Ubersuggest figure that justified it.
   on the listing). No notebook/stationery collection exists. BACKLOG #53.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-notebooks
 
+- ✅ Published (2026-10-17) **dinosaur stocking stuffers** — 50/mo avg | **Nov 260 · Dec 390** | SD 30
+  | $0 CPC | Transactional → `dinosaur-stocking-stuffers`
+  Day 27. Re-verified 2026-10-17 (locId 2840), unchanged; Sep 50, Oct 30, 10/mo Jan–Aug. SERP (Ubersuggest
+  snapshot 2026-10-01): a Pinterest pin #1, product carousels, an AI overview, Walmart/Best Buy toy
+  listings, three Reddit threads. No editorial guide. Collision check: no post owns the handle or the
+  term; the `dinosaur-socks-gift-guide` post (live 2026-10-16, not from this routine) has a one-line stocking H2 for socks
+  only. Built around price tiers ($3.29 stickers to $22.99 notebooks), three filled stockings, and an
+  order-by table where the slowest item sets the date (Dec 8 opaque stickers → Dec 14 original stickers
+  and notebooks). 9 products linked, all ACTIVE and `availableForSale` (checked live today). BACKLOG #54.
+
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur stocking stuffers** (Day 27, Sat 2026-10-17) — 50/mo avg | **Nov 260 · Dec 390** | SD 30 |
-  Transactional. Pulled 2026-10-16 (locId 2840). The ramp starts in November, so mid-October is 2–7
-  weeks ahead of it. SD 30 is the top of the winnable band. A distinct intent from the gifts
-  consolidation (small, under-$25 items), and the store can serve it: stickers, notebooks, ornaments,
-  socks, magnets, mugs. Before writing: re-verify, run the collision check against the six live gift
-  guides (if one already targets stocking stuffers, this becomes a section of the consolidation, not a
-  post), and confirm every product is ACTIVE.
-  Also probed 2026-10-16, too small or unservable: `dinosaur bandana` 90 (SD 19, flat, spring-leaning),
-  `mom dinosaur shirt` 90 (SD 25, Mamasaurus already covered), `dinosaur mom shirt` 70 (SD 27),
-  `dinosaur gifts for men` 30 (SD 27, Dec 110), `dinosaur gifts for women` 30 (SD 21), `dinosaur doormat`
-  50 (SD 27, 2 mats), `dinosaur desk accessories` 40, `dinosaur office decor` 30,
-  `dinosaur composition notebook` 20 (SD 43). Zero volume returned for `girls dinosaur shirt`,
-  `toddler dinosaur shirt`, `kids dinosaur pajamas`, `dinosaur gifts for kids`, `dinosaur shirts for kids`,
-  `dinosaur gifts for boys`. `ask me about my dinosaur shirt` is 590/mo at SD 30, but we sell no flip-up
-  shirt (BACKLOG #53).
+- 🎯 **dinosaur rug** (Day 28, Sun 2026-10-18) — **1,600/mo** | flat 1,300–1,900 all year | SD 22 | $1.30 CPC |
+  Transactional. Pulled 2026-10-17 (locId 2840). The biggest winnable term found in a week, and evergreen.
+  The catch is inventory: **one** ACTIVE area rug (Dino Jungle, $59.99), plus a Museum Dinosaurs bath mat
+  ($29.99) and two welcome mats ($49.99). Before writing: check whether the rug's product page already
+  ranks (if so, it's a rescue, not a post), read the rug's sizes, and decide honestly whether one rug and
+  three mats answer the query. If not, skip it and log it as merchandising (BACKLOG #54).
+  Also probed 2026-10-17: `dinosaur area rug` 140 (SD 26, flat), `dinosaur apron` 90 (SD 12, Nov 140 /
+  Dec 170, one apron), `dinosaur scrunchie` 10 (SD 43), `dinosaur fanny pack` 0.
+  Probed 2026-10-16, too small or unservable: `dinosaur bandana` 90 (SD 19), `mom dinosaur shirt` 90
+  (SD 25), `dinosaur mom shirt` 70 (SD 27), `dinosaur gifts for men` 30 (SD 27, Dec 110), `dinosaur gifts
+  for women` 30 (SD 21), `dinosaur doormat` 50 (SD 27), `dinosaur desk accessories` 40, `dinosaur office
+  decor` 30, `dinosaur composition notebook` 20 (SD 43); zero volume for six kids' terms;
+  `ask me about my dinosaur shirt` 590 at SD 30, not stocked (BACKLOG #53).
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)

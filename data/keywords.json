@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-16",
+  "pulled": "2026-10-17",
   "loc_id": 2840,
   "published": [
     {
@@ -940,9 +940,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-notebooks",
       "shopify_article_id": "gid://shopify/Article/634980597910",
       "published_at": "2026-10-16T11:18:50Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur stocking stuffers",
       "volume": 50,
@@ -951,8 +949,26 @@
       "sd": 30,
       "cpc": 0,
       "intent": "Transactional",
-      "verified": "2026-10-16",
-      "note": "Day 27 target. Nov 260 / Dec 390. Collision-check against the live gift guides before writing. Probed 2026-10-16 and passed over: dinosaur bandana 90/SD19, mom dinosaur shirt 90/SD25, dinosaur mom shirt 70/SD27, dinosaur gifts for men 30/SD27, dinosaur gifts for women 30/SD21, dinosaur doormat 50/SD27, ask me about my dinosaur shirt 590/SD30 (not stocked)."
+      "verified": "2026-10-17",
+      "note": "Day 27. Re-verified 2026-10-17, unchanged. SERP: Pinterest #1, product carousels, AI overview, Walmart/Best Buy toys, Reddit; no editorial guide. No post owns the term. Price tiers, three filled stockings, order-by table (Dec 8–Dec 14). 9 products, all ACTIVE. BACKLOG #54.",
+      "slug": "dinosaur-stocking-stuffers",
+      "date": "2026-10-17",
+      "day": 27,
+      "status": "published",
+      "secondary": []
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur rug",
+      "volume": 1600,
+      "peak_volume": 1900,
+      "peak_month": "202507",
+      "sd": 22,
+      "cpc": 1.3,
+      "intent": "Transactional",
+      "verified": "2026-10-17",
+      "note": "Day 28 target, conditional on inventory: 1 ACTIVE area rug (Dino Jungle $59.99) + bath mat + 2 welcome mats. Check whether the rug product page already ranks (rescue) first. Probed 2026-10-17: dinosaur area rug 140/SD26, dinosaur apron 90/SD12 (Dec 170), dinosaur scrunchie 10/SD43, dinosaur fanny pack 0."
     }
   ],
   "queued_seasonal": [

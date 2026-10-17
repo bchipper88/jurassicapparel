@@ -1251,3 +1251,24 @@ Found while mapping inventory for the Day 26 `dinosaur-notebooks` post (Shopify,
 - **Merchandising note.** `ask me about my dinosaur shirt` is **590/mo at SD 30** (plus `ask about my
   dinosaur shirt` 50). That's the flip-up T-Rex arms shirt. We don't sell one. Worth a look if the
   print supplier offers a flip-print blank.
+
+## 54. Small gifts and rugs: no stocking-stuffer collection, one magnet, one rug against 1,600/mo; the publish script needs `markdown` 🟢 LOW — catalog / merchandising / tooling — added 2026-10-17
+
+Found while mapping inventory for the Day 27 `dinosaur-stocking-stuffers` post (Shopify, 2026-10-17).
+
+- **No small-gifts collection.** Everything under $25 is scattered across stickers, socks, ornaments and
+  `new-arrivals`. "Dinosaur stocking stuffers" is 260 in November and 390 in December. **Proposal:** a
+  smart collection `dinosaur-stocking-stuffers` (price < $25, excluding gift cards and digital downloads),
+  live by early November. The post would then link it. About 5 minutes.
+- **One magnet.** *Winosaur* is the only ACTIVE product of type `Magnets`. It's $7.99–$9.99 and among the
+  cheapest things we sell. More magnet designs from the existing sticker art would make a cheap
+  stocking-stuffer line.
+- **Two sock specs.** The older socks (e.g. Santa Hat, T-Rex Skeleton) list 75% polyester, 4–5 + 2–5
+  business days. Dino Nuggies lists a different blend (73% polyester, cushioned crew) and a different
+  shipping block. Worth checking the shipping estimates match the supplier before December.
+- **Merchandising: rugs.** `dinosaur rug` is **1,600/mo, flat all year, SD 22, $1.30 CPC**. We have one
+  ACTIVE area rug (Dino Jungle, $59.99). If the print supplier offers more rug sizes or designs, this is
+  the largest evergreen term found this month that we could serve.
+- **Tooling.** `scripts/md-to-shopify.py` imports `markdown`, which isn't installed in a fresh session
+  container; `pip install markdown` fixes it. A `requirements.txt` (or a session-start hook) would stop
+  this costing time each run.
