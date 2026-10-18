@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12, 2026-10-13, 2026-10-15, 2026-10-16, 2026-10-17.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12, 2026-10-13, 2026-10-15, 2026-10-16, 2026-10-17, 2026-10-18.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -336,21 +336,26 @@ Ubersuggest figure that justified it.
   and notebooks). 9 products linked, all ACTIVE and `availableForSale` (checked live today). BACKLOG #54.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-stocking-stuffers
 
+- ✅ Published (2026-10-18) **dinosaur bathroom decor** — 480/mo avg | **Jan 720 · Jul 880**, Oct 390 | SD 30
+  | $0.44 CPC | Transactional → `dinosaur-bathroom-decor`
+  Day 28. Replaced `dinosaur rug` on the day (see Skipped). Pulled 2026-10-18 (locId 2840). SERP (Ubersuggest,
+  2026-10-18): product carousel, image pack, two Facebook group threads (#3, #7), **kenziekittle.com, DA 2,
+  at #4**, Amazon, Etsy market pages, Pinterest pins. An ideas SERP, which a blog post fits.
+  Collision check: no post has "bath" or "bathroom" in its title or handle. Secondary `dinosaur bath mat` 140/mo,
+  SD 25, Jan 210. Built surface by surface (floor, walls, tiles, towel, sill) around what copes with steam;
+  two priced rooms (kids ~$67, grown-up ~$99); a ship-time table; a plain "what we don't sell" section
+  (no shower curtain, hand towel or soap dispenser). 7 products, all ACTIVE and `availableForSale`
+  (checked live today). Also probed: `dinosaur home decor` 90 (SD 28), `dinosaur kitchen decor` 40 (SD 44). BACKLOG #55.
+
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur rug** (Day 28, Sun 2026-10-18) — **1,600/mo** | flat 1,300–1,900 all year | SD 22 | $1.30 CPC |
-  Transactional. Pulled 2026-10-17 (locId 2840). The biggest winnable term found in a week, and evergreen.
-  The catch is inventory: **one** ACTIVE area rug (Dino Jungle, $59.99), plus a Museum Dinosaurs bath mat
-  ($29.99) and two welcome mats ($49.99). Before writing: check whether the rug's product page already
-  ranks (if so, it's a rescue, not a post), read the rug's sizes, and decide honestly whether one rug and
-  three mats answer the query. If not, skip it and log it as merchandising (BACKLOG #54).
-  Also probed 2026-10-17: `dinosaur area rug` 140 (SD 26, flat), `dinosaur apron` 90 (SD 12, Nov 140 /
-  Dec 170, one apron), `dinosaur scrunchie` 10 (SD 43), `dinosaur fanny pack` 0.
-  Probed 2026-10-16, too small or unservable: `dinosaur bandana` 90 (SD 19), `mom dinosaur shirt` 90
-  (SD 25), `dinosaur mom shirt` 70 (SD 27), `dinosaur gifts for men` 30 (SD 27, Dec 110), `dinosaur gifts
-  for women` 30 (SD 21), `dinosaur doormat` 50 (SD 27), `dinosaur desk accessories` 40, `dinosaur office
-  decor` 30, `dinosaur composition notebook` 20 (SD 43); zero volume for six kids' terms;
-  `ask me about my dinosaur shirt` 590 at SD 30, not stocked (BACKLOG #53).
+- 🎯 **dinosaur wall art** (Day 29, Mon 2026-10-19) — **590/mo** | Aug 880, **Nov 720**, floor 390 | SD 20 |
+  $1.14 CPC | Transactional. Pulled 2026-10-18 (locId 2840). The posters collection has grown from 8 to
+  **15 ACTIVE** since `dinosaur poster` was skipped on 2026-10-04 (that term is still SD 40; this one is SD 20).
+  Publishing three weeks ahead of the November bump. Before writing: collision-check against the new
+  bathroom post (it links four posters; tomorrow's post should own wall art and link back), run the SERP,
+  and read every poster's sizes. Monday, so the weekly rank-tracking routine runs too.
+  Fallback: `dinosaur apron` (90/mo, SD 12, Nov 140 / Dec 170; re-verified 2026-10-18, unchanged), one apron.
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)
@@ -548,6 +553,14 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
 ---
 
 ## ⏭️ SKIPPED
+
+- ⏭️ **dinosaur rug** — **1,600/mo** | flat 1,300–1,900 | SD 22 | $1.30 CPC | Transactional — skipped
+  2026-10-18 as a blog target. The numbers held (re-verified today), but the SERP is all product pages
+  (Ruggable, Revival, eBay, Etsy, Amazon, plus shops at DA 17 #9 and DA 15 #17), and we sell one rug in
+  two sizes. A post doesn't match the intent. The play is the product page: brief in
+  `content/rescues/2026-10-18-dinosaur-rug-product-page.md` (gated, product copy). Its description lists a
+  48″×72″ size with no variant. BACKLOG #55. Related: `dinosaur rug for bedroom` 90 (SD 26),
+  `dinosaur rug for nursery` 50 (SD 27), `washable dinosaur rug` 30 (SD 23).
 
 - ⏭️ **vintage dinosaur shirt** — 260/mo | flat 170–320 | SD 23 | $0.42 CPC — skipped 2026-10-13 as a
   primary: `/products/retro-rex` already ranks #8 with the phrase in its title. Carried as a secondary

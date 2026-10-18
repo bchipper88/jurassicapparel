@@ -496,9 +496,10 @@
       {
         "handle": "dinosaur-posters",
         "title": "Dinosaur Posters",
-        "products": 8,
-        "active": 8,
-        "active_verified": "2026-10-01"
+        "products": 15,
+        "active": 15,
+        "active_verified": "2026-10-18",
+        "note": "2026-10-18: 8 -> 15 (collection productsCount 15; 15 ACTIVE products of type *poster*)."
       },
       {
         "handle": "dinosaur-dog-bandanas",

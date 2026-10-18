@@ -1272,3 +1272,25 @@ Found while mapping inventory for the Day 27 `dinosaur-stocking-stuffers` post (
 - **Tooling.** `scripts/md-to-shopify.py` imports `markdown`, which isn't installed in a fresh session
   container; `pip install markdown` fixes it. A `requirements.txt` (or a session-start hook) would stop
   this costing time each run.
+
+## 55. Rug page lists a size we don't sell; no bathroom range beyond one mat; posters doubled quietly 🟢 LOW — product copy / merchandising — added 2026-10-18
+
+Found while checking inventory for `dinosaur rug` and writing the Day 28 `dinosaur-bathroom-decor` post (Shopify, 2026-10-18).
+
+- **Dino Jungle rug: the copy lists a 48″×72″ size with no variant.** The description says "3 sizes: 24″×36″″;
+  36″×60″; 48″×72″" (with a stray double ″). Only 24″×36″ ($59.99) and 36″×60″ ($99.99) exist. Either add
+  the 4′×6′ variant or correct the bullet. A full product-page brief for `dinosaur rug` (1,600/mo, SD 22)
+  is in `content/rescues/2026-10-18-dinosaur-rug-product-page.md`. Gated: product copy.
+- **Bathroom range.** `dinosaur bathroom decor` is 480/mo (Jan 720, Jul 880). We have one bath mat design, and
+  no shower curtain, hand towel or soap dispenser. A Museum Dinosaurs or Dino Jungle shower curtain from the
+  same print supplier would complete the room, and the post says plainly that we don't sell one yet.
+- **The towel is listed as a beach towel only.** The Dino Jungle beach towel (30″×60″ / 36″×72″) is bath-sheet
+  size. Tagging it `bath` or adding it to a home collection would let it show for bathroom searches.
+- **Posters went from 8 to 15** since the 2026-10-01 catalog snapshot (catalog.json updated). Shipping blocks
+  differ by design: the newer posters list 2–5 + 3–4 business days, the vintage plates 2–5 + 3–9, and
+  *Freedom Forever* 3–7 + 10. Worth reconciling before Christmas ordering.
+- **White Ceramic Dinosaur Flower Pot** says it "can take over a month to deliver" (outside vendor). Left out
+  of the post on purpose. If that's still true, it shouldn't be live in December without a clear date.
+- **Tooling (#54 repeat).** `python3 scripts/md-to-shopify.py` failed again on a fresh container: `markdown`
+  wasn't importable by `/usr/local/bin/python3` until `python3 -m pip install markdown`. Use that form, not
+  bare `pip`, which installed into a different interpreter.

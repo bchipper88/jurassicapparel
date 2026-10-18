@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-17",
+  "pulled": "2026-10-18",
   "loc_id": 2840,
   "published": [
     {
@@ -959,19 +959,42 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-stocking-stuffers",
       "shopify_article_id": "gid://shopify/Article/634986266774",
       "published_at": "2026-10-17T11:13:36Z"
+    },
+    {
+      "keyword": "dinosaur bathroom decor",
+      "volume": 480,
+      "peak_volume": 880,
+      "peak_month": "202507",
+      "sd": 30,
+      "cpc": 0.44,
+      "intent": "Transactional",
+      "verified": "2026-10-18",
+      "note": "Day 28. Replaced 'dinosaur rug' (skipped: product-page SERP, one rug). Ideas SERP with a DA 2 blog at #4. Jan 720 / Jul 880 bumps. Secondary 'dinosaur bath mat' 140/SD 25. 7 products, all ACTIVE. BACKLOG #55.",
+      "slug": "dinosaur-bathroom-decor",
+      "date": "2026-10-18",
+      "day": 28,
+      "status": "draft",
+      "secondary": [
+        {
+          "keyword": "dinosaur bath mat",
+          "volume": 140,
+          "sd": 25,
+          "cpc": 0.87
+        }
+      ]
     }
   ],
   "next_up": [
     {
-      "keyword": "dinosaur rug",
-      "volume": 1600,
-      "peak_volume": 1900,
-      "peak_month": "202507",
-      "sd": 22,
-      "cpc": 1.3,
+      "keyword": "dinosaur wall art",
+      "volume": 590,
+      "peak_volume": 880,
+      "peak_month": "202508",
+      "sd": 20,
+      "cpc": 1.14,
       "intent": "Transactional",
-      "verified": "2026-10-17",
-      "note": "Day 28 target, conditional on inventory: 1 ACTIVE area rug (Dino Jungle $59.99) + bath mat + 2 welcome mats. Check whether the rug product page already ranks (rescue) first. Probed 2026-10-17: dinosaur area rug 140/SD26, dinosaur apron 90/SD12 (Dec 170), dinosaur scrunchie 10/SD43, dinosaur fanny pack 0."
+      "verified": "2026-10-18",
+      "note": "Day 29 target. Posters collection now 15 ACTIVE (was 8). Nov 720. Fallback: dinosaur apron 90/SD 12 (re-verified 2026-10-18)."
     }
   ],
   "queued_seasonal": [
@@ -1556,6 +1579,14 @@
       "cpc": 0.6,
       "verified": "2026-10-13",
       "reason": "Too small for a page; section candidate in a t rex shirt post."
+    },
+    {
+      "keyword": "dinosaur rug",
+      "volume": 1600,
+      "sd": 22,
+      "cpc": 1.3,
+      "verified": "2026-10-18",
+      "reason": "All-product-page SERP; one rug in two sizes. Product-page brief instead: content/rescues/2026-10-18-dinosaur-rug-product-page.md"
     }
   ],
   "rescue_content": [
