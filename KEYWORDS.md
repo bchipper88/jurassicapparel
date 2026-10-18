@@ -346,6 +346,7 @@ Ubersuggest figure that justified it.
   two priced rooms (kids ~$67, grown-up ~$99); a ship-time table; a plain "what we don't sell" section
   (no shower curtain, hand towel or soap dispenser). 7 products, all ACTIVE and `availableForSale`
   (checked live today). Also probed: `dinosaur home decor` 90 (SD 28), `dinosaur kitchen decor` 40 (SD 44). BACKLOG #55.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-bathroom-decor
 
 ## 🎯 NEXT UP
 

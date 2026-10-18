@@ -2,7 +2,10 @@
 title: "Dinosaur Bathroom Decor: What Survives the Steam, What to Buy First, and Two Rooms Priced Out"
 slug: dinosaur-bathroom-decor
 date: 2026-10-18
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-bathroom-decor
+shopify_article_id: "gid://shopify/Article/634990985366"
+published_at: 2026-10-18T11:08:24Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-18"
 target_keyword: "dinosaur bathroom decor"
 target_volume: 480
@@ -154,18 +157,20 @@ planter listings are in the [dinosaur flower pots collection](/collections/dinos
 ## What we don't sell (yet)
 
 So you're not hunting: there's no dinosaur shower curtain, hand towel, toothbrush holder or soap
-dispenser in our shop right now. For the shower curtain, a plain one in a colour pulled from your bath
+dispenser in our shop right now. For the shower curtain, a plain one in a color pulled from your bath
 mat or poster ties the room together better than a fourth dinosaur pattern would. Two or three strong
 dinosaur pieces look intentional. Eight look like a theme park.
 
 ## Two dinosaur bathrooms, priced out
 
 **A kids' bathroom, about $67**
+
 - Museum Dinosaurs bath mat, 24″ × 17″: $29.99
 - Dinosaur Chart with Names poster, 12″ × 16″: $24.99 (frame it, or hang it far from the shower)
 - Three Rainbow Bubble Bath stickers at 2″: $11.97
 
 **A grown-up bathroom, about $99**
+
 - Museum Dinosaurs bath mat, 34″ × 21″: $44.99
 - Velociraptor Natural History Plate, 11″ × 14″: $18.99, in a frame you already own
 - A Jurassic Jungle planter with a jade plant: $34.99
