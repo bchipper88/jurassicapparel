@@ -186,6 +186,23 @@
         "2026-10-07": 5.3
       },
       "notes": "First new rank collection since 09-30 (10-07, still flagged has_gap/has_unstable). Domain overview unchanged from 10-05 except backlinks 2,628->2,624, follow 2,416->2,413, nofollow 212->211; Ubersuggest has not published an October traffic month yet. Moves of 5+ (09-15 baseline -> latest): dinosaur backpacks (6,600/mo) 20->2 on 10-07, the day the Day 17 backpack post went live; dinosaur handbag 31->15 (10-07); adult dinosaur shirt 11->4 (10-07); dinosaur hat 16->3; dinosaurs clothes 15->9; dinosaur sweater 27->20; dinosaur bucket hat 19->14; dinosaur swimsuit womens 2->11; dinosaur christmas ornament 25->35 (09-30). Out of the top 100 on the 10-07 collection: dino shoes (1,900, was #2), dinosaur sticker (2,900, was #29), dinosaur converse adults (390, #7), dino shoes adults, women's dinosaur shoes, dinosaur skirt, womens dinosaur swimsuit. dino shoes has now dropped on two consecutive collections (09-30, 10-07) while domain_overview still shows /collections/shoes-adult #2 for 'dinosaur shoes' and /collections/mens-unisex-shoes #16 for 'dino shoe'. Average position 5.3 is the best in the series but is computed over fewer ranking keywords (not_ranking 9->16), so read it with that."
+    },
+    {
+      "date": "2026-10-19",
+      "type": "weekly",
+      "source": "Ubersuggest domain_overview (locId 2840). project_position_info FAILED (connector output-schema error, 2 attempts), so no rank data this week.",
+      "domain_authority": 16,
+      "organic_keywords": 5283,
+      "est_monthly_organic_traffic": 1050,
+      "backlinks": 2621,
+      "referring_domains": 1219,
+      "follow_links": 2409,
+      "nofollow_links": 212,
+      "paid_traffic": 0,
+      "tracked_keywords": 91,
+      "rank_movement": "unavailable (project_position_info output-schema error, 2026-10-19)",
+      "tracked_bins": "unavailable (same)",
+      "notes": "Domain overview essentially flat vs 10-12: backlinks 2,624->2,621, referring domains 1,217->1,219, follow 2,413->2,409, nofollow 211->212. Latest traffic month is still 202609 (1,050); no October month published. Organic keyword count unchanged at 5,283. domain_overview now shows /collections/shoes-adult at #1 for 'dinosaur shoes' (1,900) and #1 for 'dinosaur sneakers' (260), but its rows carry older updated_at stamps, so this does not settle the 'dino shoes' drop seen in rank tracking. BACKLOG #56."
     }
   ],
   "traffic_history": {
@@ -202,7 +219,8 @@
     "202605": 1348,
     "202606": 1111,
     "202607": 1141,
-    "202608": 1163
+    "202608": 1163,
+    "202609": 1050
   },
   "leading_indicator": {
     "_comment": "Tracked keywords in positions 4-10. Moves before traffic does. Populate on the first Monday rank pull.",

@@ -1294,3 +1294,32 @@ Found while checking inventory for `dinosaur rug` and writing the Day 28 `dinosa
 - **Tooling (#54 repeat).** `python3 scripts/md-to-shopify.py` failed again on a fresh container: `markdown`
   wasn't importable by `/usr/local/bin/python3` until `python3 -m pip install markdown`. Use that form, not
   bare `pip`, which installed into a different interpreter.
+
+## 56. Poster range: a "Stegasaurus" title typo, "every sticker" in four poster listings, a 10-business-day ship block, and the rank-tracking tool is failing 🟡 MEDIUM — product copy / tooling — added 2026-10-19
+
+Found while reading every poster listing for the Day 29 `dinosaur-wall-art` post (Shopify, 2026-10-19).
+
+- **Title typo.** `stegasaurus-triceratops-dinosaur-poster` is titled *Stegasaurus & Triceratops*. It should be
+  *Stegosaurus*. Fixing the title (keep the handle, or 301 it) helps it match real searches. Gated: product copy.
+- **"We custom print every sticker"** appears in the shipping text of all four original-range posters (Freedom
+  Forever, African Dinosaur Safari, T-Rex Sunset, Volcano T-Rex). Copy-paste from the sticker template.
+- **Those four also have the slowest ship block in the range:** 3–7 production + ~10 shipping business days, vs
+  2–5 + 3–4 on the newer posters. That makes their Christmas order-by **Mon Nov 30**, which the post says. If the
+  supplier is actually faster now, updating the block would move the date to ~Dec 10.
+- **Seven listings start with a `body { font-family … }` CSS block** in the description (Stegasaurus & Triceratops,
+  Triceratops in the Ferns, Velociraptor, T-Rex Portrait, Diplodocus, Trilobite, Pteranodon). Same issue as #45
+  (ties): an inline `<style>` can restyle the whole product page, and it leaks into search snippets.
+- **T-Rex Sunset is tagged `African`** (copied from African Dinosaur Safari). Harmless, but it puts it in any
+  "African" tag view.
+- **Diplodocus pricing is odd:** $22.04 / $24.04 / $25.54 / $30.04 / $31.04, and A2 costs the same as 20″×30″.
+  Looks like a margin formula that wasn't rounded. Consider $X.99 prices.
+- **No canvas, decals or framed options beyond Fossil Hunter.** The SERP for `dinosaur wall art` (590/mo) is
+  canvas and framed-print shops (elephantstock, posterlounge). A framed variant of the four best posters would
+  serve buyers who want ready-to-hang. Merchandising.
+- **New DRAFT in the posters collection:** *Dino Scene — Personalized Photo Dinosaur Poster* (tag
+  `dino-scene-pilot`). Left alone and not linked. If it goes live, the wall-art post can add a line for it.
+- **Printables post price mismatch.** The live 2026-10-16 printables post (not from this routine) lists the
+  coloring 3-pack at $7.99 in its table but $3.99 under its image. The listing is $7.99. Gated: existing live page.
+- **Tooling: `project_position_info` fails** with `Structured content does not match the tool's output schema`
+  (twice on 2026-10-19, with and without the locId/language/device filters). The weekly rank pull could not run.
+  This is on the Ubersuggest connector side. Retry next Monday; if it persists, the connector needs updating.

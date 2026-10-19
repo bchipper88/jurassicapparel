@@ -496,10 +496,10 @@
       {
         "handle": "dinosaur-posters",
         "title": "Dinosaur Posters",
-        "products": 15,
+        "products": 16,
         "active": 15,
-        "active_verified": "2026-10-18",
-        "note": "2026-10-18: 8 -> 15 (collection productsCount 15; 15 ACTIVE products of type *poster*)."
+        "active_verified": "2026-10-19",
+        "note": "2026-10-18: 8 -> 15 (collection productsCount 15; 15 ACTIVE products of type *poster*). 2026-10-19: productsCount 16; the 16th is a DRAFT personalized photo poster (dino-scene-personalized-photo-dinosaur-poster), not linkable. Still 15 ACTIVE."
       },
       {
         "handle": "dinosaur-dog-bandanas",
@@ -528,6 +528,14 @@
         "products": 4,
         "active": 4,
         "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "dinosaur-printables",
+        "title": "Dinosaur Printables",
+        "products": 11,
+        "active": 11,
+        "active_verified": "2026-10-19",
+        "note": "2026-10-19: added to the map. 11 ACTIVE digital downloads (7 wall-art prints $5.99, 3 coloring pages $3.99, 1 coloring 3-pack $7.99). Created around 2026-10-16 outside this routine."
       }
     ],
     "seasonal": [

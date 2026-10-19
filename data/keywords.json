@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-18",
+  "pulled": "2026-10-19",
   "loc_id": 2840,
   "published": [
     {
@@ -985,9 +985,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-bathroom-decor",
       "shopify_article_id": "gid://shopify/Article/634990985366",
       "published_at": "2026-10-18T11:08:24Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur wall art",
       "volume": 590,
@@ -996,8 +994,39 @@
       "sd": 20,
       "cpc": 1.14,
       "intent": "Transactional",
-      "verified": "2026-10-18",
-      "note": "Day 29 target. Posters collection now 15 ACTIVE (was 8). Nov 720. Fallback: dinosaur apron 90/SD 12 (re-verified 2026-10-18)."
+      "verified": "2026-10-19",
+      "note": "Day 29. Re-verified unchanged. SERP: collection pages + a DA 4 shop at #5 + Pinterest printables; no editorial guide. By style / by room / frame-ratio table / 3 priced gallery walls / order-by table. 12 posters, all ACTIVE. BACKLOG #56.",
+      "slug": "dinosaur-wall-art",
+      "date": "2026-10-19",
+      "day": 29,
+      "status": "published",
+      "secondary": [
+        {
+          "keyword": "dinosaur wall decor",
+          "volume": 590,
+          "sd": 27,
+          "cpc": 0.61
+        },
+        {
+          "keyword": "dinosaur nursery wall art",
+          "volume": 140,
+          "sd": 27,
+          "cpc": 0.68
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur room decor",
+      "volume": 1000,
+      "peak_volume": 1600,
+      "peak_month": "202507",
+      "sd": 27,
+      "cpc": 0.64,
+      "intent": "Transactional",
+      "verified": "2026-10-19",
+      "note": "Day 30 target. Nov-Dec 1,300. Sister: 'dinosaur nursery decor' 880/SD 28 (queue); 'dinosaur bedroom decor' 390/SD 44 (skip as target). Fallback: dinosaur apron 90/SD 12."
     }
   ],
   "queued_seasonal": [
@@ -1052,6 +1081,18 @@
     }
   ],
   "queued_evergreen": [
+    {
+      "keyword": "dinosaur nursery decor",
+      "volume": 880,
+      "peak_volume": 1300,
+      "peak_month": "202506",
+      "sd": 28,
+      "cpc": 0.64,
+      "intent": "Transactional",
+      "verified": "2026-10-19",
+      "status": "queued",
+      "note": "Day 31 candidate unless it folds into dinosaur room decor. Baby collections (35 ACTIVE), ABC poster, blankets."
+    },
     {
       "keyword": "dinosaur dress",
       "volume": 880,
@@ -1590,6 +1631,25 @@
       "cpc": 1.3,
       "verified": "2026-10-18",
       "reason": "All-product-page SERP; one rug in two sizes. Product-page brief instead: content/rescues/2026-10-18-dinosaur-rug-product-page.md"
+    },
+    {
+      "keyword": "dinosaur prints",
+      "volume": 3600,
+      "sd": 45,
+      "cpc": 0.22,
+      "intent": "Informational",
+      "verified": "2026-10-19",
+      "status": "skip",
+      "note": "SD 45 and informational (footprints/fossil tracks). Not a wall-art term."
+    },
+    {
+      "keyword": "dinosaur bedroom decor",
+      "volume": 390,
+      "sd": 44,
+      "cpc": 0.64,
+      "verified": "2026-10-19",
+      "status": "skip",
+      "note": "SD 44 vs 27 for 'dinosaur room decor' at 2.5x the volume. Covered as a secondary there."
     }
   ],
   "rescue_content": [

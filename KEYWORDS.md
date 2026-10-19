@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12, 2026-10-13, 2026-10-15, 2026-10-16, 2026-10-17, 2026-10-18.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12, 2026-10-13, 2026-10-15, 2026-10-16, 2026-10-17, 2026-10-18, 2026-10-19.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -348,15 +348,29 @@ Ubersuggest figure that justified it.
   (checked live today). Also probed: `dinosaur home decor` 90 (SD 28), `dinosaur kitchen decor` 40 (SD 44). BACKLOG #55.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-bathroom-decor
 
+- ✅ Published (2026-10-19) **dinosaur wall art** — 590/mo | **Aug 880 · Nov 720**, Oct 480, May 390 | SD 20
+  | $1.14 CPC | Transactional → `dinosaur-wall-art`
+  Day 29. Re-verified 2026-10-19 (locId 2840), unchanged. Secondaries: `dinosaur wall decor` 590/mo, SD 27, $0.61
+  (Jul–Aug 720); `dinosaur nursery wall art` 140/mo, SD 27 (Oct 2025 spike 390). Also probed: `dinosaur prints`
+  3,600 but SD 45 and Informational (footprints), `vintage dinosaur prints` 30. SERP (Ubersuggest, fresh 2026-10-19):
+  product carousel + image pack, thecrownprints.com collection (DA 23) #3, posterlounge (DA 43) #4,
+  **urchinbayart.com (DA 4) #5**, a Pinterest free-printable pin #6, elephantstock #7, eBay, AI overview,
+  Etsy/Amazon. No editorial guide. Collision check: the bathroom post (links four posters, now links back) and
+  the 2026-10-16 printables post (not from this routine; one H2 on kids'-room wall art, printables only). This
+  post owns physical wall art and links the printables post as the $6 option. Built by style (museum plates,
+  painted, retro, learning, graphic), by room, a frame-ratio table (3:4 and A-sizes need special frames),
+  three priced gallery walls ($57/$74/$95) and an order-by table (Nov 30 → Dec 10). 12 posters linked, all ACTIVE
+  and `availableForSale`. Added `dinosaur-printables` (11 ACTIVE) to catalog.json. BACKLOG #56.
+
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur wall art** (Day 29, Mon 2026-10-19) — **590/mo** | Aug 880, **Nov 720**, floor 390 | SD 20 |
-  $1.14 CPC | Transactional. Pulled 2026-10-18 (locId 2840). The posters collection has grown from 8 to
-  **15 ACTIVE** since `dinosaur poster` was skipped on 2026-10-04 (that term is still SD 40; this one is SD 20).
-  Publishing three weeks ahead of the November bump. Before writing: collision-check against the new
-  bathroom post (it links four posters; tomorrow's post should own wall art and link back), run the SERP,
-  and read every poster's sizes. Monday, so the weekly rank-tracking routine runs too.
-  Fallback: `dinosaur apron` (90/mo, SD 12, Nov 140 / Dec 170; re-verified 2026-10-18, unchanged), one apron.
+- 🎯 **dinosaur room decor** (Day 30, Tue 2026-10-20) — **1,000/mo** | Jul 1,600, **Nov–Dec 1,300**, floor 880 | SD 27 |
+  $0.64 CPC | Transactional. Pulled 2026-10-19 (locId 2840). Publishing two weeks ahead of the November rise.
+  Kids'-room hub across posters (15), pillows (9), blankets (10), the Dino Jungle rug and kids' apparel; link the
+  wall-art and bathroom posts. Before writing: SERP, collision check ("room", "bedroom", "kids room"), and confirm
+  bedding/lamp gaps for a "what we don't sell" line. Sister terms: `dinosaur nursery decor` 880/mo, SD 28 (queue
+  it next, or fold in if the SERPs overlap); `dinosaur bedroom decor` 390 but **SD 44**, skip as a target.
+  Fallback: `dinosaur apron` (90/mo, SD 12, Dec 170; verified 2026-10-18).
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)
@@ -406,6 +420,9 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
   Day 9 `dinosaur christmas` hub (2026-09-29).
 
 ## 📋 QUEUE — Evergreen commercial (fills non-seasonal days)
+
+- 📋 **dinosaur nursery decor** — 880/mo | Jun 1,300, Jan 1,000, floor 720 | SD 28 | $0.64 CPC | Transactional
+  Pulled 2026-10-19. Day 31 candidate, unless its SERP overlaps `dinosaur room decor` enough to fold in.
 
 - ⏭️ **mamasaurus shirt** — 320/mo | SD 25 | $0.89 — skipped 2026-10-10: `/collections/mamasaurus`
   already ranks #12. Collection-copy rescue; covered as a section of the Day 20 post.
@@ -554,6 +571,11 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
 ---
 
 ## ⏭️ SKIPPED
+
+- ⏭️ **dinosaur prints** — 3,600/mo | SD 45 | $0.22 CPC | Informational — skipped 2026-10-19. Too hard at DA 16,
+  and the intent is footprints/fossil tracks, not wall art. `dinosaur wall art` (SD 20) serves the buyer.
+- ⏭️ **dinosaur bedroom decor** — 390/mo | SD 44 — skipped 2026-10-19 as a target. `dinosaur room decor` is 1,000/mo
+  at SD 27 for the same room; carry this as a secondary there.
 
 - ⏭️ **dinosaur rug** — **1,600/mo** | flat 1,300–1,900 | SD 22 | $1.30 CPC | Transactional — skipped
   2026-10-18 as a blog target. The numbers held (re-verified today), but the SERP is all product pages
