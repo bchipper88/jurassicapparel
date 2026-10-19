@@ -361,6 +361,7 @@ Ubersuggest figure that justified it.
   painted, retro, learning, graphic), by room, a frame-ratio table (3:4 and A-sizes need special frames),
   three priced gallery walls ($57/$74/$95) and an order-by table (Nov 30 → Dec 10). 12 posters linked, all ACTIVE
   and `availableForSale`. Added `dinosaur-printables` (11 ACTIVE) to catalog.json. BACKLOG #56.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-wall-art
 
 ## 🎯 NEXT UP
 

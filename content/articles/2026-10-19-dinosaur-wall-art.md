@@ -2,7 +2,10 @@
 title: "Dinosaur Wall Art: 15 Prints Sorted by Style and Room, With Sizes, Frames and Ship Times"
 slug: dinosaur-wall-art
 date: 2026-10-19
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-wall-art
+shopify_article_id: "gid://shopify/Article/634996523158"
+published_at: 2026-10-19T11:10:34Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-19"
 target_keyword: "dinosaur wall art"
 target_volume: 590
@@ -72,7 +75,7 @@ ship time below comes from the listing itself. Here's the short version:
 | A nursery or toddler room | Dinosaur ABC alphabet poster | 12″×16″ to 24″×32″ | $24.99 |
 | A kid's bedroom (ages 5–10) | Dinosaur Chart with Names | 12″×16″ to 24″×32″ | $24.99 |
 | A teen room, office or living room | T-Rex Portrait or the Velociraptor plate | 8″×10″ to 18″×24″ | $15.99 |
-| A hallway gallery wall | Three vintage science plates | 11″×14″ to 24″×36″ | $22.04 each |
+| A hallway gallery wall | Three vintage science plates | 5″×7″ to 24″×36″ | $17.49 |
 | You want it ready to hang | Fossil Hunter framed poster | One size, framed | $49.99 |
 | Party's on Saturday, budget is tight | A printable you print yourself | 8″×10″, 11″×14″ | $5.99 |
 
