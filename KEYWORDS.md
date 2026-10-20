@@ -375,6 +375,7 @@ Ubersuggest figure that justified it.
   rug, walls (posters + the Museum Dinosaurs canvas), pillows and throws, four priced rooms ($217 / $191 / $244 /
   $93), an order-by table (Nov 25 pillows → Dec 10), and a "what we don't sell" line (no sheets, pillowcases,
   inserts, curtains, lamps, decals). 12 products linked, all ACTIVE and `availableForSale` (checked live). BACKLOG #57.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-room-decor
 
 ## 🎯 NEXT UP
 

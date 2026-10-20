@@ -2,7 +2,10 @@
 title: "Dinosaur Room Decor: Theme a Kid's Bedroom From the Bed Up, With Four Rooms Priced Out"
 slug: dinosaur-room-decor
 date: 2026-10-20
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-room-decor
+shopify_article_id: "gid://shopify/Article/635003240598"
+published_at: 2026-10-20T11:08:47Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-20"
 target_keyword: "dinosaur room decor"
 target_volume: 1000
