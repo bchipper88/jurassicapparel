@@ -1323,3 +1323,26 @@ Found while reading every poster listing for the Day 29 `dinosaur-wall-art` post
 - **Tooling: `project_position_info` fails** with `Structured content does not match the tool's output schema`
   (twice on 2026-10-19, with and without the locId/language/device filters). The weekly rank pull could not run.
   This is on the Ubersuggest connector side. Retry next Monday; if it persists, the connector needs updating.
+
+## 57. The wall-art post says "no canvas" but a canvas is live; new bedding, rug and canvas sit outside any home collection; `dinosaur-beanie` is no longer empty 🟡 MEDIUM — blog correction / catalog — added 2026-10-20
+
+Found while mapping inventory for the Day 30 `dinosaur-room-decor` post (Shopify, 2026-10-20).
+
+- **Correction needed on a live post we wrote.** `/blogs/blog/dinosaur-wall-art` (Day 29) says "we don't make
+  canvas prints". The *Museum Dinosaurs - Dinosaur Canvas Wall Art* (`museum-dinosaurs-dinosaur-canvas-wall-art`,
+  12″×12″ $44.99 / 16″×16″ $59.99, ACTIVE since 2026-10-16) was missed because it isn't in `dinosaur-posters`.
+  Suggested replacement for that sentence: *"We make one canvas, the Museum Dinosaurs canvas (12″ or 16″ square,
+  hand-stretched on wood with brackets included). We don't make wall decals or murals, and frames are only
+  included on Fossil Hunter."* Editing a live page is gated, so it's here for the owner. About 2 minutes.
+- **The canvas and the Dino Jungle rug are in no product collection** (only `new-arrivals`, `best-sellers`,
+  `unique-dinosaur-gifts`). Shoppers browsing `dinosaur-posters` never see the canvas. Add the canvas to
+  `dinosaur-posters` (or a `dinosaur-wall-art` collection), and the rug to `dinosaur-bedding` or a home collection.
+- **New `dinosaur-bedding` collection (8 duvet covers, created 2026-10-19)** has been added to `catalog.json`.
+  It's the natural ranker for `dinosaur bedding` (3,600/mo, SD 25). Tomorrow's run drafts a collection-description
+  brief for it. No pillowcases, sheets or shams exist to complete a set; the duvet listings say so plainly.
+  Matching pillowcases from the same supplier would turn eight covers into eight bedding sets.
+- **`dinosaur-beanie` now has 3 ACTIVE products** (Dino Nuggies embroidered, Fossil Hunter embroidered, Museum
+  Dinosaurs). It was on the empty list since August; moved off in `catalog.json`. Linkable again.
+- **The Dino Nursery baby fleece blanket ships from Latvia** (Printful EU) with "4–6 days" shipping, not business
+  days, unlike everything else in `dinosaur-blankets`. Worth a clearer US delivery estimate before December.
+- **#55 still open:** the rug copy still lists a 48″×72″ size with no variant (checked 2026-10-20).

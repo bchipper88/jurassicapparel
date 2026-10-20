@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-19",
+  "pulled": "2026-10-20",
   "loc_id": 2840,
   "published": [
     {
@@ -1017,9 +1017,7 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-wall-art",
       "shopify_article_id": "gid://shopify/Article/634996523158",
       "published_at": "2026-10-19T11:10:34Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur room decor",
       "volume": 1000,
@@ -1028,8 +1026,39 @@
       "sd": 27,
       "cpc": 0.64,
       "intent": "Transactional",
-      "verified": "2026-10-19",
-      "note": "Day 30 target. Nov-Dec 1,300. Sister: 'dinosaur nursery decor' 880/SD 28 (queue); 'dinosaur bedroom decor' 390/SD 44 (skip as target). Fallback: dinosaur apron 90/SD 12."
+      "verified": "2026-10-20",
+      "note": "Day 30. Re-verified unchanged. SERP: Pinterest boards, teepeejoy collection (DA 31) #4, a DA 2 blog at #10. Built bed-first around the new dinosaur-bedding collection (8 duvet covers): four looks, rug, walls, pillows/throws, four priced rooms, order-by table. 12 products, all ACTIVE. BACKLOG #57.",
+      "slug": "dinosaur-room-decor",
+      "date": "2026-10-20",
+      "day": 30,
+      "status": "draft",
+      "secondary": [
+        {
+          "keyword": "dinosaur bedroom ideas",
+          "volume": 480,
+          "sd": 30,
+          "cpc": 0.6
+        },
+        {
+          "keyword": "dinosaur nursery decor",
+          "volume": 880,
+          "sd": 28,
+          "cpc": 0.64
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur bedding",
+      "volume": 3600,
+      "peak_volume": 3600,
+      "peak_month": "202506",
+      "sd": 25,
+      "cpc": 0.72,
+      "intent": "Transactional",
+      "verified": "2026-10-20",
+      "note": "Day 31 target. Flat 2,900-3,600. 8 duvet covers in new dinosaur-bedding collection (2026-10-19). SERP is product pages (DA 36-39) under carousels; also brief a collection description. Fallback: dinosaur nursery decor 880/SD 28."
     }
   ],
   "queued_seasonal": [
@@ -1092,7 +1121,7 @@
       "sd": 28,
       "cpc": 0.64,
       "intent": "Transactional",
-      "verified": "2026-10-19",
+      "verified": "2026-10-20",
       "status": "queued",
       "note": "Day 31 candidate unless it folds into dinosaur room decor. Baby collections (35 ACTIVE), ABC poster, blankets."
     },

@@ -363,15 +363,30 @@ Ubersuggest figure that justified it.
   and `availableForSale`. Added `dinosaur-printables` (11 ACTIVE) to catalog.json. BACKLOG #56.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-wall-art
 
+- ✅ Published (2026-10-20) **dinosaur room decor** — 1,000/mo | **Jul 1,600 · Nov–Dec 1,300**, floor 880 | SD 27
+  | $0.64 CPC | Transactional → `dinosaur-room-decor`
+  Day 30. Re-verified 2026-10-20 (locId 2840), unchanged. Secondaries: `dinosaur bedroom ideas` 480/mo, SD 30,
+  $0.60, Informational (Jul–Aug 720); `dinosaur nursery decor` 880/mo, SD 28 (kept as its own target). Probed
+  `dinosaur kids room` (0). SERP (Ubersuggest, fresh 2026-10-20): Pinterest boards #1, #3, #7, #9, product carousel,
+  teepeejoy.com collection (DA 31) #4, Etsy, Amazon, **reflectionare.com blog (DA 2) #10**, designsouthchs (DA 10)
+  #11. An ideas SERP with one weak editorial page. Collision check: no post has room/bedroom/nursery in its title;
+  the bathroom and wall-art posts are linked as cluster spokes. **Found a new `dinosaur-bedding` collection (8
+  duvet covers, created 2026-10-19)** and built the post bed-first: four looks (bright, pastel, neutral, museum),
+  rug, walls (posters + the Museum Dinosaurs canvas), pillows and throws, four priced rooms ($217 / $191 / $244 /
+  $93), an order-by table (Nov 25 pillows → Dec 10), and a "what we don't sell" line (no sheets, pillowcases,
+  inserts, curtains, lamps, decals). 12 products linked, all ACTIVE and `availableForSale` (checked live). BACKLOG #57.
+
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur room decor** (Day 30, Tue 2026-10-20) — **1,000/mo** | Jul 1,600, **Nov–Dec 1,300**, floor 880 | SD 27 |
-  $0.64 CPC | Transactional. Pulled 2026-10-19 (locId 2840). Publishing two weeks ahead of the November rise.
-  Kids'-room hub across posters (15), pillows (9), blankets (10), the Dino Jungle rug and kids' apparel; link the
-  wall-art and bathroom posts. Before writing: SERP, collision check ("room", "bedroom", "kids room"), and confirm
-  bedding/lamp gaps for a "what we don't sell" line. Sister terms: `dinosaur nursery decor` 880/mo, SD 28 (queue
-  it next, or fold in if the SERPs overlap); `dinosaur bedroom decor` 390 but **SD 44**, skip as a target.
-  Fallback: `dinosaur apron` (90/mo, SD 12, Dec 170; verified 2026-10-18).
+- 🎯 **dinosaur bedding** (Day 31, Wed 2026-10-21) — **3,600/mo** | Jun–Aug, Nov, Jan 3,600; floor 2,900 | SD 25 |
+  $0.72 CPC | Transactional. Pulled 2026-10-20 (locId 2840). Flat year-round, so no seasonal deadline, but it's the
+  biggest SD ≤ 30 term we can newly sell into: 8 duvet covers arrived 2026-10-19. SERP: three product carousels +
+  AI overview, then littleunicorn (DA 37) #5, lambsivy (DA 36) #6, eBay, Pinterest, nestig (DA 39) #10. Product
+  pages, not guides. A buying guide (sizes vs. mattress, cover vs. comforter, what's not included, which print for
+  which age) can rank, but the **collection page** is the natural ranker: draft a collection-description brief for
+  `dinosaur-bedding` alongside the post (owner-gated). Collision check done: no post has bedding/duvet/comforter in
+  its title. Fallback: `dinosaur nursery decor` (880/mo, SD 28, verified 2026-10-20).
+
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)

@@ -42,10 +42,6 @@
       "note": "'dino mask' = 9,900/mo unserved. BACKLOG #1."
     },
     {
-      "handle": "dinosaur-beanie",
-      "products": 0
-    },
-    {
       "handle": "hooded-dinosaur-blankets",
       "products": 0
     },
@@ -482,9 +478,10 @@
       {
         "handle": "dinosaur-blankets",
         "title": "Dinosaur Blankets",
-        "products": 10,
-        "active": 10,
-        "active_verified": "2026-10-01"
+        "products": 12,
+        "active": 12,
+        "active_verified": "2026-10-20",
+        "note": "2026-10-20: 10 -> 12 (Museum Dinosaurs sherpa, Dino Nursery baby fleece added). 9 printed/sherpa/woven throws, 2 hooded, 1 baby fleece (ships from Latvia)."
       },
       {
         "handle": "dinosaur-ties",
@@ -536,6 +533,22 @@
         "active": 11,
         "active_verified": "2026-10-19",
         "note": "2026-10-19: added to the map. 11 ACTIVE digital downloads (7 wall-art prints $5.99, 3 coloring pages $3.99, 1 coloring 3-pack $7.99). Created around 2026-10-16 outside this routine."
+      },
+      {
+        "handle": "dinosaur-bedding",
+        "title": "Dinosaur Bedding",
+        "products": 8,
+        "active": 8,
+        "active_verified": "2026-10-20",
+        "note": "2026-10-20: added to the map. Created 2026-10-19 (gid://shopify/Collection/510046306454). 8 ACTIVE duvet covers, Twin/Twin XL $94.99, Queen $109.99, King $124.99; cover only (no insert, no pillowcases); 2-5 + 4-6 business days. 2 are Christmas prints."
+      },
+      {
+        "handle": "dinosaur-beanie",
+        "title": "Dinosaur Beanie",
+        "products": 3,
+        "active": 3,
+        "active_verified": "2026-10-20",
+        "note": "2026-10-20: was empty; now 3 ACTIVE (Dino Nuggies embroidered, Fossil Hunter embroidered, Museum Dinosaurs). Moved off the empty list."
       }
     ],
     "seasonal": [
@@ -786,6 +799,16 @@
       "handle": "festive-dino-wonderland-christmas-dinosaur-mug",
       "title": "Festive Dino Wonderland - Christmas Dinosaur Mug",
       "note": "Ranks #3 for 'dinosaur christmas mug'. 32 visits/mo."
+    },
+    {
+      "handle": "dino-jungle-dinosaur-area-rug",
+      "title": "Dino Jungle - Dinosaur Area Rug",
+      "note": "2026-10-20: ACTIVE, 2 variants (24x36 $59.99, 36x60 $99.99). Not in any product collection. Copy lists a 48x72 size that has no variant (BACKLOG #55, still open 2026-10-20)."
+    },
+    {
+      "handle": "museum-dinosaurs-dinosaur-canvas-wall-art",
+      "title": "Museum Dinosaurs - Dinosaur Canvas Wall Art",
+      "note": "2026-10-20: ACTIVE since 2026-10-16, 12x12 $44.99 / 16x16 $59.99. Not in dinosaur-posters. The wall-art post says we sell no canvas (BACKLOG #57)."
     }
   ],
   "draft_heavy_do_not_link": [
