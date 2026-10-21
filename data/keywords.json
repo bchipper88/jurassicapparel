@@ -1049,19 +1049,48 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-room-decor",
       "shopify_article_id": "gid://shopify/Article/635003240598",
       "published_at": "2026-10-20T11:08:47Z"
+    },
+    {
+      "cpc": 0.72,
+      "date": "2026-10-21",
+      "day": 31,
+      "intent": "Transactional",
+      "keyword": "dinosaur bedding",
+      "note": "Day 31. Re-verified unchanged. Buyer's guide: cover vs comforter vs set, mattress-fit table, insert advice, 8 prints by age incl. 2 Christmas covers, order-by dates. 9 products ACTIVE. Collection already has full copy; BACKLOG #58.",
+      "peak_month": "202506",
+      "peak_volume": 3600,
+      "sd": 25,
+      "slug": "dinosaur-bedding",
+      "status": "draft",
+      "verified": "2026-10-21",
+      "volume": 3600,
+      "secondary": [
+        {
+          "keyword": "dinosaur comforter",
+          "volume": 480,
+          "sd": 26,
+          "cpc": 0.73
+        },
+        {
+          "keyword": "dinosaur duvet cover",
+          "volume": 170,
+          "sd": 25,
+          "cpc": 2.65
+        }
+      ]
     }
   ],
   "next_up": [
     {
-      "keyword": "dinosaur bedding",
-      "volume": 3600,
-      "peak_volume": 3600,
-      "peak_month": "202506",
-      "sd": 25,
-      "cpc": 0.72,
+      "cpc": 0.64,
       "intent": "Transactional",
+      "keyword": "dinosaur nursery decor",
+      "note": "Day 32 target. Separate intent from room decor/bedding. Check nursery-suitable stock first; no crib bedding exists.",
+      "peak_month": "202506",
+      "peak_volume": 1300,
+      "sd": 28,
       "verified": "2026-10-20",
-      "note": "Day 31 target. Flat 2,900-3,600. 8 duvet covers in new dinosaur-bedding collection (2026-10-19). SERP is product pages (DA 36-39) under carousels; also brief a collection description. Fallback: dinosaur nursery decor 880/SD 28."
+      "volume": 880
     }
   ],
   "queued_seasonal": [
@@ -1116,18 +1145,6 @@
     }
   ],
   "queued_evergreen": [
-    {
-      "keyword": "dinosaur nursery decor",
-      "volume": 880,
-      "peak_volume": 1300,
-      "peak_month": "202506",
-      "sd": 28,
-      "cpc": 0.64,
-      "intent": "Transactional",
-      "verified": "2026-10-20",
-      "status": "queued",
-      "note": "Day 31 candidate unless it folds into dinosaur room decor. Baby collections (35 ACTIVE), ABC poster, blankets."
-    },
     {
       "keyword": "dinosaur dress",
       "volume": 880,
@@ -1685,6 +1702,15 @@
       "verified": "2026-10-19",
       "status": "skip",
       "note": "SD 44 vs 27 for 'dinosaur room decor' at 2.5x the volume. Covered as a secondary there."
+    },
+    {
+      "cpc": 0.695,
+      "keyword": "dinosaur bed set",
+      "note": "SD 44 at DA 17; we sell no sets. Answered in the Day 31 dinosaur-bedding FAQ.",
+      "sd": 44,
+      "status": "skip",
+      "verified": "2026-10-21",
+      "volume": 880
     }
   ],
   "rescue_content": [
@@ -1748,5 +1774,5 @@
       "note": "Re-pulled 2026-09-24 (SD 16 -> 22). Served by the same live cluster; folds into the consolidation."
     }
   ],
-  "last_repull": "2026-10-10"
+  "last_repull": "2026-10-21"
 }

@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12, 2026-10-13, 2026-10-15, 2026-10-16, 2026-10-17, 2026-10-18, 2026-10-19.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12, 2026-10-13, 2026-10-15, 2026-10-16, 2026-10-17, 2026-10-18, 2026-10-19, 2026-10-20, 2026-10-21.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -376,17 +376,23 @@ Ubersuggest figure that justified it.
   $93), an order-by table (Nov 25 pillows → Dec 10), and a "what we don't sell" line (no sheets, pillowcases,
   inserts, curtains, lamps, decals). 12 products linked, all ACTIVE and `availableForSale` (checked live). BACKLOG #57.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-room-decor
+- ✅ Published (2026-10-21) **dinosaur bedding** — 3,600/mo | flat; 3,600 Jun–Aug, Nov, Jan; floor 2,900 | SD 25 |
+  $0.72 CPC | Transactional → `dinosaur-bedding`
+  Day 31. Re-verified 2026-10-21, unchanged. Secondaries: `dinosaur comforter` 480/mo, SD 26, Nov–Dec 720;
+  `dinosaur duvet cover` 170/mo, SD 25, $2.65; `dinosaur bed set` 880/mo but **SD 44**, answered in the FAQ only.
+  Buyer's guide, deliberately different from yesterday's room post: cover vs. comforter vs. set, a mattress-fit
+  table with overhang per side (Queen fits Full), insert advice, all eight prints by age (incl. the two Christmas
+  covers now live), care, Christmas order-by (Fri Nov 13 for Dec 1, Tue Dec 8 for Dec 23). 8 covers + sherpa
+  linked, all ACTIVE and `availableForSale` (checked live). Collision check: no post with bedding/duvet/comforter.
+  The collection page already has a full description and SEO meta (owner-written), so no brief; BACKLOG #58.
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur bedding** (Day 31, Wed 2026-10-21) — **3,600/mo** | Jun–Aug, Nov, Jan 3,600; floor 2,900 | SD 25 |
-  $0.72 CPC | Transactional. Pulled 2026-10-20 (locId 2840). Flat year-round, so no seasonal deadline, but it's the
-  biggest SD ≤ 30 term we can newly sell into: 8 duvet covers arrived 2026-10-19. SERP: three product carousels +
-  AI overview, then littleunicorn (DA 37) #5, lambsivy (DA 36) #6, eBay, Pinterest, nestig (DA 39) #10. Product
-  pages, not guides. A buying guide (sizes vs. mattress, cover vs. comforter, what's not included, which print for
-  which age) can rank, but the **collection page** is the natural ranker: draft a collection-description brief for
-  `dinosaur-bedding` alongside the post (owner-gated). Collision check done: no post has bedding/duvet/comforter in
-  its title. Fallback: `dinosaur nursery decor` (880/mo, SD 28, verified 2026-10-20).
+- 🎯 **dinosaur nursery decor** (Day 32, Thu 2026-10-22) — **880/mo** | Jun 1,300, Jan 1,000, floor 720 | SD 28 | $0.64 CPC |
+  Transactional. Pulled 2026-10-20 (locId 2840); re-verify. Room decor (Day 30) and bedding (Day 31) both stop at
+  the Twin bed, so a nursery page is a genuinely separate intent. Check first what we can actually sell into a nursery
+  (baby fleece blanket, posters/printables, shaped pillows, rug); we make no crib bedding. If the stock is too thin,
+  fall back to the next evergreen item.
 
 ---
 
@@ -438,8 +444,7 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 
 ## 📋 QUEUE — Evergreen commercial (fills non-seasonal days)
 
-- 📋 **dinosaur nursery decor** — 880/mo | Jun 1,300, Jan 1,000, floor 720 | SD 28 | $0.64 CPC | Transactional
-  Pulled 2026-10-19. Day 31 candidate, unless its SERP overlaps `dinosaur room decor` enough to fold in.
+- 🎯 **dinosaur nursery decor** — 880/mo | SD 28 — queued 2026-10-21 as 🎯 Next up for Day 32 (see above).
 
 - ⏭️ **mamasaurus shirt** — 320/mo | SD 25 | $0.89 — skipped 2026-10-10: `/collections/mamasaurus`
   already ranks #12. Collection-copy rescue; covered as a section of the Day 20 post.
@@ -591,6 +596,8 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
 
 - ⏭️ **dinosaur prints** — 3,600/mo | SD 45 | $0.22 CPC | Informational — skipped 2026-10-19. Too hard at DA 16,
   and the intent is footprints/fossil tracks, not wall art. `dinosaur wall art` (SD 20) serves the buyer.
+- ⏭️ **dinosaur bed set** — 880/mo | Nov–Dec 1,600 | **SD 44** | $0.70 — skipped 2026-10-21 as a target: too hard at DA 17,
+  and we sell no sets (no sheets or pillowcases). Answered as an FAQ on the Day 31 `dinosaur-bedding` post.
 - ⏭️ **dinosaur bedroom decor** — 390/mo | SD 44 — skipped 2026-10-19 as a target. `dinosaur room decor` is 1,000/mo
   at SD 27 for the same room; carry this as a secondary there.
 

@@ -1346,3 +1346,19 @@ Found while mapping inventory for the Day 30 `dinosaur-room-decor` post (Shopify
 - **The Dino Nursery baby fleece blanket ships from Latvia** (Printful EU) with "4–6 days" shipping, not business
   days, unlike everything else in `dinosaur-blankets`. Worth a clearer US delivery estimate before December.
 - **#55 still open:** the rug copy still lists a 48″×72″ size with no variant (checked 2026-10-20).
+
+## 58. `dinosaur-bedding` collection: copy is done, but no collection image, no link to the new guide, and still no pillowcases 🟢 LOW — collection / merchandising — added 2026-10-21
+
+Found while building the Day 31 `dinosaur-bedding` post (Shopify, 2026-10-21).
+
+- **No collection-description brief needed.** The collection already carries a full description (sizes,
+  duvet-vs-comforter, care FAQ) and an SEO title and meta description. It's good; leave it. This replaces the brief
+  planned in #57.
+- **The collection has no image** (`image: null`). Collection cards and social shares render blank. Use the
+  Dino Dreams or Colorful Dinosaurs lifestyle shot.
+- **One optional line** for the collection description, linking to the new guide: *"Not sure which size fits your
+  mattress? See our [dinosaur bedding buyer's guide](/blogs/blog/dinosaur-bedding)."* Collection copy is gated.
+- **A stray accordion header** in the description HTML: `<dt><a href="#"><small class="right">.</small> </a></dt>`
+  renders an empty clickable row with a lone period. Worth a look in the theme editor.
+- **Merchandising (repeats #57):** no pillowcases, shams or sheets exist. `dinosaur bed set` is 880/mo (Nov–Dec
+  1,600) but SD 44; matching pillowcases would let the covers compete as sets.
