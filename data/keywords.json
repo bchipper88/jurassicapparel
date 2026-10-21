@@ -1061,7 +1061,7 @@
       "peak_volume": 3600,
       "sd": 25,
       "slug": "dinosaur-bedding",
-      "status": "draft",
+      "status": "published",
       "verified": "2026-10-21",
       "volume": 3600,
       "secondary": [
@@ -1077,7 +1077,10 @@
           "sd": 25,
           "cpc": 2.65
         }
-      ]
+      ],
+      "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-bedding",
+      "shopify_article_id": "gid://shopify/Article/635017789590",
+      "published_at": "2026-10-21T11:06:39Z"
     }
   ],
   "next_up": [

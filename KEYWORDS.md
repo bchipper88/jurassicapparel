@@ -385,6 +385,7 @@ Ubersuggest figure that justified it.
   covers now live), care, Christmas order-by (Fri Nov 13 for Dec 1, Tue Dec 8 for Dec 23). 8 covers + sherpa
   linked, all ACTIVE and `availableForSale` (checked live). Collision check: no post with bedding/duvet/comforter.
   The collection page already has a full description and SEO meta (owner-written), so no brief; BACKLOG #58.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-bedding
 
 ## 🎯 NEXT UP
 

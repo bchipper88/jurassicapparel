@@ -2,7 +2,10 @@
 title: "Dinosaur Bedding: A Buyer's Guide to Our 8 Duvet Covers, Sized to Your Mattress"
 slug: dinosaur-bedding
 date: 2026-10-21
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-bedding
+shopify_article_id: "gid://shopify/Article/635017789590"
+published_at: 2026-10-21T11:06:39Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-21"
 target_keyword: "dinosaur bedding"
 target_volume: 3600
@@ -88,7 +91,7 @@ cover the cheapest way to turn an ordinary bed into a dinosaur bed.
 
 ## Which size dinosaur bedding fits your mattress
 
-Duvet sizes and mattress sizes aren't the same numbers, which is where most returns come from. Here
+Duvet sizes and mattress sizes aren't the same numbers, which is where most mix-ups happen. Here
 is how each of our covers sits on a standard US mattress. Overhang is how far the cover falls past
 the mattress edge on each side, before the depth of the mattress itself.
 
