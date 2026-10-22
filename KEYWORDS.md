@@ -396,6 +396,7 @@ Ubersuggest figure that justified it.
   pillows, Dino Jungle rug (9 products, all ACTIVE and `availableForSale`). Angle: safe-sleep first (crib stays bare,
   soft dinosaurs go on the chair), walls/floor/chair, printable-vs-poster table, three rooms priced out ($82/$91/$162),
   order-by incl. baby-shower timing. Collision check: no nursery post. No nursery collection exists: BACKLOG #59.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-nursery-decor
 
 ## 🎯 NEXT UP
 

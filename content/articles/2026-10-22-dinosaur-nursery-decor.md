@@ -2,7 +2,10 @@
 title: "Dinosaur Nursery Decor: Soft Prints, a Rug and a Reading Chair (and What Stays Out of the Crib)"
 slug: dinosaur-nursery-decor
 date: 2026-10-22
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-nursery-decor
+shopify_article_id: "gid://shopify/Article/635055833238"
+published_at: 2026-10-22T11:07:57Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-22"
 target_keyword: "dinosaur nursery decor"
 target_volume: 880
