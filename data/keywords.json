@@ -1081,19 +1081,60 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-bedding",
       "shopify_article_id": "gid://shopify/Article/635017789590",
       "published_at": "2026-10-21T11:06:39Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "cpc": 0.64,
       "intent": "Transactional",
       "keyword": "dinosaur nursery decor",
-      "note": "Day 32 target. Separate intent from room decor/bedding. Check nursery-suitable stock first; no crib bedding exists.",
+      "note": "Day 32. Re-verified unchanged. Safe-sleep-first nursery guide: walls (2 nursery printables, ABC + Ferns posters), Dino Jungle rug, baby fleece + shaped pillows for the chair, 3 priced rooms, order-by incl. shower timing. 9 products ACTIVE. No nursery collection: BACKLOG #59.",
       "peak_month": "202506",
       "peak_volume": 1300,
       "sd": 28,
-      "verified": "2026-10-20",
-      "volume": 880
+      "verified": "2026-10-22",
+      "volume": 880,
+      "date": "2026-10-22",
+      "day": 32,
+      "slug": "dinosaur-nursery-decor",
+      "status": "draft",
+      "secondary": [
+        {
+          "keyword": "dinosaur nursery",
+          "volume": 880,
+          "sd": 27,
+          "cpc": 0.65
+        },
+        {
+          "keyword": "dinosaur nursery wall decor",
+          "volume": 170,
+          "sd": 27,
+          "cpc": 0.67
+        },
+        {
+          "keyword": "dinosaur nursery wall art",
+          "volume": 140,
+          "sd": 27,
+          "cpc": 0.68
+        },
+        {
+          "keyword": "dinosaur nursery rug",
+          "volume": 50,
+          "sd": 20,
+          "cpc": 0.84
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur coloring pages printable",
+      "volume": 5400,
+      "sd": 21,
+      "cpc": 0.37,
+      "intent": "Informational",
+      "peak_month": "202508",
+      "peak_volume": 8100,
+      "verified": "2026-10-22",
+      "note": "Day 33 target. Intent is free pages; we sell 4 coloring products. Check SERP; skip if all free libraries."
     }
   ],
   "queued_seasonal": [
@@ -1777,5 +1818,5 @@
       "note": "Re-pulled 2026-09-24 (SD 16 -> 22). Served by the same live cluster; folds into the consolidation."
     }
   ],
-  "last_repull": "2026-10-21"
+  "last_repull": "2026-10-22"
 }

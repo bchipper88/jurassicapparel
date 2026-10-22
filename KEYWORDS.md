@@ -387,13 +387,26 @@ Ubersuggest figure that justified it.
   The collection page already has a full description and SEO meta (owner-written), so no brief; BACKLOG #58.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-bedding
 
+- ✅ Published (2026-10-22) **dinosaur nursery decor** — 880/mo | Jun 1,300 peak, floor 720 | SD 28 |
+  $0.64 CPC | Transactional → `dinosaur-nursery-decor`
+  Day 32. Re-verified 2026-10-22, unchanged; flat curve, no deadline. Secondaries: `dinosaur nursery` 880/mo SD 27;
+  `dinosaur nursery wall decor` 170 SD 27; `dinosaur nursery wall art` 140 SD 27; `dinosaur nursery rug` 50 SD 20.
+  Not targeted: `dinosaur nursery ideas` 880 SD 31, `dinosaur nursery themes` 1,000 SD 44, `dinosaur nursery room`
+  880 SD 44. Stock check passed: 2 nursery printables, ABC poster, Ferns poster, Dino Nursery baby fleece, shaped
+  pillows, Dino Jungle rug (9 products, all ACTIVE and `availableForSale`). Angle: safe-sleep first (crib stays bare,
+  soft dinosaurs go on the chair), walls/floor/chair, printable-vs-poster table, three rooms priced out ($82/$91/$162),
+  order-by incl. baby-shower timing. Collision check: no nursery post. No nursery collection exists: BACKLOG #59.
+
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur nursery decor** (Day 32, Thu 2026-10-22) — **880/mo** | Jun 1,300, Jan 1,000, floor 720 | SD 28 | $0.64 CPC |
-  Transactional. Pulled 2026-10-20 (locId 2840); re-verify. Room decor (Day 30) and bedding (Day 31) both stop at
-  the Twin bed, so a nursery page is a genuinely separate intent. Check first what we can actually sell into a nursery
-  (baby fleece blanket, posters/printables, shaped pillows, rug); we make no crib bedding. If the stock is too thin,
-  fall back to the next evergreen item.
+- 🎯 **dinosaur coloring pages printable** (Day 33, Fri 2026-10-23) — **5,400/mo** | Aug 8,100, Nov/Jan–Mar 6,600,
+  floor 5,400 | SD 21 | $0.37 CPC | **Informational**. Pulled 2026-10-22 (locId 2840); re-verify. Big, easy and
+  year-round, and we sell 3 coloring pages ($3.99) and a 3-pack ($7.99) in `dinosaur-printables`. The catch: the
+  intent is *free* pages, and we have none to give away. Check the SERP first. If the top results are all free
+  libraries with dozens of pages, a post selling four pages won't outrank them: mark ⏭️ Skip, log it as a
+  merchandising idea (a free sample page as a lead magnet, BACKLOG), and take `dinosaur printables` (720/mo, SD 28)
+  only if the 2026-10-16 printables post doesn't already own it (it does on title, so likely a skip too); otherwise
+  the next evergreen item. Collision check done: no coloring post on any blog.
 
 ---
 
@@ -445,7 +458,8 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 
 ## 📋 QUEUE — Evergreen commercial (fills non-seasonal days)
 
-- 🎯 **dinosaur nursery decor** — 880/mo | SD 28 — queued 2026-10-21 as 🎯 Next up for Day 32 (see above).
+- ✅ **dinosaur nursery decor** — published 2026-10-22 (Day 32, see ✅ Published).
+- 🎯 **dinosaur coloring pages printable** — 5,400/mo | SD 21 — queued 2026-10-22 as 🎯 Next up for Day 33 (see above).
 
 - ⏭️ **mamasaurus shirt** — 320/mo | SD 25 | $0.89 — skipped 2026-10-10: `/collections/mamasaurus`
   already ranks #12. Collection-copy rescue; covered as a section of the Day 20 post.

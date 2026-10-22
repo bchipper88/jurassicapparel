@@ -1362,3 +1362,20 @@ Found while building the Day 31 `dinosaur-bedding` post (Shopify, 2026-10-21).
   renders an empty clickable row with a lone period. Worth a look in the theme editor.
 - **Merchandising (repeats #57):** no pillowcases, shams or sheets exist. `dinosaur bed set` is 880/mo (Nov–Dec
   1,600) but SD 44; matching pillowcases would let the covers compete as sets.
+
+## 59. Nursery: no nursery collection to land on; nursery pieces scattered across four collections; no crib sheet 🟡 MEDIUM — catalog / merchandising — added 2026-10-22
+
+Found while building the Day 32 `dinosaur-nursery-decor` post (Shopify + Ubersuggest, 2026-10-22).
+
+- **No nursery collection.** `dinosaur nursery` (880/mo, SD 27) and `dinosaur nursery decor` (880/mo, SD 28) have no
+  collection to rank. The nursery-suitable pieces sit in four places: Pastel Baby Dinos and ABC Dinos printables
+  (`dinosaur-printables`), Dinosaur ABC and Triceratops in the Ferns posters (`dinosaur-posters`), the Dino Nursery
+  baby fleece (`dinosaur-blankets`), and the Baby Dino / Cute Hatched Dino pillows (`dinosaur-throw-pillow`). The Dino
+  Jungle rug is in no collection at all (#57). A `dinosaur-nursery` collection of those ~8 items would give the new
+  post a single shop link and the term a landing page. Creating collections is gated.
+- **Merchandising:** no crib sheet. `dinosaur nursery bedding` is 110/mo (SD 25); a fitted crib sheet in the Dino
+  Nursery print is the one bedding item that is safe in a crib. Same print could do a changing-pad cover.
+- **#55 still open:** the rug listing still says "3 sizes … 48″×72″" with only two variants (checked 2026-10-22).
+- **Baby collections grew** since the 2026-10-12 count: `dinosaur-baby-outfit` 37 → 49, `baby-dinosaur-bodysuits`
+  20 → 27, `baby-girl-dinosaur-clothes` 30 → 39 (productsCount, includes drafts). catalog.json not yet re-counted for
+  ACTIVE; do it at the Nov 1 refresh. Worth checking whether #48's unbuyable organic bodysuits are among them.
