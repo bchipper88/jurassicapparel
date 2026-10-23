@@ -2,7 +2,10 @@
 title: "Dinosaur Clothes for Kids and Toddlers (and Matching Pieces for the Grown-Ups)"
 slug: dinosaur-clothes
 date: 2026-10-23
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-clothes
+shopify_article_id: "gid://shopify/Article/635062321302"
+published_at: 2026-10-23T11:10:27Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-23"
 target_keyword: "dinosaur clothes"
 target_volume: 720

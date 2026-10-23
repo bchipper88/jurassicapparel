@@ -408,6 +408,7 @@ Ubersuggest figure that justified it.
   (T-Rex adult + kids, Mamasaurus/Dadasaurus, the new 7-piece Cozy Christmas Dinos set), Christmas order-by table
   (Nov 30 for sundresses → Dec 8 for hoodies). 17 products, all ACTIVE and buyable, checked live. **Kids' shoes
   left out on purpose:** every kid-size shoe variant is unbuyable (BACKLOG #60).
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-clothes
 
 ## 🎯 NEXT UP
 
