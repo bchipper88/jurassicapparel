@@ -147,9 +147,9 @@
       {
         "handle": "dadasaurus-collection",
         "title": "Dadasaurus Collection",
-        "products": 9,
-        "active": 9,
-        "active_verified": "2026-10-01"
+        "products": 12,
+        "active": 12,
+        "active_verified": "2026-10-23"
       }
     ],
     "womens": [
@@ -198,18 +198,18 @@
       {
         "handle": "mamasaurus",
         "title": "Mamasaurus Collection",
-        "products": 17,
-        "active": 17,
-        "active_verified": "2026-10-01"
+        "products": 21,
+        "active": 21,
+        "active_verified": "2026-10-23"
       }
     ],
     "kids": [
       {
         "handle": "kids-dinosaur-apparel",
         "title": "Kids Dinosaur Apparel",
-        "products": 185,
-        "active": 175,
-        "active_verified": "2026-10-01"
+        "products": 208,
+        "active": 198,
+        "active_verified": "2026-10-23"
       },
       {
         "handle": "girls-dinosaur-apparel",
@@ -242,9 +242,9 @@
       {
         "handle": "toddler-apparel",
         "title": "Toddler Apparel",
-        "products": 37,
-        "active": 37,
-        "active_verified": "2026-10-01"
+        "products": 45,
+        "active": 45,
+        "active_verified": "2026-10-23"
       },
       {
         "handle": "dinosaur-baby-outfit",
@@ -293,9 +293,9 @@
       {
         "handle": "kids-dinosaur-hoodie",
         "title": "Kids Dinosaur Hoodie",
-        "products": 7,
-        "active": 7,
-        "active_verified": "2026-10-01"
+        "products": 14,
+        "active": 14,
+        "active_verified": "2026-10-23"
       },
       {
         "handle": "boys-hoodies",
@@ -594,6 +594,14 @@
         "products": 6,
         "active": 6,
         "active_verified": "2026-10-01"
+      },
+      {
+        "handle": "matching-family-dinosaur-christmas-pajamas",
+        "title": "Matching Family Dinosaur Christmas Pajamas",
+        "products": 7,
+        "active": 7,
+        "active_verified": "2026-10-23",
+        "note": "New (found 2026-10-23). Cozy Christmas Dinos print: adult PJ pants, women's PJ top + pants, kids 2T-7 and youth 8-20 leggings, baby bodysuit 12M-24M, Christmas Dinosaur Pattern Hoodie. All ACTIVE and buyable. NOT the BACKLOG #0 drafts; those live in dinosaur-christmas-pajamas(-1)."
       }
     ],
     "gifting": [

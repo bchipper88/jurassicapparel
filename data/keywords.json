@@ -1125,19 +1125,42 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-nursery-decor",
       "shopify_article_id": "gid://shopify/Article/635055833238",
       "published_at": "2026-10-22T11:07:57Z"
+    },
+    {
+      "cpc": 1.1,
+      "intent": "Transactional",
+      "keyword": "dinosaur clothes",
+      "note": "Day 33. Replaced the coloring-pages target (SERP all free libraries). No URL of ours ranks (domain_keywords top 1,000). SERP all collection pages; DA 18 and DA 21 shops in top 5. By-age guide (toddler 2T-5T, youth S-XL) + matching family + Christmas order-by. 17 products ACTIVE and buyable. Kids' shoes omitted: kid sizes unbuyable (BACKLOG #60).",
+      "peak_month": "202512",
+      "peak_volume": 1000,
+      "sd": 18,
+      "verified": "2026-10-23",
+      "volume": 720,
+      "date": "2026-10-23",
+      "day": 33,
+      "slug": "dinosaur-clothes",
+      "status": "draft",
+      "secondary": [
+        {
+          "keyword": "dinosaur clothing",
+          "volume": 720,
+          "sd": 19,
+          "cpc": 0.66
+        }
+      ]
     }
   ],
   "next_up": [
     {
-      "keyword": "dinosaur coloring pages printable",
-      "volume": 5400,
-      "sd": 21,
-      "cpc": 0.37,
-      "intent": "Informational",
-      "peak_month": "202508",
-      "peak_volume": 8100,
-      "verified": "2026-10-22",
-      "note": "Day 33 target. Intent is free pages; we sell 4 coloring products. Check SERP; skip if all free libraries."
+      "keyword": "dinosaur christmas pajamas",
+      "volume": 590,
+      "sd": 24,
+      "cpc": 0.56,
+      "intent": "Transactional",
+      "peak_month": "202511",
+      "peak_volume": 3600,
+      "verified": "2026-10-23",
+      "note": "Day 34 target. New live collection matching-family-dinosaur-christmas-pajamas (7 ACTIVE, not the #0 drafts). Ramp under way (Oct 1,000, Nov 3,600). Secondary: matching dinosaur pajamas 70/mo SD 21 $1.24. Collision: only dinosaur-pajamas-for-adults."
     }
   ],
   "queued_seasonal": [
@@ -1758,6 +1781,15 @@
       "status": "skip",
       "verified": "2026-10-21",
       "volume": 880
+    },
+    {
+      "cpc": 0.37,
+      "keyword": "dinosaur coloring pages printable",
+      "note": "SERP is free libraries (7 of top 10 titles say Free Printable; iheartcraftythings 2,000+ free PDFs). We sell 4 paid pages. Free sample page idea: BACKLOG #61.",
+      "sd": 21,
+      "status": "skip",
+      "verified": "2026-10-23",
+      "volume": 5400
     }
   ],
   "rescue_content": [
@@ -1821,5 +1853,5 @@
       "note": "Re-pulled 2026-09-24 (SD 16 -> 22). Served by the same live cluster; folds into the consolidation."
     }
   ],
-  "last_repull": "2026-10-22"
+  "last_repull": "2026-10-23"
 }

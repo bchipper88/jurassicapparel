@@ -10,6 +10,10 @@ Ordered by value ÷ effort. Discovered 2026-08-30 unless noted.
 **Closed this month:** #0 (deliberate), #3 (title now English), #23 (structural fix), #33 (paged
 recount). #13's agent-side fix is done; its owner-side toy decision is still open.
 
+**🔴 NEW 2026-10-23, before anything else: #60.** Every kid-size variant on the kids' dinosaur shoes is set to
+sold out (inventory tracking on, 0 units). Adult sizes on the same listings still sell. It's a settings fix, and
+Christmas orders for shoes have to be placed by about mid-November.
+
 **If the owner does five things this month, in this order:**
 1. **#36:** swap 3 links in the new pillow post to the collection that ranks, and pick
    `dinosaur-pillows-cases` as the canonical pillow collection. About 5 minutes.
@@ -1379,3 +1383,36 @@ Found while building the Day 32 `dinosaur-nursery-decor` post (Shopify + Ubersug
 - **Baby collections grew** since the 2026-10-12 count: `dinosaur-baby-outfit` 37 → 49, `baby-dinosaur-bodysuits`
   20 → 27, `baby-girl-dinosaur-clothes` 30 → 39 (productsCount, includes drafts). catalog.json not yet re-counted for
   ACTIVE; do it at the Nov 1 refresh. Worth checking whether #48's unbuyable organic bodysuits are among them.
+
+## 60. Kids' dinosaur shoes can't be bought in any kid size 🔴 HIGH — inventory setting — added 2026-10-23
+
+Found while building the Day 33 `dinosaur-clothes` post (Shopify Admin API, 2026-10-23). **Every kid-size variant
+(11 CHILD to 3 YOUTH, EU 28–34) on every ACTIVE kids' sneaker and slip-on is unbuyable:** inventory tracked, 0 units,
+`inventoryPolicy: DENY`. 100 of 100 kid-size variants checked across two pages of results returned
+`availableForSale: false`, on at least 15 products, including Cool T-Rex, Space Dinosaurs, Brontosaurus Vibes,
+Cute Flower Dino's, Dinosauria, Halloween Fossils, Happy Dragons, Mixed Up Dino's, Pink Watercolor, Jurassic Stencil,
+Loving Dinos, Tropical Flowers, Jurassic Expansion, Playful Dinos, Jurassic Island and Roaring Dino, plus the Playful
+Dinos and Loving Dino slip-ons. The **women's and men's sizes on the same listings are still buyable.** The only
+kid-size variants that can be bought belong to `dino-kid-sneakers`, which is DRAFT.
+
+This looks new. On 2026-09-23 (#15) only the two heels had tracking on, and "every other made-to-order shoe has
+inventory tracking switched off". Something has since switched it on for the kid sizes, possibly a POD app sync or
+a bulk edit. The shopper sees a "Kid's Dinosaur Shoes" page where every kid size is sold out, six weeks before
+Christmas. The Day 3 shoes guide, the Day 10 gifts-for-3-year-olds post and `dinosaur-shoes-for-kids` (29 products)
+all send parents there.
+
+**Fix (owner, inventory setting, gated):** on the kid-size variants, switch off "Track quantity" (or turn on
+"Continue selling when out of stock"), to match the adult sizes. If the supplier really has dropped kid sizes, say
+so: the kids' shoes collection and the kids' sections of the Day 3 post then need rewording (a rescue brief). The
+Day 33 post leaves kids' shoes out until this is settled. Owner notified by push on 2026-10-23.
+
+## 61. Free coloring page as a lead magnet 🟢 LOW — merchandising — added 2026-10-23
+
+`dinosaur coloring pages printable` is 5,400/mo (Aug 8,100) at SD 21, and we can't rank for it: 7 of the top 10
+titles are free libraries. We sell 3 coloring pages at $3.99 and a 3-pack at $7.99 (`dinosaur-printables`). One free
+page (an email-gated or plain download) on a "free dinosaur coloring pages" post would let us compete for the term
+and introduce the paid pages. Needs a free product or a file hosted on the store, so it's the owner's call. Not urgent.
+
+Also noted 2026-10-23: a new live collection, `matching-family-dinosaur-christmas-pajamas` (7 ACTIVE, buyable), is
+now in catalog.json. `kids-dinosaur-apparel` grew 185 → 208 (198 ACTIVE), `toddler-apparel` 37 → 45, `mamasaurus`
+17 → 21, `dadasaurus-collection` 9 → 12.

@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12, 2026-10-13, 2026-10-15, 2026-10-16, 2026-10-17, 2026-10-18, 2026-10-19, 2026-10-20, 2026-10-21.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12, 2026-10-13, 2026-10-15, 2026-10-16, 2026-10-17, 2026-10-18, 2026-10-19, 2026-10-20, 2026-10-21, 2026-10-22, 2026-10-23.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -398,17 +398,28 @@ Ubersuggest figure that justified it.
   order-by incl. baby-shower timing. Collision check: no nursery post. No nursery collection exists: BACKLOG #59.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-nursery-decor
 
+- ✅ Published (2026-10-23) **dinosaur clothes** — 720/mo | Nov 880 · **Dec 1,000** · floor 590 | SD 18 | $1.10 CPC |
+  Transactional → `dinosaur-clothes`
+  Day 33. Taken after the coloring-pages target failed its SERP check (see ⏭️ Skipped). Found the same day in a
+  `keyword_suggestions` sweep; not in the top 1,000 `domain_keywords` (no URL of ours ranks). Secondary:
+  `dinosaur clothing` 720/mo SD 19 $0.66 (same SERP intent). Every kids/boys/girls/toddler variant returns 0/mo.
+  SERP is all collection pages (Children's Place DA 64, Carter's, Gymboree, plus permia DA 18 #3 and milaandrose
+  DA 21 #5), so small shops do rank. Angle: by age (toddler 2T–5T / youth S–XL), then matching the family
+  (T-Rex adult + kids, Mamasaurus/Dadasaurus, the new 7-piece Cozy Christmas Dinos set), Christmas order-by table
+  (Nov 30 for sundresses → Dec 8 for hoodies). 17 products, all ACTIVE and buyable, checked live. **Kids' shoes
+  left out on purpose:** every kid-size shoe variant is unbuyable (BACKLOG #60).
+
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur coloring pages printable** (Day 33, Fri 2026-10-23) — **5,400/mo** | Aug 8,100, Nov/Jan–Mar 6,600,
-  floor 5,400 | SD 21 | $0.37 CPC | **Informational**. Pulled 2026-10-22 (locId 2840); re-verify. Big, easy and
-  year-round, and we sell 3 coloring pages ($3.99) and a 3-pack ($7.99) in `dinosaur-printables`. The catch: the
-  intent is *free* pages, and we have none to give away. Check the SERP first. If the top results are all free
-  libraries with dozens of pages, a post selling four pages won't outrank them: mark ⏭️ Skip, log it as a
-  merchandising idea (a free sample page as a lead magnet, BACKLOG), and take `dinosaur printables` (720/mo, SD 28)
-  only if the 2026-10-16 printables post doesn't already own it (it does on title, so likely a skip too); otherwise
-  the next evergreen item. Collision check done: no coloring post on any blog.
-
+- 🎯 **dinosaur christmas pajamas** (Day 34, Sat 2026-10-24) — 590/mo avg | Sep 390 · Oct 1,000 · **Nov 3,600** ·
+  Dec 1,900 · Jan–Jun 10–50 | SD 24 | $0.56 CPC | Transactional. Pulled 2026-10-23 (locId 2840); re-verify. The ramp
+  has started, so this is late by the 4–8 week rule, but the peak is November and every day now counts. It was
+  unwritable until today: a new live collection, `matching-family-dinosaur-christmas-pajamas`, has 7 ACTIVE,
+  buyable pieces in one print (adult PJ pants 2XS–6XL, women's top + pants, kids 2T–7 and youth 8–20 leggings,
+  baby bodysuit 12M–24M, pattern hoodie). These are **not** the BACKLOG #0 drafts; do not link
+  `dinosaur-christmas-pajamas(-1)`. Say plainly that the kids' leggings and bodysuit are *not sleepwear* (the
+  listings say so). Secondary: `matching dinosaur pajamas` 70/mo (Nov–Dec 140) SD 21 $1.24. Collision check done:
+  only `dinosaur-pajamas-for-adults` (Day 5) exists; link to it, don't compete with it. Check the SERP first.
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)
@@ -460,7 +471,8 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 ## 📋 QUEUE — Evergreen commercial (fills non-seasonal days)
 
 - ✅ **dinosaur nursery decor** — published 2026-10-22 (Day 32, see ✅ Published).
-- 🎯 **dinosaur coloring pages printable** — 5,400/mo | SD 21 — queued 2026-10-22 as 🎯 Next up for Day 33 (see above).
+- ✅ **dinosaur clothes** — published 2026-10-23 (Day 33, see ✅ Published).
+- ⏭️ **dinosaur coloring pages printable** — skipped 2026-10-23 on the SERP (see ⏭️ Skipped).
 
 - ⏭️ **mamasaurus shirt** — 320/mo | SD 25 | $0.89 — skipped 2026-10-10: `/collections/mamasaurus`
   already ranks #12. Collection-copy rescue; covered as a section of the Day 20 post.
@@ -609,6 +621,13 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
 ---
 
 ## ⏭️ SKIPPED
+
+- ⏭️ **dinosaur coloring pages printable** — 5,400/mo | Aug 8,100, Nov/Jan–Mar 6,600 | SD 21 | $0.37 | Informational —
+  skipped 2026-10-23 on the SERP, as planned the day before. The numbers held exactly, but 7 of the top 10 titles
+  say "Free Printable(s)": childhoodmagic (DA 32) #2, monkeypen #3, supersimple #5, itsybitsyfun #10, and
+  iheartcraftythings "Over 2000 Free PDF Printables" #13. The only paid results are an Etsy 10-pack (#7) and a
+  Pinterest pin (#8). Four paid pages at $3.99 can't beat that. Merchandising idea filed as BACKLOG #61 (a free
+  sample page). `dinosaur printables` (720, SD 28) is already owned on title by the 2026-10-16 printables post.
 
 - ⏭️ **dinosaur prints** — 3,600/mo | SD 45 | $0.22 CPC | Informational — skipped 2026-10-19. Too hard at DA 16,
   and the intent is footprints/fossil tracks, not wall art. `dinosaur wall art` (SD 20) serves the buyer.
