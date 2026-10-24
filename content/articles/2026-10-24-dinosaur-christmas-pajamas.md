@@ -171,8 +171,8 @@ Go by the chart, not your usual letter. The pants are sized by waist and hips, a
 gives some room at the waist, so if you're between sizes the hips are the measurement to trust.
 
 **Will the print fade?**
-The leggings' listing says the colors are made to stay bright wash after wash. The pants, top and
-hoodie are printed before they're cut and sewn, so the pattern runs right to the seams.
+The leggings' listing says the colors are made to stay bright wash after wash. The adult pajama pants and
+the women's top and pants are printed before they're cut and sewn, so the pattern runs right to the seams.
 
 **What else goes with it?**
 If you're theming more than the pajamas, our [dinosaur Christmas guide](/blogs/blog/dinosaur-christmas)
