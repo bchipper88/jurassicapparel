@@ -409,18 +409,28 @@ Ubersuggest figure that justified it.
   (Nov 30 for sundresses → Dec 8 for hoodies). 17 products, all ACTIVE and buyable, checked live. **Kids' shoes
   left out on purpose:** every kid-size shoe variant is unbuyable (BACKLOG #60).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-clothes
+- ✅ Published (2026-10-24) **dinosaur christmas pajamas** — 590/mo avg | Sep 390 · Oct 1,000 · **Nov 3,600** ·
+  Dec 1,900 | SD 24 | $0.56 CPC | Transactional → `dinosaur-christmas-pajamas`
+  Day 34. Re-verified 2026-10-24 (locId 2840), unchanged. Late by the 4–8 week rule but ~1 week ahead of the November
+  peak; unwritable until the `matching-family-dinosaur-christmas-pajamas` collection went live (7 ACTIVE, buyable,
+  checked live). SERP (Ubersuggest, collected 2026-10-24): Children's Place #1–2 (DA 64), Carter's #3/#9, Pinterest,
+  Target, then **mommematch DA 31 #7** and **dinosaur-universe DA 24 #10**, so small shops rank. Angle: one print on
+  seven pieces, by who it's for; plain statement that kids' leggings and the baby bodysuit are *not sleepwear*;
+  family-of-four cost table; order-by table (women's satin set Nov 25, ships from China → pants/leggings/bodysuit
+  Dec 4 → hoodie Dec 8). Links to the Day 5 adult-pajamas post rather than competing with it. Secondary:
+  `matching dinosaur pajamas` 70/mo SD 21.
 
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur christmas pajamas** (Day 34, Sat 2026-10-24) — 590/mo avg | Sep 390 · Oct 1,000 · **Nov 3,600** ·
-  Dec 1,900 · Jan–Jun 10–50 | SD 24 | $0.56 CPC | Transactional. Pulled 2026-10-23 (locId 2840); re-verify. The ramp
-  has started, so this is late by the 4–8 week rule, but the peak is November and every day now counts. It was
-  unwritable until today: a new live collection, `matching-family-dinosaur-christmas-pajamas`, has 7 ACTIVE,
-  buyable pieces in one print (adult PJ pants 2XS–6XL, women's top + pants, kids 2T–7 and youth 8–20 leggings,
-  baby bodysuit 12M–24M, pattern hoodie). These are **not** the BACKLOG #0 drafts; do not link
-  `dinosaur-christmas-pajamas(-1)`. Say plainly that the kids' leggings and bodysuit are *not sleepwear* (the
-  listings say so). Secondary: `matching dinosaur pajamas` 70/mo (Nov–Dec 140) SD 21 $1.24. Collision check done:
-  only `dinosaur-pajamas-for-adults` (Day 5) exists; link to it, don't compete with it. Check the SERP first.
+- 🎯 **dinosaur christmas sweater** (Day 35, Sun 2026-10-25) — 720/mo avg | Nov 2,900 · **Dec 4,400** | SD 26 |
+  $0.15 CPC (pulled 2026-09-24; re-verify). **Un-skipped 2026-10-24:** BACKLOG #18 is solved. Nine adult dinosaur
+  Christmas sweaters went ACTIVE on 2026-10-18, all $79.99+, all buyable (Santa Rex, Tree Rex Ugly, Merry & Bright
+  Stegosaurus, Sleighceratops, Fa La La La Roar, Wrap Rex, Pterodactyl Sleigh Ride, Santa Hat Dinos, Let It Snow
+  Brachiosaurus). Secondary: `dinosaur ugly christmas sweater` 320/mo avg, Nov 1,000 · Dec 1,900, SD 23, $0.10
+  (verified 2026-10-24). They sit only in `adult-dinosaur-apparel`/`new-arrivals`/`best-sellers`, not in
+  `dinosaur-christmas` and in no sweater collection (BACKLOG #62), so link products directly. Collision check: the
+  Day 16 `dinosaur-sweatshirts` post holds `dinosaur christmas sweatshirt` as an H2; this page is about the knit/ugly
+  sweaters and should link to it. Read each listing for fabric and ship time before writing; check the SERP.
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)
@@ -452,7 +462,8 @@ The `dinosaur-christmas` collection has 52 products, so this one is stocked and 
 Tracked project keywords already include `dinosaur christmas`, `dinosaur christmas sweater`,
 `christmas dinosaur mug`, `dino christmas wrapping paper`, `dinosaur stocking`.
 
-- ⏭️ **dinosaur christmas sweater** — 720/mo | **4,400/mo Dec** | SD 26 | $0.15 CPC — skipped
+- 🎯 **dinosaur christmas sweater** — re-queued 2026-10-24 as Next up: nine sweaters went live 2026-10-18. Was ⏭️
+  720/mo | **4,400/mo Dec** | SD 26 | $0.15 CPC — skipped
   2026-09-24 on inventory: no sweater in the catalog (two Christmas sweatshirts; the "Ugly
   Dinosaur Sweater" is a t-shirt in DRAFT). BACKLOG #18. Re-queue if a sweater is listed.
 - ✅ dinosaur christmas ornament — covered by the Day 4 ornaments guide (see ✅ Published)

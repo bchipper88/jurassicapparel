@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-20",
+  "pulled": "2026-10-24",
   "loc_id": 2840,
   "published": [
     {
@@ -1149,9 +1149,7 @@
         }
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-clothes"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur christmas pajamas",
       "volume": 590,
@@ -1160,8 +1158,33 @@
       "intent": "Transactional",
       "peak_month": "202511",
       "peak_volume": 3600,
-      "verified": "2026-10-23",
-      "note": "Day 34 target. New live collection matching-family-dinosaur-christmas-pajamas (7 ACTIVE, not the #0 drafts). Ramp under way (Oct 1,000, Nov 3,600). Secondary: matching dinosaur pajamas 70/mo SD 21 $1.24. Collision: only dinosaur-pajamas-for-adults."
+      "verified": "2026-10-24",
+      "note": "Day 34 target. New live collection matching-family-dinosaur-christmas-pajamas (7 ACTIVE, not the #0 drafts). Ramp under way (Oct 1,000, Nov 3,600). Secondary: matching dinosaur pajamas 70/mo SD 21 $1.24. Collision: only dinosaur-pajamas-for-adults. Re-verified 2026-10-24 unchanged. SERP 2026-10-24: Children's Place #1-2 DA 64, Carter's, Pinterest, Target; mommematch DA 31 #7, dinosaur-universe DA 24 #10.",
+      "date": "2026-10-24",
+      "day": 34,
+      "slug": "dinosaur-christmas-pajamas",
+      "status": "awaiting-publish",
+      "secondary": [
+        {
+          "keyword": "matching dinosaur pajamas",
+          "volume": 70,
+          "sd": 21,
+          "cpc": 1.24
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur christmas sweater",
+      "volume": 720,
+      "sd": 26,
+      "cpc": 0.15,
+      "intent": "Transactional",
+      "peak_month": "202512",
+      "peak_volume": 4400,
+      "verified": "2026-09-24",
+      "note": "Day 35 target, re-verify. Un-skipped 2026-10-24: nine adult dinosaur Christmas sweaters ACTIVE since 2026-10-18 ($79.99+). Secondary: dinosaur ugly christmas sweater 320/mo, Nov 1,000, Dec 1,900, SD 23, $0.10 (2026-10-24). Not in dinosaur-christmas collection (BACKLOG #62). Link to dinosaur-sweatshirts, don't compete."
     }
   ],
   "queued_seasonal": [

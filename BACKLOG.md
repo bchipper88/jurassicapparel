@@ -1416,3 +1416,22 @@ and introduce the paid pages. Needs a free product or a file hosted on the store
 Also noted 2026-10-23: a new live collection, `matching-family-dinosaur-christmas-pajamas` (7 ACTIVE, buyable), is
 now in catalog.json. `kids-dinosaur-apparel` grew 185 → 208 (198 ACTIVE), `toddler-apparel` 37 → 45, `mamasaurus`
 17 → 21, `dadasaurus-collection` 9 → 12.
+
+## 62. Nine new Christmas sweaters aren't in the Christmas collection; the Day 5 pajamas post now says something untrue 🟡 MEDIUM — catalog / blog correction — added 2026-10-24
+
+- **#18 is solved on the product side.** Nine adult dinosaur Christmas sweaters went ACTIVE on 2026-10-18, all
+  $79.99+ and buyable (Santa Rex, Tree Rex Ugly, Merry & Bright Stegosaurus, Sleighceratops, Fa La La La Roar, Wrap Rex,
+  Pterodactyl Sleigh Ride, Santa Hat Dinos, Let It Snow Brachiosaurus). But they sit only in `dinosaur-apparel`,
+  `adult-dinosaur-apparel`, `new-arrivals` and `best-sellers`. They are **not in `dinosaur-christmas`** and there is no
+  sweater collection, so a shopper browsing Christmas won't find them. **Ask (owner, collections, gated):** add them to
+  `dinosaur-christmas`, and consider a `dinosaur-christmas-sweaters` collection for the 4,400/mo December term. The
+  Day 35 post will link products directly until then. The Cozy Christmas Dinos women's pajama pants and the Tree Rex
+  sweatshirt are also missing from `dinosaur-christmas`.
+- **The Day 5 `dinosaur-pajamas-for-adults` post is now wrong.** Its "Matching the family, honestly" section says
+  "we do not make a matching adult-and-child pajama set". Since 2026-10-23 the Cozy Christmas Dinos collection does
+  (adult pants, women's set, kids'/youth leggings, baby bodysuit; the kids' pieces are not sleepwear). It also cites
+  185 kids' pieces (now 208). Editing a live post is gated: the fix is two sentences pointing to the new
+  `dinosaur-christmas-pajamas` post. Worth doing before the November peak; the Day 34 post links to Day 5, so readers
+  will cross between the two.
+- **#60 still open:** Cool T-Rex kids' shoe, all seven kid sizes (11C–3Y) `availableForSale: false`, adult sizes
+  buyable (checked 2026-10-24).
