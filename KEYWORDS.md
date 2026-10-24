@@ -419,6 +419,7 @@ Ubersuggest figure that justified it.
   family-of-four cost table; order-by table (women's satin set Nov 25, ships from China → pants/leggings/bodysuit
   Dec 4 → hoodie Dec 8). Links to the Day 5 adult-pajamas post rather than competing with it. Secondary:
   `matching dinosaur pajamas` 70/mo SD 21.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-christmas-pajamas
 
 ## 🎯 NEXT UP
 

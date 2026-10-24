@@ -2,7 +2,10 @@
 title: "Dinosaur Christmas Pajamas: One Print for the Whole Family"
 slug: dinosaur-christmas-pajamas
 date: 2026-10-24
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-christmas-pajamas
+shopify_article_id: "gid://shopify/Article/635067596950"
+published_at: 2026-10-24T11:12:24Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-24"
 target_keyword: "dinosaur christmas pajamas"
 target_volume: 590

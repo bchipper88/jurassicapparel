@@ -1163,7 +1163,7 @@
       "date": "2026-10-24",
       "day": 34,
       "slug": "dinosaur-christmas-pajamas",
-      "status": "awaiting-publish",
+      "status": "published",
       "secondary": [
         {
           "keyword": "matching dinosaur pajamas",
@@ -1171,7 +1171,8 @@
           "sd": 21,
           "cpc": 1.24
         }
-      ]
+      ],
+      "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-christmas-pajamas"
     }
   ],
   "next_up": [
