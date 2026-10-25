@@ -430,6 +430,7 @@ Ubersuggest figure that justified it.
   3XS–3XL $79.99–83.99, and the **order-by: Tue Nov 17** (knitted to order in China, 7–14 + 6–9 days, counted as
   working days), which lands before the December peak. Links to the Day 16 sweatshirts post. Secondary:
   `dinosaur ugly christmas sweater` 320/mo, Nov 1,000 · Dec 1,900, SD 23, $0.10 (re-verified 2026-10-25).
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-christmas-sweater
 
 ## 🎯 NEXT UP
 

@@ -2,7 +2,10 @@
 title: "Dinosaur Christmas Sweaters: Nine Knitted Designs, and When to Order"
 slug: dinosaur-christmas-sweater
 date: 2026-10-25
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-christmas-sweater
+shopify_article_id: "gid://shopify/Article/635073069206"
+published_at: 2026-10-25T11:14:23Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-25"
 target_keyword: "dinosaur christmas sweater"
 target_volume: 720
