@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12, 2026-10-13, 2026-10-15, 2026-10-16, 2026-10-17, 2026-10-18, 2026-10-19, 2026-10-20, 2026-10-21, 2026-10-22, 2026-10-23.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12, 2026-10-13, 2026-10-15, 2026-10-16, 2026-10-17, 2026-10-18, 2026-10-19, 2026-10-20, 2026-10-21, 2026-10-22, 2026-10-23, 2026-10-24, 2026-10-25.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -421,17 +421,24 @@ Ubersuggest figure that justified it.
   `matching dinosaur pajamas` 70/mo SD 21.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-christmas-pajamas
 
+- ✅ Published (2026-10-25) **dinosaur christmas sweater** — 720/mo avg | Sep 210 · Oct 590 · Nov 2,900 · **Dec 4,400**
+  | SD 26 | $0.15 CPC | Transactional → `dinosaur-christmas-sweater`
+  Day 35. Re-verified 2026-10-25, unchanged from 2026-09-24. Unblocked by nine jacquard-knit adult sweaters (ACTIVE
+  2026-10-18) and a new `dinosaur-christmas-sweaters` collection (12 live / 13; found today). SERP (collected 2026-10-25):
+  uglychristmassweater.com #2 (DA 58), Reddit, Etsy, then **desertandforest DA 18 #5** and **tstarsonline DA 26 #7**,
+  so small shops rank. Angle: nine designs by the joke each tells, party vs family-photo picks, knitted-not-printed,
+  3XS–3XL $79.99–83.99, and the **order-by: Tue Nov 17** (knitted to order in China, 7–14 + 6–9 days, counted as
+  working days), which lands before the December peak. Links to the Day 16 sweatshirts post. Secondary:
+  `dinosaur ugly christmas sweater` 320/mo, Nov 1,000 · Dec 1,900, SD 23, $0.10 (re-verified 2026-10-25).
+
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur christmas sweater** (Day 35, Sun 2026-10-25) — 720/mo avg | Nov 2,900 · **Dec 4,400** | SD 26 |
-  $0.15 CPC (pulled 2026-09-24; re-verify). **Un-skipped 2026-10-24:** BACKLOG #18 is solved. Nine adult dinosaur
-  Christmas sweaters went ACTIVE on 2026-10-18, all $79.99+, all buyable (Santa Rex, Tree Rex Ugly, Merry & Bright
-  Stegosaurus, Sleighceratops, Fa La La La Roar, Wrap Rex, Pterodactyl Sleigh Ride, Santa Hat Dinos, Let It Snow
-  Brachiosaurus). Secondary: `dinosaur ugly christmas sweater` 320/mo avg, Nov 1,000 · Dec 1,900, SD 23, $0.10
-  (verified 2026-10-24). They sit only in `adult-dinosaur-apparel`/`new-arrivals`/`best-sellers`, not in
-  `dinosaur-christmas` and in no sweater collection (BACKLOG #62), so link products directly. Collision check: the
-  Day 16 `dinosaur-sweatshirts` post holds `dinosaur christmas sweatshirt` as an H2; this page is about the knit/ugly
-  sweaters and should link to it. Read each listing for fabric and ship time before writing; check the SERP.
+- 🎯 **Day 36 (Mon 2026-10-26): weekly rank pull first, then choose.** No verified new-content target is queued that
+  clears both inventory and collision. Checked 2026-10-25 and ruled out: `dinosaur christmas decorations` (590/mo,
+  **Nov 3,600**, SD 25 — already a secondary of the Day 9 `dinosaur-christmas` hub), `dinosaur gifts for 3 year olds`
+  (published Day 10), `dinosaur jewelry` (480/mo, SD 17 — `dinosaur-jewelry` still 1 ACTIVE of 6, BACKLOG #50),
+  `dinosaur gifts for men` / `for women` (30/mo each). Monday: take the best term the rank pull surfaces; failing
+  that, re-check the two-tee block on `dinosaur christmas shirt` (Nov 590 · Dec 880, SD 23).
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)
@@ -463,7 +470,7 @@ The `dinosaur-christmas` collection has 52 products, so this one is stocked and 
 Tracked project keywords already include `dinosaur christmas`, `dinosaur christmas sweater`,
 `christmas dinosaur mug`, `dino christmas wrapping paper`, `dinosaur stocking`.
 
-- 🎯 **dinosaur christmas sweater** — re-queued 2026-10-24 as Next up: nine sweaters went live 2026-10-18. Was ⏭️
+- ✅ **dinosaur christmas sweater** — published 2026-10-25 (Day 35, see ✅ Published). Re-queued 2026-10-24 after nine sweaters went live 2026-10-18. Was ⏭️
   720/mo | **4,400/mo Dec** | SD 26 | $0.15 CPC — skipped
   2026-09-24 on inventory: no sweater in the catalog (two Christmas sweatshirts; the "Ugly
   Dinosaur Sweater" is a t-shirt in DRAFT). BACKLOG #18. Re-queue if a sweater is listed.

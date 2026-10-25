@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-24",
+  "pulled": "2026-10-25",
   "loc_id": 2840,
   "published": [
     {
@@ -1173,9 +1173,7 @@
         }
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-christmas-pajamas"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur christmas sweater",
       "volume": 720,
@@ -1184,8 +1182,31 @@
       "intent": "Transactional",
       "peak_month": "202512",
       "peak_volume": 4400,
-      "verified": "2026-09-24",
-      "note": "Day 35 target, re-verify. Un-skipped 2026-10-24: nine adult dinosaur Christmas sweaters ACTIVE since 2026-10-18 ($79.99+). Secondary: dinosaur ugly christmas sweater 320/mo, Nov 1,000, Dec 1,900, SD 23, $0.10 (2026-10-24). Not in dinosaur-christmas collection (BACKLOG #62). Link to dinosaur-sweatshirts, don't compete."
+      "verified": "2026-10-25",
+      "note": "Day 35 target. Re-verified 2026-10-25 unchanged. Nine jacquard-knit adult sweaters (ACTIVE 2026-10-18) + new dinosaur-christmas-sweaters collection (12 live/13). SERP 2026-10-25: uglychristmassweater.com #2 DA 58; desertandforest DA 18 #5; tstarsonline DA 26 #7. Order-by Tue Nov 17 (7-14 + 6-9 days, China).",
+      "date": "2026-10-25",
+      "day": 35,
+      "slug": "dinosaur-christmas-sweater",
+      "status": "published",
+      "secondary": [
+        {
+          "keyword": "dinosaur ugly christmas sweater",
+          "volume": 320,
+          "sd": 23,
+          "cpc": 0.1,
+          "peak_month": "202512",
+          "peak_volume": 1900,
+          "verified": "2026-10-25"
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": null,
+      "day": 36,
+      "date": "2026-10-26",
+      "note": "Monday: weekly rank pull first, then choose. Ruled out 2026-10-25: dinosaur christmas decorations (590, Nov 3,600, SD 25; Day 9 hub secondary), dinosaur jewelry (480, SD 17; 1 ACTIVE of 6, BACKLOG #50), dinosaur gifts for men/women (30 each). Fallback: re-check dinosaur christmas shirt inventory."
     }
   ],
   "queued_seasonal": [
@@ -1327,7 +1348,9 @@
       "sd": 28,
       "cpc": 1.14,
       "metrics_source": "Ubersuggest locId 2840, 2026-09-24",
-      "note": "Genuinely uncovered by the live cluster. Pair with 'for 4 year olds' (170, SD 29) and 'for 2 year olds' (90, SD 22) in one by-age guide, after consolidation."
+      "note": "Genuinely uncovered by the live cluster. Pair with 'for 4 year olds' (170, SD 29) and 'for 2 year olds' (90, SD 22) in one by-age guide, after consolidation.",
+      "status": "published",
+      "verified": "2026-10-25"
     },
     {
       "keyword": "unique dinosaur gifts",
@@ -1815,6 +1838,17 @@
       "status": "skip",
       "verified": "2026-10-23",
       "volume": 5400
+    },
+    {
+      "keyword": "dinosaur christmas decorations",
+      "volume": 590,
+      "sd": 25,
+      "cpc": 0.15,
+      "peak_month": "202511",
+      "peak_volume": 3600,
+      "verified": "2026-10-25",
+      "status": "covered",
+      "note": "Secondary of the Day 9 dinosaur-christmas hub; a new page would cannibalise it."
     }
   ],
   "rescue_content": [

@@ -602,6 +602,14 @@
         "active": 7,
         "active_verified": "2026-10-23",
         "note": "New (found 2026-10-23). Cozy Christmas Dinos print: adult PJ pants, women's PJ top + pants, kids 2T-7 and youth 8-20 leggings, baby bodysuit 12M-24M, Christmas Dinosaur Pattern Hoodie. All ACTIVE and buyable. NOT the BACKLOG #0 drafts; those live in dinosaur-christmas-pajamas(-1)."
+      },
+      {
+        "handle": "dinosaur-christmas-sweaters",
+        "title": "Dinosaur Ugly Christmas Sweaters",
+        "products": 13,
+        "active": 12,
+        "active_verified": "2026-10-25",
+        "note": "New (found 2026-10-25, collection updated 2026-10-24). 9 jacquard-knit adult sweaters (3XS-3XL, $79.99-83.99, knitted to order in China: 7-14 + 6-9 days) + 3 printed Christmas sweatshirts (Tree Rex, Merry Little Rexmas, T-Rex Winter Forest). 1 DRAFT: Jingle Bell Roar youth sweatshirt. Storefront products.json shows 12."
       }
     ],
     "gifting": [

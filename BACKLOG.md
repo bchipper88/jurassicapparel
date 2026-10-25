@@ -1417,7 +1417,7 @@ Also noted 2026-10-23: a new live collection, `matching-family-dinosaur-christma
 now in catalog.json. `kids-dinosaur-apparel` grew 185 → 208 (198 ACTIVE), `toddler-apparel` 37 → 45, `mamasaurus`
 17 → 21, `dadasaurus-collection` 9 → 12.
 
-## 62. Nine new Christmas sweaters aren't in the Christmas collection; the Day 5 pajamas post now says something untrue 🟡 MEDIUM — catalog / blog correction — added 2026-10-24
+## 62. ~~Nine new Christmas sweaters aren't in the Christmas collection~~ (done 2026-10-24); the Day 5 pajamas post now says something untrue 🟡 MEDIUM — catalog / blog correction — added 2026-10-24
 
 - **#18 is solved on the product side.** Nine adult dinosaur Christmas sweaters went ACTIVE on 2026-10-18, all
   $79.99+ and buyable (Santa Rex, Tree Rex Ugly, Merry & Bright Stegosaurus, Sleighceratops, Fa La La La Roar, Wrap Rex,
@@ -1435,3 +1435,10 @@ now in catalog.json. `kids-dinosaur-apparel` grew 185 → 208 (198 ACTIVE), `tod
   will cross between the two.
 - **#60 still open:** Cool T-Rex kids' shoe, all seven kid sizes (11C–3Y) `availableForSale: false`, adult sizes
   buyable (checked 2026-10-24).
+- **Update 2026-10-25 — collection half done, thank you.** A `dinosaur-christmas-sweaters` collection now exists
+  (*Dinosaur Ugly Christmas Sweaters*, updated 2026-10-24): all nine knit sweaters + three printed Christmas
+  sweatshirts live (storefront shows 12), and the sweaters are now in `dinosaur-christmas` too. The Day 35 post links it.
+  One stray: the **Jingle Bell Roar youth sweatshirt is DRAFT** inside the collection; harmless (customers don't see it)
+  but if it's meant to launch, it's the only kids' item in the range. **Still open:** the Day 5
+  `dinosaur-pajamas-for-adults` post still says "we do not make a matching adult-and-child pajama set" (re-checked live
+  2026-10-25). Two-sentence fix, gated.
