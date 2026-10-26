@@ -434,12 +434,17 @@ Ubersuggest figure that justified it.
 
 ## 🎯 NEXT UP
 
-- 🎯 **Day 36 (Mon 2026-10-26): weekly rank pull first, then choose.** No verified new-content target is queued that
-  clears both inventory and collision. Checked 2026-10-25 and ruled out: `dinosaur christmas decorations` (590/mo,
-  **Nov 3,600**, SD 25 — already a secondary of the Day 9 `dinosaur-christmas` hub), `dinosaur gifts for 3 year olds`
-  (published Day 10), `dinosaur jewelry` (480/mo, SD 17 — `dinosaur-jewelry` still 1 ACTIVE of 6, BACKLOG #50),
-  `dinosaur gifts for men` / `for women` (30/mo each). Monday: take the best term the rank pull surfaces; failing
-  that, re-check the two-tee block on `dinosaur christmas shirt` (Nov 590 · Dec 880, SD 23).
+- 🎯 **dinosaur hat** — 1,600/mo | Oct 2,400 | SD 20 | $0.46 CPC | Transactional → `dinosaur-hats`
+  **Written 2026-10-26 (Day 36), not yet published.** Metrics are cached from 2026-10-04: Ubersuggest's daily
+  report quota was already used up at 11:09 UTC, so `keyword_overview` returned HTTP 403 and the routine
+  wouldn't publish on an unverified number. Re-queued from ⏭️ Skip because its own re-check condition fired: Monday's
+  rank pull shows `/collections/dinosaur-hats` went from **#3 to out of the top 100**, and only a product page
+  (Colorful Dino's bucket hat) ranks, at #29. The beanie skip reason is gone too (`dinosaur-beanie` 3 ACTIVE since
+  2026-10-20). 20 ACTIVE hats in `dinosaur-hats` (9 bucket, 7 dad, 1 trucker, 3 beanies), checked live today.
+  Collision check: no post on the `blog` blog has hat/beanie/cap in its handle. Secondaries: `dinosaur beanie` 390/mo,
+  Nov 880 · Dec 1,000, SD 23 (tracked #2 on the hats collection); `dinosaur bucket hat` 110/mo SD 15 (#17).
+  **Tue 2026-10-27:** `keyword_overview("dinosaur hat", locId 2840)` first. If SD is still ≤ 30, publish it, then
+  take Day 37's target from a fresh `keyword_suggestions` sweep.
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)
@@ -501,7 +506,7 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
   2026-10-10: we sell no slippers. Biggest unserved Christmas term found this month. BACKLOG #46.
 - ⏭️ **dinosaur beanie** — 390/mo | Nov 880 · Dec 1,000 | SD 23 — skipped 2026-10-10: the only beanie is
   DRAFT and `dinosaur-beanie` is empty (BACKLOG #1).
-- ⏭️ **dinosaur hat** — skipped 2026-10-04: `/collections/dinosaur-hats` already ranks #3 (see ⏭️ Skipped).
+- 🎯 **dinosaur hat** — re-queued 2026-10-26 after the collection fell from #3 out of the top 100; written as Day 36 (see 🎯 Next up).
 - ✅ **dinosaur purse** — published 2026-10-04 (Day 14, see ✅ Published).
 - ✅ **dinosaur sweatshirt** — published 2026-10-06 (Day 16, see ✅ Published).
 - 📋 dinosaur polo shirt — 110/mo | SD 12 | $0.98 CPC — pulled 2026-10-06. Spring/summer curve (May 170, Dec 40). `dinosaur-polos` 15 ACTIVE. Schedule for April.
@@ -679,7 +684,7 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
   dinosaur skirt 110/mo SD 24 (spring/summer curve, Apr 170, Jan 50: schedule with `dinosaur dress`
   in February). All pulled 2026-10-13.
 
-- ⏭️ **dinosaur hat** — 1,600/mo | Oct 2,400 | SD 20 | $0.46 CPC *(skipped 2026-10-04)*
+- ~~⏭️ **dinosaur hat**~~ — 1,600/mo | Oct 2,400 | SD 20 | $0.46 CPC *(skipped 2026-10-04; **re-queued 2026-10-26**: collection fell #3 → out of top 100, see 🎯 Next up)*
   The numbers held (re-verified today, unchanged), but rank tracking shows
   `/collections/dinosaur-hats` already ranks **#3** for it (up from #11 on 2026-09-08; data through
   2026-09-30), and #14 for `dinosaur bucket hat`. A blog post would compete with our own

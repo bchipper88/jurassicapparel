@@ -441,9 +441,10 @@
       {
         "handle": "dinosaur-hats",
         "title": "Dinosaur Hats",
-        "products": 17,
-        "active": 15,
-        "active_verified": "2026-10-01"
+        "products": 22,
+        "active": 20,
+        "active_verified": "2026-10-26",
+        "note": "2026-10-26: 20 ACTIVE (9 bucket, 7 dad, 1 trucker, 3 beanies); DRAFT: Diplodocus dad hat, DILF Fossils hat."
       },
       {
         "handle": "dinosaur-backpack",
@@ -547,7 +548,7 @@
         "title": "Dinosaur Beanie",
         "products": 3,
         "active": 3,
-        "active_verified": "2026-10-20",
+        "active_verified": "2026-10-26",
         "note": "2026-10-20: was empty; now 3 ACTIVE (Dino Nuggies embroidered, Fossil Hunter embroidered, Museum Dinosaurs). Moved off the empty list."
       }
     ],

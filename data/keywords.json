@@ -1204,10 +1204,14 @@
   ],
   "next_up": [
     {
-      "keyword": null,
-      "day": 36,
-      "date": "2026-10-26",
-      "note": "Monday: weekly rank pull first, then choose. Ruled out 2026-10-25: dinosaur christmas decorations (590, Nov 3,600, SD 25; Day 9 hub secondary), dinosaur jewelry (480, SD 17; 1 ACTIVE of 6, BACKLOG #50), dinosaur gifts for men/women (30 each). Fallback: re-check dinosaur christmas shirt inventory."
+      "keyword": "dinosaur hat",
+      "volume": 1600,
+      "sd": 20,
+      "cpc": 0.46,
+      "status": "awaiting-verify-and-publish",
+      "article": "content/articles/2026-10-26-dinosaur-hats.md",
+      "note": "Written 2026-10-26 (Day 36) on cached metrics (2026-10-04) after the Ubersuggest daily quota was exhausted. Re-queued because the skip condition fired: /collections/dinosaur-hats fell from #3 out of the top 100; a product page ranks #29. Next run: keyword_overview, then publish if SD <= 30.",
+      "verified": "2026-10-04"
     }
   ],
   "queued_seasonal": [
@@ -1675,18 +1679,6 @@
       "verified": "2026-09-24",
       "date": "2026-09-24",
       "reason": "Blocked on the same inventory gap as the adult variant. Servable slice is the baby sub-intent; revisit as 'dinosaur baby onesie', never the head term."
-    },
-    {
-      "keyword": "dinosaur hat",
-      "volume": 1600,
-      "peak_volume": 2400,
-      "peak_month": "202510",
-      "sd": 20,
-      "cpc": 0.46,
-      "intent": "Transactional",
-      "verified": "2026-10-04",
-      "date": "2026-10-04",
-      "reason": "/collections/dinosaur-hats already ranks #3 (tracked, up from #11; data through 2026-09-30). A post would compete with our own top-3 commercial page. Re-check only if it drops below #8."
     },
     {
       "keyword": "dinosaur poster",

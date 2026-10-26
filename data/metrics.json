@@ -203,6 +203,45 @@
       "rank_movement": "unavailable (project_position_info output-schema error, 2026-10-19)",
       "tracked_bins": "unavailable (same)",
       "notes": "Domain overview essentially flat vs 10-12: backlinks 2,624->2,621, referring domains 1,217->1,219, follow 2,413->2,409, nofollow 211->212. Latest traffic month is still 202609 (1,050); no October month published. Organic keyword count unchanged at 5,283. domain_overview now shows /collections/shoes-adult at #1 for 'dinosaur shoes' (1,900) and #1 for 'dinosaur sneakers' (260), but its rows carry older updated_at stamps, so this does not settle the 'dino shoes' drop seen in rank tracking. BACKLOG #56."
+    },
+    {
+      "date": "2026-10-26",
+      "type": "weekly",
+      "source": "Ubersuggest project_position_info (locId 2840, 2026-09-26..2026-10-26, done=true, latest collection 2026-10-21). domain_overview FAILED: HTTP 403 daily report quota exhausted (100/day) at 11:09 UTC.",
+      "domain_authority": "unavailable (quota, 2026-10-26)",
+      "organic_keywords": "unavailable (quota, 2026-10-26)",
+      "est_monthly_organic_traffic": "unavailable (quota, 2026-10-26)",
+      "tracked_keywords": 91,
+      "rank_movement": {
+        "up": 40,
+        "down": 24,
+        "unchanged": 27
+      },
+      "tracked_bins": {
+        "top_3": {
+          "old": 22,
+          "new": 26
+        },
+        "top_10": {
+          "old": 18,
+          "new": 22
+        },
+        "top_100": {
+          "old": 28,
+          "new": 31
+        },
+        "not_ranking": {
+          "old": 23,
+          "new": 12
+        }
+      },
+      "average_position": {
+        "2026-09-30": 9.33,
+        "2026-10-07": 5.3,
+        "2026-10-14": 10.3,
+        "2026-10-21": 10.75
+      },
+      "notes": "Best bins in the series: 11 keywords came back into the top 100 (not_ranking 23->12), top-3 22->26. Average position rose to 10.75 because more keywords rank, not because rankings fell. Moves of 5+ (09-30 -> 10-21): dinosaur backpacks (6,600) 16->3; dinosaur outfits for adults (6,600) 17->6; dinosaur shirt (2,900) 16->7; dinosaur shirt adults (1,000) 10->3; adult dinosaur shirt 12->6; dinosaur purses 11->2; dinosaur tote bag 13->7; new: dinosaur hoodie #1, dinosaur sweatshirt #1, dinosaur dresses #2, dinosaur swimwear #2, hooded dinosaur blanket #5, dinosaur mug #8, dino christmas wrapping paper #9, dinosaur christmas #18, dinosaur socks #17, dinosaur blankets #37. Down: dinosaur hat (1,600) 3->29 (now a product page, the collection fell out), dinosaur blanket (3,600) 28->42, dinosaur shirts 8->16, dinosaur hawaiian shirt 4->12, dinosaur clothes for adults 2->14, men's dinosaur sweater 1->17, dinosaur tie 8->15, womens swimsuit variants 2->10; out of top 100: mamasaurus (1,000, was #8), infant dinosaur clothes (720, was #14)."
     }
   ],
   "traffic_history": {
@@ -239,6 +278,14 @@
         "previous_date": "2026-09-15",
         "top_3": 19,
         "note": "positions_4_10 counted from keywords whose latest position is 4-10 (24); top_3 fell 23->19 mostly from keywords dropping out of the top 100, not sliding to 4-10."
+      },
+      {
+        "date": "2026-10-26",
+        "positions_4_10": 22,
+        "previous": 24,
+        "previous_date": "2026-10-12",
+        "top_3": 26,
+        "note": "Counted from latest position 4-10 (22). top_3 19->26 since 10-12: several keywords jumped straight from 8-16 into the top 3."
       }
     ]
   },

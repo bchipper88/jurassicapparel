@@ -1442,3 +1442,21 @@ now in catalog.json. `kids-dinosaur-apparel` grew 185 → 208 (198 ACTIVE), `tod
   but if it's meant to launch, it's the only kids' item in the range. **Still open:** the Day 5
   `dinosaur-pajamas-for-adults` post still says "we do not make a matching adult-and-child pajama set" (re-checked live
   2026-10-25). Two-sentence fix, gated.
+
+## 63. Ubersuggest's 100-reports/day quota was used up before the 11:06 UTC routine ran; `dinosaur-hats` fell out of the top 100 🟠 HIGH — tooling / SEO — added 2026-10-26
+
+- **Quota.** On Monday 2026-10-26 the first `project_position_info` call succeeded, then `domain_overview` and
+  `keyword_overview` both returned **HTTP 403 "You have reached the daily reports limit: 100"** at about 11:09 UTC.
+  This routine had made one report call. Something else on the account spent the day's 100 reports first (another
+  routine, a manual session, or a quota window that doesn't reset at midnight UTC). Effect: the day's article could
+  not be verified, so it was committed as a draft, not published (CLAUDE.md: never write against a stale number).
+  **Ask (owner):** check what else uses this Ubersuggest login and when the quota resets; either move other jobs
+  after 12:00 UTC or upgrade the plan (https://ubersuggest.com/en/pricing). Agent side: the routine needs about
+  5–15 report calls a day; weekly/monthly runs need more.
+- **`dinosaur-hats` collection lost #3 for `dinosaur hat` (1,600/mo, Oct 2,400, SD 20).** Rank tracking: #3 on
+  2026-09-30, gone from the top 100 by 2026-10-21; Google now shows the Colorful Dino's bucket hat product page at
+  #29 instead. The collection was edited 2026-10-25 (updatedAt), after the drop, so that edit isn't the cause. Its
+  description is a generic accordion block that promises "sun hats", which we don't sell, and it still holds two
+  DRAFT hats (Diplodocus dad hat, DILF Fossils). The Day 36 `dinosaur-hats` post links the collection twice to
+  help it recover. **Ask (owner, gated):** replace the "sun hats" line and consider a collection-copy brief; the agent
+  can draft one on request.
