@@ -2,7 +2,10 @@
 title: "Dinosaur Shirts for Men: Five Cuts, Real Sizes, and Which One to Buy"
 slug: dinosaur-shirts-for-men
 date: 2026-10-27
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-shirts-for-men
+shopify_article_id: "gid://shopify/Article/635087290518"
+published_at: 2026-10-27T11:17:29Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-27"
 target_keyword: "dinosaur shirt for men"
 target_volume: 480
@@ -190,7 +193,7 @@ If he runs cold, a tee may not be the right gift at all. Our
 
 ## When to order a men's dinosaur shirt for Christmas
 
-Every shirt is printed after you order, then shipped, US only, with tracking sent once it leaves
+Every shirt is printed after you order, then shipped, with tracking sent once it leaves
 production. The listings give these estimates in business days:
 
 | Cut | Production | Shipping | Order by (for delivery by Mon Dec 21) |
@@ -221,8 +224,9 @@ Both tees are, in solid colors. Heathers are blends. The all-over tees, polos an
 are polyester.
 
 **Do you ship outside the US?**
-The tee and polo listings give US shipping only. The Hawaiian shirt listing says it ships to the
-US, Canada, Europe, the UK, Australia and New Zealand.
+Most tee listings and the polo listing give US shipping only. The Hawaiian shirt listing says it
+ships to the US, Canada, Europe, the UK, Australia and New Zealand. Check the product page for the
+shirt you pick.
 
 ## Start with the cut
 

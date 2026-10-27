@@ -448,7 +448,7 @@ Ubersuggest figure that justified it.
   rank. Counterpart to the Day 20 ladies' post. Angle: five garments behind the prints (classic tee to 5XL,
   vintage-fit tee that runs big, all-over print tee, slim polo that runs small, Hawaiian to 6XL), the laid-flat size
   chart, and order-by dates per cut (Nov 25 → Dec 8). `mens-dinosaur-t-shirts` 62 in Shopify (catalog snapshot 55).
-  **LIVE:** (pending publish)
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-shirts-for-men
 
 ## 🎯 NEXT UP
 
