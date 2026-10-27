@@ -2,7 +2,10 @@
 title: "Dinosaur Hats: Bucket Hats, Dad Hats, Beanies and How to Pick One"
 slug: dinosaur-hats
 date: 2026-10-26
-status: approved
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-hats
+shopify_article_id: "gid://shopify/Article/635087224982"
+published_at: 2026-10-27T11:10:50Z
 metrics_source: "Ubersuggest live, locId 2840, re-verified 2026-10-27 (written 2026-10-26 on cached 2026-10-04 figures; all unchanged)"
 target_keyword: "dinosaur hat"
 target_volume: 1600

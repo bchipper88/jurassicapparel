@@ -1460,3 +1460,15 @@ now in catalog.json. `kids-dinosaur-apparel` grew 185 → 208 (198 ACTIVE), `tod
   DRAFT hats (Diplodocus dad hat, DILF Fossils). The Day 36 `dinosaur-hats` post links the collection twice to
   help it recover. **Ask (owner, gated):** replace the "sun hats" line and consider a collection-copy brief; the agent
   can draft one on request.
+- **Update 2026-10-27:** quota was available at 11:08 UTC today (about 20 report calls made, no 403s). One bad day so
+  far, not a pattern. Keep open one more week; close if no repeat by the 2026-11-02 Monday run.
+  `dinosaur-hats` post went live 2026-10-27; watch the collection's rank in the 2026-11-02 pull.
+
+## 64. Piggyback Dino Dad tee lists a 5XL size guide but sells only S–3XL; catalog snapshot undercounts men's tees 🟢 LOW — product copy / data — added 2026-10-27
+
+- **Listing mismatch.** `piggyback-dino-dad-mens-dinosaur-t-shirt` (ACTIVE) prints a size guide running XS–5XL, but
+  its variants are S–3XL only. A customer who reads the chart and wants 4XL or 5XL can't buy it. **Ask (owner,
+  gated):** either add XS/4XL/5XL variants if the blank supports them (the sibling Cool Dadasaurus Rex tee sells
+  XS–5XL), or trim the chart to S–3XL. The Day 37 men's shirt post states S–3XL, per the variants.
+- **Catalog drift.** `data/catalog.json` (2026-10-01 snapshot) has `mens-dinosaur-t-shirts` at 55 products; Shopify
+  says 62 today (including 3 DRAFT and 1 ARCHIVED among the first 60). Refresh on the 2026-11-01 monthly run.

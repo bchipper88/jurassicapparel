@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-25",
+  "pulled": "2026-10-27",
   "loc_id": 2840,
   "published": [
     {
@@ -1200,18 +1200,82 @@
         }
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-christmas-sweater"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur hat",
       "volume": 1600,
       "sd": 20,
       "cpc": 0.46,
-      "status": "awaiting-verify-and-publish",
-      "article": "content/articles/2026-10-26-dinosaur-hats.md",
-      "note": "Written 2026-10-26 (Day 36) on cached metrics (2026-10-04) after the Ubersuggest daily quota was exhausted. Re-queued because the skip condition fired: /collections/dinosaur-hats fell from #3 out of the top 100; a product page ranks #29. Next run: keyword_overview, then publish if SD <= 30.",
-      "verified": "2026-10-04"
+      "intent": "Transactional",
+      "peak_month": "202510",
+      "peak_volume": 2400,
+      "verified": "2026-10-27",
+      "note": "Day 36. Written 2026-10-26 on cached 2026-10-04 metrics (quota exhausted); re-verified 2026-10-27 unchanged, then published. Re-queued after /collections/dinosaur-hats fell #3 -> out of top 100.",
+      "date": "2026-10-26",
+      "published": "2026-10-27",
+      "day": 36,
+      "slug": "dinosaur-hats",
+      "status": "published",
+      "secondary": [
+        {
+          "keyword": "dinosaur beanie",
+          "volume": 390,
+          "sd": 23,
+          "peak_month": "202512",
+          "peak_volume": 1000,
+          "verified": "2026-10-10"
+        },
+        {
+          "keyword": "dinosaur bucket hat",
+          "volume": 110,
+          "sd": 15
+        }
+      ],
+      "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-hats"
+    },
+    {
+      "keyword": "dinosaur shirt for men",
+      "volume": 480,
+      "sd": 21,
+      "cpc": 0.53,
+      "intent": "Commercial",
+      "peak_month": "202507",
+      "peak_volume": 880,
+      "verified": "2026-10-27",
+      "note": "Day 37. Winnable phrasing of 'dinosaur shirt men' (480, SD 44) / 'dinosaur shirt man' (590, SD 44). SERP 2026-10-27: no buying guide in top 20; jurassic.studio DA 12 at #6/#10/#13; we don't rank. Counterpart to Day 20 ladies post.",
+      "date": "2026-10-27",
+      "day": 37,
+      "slug": "dinosaur-shirts-for-men",
+      "status": "awaiting-publish",
+      "secondary": [
+        {
+          "keyword": "dinosaur shirt men",
+          "volume": 480,
+          "sd": 44
+        },
+        {
+          "keyword": "dinosaur shirt man",
+          "volume": 590,
+          "sd": 44
+        },
+        {
+          "keyword": "dinosaur shirt men's",
+          "volume": 90,
+          "sd": 22
+        },
+        {
+          "keyword": "men's button down dinosaur shirt",
+          "volume": 50,
+          "sd": 22
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": null,
+      "status": "to-choose",
+      "note": "Day 38 (2026-10-28): fresh keyword_suggestions sweep on seeds not covered 2026-10-27; re-check 'christmas dinosaur shirt' (170, Nov 590 / Dec 880, SD 23) against ACTIVE Christmas tee count."
     }
   ],
   "queued_seasonal": [
@@ -1842,6 +1906,54 @@
       "verified": "2026-10-25",
       "status": "covered",
       "note": "Secondary of the Day 9 dinosaur-christmas hub; a new page would cannibalise it."
+    },
+    {
+      "keyword": "dinosaur sweater",
+      "volume": 1000,
+      "sd": 27,
+      "verified": "2026-10-27",
+      "status": "skip",
+      "note": "Served by Day 35 christmas-sweater + Day 16 sweatshirt posts; third page would split them."
+    },
+    {
+      "keyword": "ask me about my dinosaur shirt",
+      "volume": 590,
+      "sd": 30,
+      "verified": "2026-10-27",
+      "status": "skip",
+      "note": "We don't sell it."
+    },
+    {
+      "keyword": "dadasaurus",
+      "volume": 260,
+      "sd": 42,
+      "verified": "2026-10-27",
+      "status": "skip",
+      "note": "SD 42."
+    },
+    {
+      "keyword": "dinosaur gifts for men",
+      "volume": 30,
+      "sd": 27,
+      "verified": "2026-10-27",
+      "status": "skip",
+      "note": "Too small ($2.08 CPC, Dec 110); unpublished draft exists in the gifts cluster (BACKLOG #12)."
+    },
+    {
+      "keyword": "dinosaur dog bandana",
+      "volume": 20,
+      "sd": 44,
+      "verified": "2026-10-27",
+      "status": "skip",
+      "note": "SD 44, tiny."
+    },
+    {
+      "keyword": "long sleeve dinosaur shirt",
+      "volume": 110,
+      "sd": 18,
+      "verified": "2026-10-27",
+      "status": "skip",
+      "note": "No ACTIVE long-sleeve product."
     }
   ],
   "rescue_content": [

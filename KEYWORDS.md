@@ -432,19 +432,31 @@ Ubersuggest figure that justified it.
   `dinosaur ugly christmas sweater` 320/mo, Nov 1,000 · Dec 1,900, SD 23, $0.10 (re-verified 2026-10-25).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-christmas-sweater
 
+- ✅ Published (2026-10-26, live 2026-10-27) **dinosaur hat** — 1,600/mo | flat 1,300–1,600, **Oct 2,400** | SD 20
+  | $0.46 CPC | Transactional → `dinosaur-hats`
+  Day 36. Written 2026-10-26 on cached figures (Ubersuggest quota gone); **re-verified 2026-10-27, unchanged**, then
+  published. Re-queued from ⏭️ Skip because `/collections/dinosaur-hats` fell #3 → out of top 100. 20 ACTIVE hats
+  (9 bucket, 7 dad, 1 trucker, 3 beanies); all five linked products ACTIVE and buyable, re-checked 2026-10-27.
+  Secondaries: `dinosaur beanie` 390/mo (Nov 880 · Dec 1,000, SD 23), `dinosaur bucket hat` 110/mo SD 15.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-hats
+
+- ✅ Published (2026-10-27) **dinosaur shirt for men** — 480/mo | Jul 880 peak, Sep–Dec 390, Jan–Feb 320 | SD 21
+  | $0.53 CPC | Commercial → `dinosaur-shirts-for-men`
+  Day 37. Found in today's `keyword_suggestions` sweep. Same intent as `dinosaur shirt men` (480) and `dinosaur shirt
+  man` (590), both SD 44, so this is the winnable phrasing. SERP (collected 2026-10-27): a DA 28 product page at #1,
+  Reddit, eBay, Snorg, then **jurassic.studio (DA 12) at #6, #10, #13**; no buying guide in the top 20 and we don't
+  rank. Counterpart to the Day 20 ladies' post. Angle: five garments behind the prints (classic tee to 5XL,
+  vintage-fit tee that runs big, all-over print tee, slim polo that runs small, Hawaiian to 6XL), the laid-flat size
+  chart, and order-by dates per cut (Nov 25 → Dec 8). `mens-dinosaur-t-shirts` 62 in Shopify (catalog snapshot 55).
+  **LIVE:** (pending publish)
+
 ## 🎯 NEXT UP
 
-- 🎯 **dinosaur hat** — 1,600/mo | Oct 2,400 | SD 20 | $0.46 CPC | Transactional → `dinosaur-hats`
-  **Written 2026-10-26 (Day 36), not yet published.** Metrics are cached from 2026-10-04: Ubersuggest's daily
-  report quota was already used up at 11:09 UTC, so `keyword_overview` returned HTTP 403 and the routine
-  wouldn't publish on an unverified number. Re-queued from ⏭️ Skip because its own re-check condition fired: Monday's
-  rank pull shows `/collections/dinosaur-hats` went from **#3 to out of the top 100**, and only a product page
-  (Colorful Dino's bucket hat) ranks, at #29. The beanie skip reason is gone too (`dinosaur-beanie` 3 ACTIVE since
-  2026-10-20). 20 ACTIVE hats in `dinosaur-hats` (9 bucket, 7 dad, 1 trucker, 3 beanies), checked live today.
-  Collision check: no post on the `blog` blog has hat/beanie/cap in its handle. Secondaries: `dinosaur beanie` 390/mo,
-  Nov 880 · Dec 1,000, SD 23 (tracked #2 on the hats collection); `dinosaur bucket hat` 110/mo SD 15 (#17).
-  **Tue 2026-10-27:** `keyword_overview("dinosaur hat", locId 2840)` first. If SD is still ≤ 30, publish it, then
-  take Day 37's target from a fresh `keyword_suggestions` sweep.
+- 🎯 **Day 38 (Wed 2026-10-28): not yet chosen.** Today's sweep (2026-10-27) found little new above 300/mo
+  that isn't already published, held for a rescue, or out of season. Start from `keyword_suggestions` on
+  seeds the sweep didn't cover (`dinosaur gifts for kids`, `dinosaur hoodie for men`, `dinosaur jewelry`,
+  `dinosaur flag`), and check `christmas dinosaur shirt` (170/mo, Nov 590 · Dec 880, SD 23) against the
+  current count of ACTIVE Christmas tees: if it's grown past two, it can stand alone.
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)
@@ -506,7 +518,7 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
   2026-10-10: we sell no slippers. Biggest unserved Christmas term found this month. BACKLOG #46.
 - ⏭️ **dinosaur beanie** — 390/mo | Nov 880 · Dec 1,000 | SD 23 — skipped 2026-10-10: the only beanie is
   DRAFT and `dinosaur-beanie` is empty (BACKLOG #1).
-- 🎯 **dinosaur hat** — re-queued 2026-10-26 after the collection fell from #3 out of the top 100; written as Day 36 (see 🎯 Next up).
+- ✅ **dinosaur hat** — published 2026-10-27 (Day 36, see ✅ Published).
 - ✅ **dinosaur purse** — published 2026-10-04 (Day 14, see ✅ Published).
 - ✅ **dinosaur sweatshirt** — published 2026-10-06 (Day 16, see ✅ Published).
 - 📋 dinosaur polo shirt — 110/mo | SD 12 | $0.98 CPC — pulled 2026-10-06. Spring/summer curve (May 170, Dec 40). `dinosaur-polos` 15 ACTIVE. Schedule for April.
@@ -648,6 +660,15 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
 
 ## ⏭️ SKIPPED
 
+- ⏭️ **Sweep 2026-10-27 (all Ubersuggest, locId 2840):**
+  `dinosaur sweater` 1,000/mo SD 27 — the Day 35 Christmas-sweater post and Day 16 sweatshirt post already serve it;
+  a third page would split them. `ask me about my dinosaur shirt` 590/mo SD 30 — we don't sell it.
+  `dadasaurus` 260/mo **SD 42**. `dinosaur gifts for men` 30/mo ($2.08 CPC; Dec 110) — too small, and an
+  unpublished draft already exists on the handle `dinosaur-gifts-for-men-the-ultimate-guide-for-every-budget`
+  (gifts consolidation, BACKLOG #12). `dinosaur dog bandana` 20/mo SD 44. `long sleeve dinosaur shirt` 110/mo SD 18
+  — no ACTIVE product has "long sleeve" in its title. `girls/kids/toddler dinosaur shirt`, `dinosaur hoodie kids`,
+  `dinosaur baby clothes`, `dinosaur gifts for boys` all return 0 volume.
+
 - ⏭️ **dinosaur coloring pages printable** — 5,400/mo | Aug 8,100, Nov/Jan–Mar 6,600 | SD 21 | $0.37 | Informational —
   skipped 2026-10-23 on the SERP, as planned the day before. The numbers held exactly, but 7 of the top 10 titles
   say "Free Printable(s)": childhoodmagic (DA 32) #2, monkeypen #3, supersimple #5, itsybitsyfun #10, and
@@ -684,7 +705,7 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
   dinosaur skirt 110/mo SD 24 (spring/summer curve, Apr 170, Jan 50: schedule with `dinosaur dress`
   in February). All pulled 2026-10-13.
 
-- ~~⏭️ **dinosaur hat**~~ — 1,600/mo | Oct 2,400 | SD 20 | $0.46 CPC *(skipped 2026-10-04; **re-queued 2026-10-26**: collection fell #3 → out of top 100, see 🎯 Next up)*
+- ~~⏭️ **dinosaur hat**~~ — 1,600/mo | Oct 2,400 | SD 20 | $0.46 CPC *(skipped 2026-10-04; re-queued 2026-10-26; **published 2026-10-27**, see ✅ Published)*
   The numbers held (re-verified today, unchanged), but rank tracking shows
   `/collections/dinosaur-hats` already ranks **#3** for it (up from #11 on 2026-09-08; data through
   2026-09-30), and #14 for `dinosaur bucket hat`. A blog post would compete with our own
