@@ -2,14 +2,14 @@
 title: "Dinosaur Hats: Bucket Hats, Dad Hats, Beanies and How to Pick One"
 slug: dinosaur-hats
 date: 2026-10-26
-status: draft
-metrics_source: "cached (2026-10-04). Ubersuggest daily report quota exhausted 2026-10-26 (HTTP 403 on keyword_overview and domain_overview), so the target could not be re-verified today. Rank data is live from project_position_info, 2026-10-26."
+status: approved
+metrics_source: "Ubersuggest live, locId 2840, re-verified 2026-10-27 (written 2026-10-26 on cached 2026-10-04 figures; all unchanged)"
 target_keyword: "dinosaur hat"
 target_volume: 1600
 target_sd: 20
 target_cpc: 0.46
 target_intent: Transactional
-seasonality: "Oct peak 2,400 (verified 2026-10-04). Full 12-month curve not in the cache. Beanie secondary peaks Nov 880 · Dec 1,000."
+seasonality: "Flat 1,300–1,600 most months, Oct peak 2,400, Nov–Jan 1,600. Curve Jul 2025–Jul 2026, verified 2026-10-27. Not a ramp keyword; publishing into the peak month. Beanie secondary peaks Nov 880 · Dec 1,000."
 secondary_keywords:
   - "dinosaur beanie"        # 390/mo, Nov 880 · Dec 1,000, SD 23 (verified 2026-10-10); tracked #2 on /collections/dinosaur-hats
   - "dinosaur bucket hat"    # 110/mo, SD 15; tracked #17 on a product page (2026-10-21)
