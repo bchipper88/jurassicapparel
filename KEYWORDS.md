@@ -450,13 +450,25 @@ Ubersuggest figure that justified it.
   chart, and order-by dates per cut (Nov 25 → Dec 8). `mens-dinosaur-t-shirts` 62 in Shopify (catalog snapshot 55).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-shirts-for-men
 
+- ✅ Published (2026-10-28) **dino nugget pillow** — 1,900/mo | Aug–Oct 1,600 · Nov 2,400 · **Dec 4,400** · Jan 2,400 | SD 28
+  | $0.27 CPC | Transactional → `dino-nugget-pillow`
+  Day 38. Was a section of the Day 21 nuggets post (BACKLOG #47); promoted to its own page because the twin
+  `dino nugget pillows` is another **2,400/mo, SD 28, same Dec 4,400 peak**, so ~4,300/mo combined and ~8,800 in
+  December, and the ramp starts in November. The owner has since renamed the product to `/products/dino-nugget-pillow`
+  (301 from `custom-shaped-pillow`), which ranks **#30**. SERP (collected 2026-10-28): Google shopping blocks, eBay
+  #5, YouTube DIY, Amazon, Pinterest, odditymall (DA 61) #12, Kohl's; **no buying guide** and no other shop's
+  article. Angle: printed shaped pillow vs plush multi-packs vs DIY, sizes as the square it's cut from, the Dino
+  Nuggies set (40 ACTIVE / 47), order-by Fri Nov 27 for the pillow → Thu Dec 10 for mug/PJ pants/beanie.
+  Secondaries: `dino nuggies pillows` 110 SD 40, `emotional support dino nuggies` 140 SD 28.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 38 (Wed 2026-10-28): not yet chosen.** Today's sweep (2026-10-27) found little new above 300/mo
-  that isn't already published, held for a rescue, or out of season. Start from `keyword_suggestions` on
-  seeds the sweep didn't cover (`dinosaur gifts for kids`, `dinosaur hoodie for men`, `dinosaur jewelry`,
-  `dinosaur flag`), and check `christmas dinosaur shirt` (170/mo, Nov 590 · Dec 880, SD 23) against the
-  current count of ACTIVE Christmas tees: if it's grown past two, it can stand alone.
+- 🎯 **Day 39 (Thu 2026-10-29): `dinosaur water bottle`, conditional.** 880/mo | SD 19 | $0.42 (keyword_suggestions,
+  locId 2840, 2026-10-28; pull the curve with `keyword_overview` first). Risk: we sell **one** water bottle (Dino
+  Nuggies) plus the tumblers the Day 25 post already covers, and the suggestions are brand-led kids' bottles
+  (Thermos, Zak, Contigo, CamelBak). Check the SERP: if it's all kids' brand bottles, ⏭️ skip it and take
+  `dinosaur golf shirt` (140/mo, SD 12, $1.45; `dinosaur golf polo` 70, SD 12) only if its curve isn't summer-only;
+  otherwise run a fresh sweep.
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)
@@ -659,6 +671,18 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
 ---
 
 ## ⏭️ SKIPPED
+
+- ⏭️ **Sweep 2026-10-28 (all Ubersuggest, locId 2840):**
+  `dinosaur jewelry` 480/mo SD 17 ($1.02) — `dinosaur-jewelry` still 1 ACTIVE of 6 (same block as earrings/necklace).
+  `dinosaur jacket` 480/mo SD 26 — only 2 jackets (Dino Jungle windbreaker, Dino Nuggies bomber), and the
+  suggestions are kids' brand jackets (Carter's, Cat & Jack, Columbia). `dinosaur pants` 320/mo SD 27 ($1.17; Nov 480)
+  and `dinosaur pajama pants` 210/mo SD 22 (Dec 480) — 4 of our 5 pants are pajama pants that the Day 5 and Day 34
+  pajama posts already sell, and `/collections/dinosaur-leggings` ranks #3; a pants page would split them.
+  `dinosaur flag` 210/mo SD 25, flat — `dinosaur-flags` has 1 product. `dino nuggies` 4,400/mo SD 28 — food and meme
+  intent. `christmas dinosaur shirt` 170/mo (Nov 590 · Dec 880) SD 23 — re-checked: still **one** ACTIVE
+  Christmas-titled tee, so it stays inside the `dinosaur-christmas` hub. `dinosaur tank top` 110 SD 23,
+  `dinosaur hoodie for men` 90 SD 25 (hoodie guide), `dinosaur bandana` 90 SD 19, `dinosaur apron` 90 SD 12 — too
+  small. `dinosaur gifts for kids`, `girls dinosaur clothes` return 0.
 
 - ⏭️ **Sweep 2026-10-27 (all Ubersuggest, locId 2840):**
   `dinosaur sweater` 1,000/mo SD 27 — the Day 35 Christmas-sweater post and Day 16 sweatshirt post already serve it;

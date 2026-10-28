@@ -1270,13 +1270,49 @@
         }
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-shirts-for-men"
+    },
+    {
+      "keyword": "dino nugget pillow",
+      "volume": 1900,
+      "sd": 28,
+      "cpc": 0.27,
+      "intent": "Transactional",
+      "peak_month": "202512",
+      "peak_volume": 4400,
+      "verified": "2026-10-28",
+      "note": "Day 38. Promoted from a Day 21 section. Twin 'dino nugget pillows' 2,400/mo SD 28, same Dec 4,400 peak. Product renamed by owner to /products/dino-nugget-pillow (301 from custom-shaped-pillow), ranks #30. SERP 2026-10-28: marketplaces, DIY videos, odditymall DA 61 #12; no buying guide.",
+      "date": "2026-10-28",
+      "day": 38,
+      "slug": "dino-nugget-pillow",
+      "status": "draft",
+      "secondary": [
+        {
+          "keyword": "dino nugget pillows",
+          "volume": 2400,
+          "sd": 28
+        },
+        {
+          "keyword": "emotional support dino nuggies",
+          "volume": 140,
+          "sd": 28
+        },
+        {
+          "keyword": "dino nuggies pillows",
+          "volume": 110,
+          "sd": 40
+        }
+      ]
     }
   ],
   "next_up": [
     {
-      "keyword": null,
-      "status": "to-choose",
-      "note": "Day 38 (2026-10-28): fresh keyword_suggestions sweep on seeds not covered 2026-10-27; re-check 'christmas dinosaur shirt' (170, Nov 590 / Dec 880, SD 23) against ACTIVE Christmas tee count."
+      "keyword": "dinosaur water bottle",
+      "volume": 880,
+      "sd": 19,
+      "cpc": 0.42,
+      "verified": "2026-10-28",
+      "status": "conditional",
+      "note": "Day 39 (2026-10-29). Only one water bottle in stock (Dino Nuggies) plus tumblers (Day 25 post). Suggestions are kids' brand bottles. Check curve + SERP; if brand-led, skip to 'dinosaur golf shirt' (140, SD 12, $1.45) if not summer-only, else fresh sweep."
     }
   ],
   "queued_seasonal": [
@@ -1955,6 +1991,62 @@
       "verified": "2026-10-27",
       "status": "skip",
       "note": "No ACTIVE long-sleeve product."
+    },
+    {
+      "keyword": "dinosaur jewelry",
+      "volume": 480,
+      "sd": 17,
+      "verified": "2026-10-28",
+      "status": "skip",
+      "note": "dinosaur-jewelry 1 ACTIVE of 6."
+    },
+    {
+      "keyword": "dinosaur jacket",
+      "volume": 480,
+      "sd": 26,
+      "verified": "2026-10-28",
+      "status": "skip",
+      "note": "Only 2 jackets; suggestions are kids' brand jackets."
+    },
+    {
+      "keyword": "dinosaur pants",
+      "volume": 320,
+      "sd": 27,
+      "verified": "2026-10-28",
+      "status": "skip",
+      "note": "4 of 5 pants are pajama pants already sold by Day 5/Day 34 posts; leggings collection ranks #3."
+    },
+    {
+      "keyword": "dinosaur pajama pants",
+      "volume": 210,
+      "sd": 22,
+      "verified": "2026-10-28",
+      "status": "skip",
+      "note": "Covered by Day 5 and Day 34 pajama posts."
+    },
+    {
+      "keyword": "dinosaur flag",
+      "volume": 210,
+      "sd": 25,
+      "verified": "2026-10-28",
+      "status": "skip",
+      "note": "dinosaur-flags has 1 product."
+    },
+    {
+      "keyword": "dino nuggies",
+      "volume": 4400,
+      "sd": 28,
+      "verified": "2026-10-28",
+      "status": "skip",
+      "note": "Food/meme intent."
+    },
+    {
+      "keyword": "christmas dinosaur shirt",
+      "volume": 170,
+      "sd": 23,
+      "verified": "2026-10-28",
+      "status": "skip",
+      "note": "One ACTIVE Christmas-titled tee; stays in the dinosaur-christmas hub."
     }
   ],
   "rescue_content": [
@@ -2018,5 +2110,5 @@
       "note": "Re-pulled 2026-09-24 (SD 16 -> 22). Served by the same live cluster; folds into the consolidation."
     }
   ],
-  "last_repull": "2026-10-23"
+  "last_repull": "2026-10-28"
 }

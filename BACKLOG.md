@@ -1129,6 +1129,11 @@ Found while writing Day 21 (`dino nuggets shirt`, 260/mo, SD 12). Live Shopify, 
   handle carries no keyword and the title says "nuggie", not "nugget". **Proposal (gated, product
   copy/URL):** retitle to *Dino Nugget Pillow* and change the handle to `dino-nugget-pillow` with
   Shopify's automatic redirect. Biggest single-product term found this month.
+  **✅ Done by the owner (seen 2026-10-28):** the product is now `/products/dino-nugget-pillow`, titled
+  *Dino Nuggie – Dino Nugget Pillow*, with an SEO title and description and a 301 from
+  `/products/custom-shaped-pillow`. It ranks **#30** for `dino nugget pillow` (SERP 2026-10-28). Day 38's post
+  (`dino-nugget-pillow`) links it directly. The Day 11 pillows post and the Day 21 nuggets post still link the
+  old handle and ride the redirect; harmless, and they're live pages, so not edited (gated).
 - **The kid's (8–20) and toddler (2T–7) nuggie tees list no measurement chart**, unlike the men's
   all-over tee. The Day 21 post tells parents to size up when unsure.
 - `dinosaur-nuggie-clothing` count moved 23 → 26 (22 ACTIVE). `data/catalog.json` updated.
