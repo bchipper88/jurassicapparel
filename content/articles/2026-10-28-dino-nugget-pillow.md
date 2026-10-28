@@ -2,7 +2,10 @@
 title: "Dino Nugget Pillow: What It Is, Which Size, and When to Order for Christmas"
 slug: dino-nugget-pillow
 date: 2026-10-28
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dino-nugget-pillow
+shopify_article_id: "gid://shopify/Article/635093057686"
+published_at: 2026-10-28T11:15:38Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-28"
 target_keyword: "dino nugget pillow"
 target_volume: 1900

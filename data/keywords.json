@@ -1284,7 +1284,7 @@
       "date": "2026-10-28",
       "day": 38,
       "slug": "dino-nugget-pillow",
-      "status": "draft",
+      "status": "published",
       "secondary": [
         {
           "keyword": "dino nugget pillows",
@@ -1301,7 +1301,8 @@
           "volume": 110,
           "sd": 40
         }
-      ]
+      ],
+      "live_url": "https://jurassicapparel.com/blogs/blog/dino-nugget-pillow"
     }
   ],
   "next_up": [

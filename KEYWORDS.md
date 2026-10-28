@@ -460,6 +460,7 @@ Ubersuggest figure that justified it.
   article. Angle: printed shaped pillow vs plush multi-packs vs DIY, sizes as the square it's cut from, the Dino
   Nuggies set (40 ACTIVE / 47), order-by Fri Nov 27 for the pillow → Thu Dec 10 for mug/PJ pants/beanie.
   Secondaries: `dino nuggies pillows` 110 SD 40, `emotional support dino nuggies` 140 SD 28.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dino-nugget-pillow
 
 ## 🎯 NEXT UP
 
