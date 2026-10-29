@@ -1477,3 +1477,22 @@ now in catalog.json. `kids-dinosaur-apparel` grew 185 → 208 (198 ACTIVE), `tod
   XS–5XL), or trim the chart to S–3XL. The Day 37 men's shirt post states S–3XL, per the variants.
 - **Catalog drift.** `data/catalog.json` (2026-10-01 snapshot) has `mens-dinosaur-t-shirts` at 55 products; Shopify
   says 62 today (including 3 DRAFT and 1 ARCHIVED among the first 60). Refresh on the 2026-11-01 monthly run.
+
+## 65. Flying-dinosaur pages compete with each other; the Christmas hub misses its November spike; five slides sit in DRAFT 🟡 MEDIUM — blog consolidation / SEO / catalog — added 2026-10-29
+
+- **Two live pages and two drafts on one intent.** `/blogs/blog/flying-dinosaurs-the-complete-guide-to-prehistoric-creatures-of-the-sky-2`
+  ranks **#9 for `flying dinosaurs names` (5,400/mo)**. `/blogs/dinosaur-facts/names-of-dinosaurs-that-fly-exploring-the-myth-of-flying-dinosaurs`
+  (Feb 2025) targets the same phrase and ranks for nothing in the US. Two unpublished drafts share the winner's title
+  (`…-of-the-sky`, `…-of-the-sky-1`). The live winner's excerpt is a stray fragment (*"Yes—but they looked nothing like
+  pterosaurs."*), it has no meta description, and its body repeats the H1. It also has three factual errors
+  (Dracorex called a theropod; "flight evolved four times"; unsupported speed figures). **Ask (owner, gated):**
+  approve `content/rescues/2026-10-29-flying-dinosaurs-rescue.md`: replace the body, set the meta description and
+  excerpt, 301 the 2025 page to the winner, delete the two drafts.
+- **`dinosaur christmas decorations` does 3,600 in November** (590/mo avg, Dec 1,900, SD 25), and the Day 9
+  `dinosaur-christmas` hub, which is about theming the whole house, is the page that should own it. The hub ranks
+  for nothing yet. **Ask (owner, gated, optional):** a light edit to the live hub before mid-November, e.g. SEO title
+  *"Dinosaur Christmas Decorations & Gifts: Theme the Whole House"* and an H2 that reads "Dinosaur Christmas
+  decorations, room by room". No new page: that would split the intent.
+- **Five dinosaur slides in DRAFT** since 2026-10-24 (Bright Dinos, Blush Bloom Dinos, Emerald Jewel Dinos women's;
+  Dino Nuggies, Fossil Botanica men's; $49.99). FYI only: if they're meant to launch, `dinosaur slides` is 880/mo
+  (SD 19), but its SERP is playground slides and slideshow templates, so it's a weak blog target either way.

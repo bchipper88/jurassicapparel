@@ -1307,13 +1307,10 @@
   ],
   "next_up": [
     {
-      "keyword": "dinosaur water bottle",
-      "volume": 880,
-      "sd": 19,
-      "cpc": 0.42,
-      "verified": "2026-10-28",
-      "status": "conditional",
-      "note": "Day 39 (2026-10-29). Only one water bottle in stock (Dino Nuggies) plus tumblers (Day 25 post). Suggestions are kids' brand bottles. Check curve + SERP; if brand-led, skip to 'dinosaur golf shirt' (140, SD 12, $1.45) if not summer-only, else fresh sweep."
+      "keyword": "(fresh sweep)",
+      "verified": "2026-10-29",
+      "status": "open",
+      "note": "Day 40 (2026-10-30). No queued target survives. First check whether the owner approved the socks rewrite (dinosaur socks ramps Nov 1,600 / Dec 1,900). Then dinosaur christmas socks (90, SD 13, $0.33) only if 3+ ACTIVE Christmas socks. Else sweep unprobed product types; else next rescue brief (dinosaur shirt #16, SD 17)."
     }
   ],
   "queued_seasonal": [
@@ -2048,6 +2045,47 @@
       "verified": "2026-10-28",
       "status": "skip",
       "note": "One ACTIVE Christmas-titled tee; stays in the dinosaur-christmas hub."
+    },
+    {
+      "keyword": "dinosaur water bottle",
+      "volume": 880,
+      "sd": 19,
+      "cpc": 0.42,
+      "date": "2026-10-29",
+      "reason": "SERP all brand/museum product pages (AMNH, Zak, HMNS, HydroJug...); we sell one bottle. Curve flat, Aug back-to-school peak."
+    },
+    {
+      "keyword": "dinosaur golf shirt",
+      "volume": 140,
+      "sd": 12,
+      "cpc": 1.45,
+      "date": "2026-10-29",
+      "reason": "Summer curve (May-Jun 260, Dec-Feb 70). Fold into April polo page with dinosaur golf polo (70, SD 12)."
+    },
+    {
+      "keyword": "dinosaur christmas decorations",
+      "volume": 590,
+      "sd": 25,
+      "cpc": 0.15,
+      "peak": "Nov 3,600, Dec 1,900",
+      "date": "2026-10-29",
+      "reason": "Owned by Day 9 dinosaur-christmas hub (theme the whole house); a new page would cannibalise. Hub ranks for nothing yet."
+    },
+    {
+      "keyword": "dinosaur slides",
+      "volume": 880,
+      "sd": 19,
+      "cpc": 0.54,
+      "date": "2026-10-29",
+      "reason": "All 5 slide products DRAFT; SERP is playground slides and presentation templates."
+    },
+    {
+      "keyword": "dinosaur leggings",
+      "volume": 320,
+      "sd": 15,
+      "cpc": 1.26,
+      "date": "2026-10-29",
+      "reason": "Re-check: collection still #4; 2026-10-01 skip stands."
     }
   ],
   "rescue_content": [
@@ -2109,7 +2147,63 @@
       "status": "rescue",
       "metrics_source": "Ubersuggest locId 2840, 2026-09-24",
       "note": "Re-pulled 2026-09-24 (SD 16 -> 22). Served by the same live cluster; folds into the consolidation."
+    },
+    {
+      "keyword": "flying dinosaurs names",
+      "volume": 5400,
+      "sd": 26,
+      "position": 9,
+      "position_prev": "13 (2026-10-01)",
+      "intent": "Informational",
+      "play": "in-place rewrite + consolidation",
+      "cluster": [
+        {
+          "keyword": "dinosaurs that fly",
+          "volume": 27100,
+          "sd": 25,
+          "position": "not in page top 50"
+        },
+        {
+          "keyword": "list of dinosaurs that fly",
+          "volume": 320,
+          "sd": 28,
+          "position": 15
+        },
+        {
+          "keyword": "flying dinosaur list",
+          "volume": 320,
+          "sd": 25,
+          "position": 17
+        },
+        {
+          "keyword": "flying trex",
+          "volume": 320,
+          "sd": 34,
+          "cpc": 8.09,
+          "position": 15
+        },
+        {
+          "keyword": "what dinosaur can fly",
+          "volume": 390,
+          "sd": 25,
+          "position": 21
+        },
+        {
+          "keyword": "flying raptor",
+          "volume": 210,
+          "sd": 33,
+          "position": 16
+        }
+      ],
+      "url": "/blogs/blog/flying-dinosaurs-the-complete-guide-to-prehistoric-creatures-of-the-sky-2",
+      "article_id": "gid://shopify/Article/578454061206",
+      "redirect_from": "/blogs/dinosaur-facts/names-of-dinosaurs-that-fly-exploring-the-myth-of-flying-dinosaurs",
+      "brief": "content/rescues/2026-10-29-flying-dinosaurs-rescue.md",
+      "brief_date": "2026-10-29",
+      "brief_status": "awaiting-owner-approval",
+      "replacement_copy_words": 2940,
+      "verified": "2026-10-29"
     }
   ],
-  "last_repull": "2026-10-28"
+  "last_repull": "2026-10-29"
 }

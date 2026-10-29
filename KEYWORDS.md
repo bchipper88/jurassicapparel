@@ -464,12 +464,22 @@ Ubersuggest figure that justified it.
 
 ## 🎯 NEXT UP
 
-- 🎯 **Day 39 (Thu 2026-10-29): `dinosaur water bottle`, conditional.** 880/mo | SD 19 | $0.42 (keyword_suggestions,
-  locId 2840, 2026-10-28; pull the curve with `keyword_overview` first). Risk: we sell **one** water bottle (Dino
-  Nuggies) plus the tumblers the Day 25 post already covers, and the suggestions are brand-led kids' bottles
-  (Thermos, Zak, Contigo, CamelBak). Check the SERP: if it's all kids' brand bottles, ⏭️ skip it and take
-  `dinosaur golf shirt` (140/mo, SD 12, $1.45; `dinosaur golf polo` 70, SD 12) only if its curve isn't summer-only;
-  otherwise run a fresh sweep.
+- 🎯 **Day 40 (Fri 2026-10-30): fresh sweep, no queued target survives.** The 10-27, 10-28 and 10-29 sweeps between
+  them cleared every stocked category (⏭️ Skipped). Order of attack: (1) has the owner approved any rescue brief?
+  If the **socks rewrite** is approved, nothing else matters this week, because `dinosaur socks` ramps Nov 1,600 → Dec
+  1,900 right now. (2) `dinosaur christmas socks` 90/mo, SD 13 ($0.33, pulled 2026-10-29), only if 3+ ACTIVE
+  Christmas-print socks exist, and then as a section, not a page, unless the socks rewrite stays blocked. (3) Otherwise
+  sweep the product types not yet probed: Fanny Pack (0/mo), Duffle Bag, Neck Gaiter, Golf Towel, Beach Towel,
+  Magnets, Jewelry Box, Pet Feeding Mat. If nothing clears 100/mo at SD ≤ 30 with 3+ ACTIVE products, write the next
+  rescue brief (the `dinosaur shirt` #16 collection, SD 17).
+
+- 🔁 **Day 39 (Thu 2026-10-29): rescue brief, `flying dinosaurs names` / `dinosaurs that fly`.** No new article
+  today: the planned target and its fallback both failed verification (⏭️ below), and a fresh sweep found nothing
+  that cleared the bar. Brief + 2,940-word replacement copy: `content/rescues/2026-10-29-flying-dinosaurs-rescue.md`.
+  The URL now ranks **#9 for `flying dinosaurs names` (5,400/mo, SD 26)**, up from #13 on 10-01, after its SEO title
+  was fixed (article updated 2026-10-14). `dinosaurs that fly` (27,100, SD 25) is no longer in its top 50.
+  It also consolidates a competing 2025 dinosaur-facts page that ranks for nothing, plus two duplicate drafts.
+  Fixes three factual errors. Awaiting owner approval.
 ---
 
 ## 📋 QUEUE — Seasonal costume cluster (ship through September)
@@ -534,7 +544,7 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 - ✅ **dinosaur hat** — published 2026-10-27 (Day 36, see ✅ Published).
 - ✅ **dinosaur purse** — published 2026-10-04 (Day 14, see ✅ Published).
 - ✅ **dinosaur sweatshirt** — published 2026-10-06 (Day 16, see ✅ Published).
-- 📋 dinosaur polo shirt — 110/mo | SD 12 | $0.98 CPC — pulled 2026-10-06. Spring/summer curve (May 170, Dec 40). `dinosaur-polos` 15 ACTIVE. Schedule for April.
+- 📋 dinosaur polo shirt — 110/mo | SD 12 | $0.98 CPC — pulled 2026-10-06. Spring/summer curve (May 170, Dec 40). `dinosaur-polos` 15 ACTIVE. Schedule for April. *2026-10-29:* re-pulled 110/mo SD 12, unchanged; fold in `dinosaur golf shirt` (140, SD 12, $1.45, May–Jun 260) and `dinosaur golf polo` (70, SD 12) as one April page.
 - ⏭️ dinosaur poster — 1,600/mo | flat | **SD 40** — pulled 2026-10-04. Stretch at DA 16 and only 8
   posters live. Skip unless the range grows.
 - 📋 dinosaur dress — 880/mo | SD 21 | $1.00 CPC — found 2026-10-02. Spring/summer curve (Dec 590);
@@ -637,6 +647,7 @@ SD ≤ 35.
 | Keyword | Vol/mo | Pos | SD | URL |
 |---|---|---|---|---|
 | **dinosaurs that fly** *(+6 variants, all 27,100)* | 27,100 | 20–30 | 23–34 | `/blogs/blog/flying-dinosaurs-the-complete-guide-to-prehistoric-creatures-of-the-sky-2` |
+| ↳ *2026-10-29 re-pull:* `flying dinosaurs names` **#9** (was #13); `dinosaurs that fly` not in the page's top 50. **Brief written:** `content/rescues/2026-10-29-flying-dinosaurs-rescue.md` | | | | awaiting owner |
 | **names of flying dinosaurs** | 5,400 | **13** | 25 | same URL |
 | gorgosaurus | 9,900 | 32 | 28 | `/blogs/dinosaur-facts/gorgosaurus` |
 | carnivorous dinosaurs | 6,600 | 25 | 32 | `/blogs/blog/carnivore-dinosaurs-the-complete-guide-to-meat-eating-prehistoric-predators` |
@@ -654,11 +665,10 @@ SD ≤ 35.
 | achelousaurus / ampelosaurus / europasaurus | 1,600 each | 10 / 8 / 20 | 22–28 | `/blogs/dinosaur-facts/…` |
 
 **Start here:**
-1. **Flying dinosaurs.** One URL ranks 20–30 for **seven 27,100/mo variants** and #13 for
-   `names of flying dinosaurs` (5,400). By total volume it's the biggest recoverable asset we
-   own, and it's new to this list: it was the "Indonesian title" page (#3), now English. The
-   cheap half: its `<title>` is cut off at "…of the S" and it has no meta description. The
-   full half: depth and internal links. Brief to be written next.
+1. **Flying dinosaurs.** ✅ **Brief written 2026-10-29** (`content/rescues/2026-10-29-flying-dinosaurs-rescue.md`).
+   The cheap half (SEO title) was done by 2026-10-14 and the page rose #13 → #9 for `flying dinosaurs names`.
+   The brief does the full half: a 24-name table, three factual fixes, raptor/T. rex/prehistoric-flier sections,
+   five pterosaur product links, a meta description, and a 301 from the competing 2025 dinosaur-facts page.
 2. **`dinosaur shirt`.** SD 17 at #16, a commercial URL. Still the best commercial rescue.
 3. **`dinosaur blanket`.** 3,600/mo at #28 on the collection, ahead of a Christmas lift.
 
@@ -672,6 +682,26 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
 ---
 
 ## ⏭️ SKIPPED
+
+- ⏭️ **Sweep 2026-10-29 (all Ubersuggest, locId 2840):**
+  `dinosaur water bottle` 880/mo SD 19 ($0.42) — curve flat 590–1,000 (Aug 1,600 back-to-school, Oct 590), and the
+  SERP (fresh 2026-10-29) is all product pages: AMNH shop (DA 84) #2, Zak #3, HMNS, HydroJug, Wildkin, Asobu,
+  Coldest, Target, Simple Modern, Bentgo. We sell one bottle. ⏭️ as planned. `dinosaur golf shirt` 140/mo SD 12
+  ($1.45) — summer-only (May–Jun 260, Dec–Feb 70); `dinosaur golf polo` 70 SD 12 the same → re-queue with
+  `dinosaur polo shirt` for **April**. `dinosaur leggings` 320 SD 15 (Nov 590) — re-checked, collection still #4 on
+  the SERP; the 10-01 skip stands. `dinosaur christmas decorations` **590/mo, Nov 3,600 · Dec 1,900, SD 25** —
+  the Day 9 `dinosaur-christmas` hub (*How to Theme the Whole House*) is exactly this intent and carries it as a
+  secondary; a second page would split it. The hub ranks for nothing yet (`page_keywords`); worth a title/H2 tweak
+  in its next gated refresh. SERP is ornaments, Reddit, DIY and outdoor tinsel/inflatables we don't sell.
+  `dinosaur slides` 880/mo SD 19 — all 5 slide products are DRAFT (created 2026-10-24) and the SERP is playground
+  slides and slideshow templates. `dinosaur mouse pad` 70 SD 11 — one product. `dinosaur heels` 70 SD 27.
+  `dinosaur gifts for men` 30, `dinosaur dad shirt` 30, `dinosaur family shirts` 40, `matching dinosaur shirts`
+  10 (SD 44), `t rex gifts` 70, `dinosaur joggers` 30, `dinosaur scrunchie` 10 — too small. `dinosaur gifts for dad`,
+  `dinosaur pajamas for kids`, `kids/toddler/boys dinosaur pajamas`, `dinosaur baby onesie`, `dinosaur fanny pack`,
+  `dinosaur baseball jersey`, `dinosaur gifts for toddlers` — 0. Christmas long tail from `dinosaur christmas`
+  suggestions: inflatables 1,900–2,900 (don't sell), `dinosaur christmas tree` 480 SD 31, `dinosaur christmas
+  coloring page` 390 SD 21 (free-printable SERP, same call as 10-23), `personalized dinosaur christmas ornaments`
+  140 SD 16 $2.21 (`personalized` collection empty), `dinosaur christmas socks` 90 SD 13.
 
 - ⏭️ **Sweep 2026-10-28 (all Ubersuggest, locId 2840):**
   `dinosaur jewelry` 480/mo SD 17 ($1.02) — `dinosaur-jewelry` still 1 ACTIVE of 6 (same block as earrings/necklace).
