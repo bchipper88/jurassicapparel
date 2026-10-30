@@ -2,7 +2,10 @@
 title: "Dinosaur Puns: 100+ Dino Puns for Cards, Captions, Kids and Christmas"
 slug: dinosaur-puns
 date: 2026-10-30
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-puns
+shopify_article_id: "gid://shopify/Article/635137491094"
+published_at: 2026-10-30T11:11:26Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-30"
 target_keyword: "dinosaur puns"
 target_volume: 2900
@@ -296,7 +299,7 @@ Tree Rex sweater swaps in "rex" and adds the tiny arms.
 ## Dinosaur puns FAQ
 
 **What is the most famous dinosaur pun?**
-"Do-you-think-he-saurus?" is probably the oldest. It's the punchline to "What do you call a
+"Do-you-think-he-saurus?" is the classic. It's the punchline to "What do you call a
 blind dinosaur?" *Thesaurus* and *Tea-Rex* are close behind.
 
 **What's a good dinosaur pun for a birthday?**

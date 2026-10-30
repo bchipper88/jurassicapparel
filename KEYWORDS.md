@@ -474,6 +474,7 @@ Ubersuggest figure that justified it.
   Pteroble Puns tee, Tea-Rex Time mug, Rawr Means I Love You baby tee, Tree Rex sweater, Mamasaurus 21, Dadasaurus 12.
   Secondaries: `valentines dinosaur puns` 390 SD 21, `dinosaur puns one liners` 140 SD 23, `cute dinosaur puns` 110
   SD 18, `dinosaur puns for birthday` 70 SD 18, `funny dinosaur puns` 50 SD 15, `christmas dinosaur puns` 30 SD 25.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-puns
 
 ## 🎯 NEXT UP
 
