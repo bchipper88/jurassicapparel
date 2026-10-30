@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-27",
+  "pulled": "2026-10-30",
   "loc_id": 2840,
   "published": [
     {
@@ -950,7 +950,7 @@
       "cpc": 0,
       "intent": "Transactional",
       "verified": "2026-10-17",
-      "note": "Day 27. Re-verified 2026-10-17, unchanged. SERP: Pinterest #1, product carousels, AI overview, Walmart/Best Buy toys, Reddit; no editorial guide. No post owns the term. Price tiers, three filled stockings, order-by table (Dec 8–Dec 14). 9 products, all ACTIVE. BACKLOG #54.",
+      "note": "Day 27. Re-verified 2026-10-17, unchanged. SERP: Pinterest #1, product carousels, AI overview, Walmart/Best Buy toys, Reddit; no editorial guide. No post owns the term. Price tiers, three filled stockings, order-by table (Dec 8\u2013Dec 14). 9 products, all ACTIVE. BACKLOG #54.",
       "slug": "dinosaur-stocking-stuffers",
       "date": "2026-10-17",
       "day": 27,
@@ -1303,14 +1303,70 @@
         }
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/dino-nugget-pillow"
+    },
+    {
+      "keyword": "dinosaur puns",
+      "volume": 2900,
+      "sd": 19,
+      "cpc": 0.04,
+      "intent": "Informational",
+      "peak_month": "202507",
+      "peak_volume": 3600,
+      "verified": "2026-10-30",
+      "note": "Day 40. Evergreen (2,400-3,600). Twin 'dino puns' 3,600/mo SD 17. No live post owns it. SERP 2026-10-30: pickupuns.com DA 5 #3, everytimepuns DA 9 #23, Redbubble #12. Sells into the Pteroble Puns tee, Tea-Rex mug, Mamasaurus/Dadasaurus.",
+      "date": "2026-10-30",
+      "day": 40,
+      "slug": "dinosaur-puns",
+      "status": "draft",
+      "secondary": [
+        {
+          "keyword": "dino puns",
+          "volume": 3600,
+          "sd": 17
+        },
+        {
+          "keyword": "valentines dinosaur puns",
+          "volume": 390,
+          "sd": 21
+        },
+        {
+          "keyword": "dinosaur puns one liners",
+          "volume": 140,
+          "sd": 23
+        },
+        {
+          "keyword": "cute dinosaur puns",
+          "volume": 110,
+          "sd": 18
+        },
+        {
+          "keyword": "dinosaur puns for birthday",
+          "volume": 70,
+          "sd": 18
+        },
+        {
+          "keyword": "funny dinosaur puns",
+          "volume": 50,
+          "sd": 15
+        },
+        {
+          "keyword": "christmas dinosaur puns",
+          "volume": 30,
+          "sd": 25
+        }
+      ]
     }
   ],
   "next_up": [
     {
-      "keyword": "(fresh sweep)",
-      "verified": "2026-10-29",
+      "keyword": "dinosaur jokes",
+      "volume": 5400,
+      "sd": 26,
+      "cpc": 0.03,
+      "intent": "Informational",
+      "verified": "2026-10-30",
       "status": "open",
-      "note": "Day 40 (2026-10-30). No queued target survives. First check whether the owner approved the socks rewrite (dinosaur socks ramps Nov 1,600 / Dec 1,900). Then dinosaur christmas socks (90, SD 13, $0.33) only if 3+ ACTIVE Christmas socks. Else sweep unprobed product types; else next rescue brief (dinosaur shirt #16, SD 17)."
+      "note": "Day 41 (2026-10-31). Evergreen 4,400-6,600. Joke-format sister to the Day 40 puns page; cross-link. Pull SERP and kids/t rex/riddles variants first. Socks rewrite first if approved."
     }
   ],
   "queued_seasonal": [
@@ -1339,7 +1395,7 @@
       "volume": 9900,
       "sd": 30,
       "cpc": 0.21,
-      "blocked_by": "BACKLOG #1 — dinosaur-masks collection has 0 products"
+      "blocked_by": "BACKLOG #1 \u2014 dinosaur-masks collection has 0 products"
     },
     {
       "keyword": "dinosaur christmas sweatshirt",
@@ -2086,6 +2142,83 @@
       "cpc": 1.26,
       "date": "2026-10-29",
       "reason": "Re-check: collection still #4; 2026-10-01 skip stands."
+    },
+    {
+      "keyword": "dinosaur christmas socks",
+      "volume": 90,
+      "sd": 13,
+      "date": "2026-10-30",
+      "reason": "Only one ACTIVE Christmas sock (Santa Hat); bar was 3+."
+    },
+    {
+      "keyword": "dinosaur towel",
+      "volume": 320,
+      "sd": 25,
+      "date": "2026-10-30",
+      "reason": "One beach towel + one golf towel. Re-open at 3+ prints."
+    },
+    {
+      "keyword": "dinosaur beach towel",
+      "volume": 170,
+      "sd": 27,
+      "date": "2026-10-30",
+      "reason": "One beach towel; summer curve."
+    },
+    {
+      "keyword": "dinosaur magnets",
+      "volume": 210,
+      "sd": 24,
+      "date": "2026-10-30",
+      "reason": "One magnet (Winosaur)."
+    },
+    {
+      "keyword": "dinosaur duffle bag",
+      "volume": 140,
+      "sd": 27,
+      "date": "2026-10-30",
+      "reason": "One duffle bag."
+    },
+    {
+      "keyword": "dinosaur neck gaiter",
+      "volume": 10,
+      "sd": 40,
+      "date": "2026-10-30",
+      "reason": "Too small."
+    },
+    {
+      "keyword": "dinosaur jewelry box",
+      "volume": 50,
+      "sd": 20,
+      "date": "2026-10-30",
+      "reason": "Too small."
+    },
+    {
+      "keyword": "dinosaur pajama pants",
+      "volume": 210,
+      "sd": 22,
+      "date": "2026-10-30",
+      "reason": "Section of Day 5 and Day 34 pajama posts."
+    },
+    {
+      "keyword": "dinosaur christmas card",
+      "volume": 90,
+      "sd": 25,
+      "date": "2026-10-30",
+      "reason": "No cards in catalog."
+    },
+    {
+      "keyword": "dinosaur long sleeve shirt",
+      "volume": 90,
+      "sd": 23,
+      "date": "2026-10-30",
+      "reason": "No long sleeves live (BACKLOG #50)."
+    },
+    {
+      "keyword": "dinosaur gifts for teachers",
+      "volume": 10,
+      "sd": 5,
+      "date": "2026-10-30",
+      "reason": "Too small."
     }
   ],
   "rescue_content": [

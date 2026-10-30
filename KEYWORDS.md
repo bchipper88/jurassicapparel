@@ -462,16 +462,32 @@ Ubersuggest figure that justified it.
   Secondaries: `dino nuggies pillows` 110 SD 40, `emotional support dino nuggies` 140 SD 28.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dino-nugget-pillow
 
+- ✅ Published (2026-10-30) **dinosaur puns** — 2,900/mo | evergreen 2,400–3,600 (Dec–Jan low 2,400) | SD 19
+  | $0.04 CPC | Informational → `dinosaur-puns`
+  Day 40. Found in today's sweep after every queued and unprobed target failed. Twin `dino puns` **3,600/mo, SD 17**
+  (2,900–4,400; Feb and Apr 2025 4,400), so ~6,500/mo combined on one intent. No live post owns it (Shopify articles
+  query for puns/jokes/funny: only passing mentions). SERP (fresh 2026-10-30): AI overview, Google-hosted lists, then
+  **pickupuns.com (DA 5) #3**, Pinterest, Quora, Redbubble merch #12, yourdictionary, punscore (DA 41) #20,
+  everytimepuns (DA 9) #23. Small sites rank, so it's winnable at DA 17. Angle: ~125 puns sorted by where you'll use them
+  (one-liners, kids, birthday cards, Valentines, Christmas, grown-ups, family -saurus, captions), a table of puns
+  built on what real dinosaur names mean, and a five-move "make your own" guide. Sells into pun inventory we stock:
+  Pteroble Puns tee, Tea-Rex Time mug, Rawr Means I Love You baby tee, Tree Rex sweater, Mamasaurus 21, Dadasaurus 12.
+  Secondaries: `valentines dinosaur puns` 390 SD 21, `dinosaur puns one liners` 140 SD 23, `cute dinosaur puns` 110
+  SD 18, `dinosaur puns for birthday` 70 SD 18, `funny dinosaur puns` 50 SD 15, `christmas dinosaur puns` 30 SD 25.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 40 (Fri 2026-10-30): fresh sweep, no queued target survives.** The 10-27, 10-28 and 10-29 sweeps between
-  them cleared every stocked category (⏭️ Skipped). Order of attack: (1) has the owner approved any rescue brief?
-  If the **socks rewrite** is approved, nothing else matters this week, because `dinosaur socks` ramps Nov 1,600 → Dec
-  1,900 right now. (2) `dinosaur christmas socks` 90/mo, SD 13 ($0.33, pulled 2026-10-29), only if 3+ ACTIVE
-  Christmas-print socks exist, and then as a section, not a page, unless the socks rewrite stays blocked. (3) Otherwise
-  sweep the product types not yet probed: Fanny Pack (0/mo), Duffle Bag, Neck Gaiter, Golf Towel, Beach Towel,
-  Magnets, Jewelry Box, Pet Feeding Mat. If nothing clears 100/mo at SD ≤ 30 with 3+ ACTIVE products, write the next
-  rescue brief (the `dinosaur shirt` #16 collection, SD 17).
+- 🎯 **Day 41 (Sat 2026-10-31): `dinosaur jokes`** — **5,400/mo | SD 26** | $0.03 | Informational (pulled
+  2026-10-30, locId 2840). Evergreen 4,400–6,600 (Oct, Mar–May 6,600). The joke-format sister of Day 40's puns page:
+  setup-and-punchline jokes for kids, not wordplay, so it's a separate query and the two pages link to each other. No
+  live post (Shopify query 2026-10-30). Before writing: pull its SERP and check `dinosaur jokes for kids`, `t rex
+  jokes`, `dinosaur riddles`. Link the kids' collections and the `dinosaur-birthday-party` blog (party favours,
+  lunchbox notes). If the socks rewrite has been approved, do that first.
+  **Sun 2026-11-01 (Day 42):** monthly run, plus the article.
+
+- ✅ **Day 40 (Fri 2026-10-30): `dinosaur puns` published** (see ✅ Published). Socks rewrite still unapproved (live post
+  `updatedAt` 2020-05-11). `dinosaur christmas socks` failed: only one ACTIVE Christmas sock (Santa Hat). All
+  eight unprobed product types failed (⏭️ below). A last pass over gift and humour terms turned up the puns/jokes cluster.
 
 - 🔁 **Day 39 (Thu 2026-10-29): rescue brief, `flying dinosaurs names` / `dinosaurs that fly`.** No new article
   today: the planned target and its fallback both failed verification (⏭️ below), and a fresh sweep found nothing
@@ -682,6 +698,17 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
 ---
 
 ## ⏭️ SKIPPED
+
+- ⏭️ **Sweep 2026-10-30 (all Ubersuggest, locId 2840):** `dinosaur christmas socks` 90/mo SD 13 (Nov 320 · Dec 480) —
+  only **one** ACTIVE Christmas sock (Santa Hat) of 35 ACTIVE socks; the queue's bar was 3+. A line in the socks
+  rewrite instead. `dinosaur towel` **320/mo SD 25** (Dec 480, summer 390) and `dinosaur beach towel` 170 SD 27 (Mar,
+  Jun 390): one beach towel (Dino Jungle, 2 sizes) + one golf towel (Dino Nuggies), both created 2026-10-16.
+  `dinosaur magnets` 210 SD 24 — one magnet (Winosaur). `dinosaur duffle bag` 140 SD 27 ($0.92) — one duffle (Colorful
+  Dinos, $99.99). `dinosaur neck gaiter` 10 SD 40. `dinosaur jewelry box` 50 SD 20 (Dec 140). `dinosaur pajama pants`
+  210 SD 22 (Dec 480) — already a section of the Day 5 and Day 34 pajama posts. `dinosaur christmas card` 90 SD 25
+  (Dec 720) — no cards in the catalog. `dinosaur long sleeve shirt` 90 SD 23 — BACKLOG #50 (no long sleeves live).
+  `dinosaur gifts for teachers` 10. `dinosaur pillow` 1,300 SD 25 re-pulled: already published 2026-10-01 ✅.
+  **Re-open towels** if the range reaches 3+ prints: 320/mo at SD 25 is a real term.
 
 - ⏭️ **Sweep 2026-10-29 (all Ubersuggest, locId 2840):**
   `dinosaur water bottle` 880/mo SD 19 ($0.42) — curve flat 590–1,000 (Aug 1,600 back-to-school, Oct 590), and the

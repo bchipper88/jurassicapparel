@@ -1282,6 +1282,9 @@ Found while mapping inventory for the Day 27 `dinosaur-stocking-stuffers` post (
   container; `pip install markdown` fixes it. A `requirements.txt` (or a session-start hook) would stop
   this costing time each run.
 
+- **Update 2026-10-30:** still missing in a fresh container (hit again on Day 40). Added `requirements.txt`
+  (`markdown`) so `pip install -r requirements.txt` is one step. A SessionStart hook that runs it would close this.
+
 ## 55. Rug page lists a size we don't sell; no bathroom range beyond one mat; posters doubled quietly 🟢 LOW — product copy / merchandising — added 2026-10-18
 
 Found while checking inventory for `dinosaur rug` and writing the Day 28 `dinosaur-bathroom-decor` post (Shopify, 2026-10-18).
