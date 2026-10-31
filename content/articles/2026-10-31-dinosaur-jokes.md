@@ -2,7 +2,10 @@
 title: "Dinosaur Jokes: 90+ Funny Dino Jokes for Kids (and the Grown-Ups Who Groan)"
 slug: dinosaur-jokes
 date: 2026-10-31
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-jokes
+shopify_article_id: "gid://shopify/Article/635162460310"
+published_at: 2026-10-31T11:08:02Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-10-31"
 target_keyword: "dinosaur jokes"
 target_volume: 5400

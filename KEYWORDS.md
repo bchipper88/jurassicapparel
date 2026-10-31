@@ -488,6 +488,7 @@ Ubersuggest figure that justified it.
   Secondaries: `funny dinosaur jokes` 720 SD 28, `dinosaur jokes funny` 590 SD 15, `t rex jokes` 480 SD 39,
   `dinosaur riddles` 170 SD 23, `knock knock dinosaur jokes` 170 SD 27, `dinosaur jokes one liners` 50 SD 7,
   `what am i dinosaur riddles` 50 SD 29, `t rex jokes short arms` 40 SD 30, `dad dinosaur jokes` 30 SD 30.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-jokes
 
 ## 🎯 NEXT UP
 
@@ -496,7 +497,7 @@ Ubersuggest figure that justified it.
   jokes); check the unclaimed secondaries (`t rex jokes` 480 is SD 39, a stretch, served by the jokes page's arms
   section for now). If the socks rewrite has been approved, do that first: `dinosaur socks` ramps Nov 1,600 → Dec 1,900.
 
-- ✅ **Day 41 (Sat 2026-10-31): `dinosaur jokes` written** (see ✅ Published). Re-verified 5,400/mo, SD 26 on
+- ✅ **Day 41 (Sat 2026-10-31): `dinosaur jokes` published** (see ✅ Published). Re-verified 5,400/mo, SD 26 on
   2026-10-31. Socks rewrite still unapproved.
 
 - ✅ **Day 40 (Fri 2026-10-30): `dinosaur puns` published** (see ✅ Published). Socks rewrite still unapproved (live post
