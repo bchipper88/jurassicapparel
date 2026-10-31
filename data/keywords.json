@@ -950,7 +950,7 @@
       "cpc": 0,
       "intent": "Transactional",
       "verified": "2026-10-17",
-      "note": "Day 27. Re-verified 2026-10-17, unchanged. SERP: Pinterest #1, product carousels, AI overview, Walmart/Best Buy toys, Reddit; no editorial guide. No post owns the term. Price tiers, three filled stockings, order-by table (Dec 8\u2013Dec 14). 9 products, all ACTIVE. BACKLOG #54.",
+      "note": "Day 27. Re-verified 2026-10-17, unchanged. SERP: Pinterest #1, product carousels, AI overview, Walmart/Best Buy toys, Reddit; no editorial guide. No post owns the term. Price tiers, three filled stockings, order-by table (Dec 8–Dec 14). 9 products, all ACTIVE. BACKLOG #54.",
       "slug": "dinosaur-stocking-stuffers",
       "date": "2026-10-17",
       "day": 27,
@@ -1356,18 +1356,75 @@
         }
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-puns"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur jokes",
       "volume": 5400,
       "sd": 26,
       "cpc": 0.03,
       "intent": "Informational",
-      "verified": "2026-10-30",
+      "peak_month": "202603",
+      "peak_volume": 6600,
+      "verified": "2026-10-31",
+      "note": "Day 41. Evergreen 4,400-6,600 (Oct, Mar-May 6,600). No live post owns it. SERP 2026-10-31: jokewithlaughter.com DA 2 #22, chuckledaddy DA 12 #25, punboom DA 42 #16. Cross-links the puns page. Sells into kids apparel, funny shirts, Dadasaurus, printables, Christmas Arms Rex tee.",
+      "date": "2026-10-31",
+      "day": 41,
+      "slug": "dinosaur-jokes",
+      "status": "draft",
+      "secondary": [
+        {
+          "keyword": "funny dinosaur jokes",
+          "volume": 720,
+          "sd": 28
+        },
+        {
+          "keyword": "dinosaur jokes funny",
+          "volume": 590,
+          "sd": 15
+        },
+        {
+          "keyword": "t rex jokes",
+          "volume": 480,
+          "sd": 39
+        },
+        {
+          "keyword": "dinosaur riddles",
+          "volume": 170,
+          "sd": 23
+        },
+        {
+          "keyword": "knock knock dinosaur jokes",
+          "volume": 170,
+          "sd": 27
+        },
+        {
+          "keyword": "dinosaur jokes one liners",
+          "volume": 50,
+          "sd": 7
+        },
+        {
+          "keyword": "what am i dinosaur riddles",
+          "volume": 50,
+          "sd": 29
+        },
+        {
+          "keyword": "t rex jokes short arms",
+          "volume": 40,
+          "sd": 30
+        },
+        {
+          "keyword": "dad dinosaur jokes",
+          "volume": 30,
+          "sd": 30
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "(monthly scan picks it)",
       "status": "open",
-      "note": "Day 41 (2026-10-31). Evergreen 4,400-6,600. Joke-format sister to the Day 40 puns page; cross-link. Pull SERP and kids/t rex/riddles variants first. Socks rewrite first if approved."
+      "note": "Day 42 (2026-11-01): monthly run (seo_opportunities scan, catalog refresh, STRATEGY rewrite, BACKLOG prune) plus the day's article. Socks rewrite first if approved."
     }
   ],
   "queued_seasonal": [
@@ -1396,7 +1453,7 @@
       "volume": 9900,
       "sd": 30,
       "cpc": 0.21,
-      "blocked_by": "BACKLOG #1 \u2014 dinosaur-masks collection has 0 products"
+      "blocked_by": "BACKLOG #1 — dinosaur-masks collection has 0 products"
     },
     {
       "keyword": "dinosaur christmas sweatshirt",

@@ -476,15 +476,28 @@ Ubersuggest figure that justified it.
   SD 18, `dinosaur puns for birthday` 70 SD 18, `funny dinosaur puns` 50 SD 15, `christmas dinosaur puns` 30 SD 25.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-puns
 
+- ✅ Published (2026-10-31) **dinosaur jokes** — 5,400/mo | evergreen 4,400–6,600 (Oct and Mar–May 6,600) | SD 26
+  | $0.03 CPC | Informational → `dinosaur-jokes`
+  Day 41. Joke-format sister of Day 40's puns page; the two cross-link. No live post owns it (Shopify articles query
+  for joke/riddle titles and the handle: none, 2026-10-31). SERP (fresh 2026-10-31): AI overview, Google-hosted lists,
+  YouTube, Pinterest, vocal.media (DA 76) #10, punboom (DA 42) #16, **jokewithlaughter.com (DA 2) #22**,
+  **chuckledaddy (DA 12) #25**. Small sites rank. Angle: 91 jokes sorted by age (3–5, 5–8), knock-knocks, a T. rex
+  tiny-arms section, a "What am I?" riddle table, jokes with a true fact after the punchline, dad jokes, and school,
+  lunchbox and party uses. Sells into kids-dinosaur-apparel (209), funny-dinosaur-shirts (4), Dadasaurus (12),
+  dinosaur-printables (11) and the Christmas Arms Rex tee.
+  Secondaries: `funny dinosaur jokes` 720 SD 28, `dinosaur jokes funny` 590 SD 15, `t rex jokes` 480 SD 39,
+  `dinosaur riddles` 170 SD 23, `knock knock dinosaur jokes` 170 SD 27, `dinosaur jokes one liners` 50 SD 7,
+  `what am i dinosaur riddles` 50 SD 29, `t rex jokes short arms` 40 SD 30, `dad dinosaur jokes` 30 SD 30.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 41 (Sat 2026-10-31): `dinosaur jokes`** — **5,400/mo | SD 26** | $0.03 | Informational (pulled
-  2026-10-30, locId 2840). Evergreen 4,400–6,600 (Oct, Mar–May 6,600). The joke-format sister of Day 40's puns page:
-  setup-and-punchline jokes for kids, not wordplay, so it's a separate query and the two pages link to each other. No
-  live post (Shopify query 2026-10-30). Before writing: pull its SERP and check `dinosaur jokes for kids`, `t rex
-  jokes`, `dinosaur riddles`. Link the kids' collections and the `dinosaur-birthday-party` blog (party favours,
-  lunchbox notes). If the socks rewrite has been approved, do that first.
-  **Sun 2026-11-01 (Day 42):** monthly run, plus the article.
+- 🎯 **Day 42 (Sun 2026-11-01): monthly run + the day's article.** Monthly: full `seo_opportunities` scan, catalog
+  refresh, STRATEGY rewrite, BACKLOG prune. Article: pick from the scan. The humour cluster is now covered (puns +
+  jokes); check the unclaimed secondaries (`t rex jokes` 480 is SD 39, a stretch, served by the jokes page's arms
+  section for now). If the socks rewrite has been approved, do that first: `dinosaur socks` ramps Nov 1,600 → Dec 1,900.
+
+- ✅ **Day 41 (Sat 2026-10-31): `dinosaur jokes` written** (see ✅ Published). Re-verified 5,400/mo, SD 26 on
+  2026-10-31. Socks rewrite still unapproved.
 
 - ✅ **Day 40 (Fri 2026-10-30): `dinosaur puns` published** (see ✅ Published). Socks rewrite still unapproved (live post
   `updatedAt` 2020-05-11). `dinosaur christmas socks` failed: only one ACTIVE Christmas sock (Santa Hat). All

@@ -1284,6 +1284,10 @@ Found while mapping inventory for the Day 27 `dinosaur-stocking-stuffers` post (
 
 - **Update 2026-10-30:** still missing in a fresh container (hit again on Day 40). Added `requirements.txt`
   (`markdown`) so `pip install -r requirements.txt` is one step. A SessionStart hook that runs it would close this.
+- **Update 2026-10-31 (root cause):** in this container `pip` belongs to Python 3.11 at `/usr/lib/python3`, but
+  `python3` is `/usr/local/bin/python3`, so `pip install markdown` reports "already satisfied" (for a different
+  interpreter) and the import still fails. **`python3 -m pip install -r requirements.txt`** is the command that works.
+  Use that in any SessionStart hook.
 
 ## 55. Rug page lists a size we don't sell; no bathroom range beyond one mat; posters doubled quietly 🟢 LOW — product copy / merchandising — added 2026-10-18
 
