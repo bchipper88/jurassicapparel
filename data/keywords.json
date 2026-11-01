@@ -1433,7 +1433,7 @@
       "date": "2026-11-01",
       "day": 42,
       "slug": "dinosaur-trivia",
-      "status": "draft",
+      "status": "published",
       "secondary": [
         {
           "keyword": "dinosaur quiz what dinosaur are you",
@@ -1470,7 +1470,8 @@
           "volume": 40,
           "sd": 21
         }
-      ]
+      ],
+      "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-trivia"
     }
   ],
   "next_up": [

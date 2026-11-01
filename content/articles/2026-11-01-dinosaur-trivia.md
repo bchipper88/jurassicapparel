@@ -2,7 +2,10 @@
 title: "Dinosaur Trivia: 80 Questions and Answers for Kids, Families and Trivia Night"
 slug: dinosaur-trivia
 date: 2026-11-01
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-trivia
+shopify_article_id: "gid://shopify/Article/635166392470"
+published_at: 2026-11-01T11:13:09Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-01"
 target_keyword: "dinosaur trivia"
 target_volume: 1000
@@ -283,36 +286,42 @@ The quick personality round. Answer six questions, count which letter you picked
 read your result. It works for a party icebreaker, and it settles nothing at all.
 
 **1. It's Saturday morning. You're...**
+
 - A. Already out the door, leading the plan
 - B. Sticking with your people, wherever they're going
 - C. Working out the fastest way to get everything done
 - D. Still in pajamas, unbothered, eating a big breakfast
 
 **2. Pick a superpower.**
+
 - A. Being the loudest voice in the room
 - B. Being impossible to knock over
 - C. Being two steps ahead of everyone
 - D. Being able to reach the top shelf
 
 **3. Someone cuts in front of you in line. You...**
+
 - A. Tell them, clearly, where the line starts
 - B. Stand your ground and don't budge
 - C. Find a faster line
 - D. Let it go. There's plenty of time
 
 **4. Your ideal snack?**
+
 - A. A whole rotisserie chicken
 - B. Something crunchy, and lots of it
 - C. Whatever's quickest to grab
 - D. Salad, followed by more salad
 
 **5. In a group project, you're the one who...**
+
 - A. Takes charge
 - B. Protects the team from the boss
 - C. Comes up with the clever idea
 - D. Keeps everyone calm
 
 **6. Pick a place to live.**
+
 - A. The top of the hill, where you can see everything
 - B. A big open plain with your herd
 - C. A busy place full of things to figure out
