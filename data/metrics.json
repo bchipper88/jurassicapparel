@@ -242,6 +242,62 @@
         "2026-10-21": 10.75
       },
       "notes": "Best bins in the series: 11 keywords came back into the top 100 (not_ranking 23->12), top-3 22->26. Average position rose to 10.75 because more keywords rank, not because rankings fell. Moves of 5+ (09-30 -> 10-21): dinosaur backpacks (6,600) 16->3; dinosaur outfits for adults (6,600) 17->6; dinosaur shirt (2,900) 16->7; dinosaur shirt adults (1,000) 10->3; adult dinosaur shirt 12->6; dinosaur purses 11->2; dinosaur tote bag 13->7; new: dinosaur hoodie #1, dinosaur sweatshirt #1, dinosaur dresses #2, dinosaur swimwear #2, hooded dinosaur blanket #5, dinosaur mug #8, dino christmas wrapping paper #9, dinosaur christmas #18, dinosaur socks #17, dinosaur blankets #37. Down: dinosaur hat (1,600) 3->29 (now a product page, the collection fell out), dinosaur blanket (3,600) 28->42, dinosaur shirts 8->16, dinosaur hawaiian shirt 4->12, dinosaur clothes for adults 2->14, men's dinosaur sweater 1->17, dinosaur tie 8->15, womens swimsuit variants 2->10; out of top 100: mamasaurus (1,000, was #8), infant dinosaur clothes (720, was #14)."
+    },
+    {
+      "date": "2026-11-01",
+      "type": "monthly",
+      "source": "Ubersuggest domain_overview (locId 2840, 2026-11-01); domain_keywords top 1,000 and seo_opportunities (same day); Shopify catalog recount (read-only). No fresh project_position_info: weekly pull is Mon 2026-11-02.",
+      "domain_authority": 16,
+      "organic_keywords": 4392,
+      "est_monthly_organic_traffic": 1095,
+      "traffic_month": "202610",
+      "backlinks": 2606,
+      "ref_domains": 1244,
+      "keyword_tiers_oct": {
+        "top": 29,
+        "second": 246,
+        "third": 3428,
+        "fourth": 689
+      },
+      "keyword_tiers_sep": {
+        "top": 22,
+        "second": 243,
+        "third": 4222,
+        "fourth": 796
+      },
+      "striking_distance_domain_keywords": [
+        {
+          "keyword": "flying dinosaurs names",
+          "volume": 5400,
+          "position": 9
+        },
+        {
+          "keyword": "dino nugget pillow",
+          "volume": 1900,
+          "position": 30
+        },
+        {
+          "keyword": "ampelosaurus",
+          "volume": 1600,
+          "position": 23
+        },
+        {
+          "keyword": "dinosaur christmas",
+          "volume": 1000,
+          "position": 21,
+          "url": "/collections/dinosaur-christmas-ornaments"
+        }
+      ],
+      "catalog": {
+        "collections": 106,
+        "products": 1161,
+        "active": 1040,
+        "draft": 117,
+        "archived": 3,
+        "unlisted": 1
+      },
+      "articles_published": 42,
+      "notes": "First month-on-month traffic rise in the series (Sep revised 1,050 -> Oct 1,095, +4%). Organic keyword count -17% (5,283 -> 4,392), almost all in positions 51-100 (fourth tier 796 -> 689, third 4,222 -> 3,428); top tier 22 -> 29. seo_opportunities: 803 new_content / 637 existing_content; site audit flags only 1 each of title_long, title_short, duplicate meta, thin content, duplicate titles."
     }
   ],
   "traffic_history": {
@@ -259,7 +315,8 @@
     "202606": 1111,
     "202607": 1141,
     "202608": 1163,
-    "202609": 1050
+    "202609": 1050,
+    "202610": 1095
   },
   "leading_indicator": {
     "_comment": "Tracked keywords in positions 4-10. Moves before traffic does. Populate on the first Monday rank pull.",

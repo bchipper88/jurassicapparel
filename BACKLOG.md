@@ -5,24 +5,24 @@ scopes and proposes. The owner executes or approves.
 
 Ordered by value ÷ effort. Discovered 2026-08-30 unless noted.
 
-### Monthly review — 2026-10-01
+### Monthly review — 2026-11-01
 
-**Closed this month:** #0 (deliberate), #3 (title now English), #23 (structural fix), #33 (paged
-recount). #13's agent-side fix is done; its owner-side toy decision is still open.
+**Closed this month:** #18 (nine Christmas sweaters went live 2026-10-18; the Day 35 post sells them),
+#28 (folded into #54, where the root cause is: run `python3 -m pip install -r requirements.txt`, not bare `pip`.
+That worked first time on 2026-11-01). #62's collection half is done; its pajama-post correction is still open.
 
-**🔴 NEW 2026-10-23, before anything else: #60.** Every kid-size variant on the kids' dinosaur shoes is set to
-sold out (inventory tracking on, 0 units). Adult sizes on the same listings still sell. It's a settings fix, and
-Christmas orders for shoes have to be placed by about mid-November.
+**Catalog refresh 2026-11-01** (live Shopify, read-only): 106 collections (up from 100). 1,161 products: 1,040 ACTIVE,
+117 DRAFT, 3 ARCHIVED, 1 UNLISTED. The store added about 130 ACTIVE products in October. No collection became empty.
+What changed is in #66.
 
-**If the owner does five things this month, in this order:**
-1. **#36:** swap 3 links in the new pillow post to the collection that ranks, and pick
-   `dinosaur-pillows-cases` as the canonical pillow collection. About 5 minutes.
-2. **#21 + #22:** a live `dinosaur-pajamas` collection before the December peak.
-3. **#30 / #25:** stocking shipping times and the empty shipping policy page, before
-   Christmas orders start.
-4. **Flying-dinosaurs rescue** (KEYWORDS.md): fix the cut-off title and write a meta
-   description, on the page that ranks #13–30 for eight terms worth 5,400–27,100/mo each.
-5. **#2 / #36:** 301 the four duplicate collection pairs.
+**If the owner does five things in November, in this order:**
+1. **#60:** kids' dinosaur shoes can't be bought in any kid size. Christmas shoe orders close about mid-November.
+2. **Socks rewrite** (`content/rescues/2026-10-02-dinosaur-socks-rewrite.md`): `dinosaur socks` goes from 1,600
+   in November to 1,900 in December, and the live post dates from 2020.
+3. **#12 gifts consolidation:** the new `dinosaur-gifts` collection (56) and the restocked
+   `unique-dinosaur-gifts` (3 → 46) give the brief real places to link. `dinosaur gifts` peaks at 4,400 in December.
+4. **#65 flying-dinosaurs rescue:** the page ranks #9 for 5,400/mo. The brief is ready.
+5. **#25 / #30:** shipping policy page and stocking lead times, before December orders.
 
 Everything else stands as written below.
 
@@ -332,7 +332,7 @@ gift-guide cluster in #12.
 **Ask (editing live pages is gated):** do you know why the links are there? If not, remove
 them. The Day 4 ornaments guide deliberately does not link to this post.
 
-## 18. Merchandising gap: no dinosaur Christmas sweater 🟡 MEDIUM — added 2026-09-24
+## 18. ~~Merchandising gap: no dinosaur Christmas sweater~~ ✅ RESOLVED 2026-10-18 (nine sweaters live; Day 35 post) — closed 2026-11-01
 
 `dinosaur christmas sweater` — 720/mo avg, **2,900 Nov / 4,400 Dec**, SD 26, $0.15 CPC
 (Ubersuggest, locId 2840, 2026-09-24). Checked as today's target; skipped on inventory. There
@@ -746,7 +746,7 @@ stall in #7 is the thing to fix.
 `git fetch && git pull` before reading the queue, and checks `updates/` for today's date before
 writing. That turns a collision into a cheap no-op instead of a wasted article.
 
-## 28. `md-to-shopify.py` needs the `markdown` package, and fresh containers don't have it 🟢 LOW — tooling — added 2026-09-25
+## 28. ~~`md-to-shopify.py` needs the `markdown` package~~ ✅ CLOSED 2026-11-01 — merged into #54 (use `python3 -m pip install -r requirements.txt`)
 
 On 2026-09-25 the publish step failed with `ModuleNotFoundError: No module named 'markdown'`
 until I ran `pip install markdown` by hand. Every fresh Routine container will fail the same
@@ -1503,3 +1503,25 @@ now in catalog.json. `kids-dinosaur-apparel` grew 185 → 208 (198 ACTIVE), `tod
 - **Five dinosaur slides in DRAFT** since 2026-10-24 (Bright Dinos, Blush Bloom Dinos, Emerald Jewel Dinos women's;
   Dino Nuggies, Fossil Botanica men's; $49.99). FYI only: if they're meant to launch, `dinosaur slides` is 880/mo
   (SD 19), but its SERP is playground slides and slideshow templates, so it's a weak blog target either way.
+
+## 66. Monthly catalog refresh, 2026-11-01: gifts restocked, a Black Friday collection, stale blocklist entries 🟡 MEDIUM — catalog / merchandising — added 2026-11-01
+
+Found in the monthly recount of all 106 collections (live Shopify, read-only, 2026-11-01). Full counts are in `data/catalog.json`.
+
+- **Gift collections are now stocked.** `unique-dinosaur-gifts` went from 3 to 46 ACTIVE, and there's a new
+  `dinosaur-gifts` collection (56/56). The #12 consolidation brief was written when neither existed. **Ask:** if
+  the brief is approved, it should link `dinosaur-gifts` as its main collection. I can revise the brief before
+  that, which needs no approval.
+- **New `black-friday` collection (217/217).** It's FYI only. No blog post links it, and none will without the
+  owner's word on dates and discounts, which the charter keeps gated.
+- **Two blocklisted collections now have live products.** `personalized-dinosaur-shirt` (on the empty list) has 3
+  products, 2 ACTIVE. `personalized` (on the draft-heavy list) has 4 ACTIVE of 9. Both stay blocklisted in
+  `catalog.json` until they're deep enough to link: two or four products don't support a "personalized" article.
+  `unique-dinosaur-gifts` was on the draft-heavy list at 3/3 and now has 46, so it can come off once checked.
+- **Big October growth:** dinosaur-christmas 45 → 65 ACTIVE, men's and women's sweatshirts 6 → 20 and 6 → 21,
+  dinosaur-baby-outfit 35 → 47, toddler-shirts 16 → 22. The Day 16 sweatshirt post and the Day 22 infant post
+  list ranges that are now smaller than what the store sells. Owner, optional: refresh those posts after the
+  holidays (gated, because they're live pages).
+- Still empty, unchanged: `dinosaur-masks` (`dino mask` 8,100/mo in this month's scan), `hooded-dinosaur-blankets`,
+  `dinosaur-dress-socks` (#1).
+

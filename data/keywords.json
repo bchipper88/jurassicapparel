@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-10-30",
+  "pulled": "2026-11-01",
   "loc_id": 2840,
   "published": [
     {
@@ -1419,13 +1419,70 @@
         }
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-jokes"
+    },
+    {
+      "keyword": "dinosaur trivia",
+      "volume": 1000,
+      "sd": 29,
+      "cpc": 1.78,
+      "intent": "Informational",
+      "peak_month": "202605",
+      "peak_volume": 1600,
+      "verified": "2026-11-01",
+      "note": "Day 42. Evergreen 720-1,600, spring high (Mar-Jun). No live post owns it. SERP 2026-11-01: learngrowaspire DA 25 #12, kidactivities DA 52 #9. Includes 'what dinosaur are you' quiz section. Sells into puzzles, printables (size chart), kids apparel, dinosaur shirts.",
+      "date": "2026-11-01",
+      "day": 42,
+      "slug": "dinosaur-trivia",
+      "status": "draft",
+      "secondary": [
+        {
+          "keyword": "dinosaur quiz what dinosaur are you",
+          "volume": 1300,
+          "sd": 24
+        },
+        {
+          "keyword": "dinosaur trivia questions",
+          "volume": 260,
+          "sd": 29
+        },
+        {
+          "keyword": "dinosaur trivia questions and answers",
+          "volume": 90,
+          "sd": 28
+        },
+        {
+          "keyword": "dinosaur quiz for adults",
+          "volume": 70,
+          "sd": 34
+        },
+        {
+          "keyword": "dinosaur quiz hard",
+          "volume": 50,
+          "sd": 26
+        },
+        {
+          "keyword": "dinosaur quiz with answers",
+          "volume": 50,
+          "sd": 28
+        },
+        {
+          "keyword": "dinosaur trivia for adults",
+          "volume": 40,
+          "sd": 21
+        }
+      ]
     }
   ],
   "next_up": [
     {
-      "keyword": "(monthly scan picks it)",
+      "keyword": "dinosaur quotes",
+      "volume": 590,
+      "sd": 26,
+      "cpc": 0,
+      "intent": "Informational",
+      "verified": "2026-11-01",
       "status": "open",
-      "note": "Day 42 (2026-11-01): monthly run (seo_opportunities scan, catalog refresh, STRATEGY rewrite, BACKLOG prune) plus the day's article. Socks rewrite first if approved."
+      "note": "Day 43 (2026-11-02) + weekly rank tracking. Flat 390-720. No live post owns it (Shopify, 2026-11-01). Socks rewrite first if approved."
     }
   ],
   "queued_seasonal": [
@@ -2397,5 +2454,5 @@
       "verified": "2026-10-29"
     }
   ],
-  "last_repull": "2026-10-29"
+  "last_repull": "2026-11-01"
 }

@@ -490,12 +490,32 @@ Ubersuggest figure that justified it.
   `what am i dinosaur riddles` 50 SD 29, `t rex jokes short arms` 40 SD 30, `dad dinosaur jokes` 30 SD 30.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-jokes
 
+- ✅ Published (2026-11-01) **dinosaur trivia** — 1,000/mo | Sep 720 · Oct–Feb 880 · Mar–Apr 1,300 · **May 1,600** | SD 29
+  | $1.78 CPC | Informational → `dinosaur-trivia`
+  Day 42, picked from the monthly scan. The commercial sweeps of Oct 27–30 found little that cleared the stock bar,
+  so this extends the humour/learning cluster after puns and jokes. No live post owns it (Shopify articles query
+  for trivia/quiz/questions titles and the handle: none, 2026-11-01). SERP (fresh 2026-11-01): AI overview,
+  Google-hosted quizzes, outschool (DA 58) #6, factretriever (DA 65) #8, kidactivities (DA 52) #9,
+  **learngrowaspire (DA 25) #12**, baamboozle (DA 45) #16. Angle: 80 questions in rounds (easy 5–8, medium 8–12,
+  hard for adults, true/false, a name-meaning table), each with a one-line "why", plus a "what dinosaur are you"
+  tally quiz (A–D results: T. rex, Triceratops, Velociraptor, Brachiosaurus). Sells into dinosaur-puzzles (14),
+  dinosaur-printables (11, plus the Dinosaur Size Chart poster), kids-dinosaur-apparel (209) and dinosaur-shirts (217).
+  Links the jokes page, the T. rex shirts guide, the Nigersaurus fact file and the birthday party guide.
+  Secondaries: `dinosaur quiz what dinosaur are you` **1,300 SD 24** (Aug 2,400), `dinosaur trivia questions` 260
+  SD 29, `dinosaur trivia questions and answers` 90 SD 28, `dinosaur quiz for adults` 70 SD 34, `dinosaur quiz hard`
+  50 SD 26, `dinosaur quiz with answers` 50 SD 28, `dinosaur trivia for adults` 40 SD 21. Not targeted:
+  `dinosaur quiz` 1,600 **SD 44** ($11.81 CPC).
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 42 (Sun 2026-11-01): monthly run + the day's article.** Monthly: full `seo_opportunities` scan, catalog
-  refresh, STRATEGY rewrite, BACKLOG prune. Article: pick from the scan. The humour cluster is now covered (puns +
-  jokes); check the unclaimed secondaries (`t rex jokes` 480 is SD 39, a stretch, served by the jokes page's arms
-  section for now). If the socks rewrite has been approved, do that first: `dinosaur socks` ramps Nov 1,600 → Dec 1,900.
+- 🎯 **Day 43 (Mon 2026-11-02): weekly rank tracking + `dinosaur quotes`.** 590/mo | flat 390–720 (Dec 390 low,
+  Apr–May and Jul–Aug 720) | SD 26 | $0 CPC | Informational (Ubersuggest, locId 2840, 2026-11-01). No live post owns
+  it (Shopify articles query for quote/saying titles and the handle: none, 2026-11-01). Re-verify, check the SERP,
+  and check that the angle can sell into tees with sayings. If it fails, take the next item from STRATEGY Play 1. If
+  the socks rewrite has been approved, do that first.
+
+- ✅ **Day 42 (Sun 2026-11-01): monthly run + `dinosaur trivia` published** (see ✅ Published). The monthly scan,
+  catalog refresh (106 collections, 1,040 ACTIVE), STRATEGY rewrite and BACKLOG prune are done; see `updates/2026-11-01.md`.
 
 - ✅ **Day 41 (Sat 2026-10-31): `dinosaur jokes` published** (see ✅ Published). Re-verified 5,400/mo, SD 26 on
   2026-10-31. Socks rewrite still unapproved.
@@ -669,6 +689,25 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
 
 **This is the highest-value list in the repo.** Each is an existing page already ranking;
 the work is a rewrite brief, not a new article.
+
+**Regenerated 2026-11-01** (monthly) from `domain_keywords` (locId 2840, top 1,000 by traffic). Only **four** terms
+≥1,000/mo now sit in positions 8–40:
+
+| Keyword | Vol/mo | Pos | SD | URL |
+|---|---|---|---|---|
+| **flying dinosaurs names** | 5,400 | **9** | 26 | flying-dinosaurs post (brief ready, #65), which also ranks 18–25 for 12 "flying" variants at 390 each |
+| dino nugget pillow | 1,900 | 30 | 28 | `/products/dino-nugget-pillow`, served by the Day 38 post |
+| ampelosaurus | 1,600 | 23 | 28 | `/blogs/dinosaur-facts/ampelosaurus-the-majestic-herbivore-of-the-cretaceous-forests` (was #8) |
+| dinosaur christmas | 1,000 | 21 | 29 | `/collections/dinosaur-christmas-ornaments`, not the Day 9 hub |
+
+Next tier (390–720/mo, positions 11–26): `dinosaur gifts for adults` 720 #24 (a 25-ideas gift guide, which is
+#12's consolidation), `big meat eating dinosaurs` 720 #18 (carnivore guide), `dinosaur christmas sweater` 720 #14
+(Tree Rex product), `dinosaur newborn clothes` 480 #11 (baby collection), `dinosaur tie` 390 #13. **Gone from
+the top 1,000:** gorgosaurus (9,900), carnivorous dinosaurs (6,600), beipiaosaurus, scelidosaurus, dinosaurs
+that fly (27,100) and the commercial collection terms in the table below. Some of that comes from the 17% drop in
+ranked keywords, mostly in positions 51–100. Check `page_keywords` before writing any brief for them.
+
+*The table below is the 2026-10-01 version, kept for its history.*
 
 **Regenerated 2026-10-01** (monthly) from `domain_keywords` (locId 2840, top 1,000 terms by
 traffic) and the tracked-keyword report. `seo_opportunities` now returns too small a subset to
