@@ -507,13 +507,33 @@ Ubersuggest figure that justified it.
   `dinosaur quiz` 1,600 **SD 44** ($11.81 CPC).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-trivia
 
+- ✅ Published (2026-11-02) **dinosaur quotes** — 590/mo | flat 390–720 (Dec 390 low; Jul–Aug, Oct, Apr–May 720) | SD 26
+  | $0 CPC | Informational → `dinosaur-quotes`
+  Day 43, from STRATEGY Play 1. No live post owns it (Shopify articles query for quote/saying/caption titles and the
+  handle: only the puns page, 2026-11-02). SERP (fresh 2026-11-02): AI overview, Google-hosted lists at #2–3 and
+  #6–10, People Also Ask, **notable-quotes.com (DA 54) #5**, Pinterest #11–18. One independent site in the top 10.
+  Angle: ~120 quotes sorted by use: a top 10, real movie lines with who says them (Jurassic Park, Land Before Time,
+  The Good Dinosaur, Barney), credited quotes from writers (Niven, Cuppy, the library slogan), funny short, cute for
+  kids, a birthday-by-age table, inspirational, mom/dad, Instagram captions, Christmas, and a "which quote where"
+  table. Original sayings are labelled as ours. Sells into mamasaurus (21), dadasaurus-collection (12), dinosaur-mugs
+  (90), baby-dinosaur-bodysuits (25), dinosaur-christmas (65) and six ACTIVE saying products (Rawr Means I Love You,
+  One-A-Saurus, Don't Mess With Mamasaurus, Tea-Rex Time, Fa La La La Roar, Jingle Bell Roar).
+  Secondaries: `dinosaur sayings` 170 SD 26, `dinosaur quotes funny` 170 SD 27, `barney dinosaur quotes` 140 SD 29,
+  `the good dinosaur quotes` 110 SD 28, `cute dinosaur quotes` 70 SD 26, `dinosaur sayings for birthdays` 70 SD 22,
+  `cute dinosaur sayings` 70 SD 26, `good dinosaur quotes` 50 SD 8, `funny dinosaur sayings` 40, `inspiring dinosaur
+  quotes` 40 SD 30, `funny dinosaur quotes short` 40, `dinosaur quotes for instagram` 30 SD 21.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 43 (Mon 2026-11-02): weekly rank tracking + `dinosaur quotes`.** 590/mo | flat 390–720 (Dec 390 low,
-  Apr–May and Jul–Aug 720) | SD 26 | $0 CPC | Informational (Ubersuggest, locId 2840, 2026-11-01). No live post owns
-  it (Shopify articles query for quote/saying titles and the handle: none, 2026-11-01). Re-verify, check the SERP,
-  and check that the angle can sell into tees with sayings. If it fails, take the next item from STRATEGY Play 1. If
-  the socks rewrite has been approved, do that first.
+- 🎯 **Day 44 (Tue 2026-11-03): `dinosaur poems`.** 480/mo | Jul–Aug 260–320 → Oct 480 → **Jan 590, Feb–Mar 720, Apr
+  880**, Jun 390 | SD 15 | $0.33 CPC | Informational (Ubersuggest, locId 2840, 2026-11-02). The ramp starts in
+  January, so publishing now is ~8 weeks ahead. No live post owns it (Shopify articles query for poem/rhyme titles and
+  the handle: none, 2026-11-02). Rhymes we write ourselves, for preschool circle time, cards and classroom walls; sells
+  into printables, kids' apparel and the quotes/jokes cluster. Re-verify and check the SERP first. If the socks
+  rewrite has been approved, do that first.
+
+- ✅ **Day 43 (Mon 2026-11-02): weekly rank tracking + `dinosaur quotes` published** (see ✅ Published). Rank
+  snapshot in `data/metrics.json`; drops on `dinosaur shirts` and `dinosaur outfits for adults` logged as BACKLOG #67.
 
 - ✅ **Day 42 (Sun 2026-11-01): monthly run + `dinosaur trivia` published** (see ✅ Published). The monthly scan,
   catalog refresh (106 collections, 1,040 ACTIVE), STRATEGY rewrite and BACKLOG prune are done; see `updates/2026-11-01.md`.

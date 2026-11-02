@@ -1525,3 +1525,21 @@ Found in the monthly recount of all 106 collections (live Shopify, read-only, 20
 - Still empty, unchanged: `dinosaur-masks` (`dino mask` 8,100/mo in this month's scan), `hooded-dinosaur-blankets`,
   `dinosaur-dress-socks` (#1).
 
+
+## 67. Weekly rank check, 2026-11-02: `dinosaur shirts` fell to #62; an ACTIVE product titled "Coming Soon" ranks #2; `dinosaur coloring pages` is 49,500/mo at SD 28 🟡 MEDIUM — SEO / product copy / merchandising — added 2026-11-02
+
+From `project_position_info` (locId 2840, collections 10-07 to 10-28) and Shopify (read-only), 2026-11-02.
+
+- **`dinosaur shirts` (2,900/mo): #16 last week → #62.** Google now picks `mens-dinosaur-t-shirts` for the term
+  instead of a general shirts page. `dinosaur outfits for adults` (6,600) went from #6 last week to #33 on the dresses
+  collection. Both look like Google swapping which of our pages it shows, not a penalty. No action yet; watch on
+  09 Nov. If they don't recover, the fix is a shirts-hub brief that points all "dinosaur shirts" intent at one URL.
+- **An ACTIVE product is titled "Coming Soon - Women's Dinosaur Shirt"** (in `mamasaurus`) and it ranks **#2 for
+  `womens dinosaur shirt` (320/mo)**. A searcher lands on a "Coming Soon" title. **Fix (owner, product copy, gated):**
+  give it its real design name, or draft it if it really isn't ready. Keep the handle so the ranking survives.
+- **`dinosaur coloring pages`: 49,500/mo, SD 28, flat all year** (Dec 33,100). It's the largest term under SD 30 the
+  routine has found. No live post owns it. We can't write it as text alone: it needs free printable pages
+  (PDF/PNG line art) on the page. That's #61's lead-magnet idea at a far bigger scale. **Owner decision:** supply or
+  approve 10–20 simple line-art pages, and I'll write the hub around them and link `dinosaur-printables` (11).
+- **#60 re-checked today: still broken.** Every kid-size variant on the first five ACTIVE kids' sneakers is
+  `availableForSale: false` (`DENY`, 0 stock); adult sizes on the same listings are buyable.

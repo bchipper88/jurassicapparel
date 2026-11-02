@@ -298,6 +298,49 @@
       },
       "articles_published": 42,
       "notes": "First month-on-month traffic rise in the series (Sep revised 1,050 -> Oct 1,095, +4%). Organic keyword count -17% (5,283 -> 4,392), almost all in positions 51-100 (fourth tier 796 -> 689, third 4,222 -> 3,428); top tier 22 -> 29. seo_opportunities: 803 new_content / 637 existing_content; site audit flags only 1 each of title_long, title_short, duplicate meta, thin content, duplicate titles."
+    },
+    {
+      "date": "2026-11-02",
+      "type": "weekly",
+      "source": "Ubersuggest project_position_info (locId 2840, 2026-10-03..2026-11-02, done=true, latest collection 2026-10-28, next 2026-11-04); domain_overview (locId 2840, 2026-11-02).",
+      "domain_authority": 16,
+      "organic_keywords": 4392,
+      "est_monthly_organic_traffic": 1117,
+      "traffic_month": "202610",
+      "backlinks": 2606,
+      "ref_domains": 1244,
+      "tracked_keywords": 91,
+      "rank_movement": {
+        "up": 37,
+        "down": 32,
+        "unchanged": 22
+      },
+      "tracked_bins": {
+        "top_3": {
+          "old": 22,
+          "new": 18
+        },
+        "top_10": {
+          "old": 15,
+          "new": 31
+        },
+        "top_100": {
+          "old": 25,
+          "new": 33
+        },
+        "not_ranking": {
+          "old": 29,
+          "new": 9
+        }
+      },
+      "average_position": {
+        "2026-10-07": 5.3,
+        "2026-10-14": 10.3,
+        "2026-10-21": 10.75,
+        "2026-10-28": 12.45
+      },
+      "articles_published": 43,
+      "notes": "October traffic estimate revised up again, 1,095 -> 1,117. Average position 10.75 (10-21) -> 12.45 (10-28). Bins are first-vs-latest collection in the 30-day window (mostly 10-07 -> 10-28): top-3 22 -> 18, top-10 15 -> 31, top-100 25 -> 33, not ranking 29 -> 9. Moves of 5+ (first collection in window -> 10-28): dinosaur shirts (2,900) 8 -> 62, and 16 -> 62 vs last week's report; Google now shows mens-dinosaur-t-shirts instead of the shirts collection. dinosaur outfits for adults (6,600) 18 -> 33 (was 6 in last week's report). dinosaur backpack (6,600) 25 -> 35; dinosaur sticker (2,900) 19 -> 27; irritator (18,100) 7 -> 12; jaxartosaurus (880) 5 -> out of top 100; dinosaur mugs 6 -> 15; dinosaur clothes for adults 2 -> 14. Up: dinosaur socks (880) -> 7 (the 2020 post); dinosaur blankets (3,600) -> 18; dinosaur phone cases 16 -> 1; dinosaurs phone case 17 -> 4; infant dinosaur clothes (720) -> 4 (our article); dinosaurs clothes 20 -> 3; dinosaur christmas sweater (720) 23 -> 14; dinosaur dresses -> 3; dinosaur purses -> 1. Still not ranking: dinosaur mom (1,900), mamasaurus (1,000), dadasaurus (260), dinosaur puzzle (1,900), dino mask (8,100)."
     }
   ],
   "traffic_history": {

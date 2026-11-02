@@ -1472,18 +1472,97 @@
         }
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-trivia"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur quotes",
       "volume": 590,
       "sd": 26,
       "cpc": 0,
       "intent": "Informational",
-      "verified": "2026-11-01",
+      "peak_month": "202507",
+      "peak_volume": 720,
+      "verified": "2026-11-02",
+      "note": "Day 43. Flat 390-720 (Dec low 390). No live post owns it. SERP 2026-11-02: Google-hosted lists, notable-quotes.com DA 54 #5, Pinterest. Movie lines + credited quotes + ~100 original sayings by use. Sells into mamasaurus, dadasaurus, mugs, baby bodysuits, Christmas.",
+      "date": "2026-11-02",
+      "day": 43,
+      "slug": "dinosaur-quotes",
+      "status": "written",
+      "secondary": [
+        {
+          "keyword": "dinosaur sayings",
+          "volume": 170,
+          "sd": 26
+        },
+        {
+          "keyword": "dinosaur quotes funny",
+          "volume": 170,
+          "sd": 27
+        },
+        {
+          "keyword": "barney dinosaur quotes",
+          "volume": 140,
+          "sd": 29
+        },
+        {
+          "keyword": "the good dinosaur quotes",
+          "volume": 110,
+          "sd": 28
+        },
+        {
+          "keyword": "cute dinosaur quotes",
+          "volume": 70,
+          "sd": 26
+        },
+        {
+          "keyword": "dinosaur sayings for birthdays",
+          "volume": 70,
+          "sd": 22
+        },
+        {
+          "keyword": "cute dinosaur sayings",
+          "volume": 70,
+          "sd": 26
+        },
+        {
+          "keyword": "good dinosaur quotes",
+          "volume": 50,
+          "sd": 8
+        },
+        {
+          "keyword": "funny dinosaur sayings",
+          "volume": 40,
+          "sd": 26
+        },
+        {
+          "keyword": "inspiring dinosaur quotes",
+          "volume": 40,
+          "sd": 30
+        },
+        {
+          "keyword": "funny dinosaur quotes short",
+          "volume": 40,
+          "sd": 28
+        },
+        {
+          "keyword": "dinosaur quotes for instagram",
+          "volume": 30,
+          "sd": 21
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur poems",
+      "volume": 480,
+      "sd": 15,
+      "cpc": 0.33,
+      "intent": "Informational",
+      "peak_month": "202604",
+      "peak_volume": 880,
+      "verified": "2026-11-02",
       "status": "open",
-      "note": "Day 43 (2026-11-02) + weekly rank tracking. Flat 390-720. No live post owns it (Shopify, 2026-11-01). Socks rewrite first if approved."
+      "note": "Day 44 (2026-11-03). Ramp Jan 590 -> Apr 880; publishing ~8 weeks ahead. No live post owns it (Shopify, 2026-11-02). Socks rewrite first if approved."
     }
   ],
   "queued_seasonal": [
@@ -1679,6 +1758,16 @@
       "cpc": 0.6,
       "verified": "2026-10-10",
       "note": "Flat 110-210. Our tag view /collections/adult-dinosaur-shirt/men's ranks #8 (SERP snapshot 2026-09-16). Don't write a post; part of the shirt tag-view finding (BACKLOG #46)."
+    },
+    {
+      "keyword": "dinosaur coloring pages",
+      "volume": 49500,
+      "sd": 28,
+      "cpc": 0.15,
+      "intent": "Informational",
+      "verified": "2026-11-02",
+      "status": "blocked",
+      "note": "Flat 49,500 (Dec 33,100). Biggest SD<=30 term found to date. Needs free printable coloring-page image/PDF assets we don't have; owner decision (BACKLOG #61/#67). No live post owns it (2026-11-02)."
     }
   ],
   "rescue_queue": [
@@ -2455,5 +2544,5 @@
       "verified": "2026-10-29"
     }
   ],
-  "last_repull": "2026-11-01"
+  "last_repull": "2026-11-02"
 }
