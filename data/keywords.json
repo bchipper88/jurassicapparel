@@ -1486,7 +1486,7 @@
       "date": "2026-11-02",
       "day": 43,
       "slug": "dinosaur-quotes",
-      "status": "written",
+      "status": "published",
       "secondary": [
         {
           "keyword": "dinosaur sayings",
@@ -1548,7 +1548,8 @@
           "volume": 30,
           "sd": 21
         }
-      ]
+      ],
+      "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-quotes"
     }
   ],
   "next_up": [

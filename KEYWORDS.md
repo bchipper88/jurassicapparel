@@ -522,6 +522,7 @@ Ubersuggest figure that justified it.
   `the good dinosaur quotes` 110 SD 28, `cute dinosaur quotes` 70 SD 26, `dinosaur sayings for birthdays` 70 SD 22,
   `cute dinosaur sayings` 70 SD 26, `good dinosaur quotes` 50 SD 8, `funny dinosaur sayings` 40, `inspiring dinosaur
   quotes` 40 SD 30, `funny dinosaur quotes short` 40, `dinosaur quotes for instagram` 30 SD 21.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-quotes
 
 ## 🎯 NEXT UP
 

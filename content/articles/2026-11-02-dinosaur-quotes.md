@@ -2,7 +2,10 @@
 title: "Dinosaur Quotes: 120+ Sayings and Captions for Cards, Kids, Birthdays and Instagram"
 slug: dinosaur-quotes
 date: 2026-11-02
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-quotes
+shopify_article_id: "gid://shopify/Article/635172814998"
+published_at: 2026-11-02T11:11:13Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-02"
 target_keyword: "dinosaur quotes"
 target_volume: 590
@@ -44,7 +47,7 @@ products_linked:   # all ACTIVE in Shopify, checked 2026-11-02
   - tea-rex-time
   - fa-la-la-la-roar-adult-raptor-dinosaur-ugly-christmas-sweater
   - jingle-bell-roar-youth-dinosaur-christmas-sweatshirt
-word_count: 0
+word_count: 2520
 ---
 
 # Dinosaur Quotes: 120+ Sayings and Captions for Cards, Kids, Birthdays and Instagram
@@ -362,6 +365,6 @@ kids: "Read like a dinosaur: one big bite at a time."
 ## Find the one that fits
 
 If you only take one thing from this list, make it a saying that's specific to the person: their age, their
-favorite dinosaur, or the thing they say when they're excited. For when the card isn't enough on its own,
-[the Mamasaurus collection](/collections/mamasaurus) is where most of these sayings already live on something you
-can wear.
+favorite dinosaur, or the thing they say when they're excited. If you'd rather give the saying than write it,
+[our dinosaur mugs](/collections/dinosaur-mugs) are the easiest place to start: several already carry one, from
+Tea-Rex Time to Mamasaurus Rex.
