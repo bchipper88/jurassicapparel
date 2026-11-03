@@ -2,7 +2,10 @@
 title: "Dinosaur Poems for Kids: 30 Short Rhymes for Circle Time, Classrooms, Cards and Bedtime"
 slug: dinosaur-poems
 date: 2026-11-03
-status: awaiting-publish
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-poems
+shopify_article_id: "gid://shopify/Article/635177500822"
+published_at: 2026-11-03T11:08:14Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-03"
 target_keyword: "dinosaur poems"
 target_volume: 480
@@ -57,7 +60,7 @@ nobody learns anything they'll have to unlearn in second grade.
 
 | You need… | Try | Length |
 |---|---|---|
-| A circle-time warm-up with actions | "Stomp, Stomp, Dinosaur" | 8 lines |
+| A circle-time warm-up with actions | "Stomp, Stomp, Dinosaur" | 7 lines |
 | A counting rhyme for 3–5s | "Five Little Dinosaurs" | 5 verses |
 | A poem that teaches a fact | "Tiny Arms," "Plates and Spikes," "Three Horns" | 4–8 lines |
 | Something funny for 6–9s | "The Dinosaur Who Ate the Homework" | 8 lines |
@@ -72,12 +75,12 @@ big. By the third time, most three-year-olds will be saying the last word of eac
 
 ### Stomp, Stomp, Dinosaur
 
-> Stomp, stomp, dinosaur, stomping on the ground, *(stomp feet)*
-> Swish, swish, dinosaur, tail goes round and round. *(swing arm behind you)*
-> Stretch, stretch, dinosaur, reaching for a tree, *(reach up high)*
-> Munch, munch, dinosaur, leaves for you and me. *(chomp hands like jaws)*
-> Roar, roar, dinosaur, loud as you can be, *(big roar)*
-> Shh, shh, dinosaur… *(whisper)*
+> Stomp, stomp, dinosaur, stomping on the ground, *(stomp feet)*  
+> Swish, swish, dinosaur, tail goes round and round. *(swing arm behind you)*  
+> Stretch, stretch, dinosaur, reaching for a tree, *(reach up high)*  
+> Munch, munch, dinosaur, leaves for you and me. *(chomp hands like jaws)*  
+> Roar, roar, dinosaur, loud as you can be, *(big roar)*  
+> Shh, shh, dinosaur… *(whisper)*  
 > now sit down with me. *(sit)*
 
 The last line is the useful one. It ends on sitting down, which is what you want after a rhyme that winds
@@ -87,30 +90,30 @@ everybody up.
 
 (To the tune most kids already know from "I'm a Little Teapot.")
 
-> I'm a little dinosaur, green and tall, *(stand on tiptoes)*
-> Here are my claws, and here is my tail. *(show hands, wiggle behind)*
-> When I'm hungry, hear me call: *(cup hands to mouth)*
+> I'm a little dinosaur, green and tall, *(stand on tiptoes)*  
+> Here are my claws, and here is my tail. *(show hands, wiggle behind)*  
+> When I'm hungry, hear me call: *(cup hands to mouth)*  
 > "ROAR!" — then I eat my lunch, leaves and all. *(chomp)*
 
 It doesn't rhyme perfectly in the second line, and three-year-olds do not care.
 
 ### Dinosaur, Dinosaur, Turn Around
 
-> Dinosaur, dinosaur, turn around. *(turn)*
-> Dinosaur, dinosaur, touch the ground. *(touch floor)*
-> Dinosaur, dinosaur, show your claws. *(curl fingers)*
-> Dinosaur, dinosaur, open your jaws. *(open arms wide like a mouth)*
-> Dinosaur, dinosaur, stamp your feet. *(stamp)*
+> Dinosaur, dinosaur, turn around. *(turn)*  
+> Dinosaur, dinosaur, touch the ground. *(touch floor)*  
+> Dinosaur, dinosaur, show your claws. *(curl fingers)*  
+> Dinosaur, dinosaur, open your jaws. *(open arms wide like a mouth)*  
+> Dinosaur, dinosaur, stamp your feet. *(stamp)*  
 > Dinosaur, dinosaur, take your seat. *(sit)*
 
 ### Hatching Egg
 
-> Curl up small inside your shell, *(crouch into a ball)*
-> Warm and quiet, safe and well.
-> Tap, tap, tap — a little crack! *(tap the floor)*
-> Push, push, push and stretch your back. *(slowly unfold)*
-> Out pops a head, out pops a tail, *(pop up)*
-> A brand-new dinosaur! Hear it wail: *(arms out)*
+> Curl up small inside your shell, *(crouch into a ball)*  
+> Warm and quiet, safe and well.  
+> Tap, tap, tap — a little crack! *(tap the floor)*  
+> Push, push, push and stretch your back. *(slowly unfold)*  
+> Out pops a head, out pops a tail, *(pop up)*  
+> A brand-new dinosaur! Hear it wail: *(arms out)*  
 > "Peep!" *(tiny voice)*
 
 Ending on a tiny "peep" instead of a roar usually gets a laugh, and it's also true: baby dinosaurs were small. Even
@@ -122,19 +125,19 @@ the giant long-necks hatched from eggs about the size of a grapefruit.
 
 Hold up five fingers and fold one down each verse.
 
-> Five little dinosaurs stomping by the shore,
+> Five little dinosaurs stomping by the shore,  
 > One went off to find a snack, and then there were four.
 >
-> Four little dinosaurs munching on a tree,
+> Four little dinosaurs munching on a tree,  
 > One went off to take a nap, and then there were three.
 >
-> Three little dinosaurs, nothing much to do,
+> Three little dinosaurs, nothing much to do,  
 > One went off to splash around, and then there were two.
 >
-> Two little dinosaurs basking in the sun,
+> Two little dinosaurs basking in the sun,  
 > One went off to dig a nest, and then there was one.
 >
-> One little dinosaur, all on her own,
+> One little dinosaur, all on her own,  
 > Went to find her friends again — and nobody's alone!
 
 The last verse brings everyone back, which matters more than you'd think to a four-year-old who got attached to
@@ -142,11 +145,11 @@ dinosaur number three.
 
 ### Ten Big Footprints
 
-> One, two, footprints in the mud,
-> Three, four, landing with a thud,
-> Five, six, longer than my shoe,
-> Seven, eight, I wonder who?
-> Nine, ten, follow them and see…
+> One, two, footprints in the mud,  
+> Three, four, landing with a thud,  
+> Five, six, longer than my shoe,  
+> Seven, eight, I wonder who?  
+> Nine, ten, follow them and see…  
 > A dinosaur is following ME!
 
 Fossil footprints are real and you can still see them. Dinosaur Valley State Park in Texas has tracks in the riverbed
@@ -159,9 +162,9 @@ you can check.
 
 ### Tiny Arms (Tyrannosaurus rex)
 
-> T. rex had a giant head
-> And teeth as long as bananas, it's said.
-> But look at its arms! So little, so small —
+> T. rex had a giant head  
+> And teeth as long as bananas, it's said.  
+> But look at its arms! So little, so small —  
 > Two fingers each, and that is all.
 
 The banana line is fair: T. rex's biggest teeth, root included, were about 12 inches long. Its arms were about three
@@ -169,9 +172,9 @@ feet long on an animal around 40 feet from nose to tail, and each hand had two w
 
 ### Plates and Spikes (Stegosaurus)
 
-> Plates on my back go up, up, up,
-> Like a row of kites, or a stack of cups.
-> Spikes on my tail go swish and clack —
+> Plates on my back go up, up, up,  
+> Like a row of kites, or a stack of cups.  
+> Spikes on my tail go swish and clack —  
 > Better not sneak up behind my back!
 
 Stegosaurus had two rows of bony plates along its back and four spikes at the end of its tail. Paleontologists
@@ -179,16 +182,16 @@ jokingly call that spiked tail a "thagomizer," a name borrowed from a 1982 *Far 
 
 ### Three Horns (Triceratops)
 
-> One horn, two horns, three horns: count!
-> Plus a frill like a shield. That's the full amount.
-> I don't eat meat. I munch on ferns.
+> One horn, two horns, three horns: count!  
+> Plus a frill like a shield. That's the full amount.  
+> I don't eat meat. I munch on ferns.  
 > The name means "three-horned face." Now you've learned!
 
 ### Long Neck (Brachiosaurus)
 
-> My front legs are long and my back legs are short,
-> So my neck tilts up like a giraffe's, of sorts.
-> I nibble the treetops nobody can reach,
+> My front legs are long and my back legs are short,  
+> So my neck tilts up like a giraffe's, of sorts.  
+> I nibble the treetops nobody can reach,  
 > Then sneeze on the dinosaurs down by the beach.
 
 The leg fact is real: Brachiosaurus means "arm lizard" because its front legs were longer than its back legs. The
@@ -196,9 +199,9 @@ sneeze is ours.
 
 ### Not a Dinosaur (Pteranodon)
 
-> I glide through the sky on wings made of skin,
-> But I'm not a dinosaur, so don't count me in!
-> I'm a pterosaur, cousin to dinos, you see,
+> I glide through the sky on wings made of skin,  
+> But I'm not a dinosaur, so don't count me in!  
+> I'm a pterosaur, cousin to dinos, you see,  
 > So please get it right when you're talking of me.
 
 Pteranodon was a flying reptile, a close relative of dinosaurs but not one itself. Kids who know this love being
@@ -206,16 +209,16 @@ asked "Is it a dinosaur?" and getting to say no.
 
 ### Armor On (Ankylosaurus)
 
-> I'm wearing my armor from my head to my tail,
-> Covered in bony plates like a knight in chain mail.
-> And there at the end is a club, big and round —
+> I'm wearing my armor from my head to my tail,  
+> Covered in bony plates like a knight in chain mail.  
+> And there at the end is a club, big and round —  
 > Thump! goes the tail. Every hunter backs down.
 
 ### The Biggest Surprise
 
-> Some dinosaurs stomped and some dinosaurs swam,
-> Some ate up the ferns, and some were quite calm.
-> And some of them never went quite away —
+> Some dinosaurs stomped and some dinosaurs swam,  
+> Some ate up the ferns, and some were quite calm.  
+> And some of them never went quite away —  
 > Look out the window: there's one on the tray!
 
 Point at a bird feeder for this one. Birds are living dinosaurs, descended from small feathered dinosaurs. It's the
@@ -223,11 +226,11 @@ fact that makes most kids stop and stare at a pigeon.
 
 ### Under the Rock (fossils)
 
-> Under the rock and under the clay,
-> A bone has been sleeping for years and a day.
-> A digger comes by with a brush and a pick,
-> And brushes it gently. Not fast. Not quick.
-> Now there it is, shining, a bone made of stone,
+> Under the rock and under the clay,  
+> A bone has been sleeping for years and a day.  
+> A digger comes by with a brush and a pick,  
+> And brushes it gently. Not fast. Not quick.  
+> Now there it is, shining, a bone made of stone,  
 > And soon in a museum it won't be alone.
 
 Fossil bones really are stone. Over millions of years, minerals replace the original bone, which is why fossils are
@@ -239,32 +242,32 @@ For ages six to nine, who like a poem best when something goes wrong in it.
 
 ### The Dinosaur Who Ate the Homework
 
-> I had my homework finished, I had it in my hand,
-> And then a T. rex wandered in. You have to understand,
-> He gobbled up my spelling and he swallowed all my math.
-> He burped out my reading log and then he took a bath.
-> So, teacher, please don't blame me, it's not my fault at all —
+> I had my homework finished, I had it in my hand,  
+> And then a T. rex wandered in. You have to understand,  
+> He gobbled up my spelling and he swallowed all my math.  
+> He burped out my reading log and then he took a bath.  
+> So, teacher, please don't blame me, it's not my fault at all —  
 > The dinosaur is waiting just outside, down the hall.
 
 ### Dinner Guest
 
-> We had a dinosaur for dinner.
-> No, not like that! He came to eat.
-> He ate the salad, ate the chicken,
+> We had a dinosaur for dinner.  
+> No, not like that! He came to eat.  
+> He ate the salad, ate the chicken,  
 > Ate the table, ate my seat.
 
 ### Too Big for the Bathtub
 
-> My dinosaur won't fit in the bath.
-> His tail is in the hall.
-> His head is in the kitchen sink.
+> My dinosaur won't fit in the bath.  
+> His tail is in the hall.  
+> His head is in the kitchen sink.  
 > He's not really clean at all.
 
 ### Picky Eater
 
-> "Eat your vegetables," Mom said to Rex.
-> "I'm a meat-eater," he answered. "Next!"
-> "Eat your meat," Dad said to Trike.
+> "Eat your vegetables," Mom said to Rex.  
+> "I'm a meat-eater," he answered. "Next!"  
+> "Eat your meat," Dad said to Trike.  
 > "I'm a plant-eater. That's what I like!"
 
 If these land, our [dinosaur jokes page](/blogs/blog/dinosaur-jokes) has a couple hundred more where they came from.
@@ -275,22 +278,22 @@ Slower, softer, and no roaring in the last line.
 
 ### Goodnight, Long Neck
 
-> Goodnight, Long Neck, up so high,
-> Your head is resting near the sky.
-> Goodnight, Three Horns, curled in the ferns.
-> Goodnight, Little Raptor, who twists and turns.
-> Goodnight, T. rex, you've stomped all day,
-> Now lay your giant head away.
-> The moon is up, the stars are bright,
+> Goodnight, Long Neck, up so high,  
+> Your head is resting near the sky.  
+> Goodnight, Three Horns, curled in the ferns.  
+> Goodnight, Little Raptor, who twists and turns.  
+> Goodnight, T. rex, you've stomped all day,  
+> Now lay your giant head away.  
+> The moon is up, the stars are bright,  
 > Goodnight, dinosaurs. Goodnight.
 
 ### Little Roar
 
-> Even the loudest dinosaur
-> Gets sleepy when the day is done.
-> He tucks his tail and shuts his eyes
-> And dreams of swamps and setting sun.
-> So roar your biggest roar right now…
+> Even the loudest dinosaur  
+> Gets sleepy when the day is done.  
+> He tucks his tail and shuts his eyes  
+> And dreams of swamps and setting sun.  
+> So roar your biggest roar right now…  
 > Then softer… softer… one more… done.
 
 The second poem pairs with our [Little Roar toddler dinosaur hoodie](/products/little-roar-toddler-dinosaur-hoodie),
@@ -320,23 +323,23 @@ front. The rest of the planning (games, food, invitations) is in our
 
 ### First Day of School
 
-> Even a T. rex was new once, you know,
-> Small and unsure, with a long way to go.
-> So stomp through the door and say "hi" with a roar —
+> Even a T. rex was new once, you know,  
+> Small and unsure, with a long way to go.  
+> So stomp through the door and say "hi" with a roar —  
 > By lunchtime you'll know what the playground is for.
 
 ### Valentine's Day
 
-> Roses are red, raptors are quick,
-> Out of all the dinosaurs, you are my pick.
-> Rawr means "I love you," it's true,
+> Roses are red, raptors are quick,  
+> Out of all the dinosaurs, you are my pick.  
+> Rawr means "I love you," it's true,  
 > And this little rawr is just for you.
 
 ### Christmas
 
-> Jingle bells, a dino smells
-> The cookies left for Santa.
-> He eats them all, then hides in the hall
+> Jingle bells, a dino smells  
+> The cookies left for Santa.  
+> He eats them all, then hides in the hall  
 > Pretending to be a panda.
 
 For the holiday version, the [Jingle Bell Roar youth Christmas sweatshirt](/products/jingle-bell-roar-youth-dinosaur-christmas-sweatshirt)
@@ -344,9 +347,9 @@ is basically this poem with sleeves, and the rest is in the [dinosaur Christmas 
 
 ### End of the Year
 
-> We dug up some facts and we counted some bones,
-> We learned that a fossil is mostly stones.
-> We're one year bigger and one year more wise.
+> We dug up some facts and we counted some bones,  
+> We learned that a fossil is mostly stones.  
+> We're one year bigger and one year more wise.  
 > See you next fall, my small dinosaurs. Bye!
 
 ## How to write a dinosaur poem with kids
@@ -356,8 +359,8 @@ Kids remember the poems they write far better than the ones they hear. Two templ
 **1. Dinosaur acrostic.** Write a name down the side and start each line with that letter. Shorter names are
 kinder to young writers:
 
-> **R**uns on two big legs
-> **E**ats meat
+> **R**uns on two big legs  
+> **E**ats meat  
 > e**X**tinct, but still my favorite
 
 Good names for acrostics: REX, TRIKE, RAPTOR, DINO, FOSSIL. Save PACHYCEPHALOSAURUS for the kid who asks for a
@@ -365,11 +368,11 @@ challenge.
 
 **2. "I am a…" poem.** Pick one dinosaur and fill in five lines:
 
-> I am a ______ *(name)*.
-> I have ______ *(one body part)*.
-> I eat ______.
-> I live ______ *(where, or when)*.
-> I am ______ *(one feeling word)*.
+> I am a \_\_\_\_\_\_ *(name)*.  
+> I have \_\_\_\_\_\_ *(one body part)*.  
+> I eat \_\_\_\_\_\_.  
+> I live \_\_\_\_\_\_ *(where, or when)*.  
+> I am \_\_\_\_\_\_ *(one feeling word)*.
 
 For example: *"I am a Stegosaurus. I have spikes on my tail. I eat plants. I live a long, long
 time ago. I am brave."*

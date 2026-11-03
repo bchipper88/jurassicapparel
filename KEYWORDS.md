@@ -538,6 +538,7 @@ Ubersuggest figure that justified it.
   Secondaries: `dinosaur poem` 480 SD 16, `dinosaur rhymes` 170 SD 21, `short dinosaur poem` 30 SD 17, `dinosaur
   fingerplays` 30 SD 27, `dinosaur nursery rhymes lyrics` 20 SD 5, `dinosaur birthday poem` 10 SD 25. Not targeted:
   `dinosaur nursery rhymes` 110 **SD 45**.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-poems
 
 ## 🎯 NEXT UP
 

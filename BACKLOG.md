@@ -1289,6 +1289,12 @@ Found while mapping inventory for the Day 27 `dinosaur-stocking-stuffers` post (
   interpreter) and the import still fails. **`python3 -m pip install -r requirements.txt`** is the command that works.
   Use that in any SessionStart hook.
 
+- **2026-11-03 update:** `pip install markdown` reports "already satisfied" but `python3` can't import it (pip and
+  python3 point at different site-packages). `python3 -m pip install -r requirements.txt` works. Also: the converter
+  merges consecutive `>` blockquote lines into one paragraph, so verse needs a trailing double space per line, and
+  runs of underscores (`______`) must be escaped or they turn into italics. Fixed by hand in the poems article; a
+  converter option (`nl2br` inside blockquotes) would stop it recurring.
+
 ## 55. Rug page lists a size we don't sell; no bathroom range beyond one mat; posters doubled quietly 🟢 LOW — product copy / merchandising — added 2026-10-18
 
 Found while checking inventory for `dinosaur rug` and writing the Day 28 `dinosaur-bathroom-decor` post (Shopify, 2026-10-18).

@@ -1560,7 +1560,7 @@
       "peak_month": "202604",
       "peak_volume": 880,
       "verified": "2026-11-03",
-      "status": "awaiting-publish",
+      "status": "published",
       "note": "Day 44. Rises Jan 590 -> Apr 880. No live post owns it (Shopify, 2026-11-03). SERP 2026-11-03: Google-hosted results, history-for-kids.com DA 28 #5, Pinterest, Scribd. 30 original rhymes by use. Sells into printables, posters, toddler/kids apparel, Christmas.",
       "date": "2026-11-03",
       "day": 44,
@@ -1596,7 +1596,8 @@
           "volume": 10,
           "sd": 25
         }
-      ]
+      ],
+      "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-poems"
     }
   ],
   "next_up": [
