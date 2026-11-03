@@ -1550,9 +1550,7 @@
         }
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-quotes"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur poems",
       "volume": 480,
@@ -1561,9 +1559,58 @@
       "intent": "Informational",
       "peak_month": "202604",
       "peak_volume": 880,
-      "verified": "2026-11-02",
+      "verified": "2026-11-03",
+      "status": "awaiting-publish",
+      "note": "Day 44. Rises Jan 590 -> Apr 880. No live post owns it (Shopify, 2026-11-03). SERP 2026-11-03: Google-hosted results, history-for-kids.com DA 28 #5, Pinterest, Scribd. 30 original rhymes by use. Sells into printables, posters, toddler/kids apparel, Christmas.",
+      "date": "2026-11-03",
+      "day": 44,
+      "slug": "dinosaur-poems",
+      "secondary": [
+        {
+          "keyword": "dinosaur poem",
+          "volume": 480,
+          "sd": 16
+        },
+        {
+          "keyword": "dinosaur rhymes",
+          "volume": 170,
+          "sd": 21
+        },
+        {
+          "keyword": "short dinosaur poem",
+          "volume": 30,
+          "sd": 17
+        },
+        {
+          "keyword": "dinosaur fingerplays",
+          "volume": 30,
+          "sd": 27
+        },
+        {
+          "keyword": "dinosaur nursery rhymes lyrics",
+          "volume": 20,
+          "sd": 5
+        },
+        {
+          "keyword": "dinosaur birthday poem",
+          "volume": 10,
+          "sd": 25
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur crafts",
+      "volume": 3600,
+      "sd": 28,
+      "cpc": 0.65,
+      "intent": "Transactional",
+      "peak_month": "202507",
+      "peak_volume": 5400,
+      "verified": "2026-11-03",
       "status": "open",
-      "note": "Day 44 (2026-11-03). Ramp Jan 590 -> Apr 880; publishing ~8 weeks ahead. No live post owns it (Shopify, 2026-11-02). Socks rewrite first if approved."
+      "note": "Day 45 (2026-11-04). Dec low 1,900 -> Jan 3,600 -> Feb-Apr 4,400 -> May-Jun 5,400. Cluster: pre k dinosaur crafts 2,400 SD 18, for kindergarten 1,000 SD 28, printable 480 SD 21, easy 320 SD 25. No live post owns it (Shopify, 2026-11-03). Check SERP first."
     }
   ],
   "queued_seasonal": [
@@ -2426,6 +2473,13 @@
       "sd": 5,
       "date": "2026-10-30",
       "reason": "Too small."
+    },
+    {
+      "keyword": "dinosaur nursery rhymes",
+      "volume": 110,
+      "sd": 45,
+      "verified": "2026-11-03",
+      "note": "SD 45, over the >40 skip line. Covered loosely by the dinosaur-poems page."
     }
   ],
   "rescue_content": [

@@ -524,14 +524,33 @@ Ubersuggest figure that justified it.
   quotes` 40 SD 30, `funny dinosaur quotes short` 40, `dinosaur quotes for instagram` 30 SD 21.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-quotes
 
+- ✅ Published (2026-11-03) **dinosaur poems** — 480/mo | Jul–Aug 260–320 → Oct 480 → Nov–Dec 390 → Jan 590, Feb–Mar
+  720, **Apr 880**, May 720, Jun 390 | SD 15 | $0.33 CPC | Informational → `dinosaur-poems`
+  Day 44, from STRATEGY Play 1. No live post owns it (Shopify articles query for poem/rhyme titles and the handle:
+  none, 2026-11-03). SERP (2026-11-03): Google-hosted results (Poetry Society, a book listing, Reddit) hold most of
+  the top 10, AI overview + video block, **history-for-kids.com (DA 28) #5**, Pinterest #9, Scribd #11. Weak SERP.
+  Angle: 30 original rhymes sorted by use: preschool fingerplays with actions, counting rhymes, fact poems checked
+  against the science (T. rex arms, Stegosaurus thagomizer, Brachiosaurus legs, Pteranodon-not-a-dinosaur, birds),
+  funny, bedtime, a birthday-by-age table, school-year/holiday verses, acrostic and "I am a…" templates. Sells into
+  dinosaur-printables (11), dinosaur-posters (15), toddler-apparel (45), kids-dinosaur-apparel (199),
+  dinosaur-christmas (65) and six ACTIVE products (ABC Dinos printable, Size Chart printable, Little Roar toddler
+  hoodie, Two Rex and Three Rex tees, Jingle Bell Roar youth sweatshirt).
+  Secondaries: `dinosaur poem` 480 SD 16, `dinosaur rhymes` 170 SD 21, `short dinosaur poem` 30 SD 17, `dinosaur
+  fingerplays` 30 SD 27, `dinosaur nursery rhymes lyrics` 20 SD 5, `dinosaur birthday poem` 10 SD 25. Not targeted:
+  `dinosaur nursery rhymes` 110 **SD 45**.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 44 (Tue 2026-11-03): `dinosaur poems`.** 480/mo | Jul–Aug 260–320 → Oct 480 → **Jan 590, Feb–Mar 720, Apr
-  880**, Jun 390 | SD 15 | $0.33 CPC | Informational (Ubersuggest, locId 2840, 2026-11-02). The ramp starts in
-  January, so publishing now is ~8 weeks ahead. No live post owns it (Shopify articles query for poem/rhyme titles and
-  the handle: none, 2026-11-02). Rhymes we write ourselves, for preschool circle time, cards and classroom walls; sells
-  into printables, kids' apparel and the quotes/jokes cluster. Re-verify and check the SERP first. If the socks
-  rewrite has been approved, do that first.
+- 🎯 **Day 45 (Wed 2026-11-04): `dinosaur crafts`.** 3,600/mo | Jul 2025 5,400 → Oct–Nov 2,400 → **Dec 1,900 low** →
+  Jan 3,600, Feb–Apr 4,400, May–Jun 5,400 | SD 28 | $0.65 CPC | Transactional (Ubersuggest, locId 2840, 2026-11-03).
+  The ramp starts in January, so publishing now is ~8 weeks ahead. Cluster: `pre k dinosaur crafts` **2,400 SD 18**,
+  `dinosaur crafts for kindergarten` 1,000 SD 28, `printable dinosaur crafts` 480 SD 21, `easy dinosaur crafts` 320
+  SD 25, `dinosaur crafts for 3 year olds` 170 SD 32. Not targeted: `paper plate dinosaur crafts` 1,000 SD 37. No live
+  post owns it (Shopify articles query for craft titles and the handle: none, 2026-11-03). Must be real, doable crafts
+  with household materials; sells into printables (coloring pages), stickers and kids' apparel. Re-verify and check
+  the SERP first (it may be image/Pinterest-heavy). If the socks rewrite has been approved, do that first.
+
+- ✅ **Day 44 (Tue 2026-11-03): `dinosaur poems` published** (see ✅ Published). Socks rewrite still unapproved.
 
 - ✅ **Day 43 (Mon 2026-11-02): weekly rank tracking + `dinosaur quotes` published** (see ✅ Published). Rank
   snapshot in `data/metrics.json`; drops on `dinosaur shirts` and `dinosaur outfits for adults` logged as BACKLOG #67.
