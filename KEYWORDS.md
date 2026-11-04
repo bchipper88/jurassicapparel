@@ -558,6 +558,7 @@ Ubersuggest figure that justified it.
   `clothespin dinosaur craft` 70 SD 21, `paper bag dinosaur craft` 30 SD 18, `popsicle stick dinosaur craft` 30 SD 6.
   Not targeted: `paper plate dinosaur craft` 1,000 **SD 37**, `handprint dinosaur craft` 480 SD 34, `dinosaur
   activities for preschool` 1,000 SD 32 (covered by sections, not the title).
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-crafts
 
 ## 🎯 NEXT UP
 

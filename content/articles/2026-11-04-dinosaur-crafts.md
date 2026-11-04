@@ -2,7 +2,10 @@
 title: "Dinosaur Crafts for Kids: 20 Easy Projects for Pre-K, Kindergarten and Rainy Afternoons"
 slug: dinosaur-crafts
 date: 2026-11-04
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-crafts
+shopify_article_id: "gid://shopify/Article/635183399062"
+published_at: 2026-11-04T11:08:02Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-04"
 target_keyword: "dinosaur crafts"
 target_volume: 3600
