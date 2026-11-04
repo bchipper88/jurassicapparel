@@ -1547,5 +1547,7 @@ From `project_position_info` (locId 2840, collections 10-07 to 10-28) and Shopif
   routine has found. No live post owns it. We can't write it as text alone: it needs free printable pages
   (PDF/PNG line art) on the page. That's #61's lead-magnet idea at a far bigger scale. **Owner decision:** supply or
   approve 10–20 simple line-art pages, and I'll write the hub around them and link `dinosaur-printables` (11).
+  *2026-11-04:* the same line art would also unlock `dinosaur drawing easy` (9,900/mo, SD 31, Jan–May 12,100), a
+  step-by-step drawing guide. The Day 45 crafts page links the paid printables and can link the hub when it exists.
 - **#60 re-checked today: still broken.** Every kid-size variant on the first five ACTIVE kids' sneakers is
   `availableForSale: false` (`DENY`, 0 stock); adult sizes on the same listings are buyable.

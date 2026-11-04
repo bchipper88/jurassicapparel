@@ -1598,9 +1598,7 @@
         }
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-poems"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur crafts",
       "volume": 3600,
@@ -1609,9 +1607,103 @@
       "intent": "Transactional",
       "peak_month": "202507",
       "peak_volume": 5400,
-      "verified": "2026-11-03",
+      "verified": "2026-11-04",
+      "status": "published",
+      "note": "Day 45. Dec low 1,900 -> Jan 3,600 -> Feb-Apr 4,400 -> May-Jun 5,400. No live post owns it (Shopify, 2026-11-04). SERP 2026-11-04: image pack, blog roundups, simpleeverydaymom DA 46 #6, no store in top 20. 20 crafts by age. Sells into printables, stickers, puzzles, kids/toddler apparel.",
+      "date": "2026-11-04",
+      "day": 45,
+      "slug": "dinosaur-crafts",
+      "secondary": [
+        {
+          "keyword": "dinosaur craft",
+          "volume": 3600,
+          "sd": 26
+        },
+        {
+          "keyword": "pre k dinosaur crafts",
+          "volume": 2400,
+          "sd": 18
+        },
+        {
+          "keyword": "dinosaur craft for kindergarten",
+          "volume": 1300,
+          "sd": 26
+        },
+        {
+          "keyword": "dinosaur crafts for kindergarten",
+          "volume": 1000,
+          "sd": 28
+        },
+        {
+          "keyword": "hand dinosaur craft",
+          "volume": 480,
+          "sd": 24
+        },
+        {
+          "keyword": "printable dinosaur craft",
+          "volume": 480,
+          "sd": 24
+        },
+        {
+          "keyword": "easy dinosaur crafts",
+          "volume": 320,
+          "sd": 25
+        },
+        {
+          "keyword": "easy dinosaur craft",
+          "volume": 260,
+          "sd": 24
+        },
+        {
+          "keyword": "dinosaur craft paper",
+          "volume": 210,
+          "sd": 25
+        },
+        {
+          "keyword": "dinosaur craft activities",
+          "volume": 170,
+          "sd": 25
+        },
+        {
+          "keyword": "dinosaur craft mask",
+          "volume": 140,
+          "sd": 27
+        },
+        {
+          "keyword": "dinosaur crafts for adults",
+          "volume": 110,
+          "sd": 27
+        },
+        {
+          "keyword": "clothespin dinosaur craft",
+          "volume": 70,
+          "sd": 21
+        },
+        {
+          "keyword": "paper bag dinosaur craft",
+          "volume": 30,
+          "sd": 18
+        },
+        {
+          "keyword": "popsicle stick dinosaur craft",
+          "volume": 30,
+          "sd": 6
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur songs",
+      "volume": 8100,
+      "sd": 32,
+      "cpc": 0,
+      "intent": "Informational",
+      "peak_month": "202510",
+      "peak_volume": 9900,
+      "verified": "2026-11-04",
       "status": "open",
-      "note": "Day 45 (2026-11-04). Dec low 1,900 -> Jan 3,600 -> Feb-Apr 4,400 -> May-Jun 5,400. Cluster: pre k dinosaur crafts 2,400 SD 18, for kindergarten 1,000 SD 28, printable 480 SD 21, easy 320 SD 25. No live post owns it (Shopify, 2026-11-03). Check SERP first."
+      "note": "Day 46 (2026-11-05). Flat 6,600-9,900. SD 32 stretch. Secondary dinosaur songs for preschool 480 SD 33. Check SERP first; if video-only, fall back to dinosaur sensory bin (720, SD 26, Transactional, weak inventory fit)."
     }
   ],
   "queued_seasonal": [

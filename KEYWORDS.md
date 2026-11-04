@@ -540,16 +540,35 @@ Ubersuggest figure that justified it.
   `dinosaur nursery rhymes` 110 **SD 45**.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-poems
 
+- ✅ Published (2026-11-04) **dinosaur crafts** — 3,600/mo | Jul 2025 5,400 → Oct–Nov 2,400 → **Dec 1,900 low** → Jan
+  3,600, Feb–Apr 4,400, May–Jun 5,400 | SD 28 | $0.65 CPC | Transactional → `dinosaur-crafts`
+  Day 45, from STRATEGY Play 1. Re-verified unchanged 2026-11-04. No live post owns it (Shopify articles query for craft
+  titles and the handle: none, 2026-11-04). SERP (2026-11-04): image pack #1, then blog roundups (Google-redirect URLs,
+  so domains hidden), simpleeverydaymom.com (DA 46) #6, craftulate.com (DA 52) #18, YouTube #14, AI overview + short
+  videos. No store in the top 20. Angle: 20 crafts sorted by age (pre-K, kindergarten, printable, fact-based, older
+  kids) with time/mess table, salt dough and papier-mâché recipes, a "build detail that's true" table (T. rex two
+  fingers, Stegosaurus two staggered rows + 4 spikes, Triceratops, Brachiosaurus legs, feathered Velociraptor), supply
+  list and classroom/party tips. Sells into dinosaur-printables (11), dinosaur-stickers (29), dinosaur-puzzles (14),
+  kids-dinosaur-apparel (199), toddler-apparel (45) and five ACTIVE printables (coloring 3-pack $7.99, T-Rex Volcano,
+  Stegosaurus Jungle, Hatching Dino Eggs, ABC Dinos). License and file claims read from the listing.
+  Secondaries: `dinosaur craft` 3,600 SD 26, `pre k dinosaur crafts` 2,400 SD 18, `dinosaur craft for kindergarten`
+  1,300 SD 26, `dinosaur crafts for kindergarten` 1,000 SD 28, `hand dinosaur craft` 480 SD 24, `printable dinosaur
+  craft` 480 SD 24, `easy dinosaur crafts` 320 SD 25, `easy dinosaur craft` 260 SD 24, `dinosaur craft paper` 210 SD 25,
+  `dinosaur craft activities` 170 SD 25, `dinosaur craft mask` 140 SD 27, `dinosaur crafts for adults` 110 SD 27,
+  `clothespin dinosaur craft` 70 SD 21, `paper bag dinosaur craft` 30 SD 18, `popsicle stick dinosaur craft` 30 SD 6.
+  Not targeted: `paper plate dinosaur craft` 1,000 **SD 37**, `handprint dinosaur craft` 480 SD 34, `dinosaur
+  activities for preschool` 1,000 SD 32 (covered by sections, not the title).
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 45 (Wed 2026-11-04): `dinosaur crafts`.** 3,600/mo | Jul 2025 5,400 → Oct–Nov 2,400 → **Dec 1,900 low** →
-  Jan 3,600, Feb–Apr 4,400, May–Jun 5,400 | SD 28 | $0.65 CPC | Transactional (Ubersuggest, locId 2840, 2026-11-03).
-  The ramp starts in January, so publishing now is ~8 weeks ahead. Cluster: `pre k dinosaur crafts` **2,400 SD 18**,
-  `dinosaur crafts for kindergarten` 1,000 SD 28, `printable dinosaur crafts` 480 SD 21, `easy dinosaur crafts` 320
-  SD 25, `dinosaur crafts for 3 year olds` 170 SD 32. Not targeted: `paper plate dinosaur crafts` 1,000 SD 37. No live
-  post owns it (Shopify articles query for craft titles and the handle: none, 2026-11-03). Must be real, doable crafts
-  with household materials; sells into printables (coloring pages), stickers and kids' apparel. Re-verify and check
-  the SERP first (it may be image/Pinterest-heavy). If the socks rewrite has been approved, do that first.
+- 🎯 **Day 46 (Thu 2026-11-05): `dinosaur songs`.** 8,100/mo | flat 6,600–9,900 (Oct 9,900 peak, Nov–Dec 6,600) |
+  **SD 32 (stretch)** | $0 CPC | Informational (Ubersuggest, locId 2840, 2026-11-04). Secondary `dinosaur songs for
+  preschool` 480 SD 33 (Dec 210 → Feb–Mar 720). Last page of the circle-time cluster (poems, crafts). Angle: original
+  lyrics to familiar public-domain tunes, with actions. **Check the SERP first**: if it's YouTube/video-only, skip it
+  and take the fallback, `dinosaur sensory bin` (720/mo flat, SD 26, Transactional; weak inventory fit, since `toys`
+  has 0 ACTIVE). If the socks rewrite has been approved, do that first.
+
+- ✅ **Day 45 (Wed 2026-11-04): `dinosaur crafts` published** (see ✅ Published). Socks rewrite still unapproved.
 
 - ✅ **Day 44 (Tue 2026-11-03): `dinosaur poems` published** (see ✅ Published). Socks rewrite still unapproved.
 
