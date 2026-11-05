@@ -560,14 +560,32 @@ Ubersuggest figure that justified it.
   activities for preschool` 1,000 SD 32 (covered by sections, not the title).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-crafts
 
+- ✅ Published (2026-11-05) **dinosaur sensory bin** — 720/mo | flat 590–880 (Aug 2025 880, Oct 590, Nov 720, Dec 590,
+  Mar/May 880) | SD 26 | $0.35 CPC | Transactional → `dinosaur-sensory-bin`
+  Day 46, the fallback after `dinosaur songs` failed its SERP check (⏭️ below). No live post owns it (Shopify articles
+  query for the handle and "sensory" titles: none, 2026-11-05). SERP (collected 2026-09-08): Facebook group #1, Amazon
+  #3, popular-products and image packs, **montessorigeneration.com (DA 23, a Shopify blog) #7**, Pinterest #10,
+  thechaosandtheclutter.com (DA 52) #11, hippiehoorayok.com (DA 13) #12, meemzymagic.com (DA 17) #16. Weak independents,
+  so winnable at DA 17. Angle: 8 bins (fossil dig, ice egg hatch, toddler oat swamp, dino car wash, volcano, letter hunt,
+  big/small sort, prehistoric swamp), a filler-by-age table with choking-hazard and water-bead warnings, heat-treated
+  cloud dough, dyed rice recipe, mess rules and a class setup. Inventory fit is thin (we sell no figures; `toys` 0
+  ACTIVE), so it sells into dinosaur-printables (11), dinosaur-stickers (29), toddler-apparel (45) and three ACTIVE
+  printables (ABC Dinos, Dinosaur Size Chart, Hatching Dino Eggs), described from their listings.
+  Secondaries: `dinosaur sensory bin ideas` 140 SD 26, `diy dinosaur sensory bin` 20 SD 32. `dinosaur sensory bin for
+  toddlers` / `toddler dinosaur sensory bin` return 0 at locId 2840 (sections only).
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 46 (Thu 2026-11-05): `dinosaur songs`.** 8,100/mo | flat 6,600–9,900 (Oct 9,900 peak, Nov–Dec 6,600) |
-  **SD 32 (stretch)** | $0 CPC | Informational (Ubersuggest, locId 2840, 2026-11-04). Secondary `dinosaur songs for
-  preschool` 480 SD 33 (Dec 210 → Feb–Mar 720). Last page of the circle-time cluster (poems, crafts). Angle: original
-  lyrics to familiar public-domain tunes, with actions. **Check the SERP first**: if it's YouTube/video-only, skip it
-  and take the fallback, `dinosaur sensory bin` (720/mo flat, SD 26, Transactional; weak inventory fit, since `toys`
-  has 0 ACTIVE). If the socks rewrite has been approved, do that first.
+- 🎯 **Day 47 (Fri 2026-11-06): `dinosaur activities`.** 880/mo | Jul 2025 1,300, Oct–Nov 720, **Dec 590 low**, Feb–Apr
+  1,000, May 1,300 | **SD 19** | $1.46 CPC | Informational (Ubersuggest, locId 2840, 2026-11-05). School-year curve like
+  crafts; ~10 weeks ahead of the Feb ramp. No live post has "activities" in its title (Shopify, 2026-11-05). Angle: a
+  hub for dinosaur week (crafts, sensory bin, poems, jokes, trivia, quotes) plus activities those pages don't cover
+  (games, a dig, measuring, a footprint walk), sorted by age. Secondary to check: `dinosaur activities for preschool`
+  1,000 SD 32, `dinosaur party games` 320 SD 22 (the party blog's guide may own it; check first). Check the SERP before
+  drafting. If the socks rewrite has been approved, do that first.
+
+- ✅ **Day 46 (Thu 2026-11-05): `dinosaur sensory bin` published** (fallback; `dinosaur songs` ⏭️ on SERP). Socks
+  rewrite still unapproved.
 
 - ✅ **Day 45 (Wed 2026-11-04): `dinosaur crafts` published** (see ✅ Published). Socks rewrite still unapproved.
 
@@ -814,6 +832,13 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
 ---
 
 ## ⏭️ SKIPPED
+
+- ⏭️ **dinosaur songs** — 8,100/mo | flat 6,600–9,900 (Oct 9,900) | SD 32 | $0 CPC | Informational — skipped
+  2026-11-05 on the SERP (Ubersuggest, locId 2840, collected live 2026-11-05). Video carousel #1, short videos #2, then
+  YouTube results (Super Simple Songs, TOMTOMI, Emma and Joey via google.com redirects), Spotify/Amazon Music/YouTube
+  Music playlists, and an AI overview. The only text page in the top 20 is preschoolexpress.com (DA 43) at #7. Searchers
+  want something to play, not lyrics to read, and we have no video. SD 32 on top of that. Re-open only if we ever make
+  video. `dinosaur songs for preschool` (480, SD 33) skipped with it.
 
 - ⏭️ **Sweep 2026-10-30 (all Ubersuggest, locId 2840):** `dinosaur christmas socks` 90/mo SD 13 (Nov 320 · Dec 480) —
   only **one** ACTIVE Christmas sock (Santa Hat) of 35 ACTIVE socks; the queue's bar was 3+. A line in the socks

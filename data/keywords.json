@@ -1691,20 +1691,47 @@
         }
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-crafts"
+    },
+    {
+      "keyword": "dinosaur sensory bin",
+      "volume": 720,
+      "sd": 26,
+      "cpc": 0.35,
+      "intent": "Transactional",
+      "peak_month": "202508",
+      "peak_volume": 880,
+      "verified": "2026-11-05",
+      "status": "published",
+      "note": "Day 46. Fallback after dinosaur songs skipped on SERP. Flat 590-880. No live post owns it (Shopify 2026-11-05). SERP 2026-09-08: FB #1, Amazon #3, montessorigeneration DA 23 #7. 8 bins + filler-by-age table. Sells into printables, stickers, toddler apparel (no figures; toys 0 ACTIVE).",
+      "date": "2026-11-05",
+      "day": 46,
+      "slug": "dinosaur-sensory-bin",
+      "secondary": [
+        {
+          "keyword": "dinosaur sensory bin ideas",
+          "volume": 140,
+          "sd": 26
+        },
+        {
+          "keyword": "diy dinosaur sensory bin",
+          "volume": 20,
+          "sd": 32
+        }
+      ]
     }
   ],
   "next_up": [
     {
-      "keyword": "dinosaur songs",
-      "volume": 8100,
-      "sd": 32,
-      "cpc": 0,
+      "keyword": "dinosaur activities",
+      "volume": 880,
+      "sd": 19,
+      "cpc": 1.46,
       "intent": "Informational",
-      "peak_month": "202510",
-      "peak_volume": 9900,
-      "verified": "2026-11-04",
+      "peak_month": "202507",
+      "peak_volume": 1300,
+      "verified": "2026-11-05",
       "status": "open",
-      "note": "Day 46 (2026-11-05). Flat 6,600-9,900. SD 32 stretch. Secondary dinosaur songs for preschool 480 SD 33. Check SERP first; if video-only, fall back to dinosaur sensory bin (720, SD 26, Transactional, weak inventory fit)."
+      "note": "Day 47 (2026-11-06). School-year curve, Dec 590 low, Feb-Apr 1,000, May 1,300. No live post titled 'activities' (Shopify 2026-11-05). Hub for dinosaur week. Check SERP first; secondaries dinosaur activities for preschool 1,000 SD 32, dinosaur party games 320 SD 22."
     }
   ],
   "queued_seasonal": [
@@ -2574,6 +2601,13 @@
       "sd": 45,
       "verified": "2026-11-03",
       "note": "SD 45, over the >40 skip line. Covered loosely by the dinosaur-poems page."
+    },
+    {
+      "keyword": "dinosaur songs",
+      "volume": 8100,
+      "sd": 32,
+      "verified": "2026-11-05",
+      "note": "SERP video/playlist-dominated (live collection 2026-11-05); only text page is preschoolexpress DA 43 #7. We have no video. Secondary dinosaur songs for preschool 480 SD 33 skipped with it."
     }
   ],
   "rescue_content": [
@@ -2693,5 +2727,5 @@
       "verified": "2026-10-29"
     }
   ],
-  "last_repull": "2026-11-02"
+  "last_repull": "2026-11-05"
 }
