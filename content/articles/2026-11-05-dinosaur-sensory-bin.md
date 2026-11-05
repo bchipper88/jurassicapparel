@@ -2,7 +2,10 @@
 title: "Dinosaur Sensory Bin: 8 Easy Ideas, Fillers by Age, and How to Keep the Mess in the Bin"
 slug: dinosaur-sensory-bin
 date: 2026-11-05
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-sensory-bin
+shopify_article_id: "gid://shopify/Article/635270070422"
+published_at: 2026-11-05T11:06:34Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-05"
 target_keyword: "dinosaur sensory bin"
 target_volume: 720
