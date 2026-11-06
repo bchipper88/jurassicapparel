@@ -2,7 +2,10 @@
 title: "Dinosaur Activities for Kids: 24 Ideas by Age, Plus a Ready-Made Dinosaur Week Plan"
 slug: dinosaur-activities
 date: 2026-11-06
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-activities
+shopify_article_id: "gid://shopify/Article/635292516502"
+published_at: 2026-11-06T11:08:03Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-06"
 target_keyword: "dinosaur activities"
 target_volume: 880
