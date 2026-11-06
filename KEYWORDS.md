@@ -575,15 +575,31 @@ Ubersuggest figure that justified it.
   toddlers` / `toddler dinosaur sensory bin` return 0 at locId 2840 (sections only).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-sensory-bin
 
+- ✅ Published (2026-11-06) **dinosaur activities** — 880/mo | Jul 2025 1,300, Sep–Nov 720, Dec 590 low, Jan 880,
+  Feb–Apr 1,000, May 1,300 | SD 19 | $1.46 CPC | Informational → `dinosaur-activities`
+  Day 47. Re-verified 2026-11-06 (unchanged from 11-05). No live post owns the handle or an "activities"/"games" title
+  (Shopify, 2026-11-06). SERP (collected 2026-10-22): AI overview #1, scholastic.com (DA 91) #2, handsonaswegrow (DA 59)
+  #3, 3dinosaurs (DA 43) #5, kaplanco (DA 56) #7, **littleowlsresources.com (DA 18) #9**, onlydinosaurs (DA 33) #12,
+  **bright-beginning.com (DA 22) #13**. Low-DA pages on page 1–2, so winnable. Angle: 24 activities sorted by age
+  (toddler / preschool / K–2 / 8–12), an at-a-glance table, and a five-day dinosaur week plan; hubs the crafts,
+  sensory bin, jokes and trivia pages. Real-number activities the ranking lists lack: measure a T. rex with string,
+  footprint stride test, fossil layers in a cup, toilet-paper timeline (1 square = 10M years). Sells into
+  dinosaur-printables (11), dinosaur-stickers (29), kids-dinosaur-apparel (199), toddler-apparel (45); products Size
+  Chart, ABC Dinos, coloring 3-pack.
+  Secondaries: `dinosaur activities for preschool` **1,000/mo, SD 32** (Jan–May 1,300–1,600; an H2, not the title).
+  `dinosaur activities for kids` and `dinosaur games for kids` return 0 at locId 2840.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 47 (Fri 2026-11-06): `dinosaur activities`.** 880/mo | Jul 2025 1,300, Oct–Nov 720, **Dec 590 low**, Feb–Apr
-  1,000, May 1,300 | **SD 19** | $1.46 CPC | Informational (Ubersuggest, locId 2840, 2026-11-05). School-year curve like
-  crafts; ~10 weeks ahead of the Feb ramp. No live post has "activities" in its title (Shopify, 2026-11-05). Angle: a
-  hub for dinosaur week (crafts, sensory bin, poems, jokes, trivia, quotes) plus activities those pages don't cover
-  (games, a dig, measuring, a footprint walk), sorted by age. Secondary to check: `dinosaur activities for preschool`
-  1,000 SD 32, `dinosaur party games` 320 SD 22 (the party blog's guide may own it; check first). Check the SERP before
-  drafting. If the socks rewrite has been approved, do that first.
+- 🎯 **Day 48 (Sat 2026-11-07): `dinosaur party games`.** 320/mo | Aug 2025 320, **Sep 480**, Oct 320, Nov 260,
+  Dec 210 low, **Jan 390**, Feb–Jun 260–320, Jul 390 | **SD 22** | $0.68 CPC | Informational (Ubersuggest, locId 2840,
+  2026-11-06). Flat, birthday-driven; no ramp to time. No live post has "game" in its title (Shopify, 2026-11-06). The
+  party guide (`dinosaur-birthday-party/the-ultimate-guide-...`) has only an 8-item "Games and Activities" H3, so a
+  standalone page goes deeper without cannibalising it (the guide targets `dinosaur birthday party`). Angle: games by
+  age and group size, indoor vs outdoor, prizes, a 2-hour party running order. Must not repeat today's activities page
+  verbatim; link to it. Check the SERP first. If the socks rewrite has been approved, do that first.
+
+- ✅ **Day 47 (Fri 2026-11-06): `dinosaur activities` published** (see ✅ Published). Socks rewrite still unapproved.
 
 - ✅ **Day 46 (Thu 2026-11-05): `dinosaur sensory bin` published** (fallback; `dinosaur songs` ⏭️ on SERP). Socks
   rewrite still unapproved.

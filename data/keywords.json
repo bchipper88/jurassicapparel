@@ -1719,9 +1719,7 @@
         }
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-sensory-bin"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur activities",
       "volume": 880,
@@ -1730,9 +1728,43 @@
       "intent": "Informational",
       "peak_month": "202507",
       "peak_volume": 1300,
-      "verified": "2026-11-05",
+      "verified": "2026-11-06",
+      "status": "published",
+      "note": "Day 47. Re-verified 2026-11-06 unchanged. No live post owns it (Shopify 2026-11-06). SERP 2026-10-22: scholastic DA 91 #2, littleowlsresources DA 18 #9, bright-beginning DA 22 #13. 24 activities by age + dinosaur week plan; hubs crafts/sensory bin/jokes/trivia. Sells into printables, stickers, kids + toddler apparel.",
+      "date": "2026-11-06",
+      "day": 47,
+      "slug": "dinosaur-activities",
+      "secondary": [
+        {
+          "keyword": "dinosaur activities for preschool",
+          "volume": 1000,
+          "sd": 32
+        },
+        {
+          "keyword": "dinosaur activities for kids",
+          "volume": 0,
+          "sd": 4
+        },
+        {
+          "keyword": "dinosaur games for kids",
+          "volume": 0,
+          "sd": 4
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur party games",
+      "volume": 320,
+      "sd": 22,
+      "cpc": 0.68,
+      "intent": "Informational",
+      "peak_month": "202509",
+      "peak_volume": 480,
+      "verified": "2026-11-06",
       "status": "open",
-      "note": "Day 47 (2026-11-06). School-year curve, Dec 590 low, Feb-Apr 1,000, May 1,300. No live post titled 'activities' (Shopify 2026-11-05). Hub for dinosaur week. Check SERP first; secondaries dinosaur activities for preschool 1,000 SD 32, dinosaur party games 320 SD 22."
+      "note": "Day 48 (2026-11-07). Flat 210-480, birthday-driven. No live post titled 'game' (Shopify 2026-11-06). Party guide has only an 8-item games H3; standalone page goes deeper. Check SERP first; link to dinosaur-activities."
     }
   ],
   "queued_seasonal": [
