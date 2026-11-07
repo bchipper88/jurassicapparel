@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-11-01",
+  "pulled": "2026-11-07",
   "loc_id": 2840,
   "published": [
     {
@@ -1752,9 +1752,7 @@
         }
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-activities"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur party games",
       "volume": 320,
@@ -1763,9 +1761,40 @@
       "intent": "Informational",
       "peak_month": "202509",
       "peak_volume": 480,
-      "verified": "2026-11-06",
+      "verified": "2026-11-07",
+      "status": "published",
+      "note": "Day 48. Re-verified 2026-11-07 unchanged. No live post owns it (Shopify 2026-11-07). SERP 2026-09-09: dinosaursrockprograms DA 24 #3, dinosaurworldlive DA 32 #9, mightyadventures DA 14 #22, jitterygit DA 14 #24. 20 games by age + quick-pick table + 2-hour running order + prizes. Sells into stickers, printables, toddler + kids apparel, birthday tees.",
+      "date": "2026-11-07",
+      "day": 48,
+      "slug": "dinosaur-party-games",
+      "secondary": [
+        {
+          "keyword": "dinosaur birthday party games",
+          "volume": 70,
+          "sd": 22
+        },
+        {
+          "keyword": "dinosaur egg hunt",
+          "volume": 210,
+          "sd": 35,
+          "peak_month": "202603",
+          "peak_volume": 590
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur birthday shirt",
+      "volume": 390,
+      "sd": 28,
+      "cpc": 0.64,
+      "intent": "Transactional",
+      "peak_month": "202509",
+      "peak_volume": 480,
+      "verified": "2026-11-07",
       "status": "open",
-      "note": "Day 48 (2026-11-07). Flat 210-480, birthday-driven. No live post titled 'game' (Shopify 2026-11-06). Party guide has only an 8-item games H3; standalone page goes deeper. Check SERP first; link to dinosaur-activities."
+      "note": "Day 49 (2026-11-08). Unblocked: 4 ACTIVE birthday garments (One-A-Saurus bodysuit, Two Rex, Three Rex, Birthday Rex personalized 2T-5T). Ages 6+ unserved (BACKLOG #35). 'birthday dinosaur shirt' identical figures. Check SERP + existing articles first."
     }
   ],
   "queued_seasonal": [

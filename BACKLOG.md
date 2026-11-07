@@ -850,6 +850,12 @@ Found while checking inventory for the Day 10 `dinosaur gifts for 3 year olds` g
   (260–480), but *Happy Birthday – T-Rex* is the only ACTIVE product with "birthday" in its title.
   An "I'm 3 / Three-Rex"-style age-number range would serve this term, the by-age gift terms, and
   the `dinosaur-birthday-party` blog. *(Merchandising.)*
+  **Update 2026-11-07: mostly resolved.** Shopify now shows four ACTIVE birthday garments: *One-A-Saurus* (baby
+  first-birthday bodysuit), *Two Rex* and *Three Rex* toddler tees, and *Birthday Rex*, a personalized toddler tee
+  (name up to 10 letters, Two–Five Rex, 2T–5T). Remaining gaps: **nothing for ages 6+**, and **no birthday
+  collection** to send `dinosaur birthday shirt` (390/mo, SD 28, Transactional) traffic to. A
+  `dinosaur-birthday-shirts` collection holding these four would be the natural landing page; creating it is
+  owner-gated. *(Merchandising, owner.)* The Day 49 article will serve the term in the meantime.
 
 ## 36. Pillow range: two identical collections, blank alt text, and square listings missing size and shipping info 🟡 MEDIUM — catalog / product copy — added 2026-10-01
 
