@@ -2,7 +2,10 @@
 title: "Dinosaur Party Games: 20 Games Sorted by Age, Plus a Two-Hour Party Plan"
 slug: dinosaur-party-games
 date: 2026-11-07
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-party-games
+shopify_article_id: "gid://shopify/Article/635297431702"
+published_at: 2026-11-07T11:07:59Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-07"
 target_keyword: "dinosaur party games"
 target_volume: 320
