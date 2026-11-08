@@ -618,6 +618,7 @@ Ubersuggest figure that justified it.
   (22), kids-dinosaur-apparel (199), dinosaur-stickers (29), mamasaurus (21), dadasaurus-collection (12). Links
   dinosaur-party-games and the birthday party guide.
   Secondaries: `birthday dinosaur shirt` (identical, 390/mo SD 28).
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-birthday-shirt
 
 ## 🎯 NEXT UP
 

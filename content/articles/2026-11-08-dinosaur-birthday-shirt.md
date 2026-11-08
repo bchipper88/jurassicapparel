@@ -2,7 +2,10 @@
 title: "Dinosaur Birthday Shirt: Which One for Which Age, From One-A-Saurus to Four Rex"
 slug: dinosaur-birthday-shirt
 date: 2026-11-08
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-birthday-shirt
+shopify_article_id: "gid://shopify/Article/635326365846"
+published_at: 2026-11-08T11:06:42Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-08"
 target_keyword: "dinosaur birthday shirt"
 target_volume: 390
