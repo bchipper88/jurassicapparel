@@ -605,15 +605,30 @@ Ubersuggest figure that justified it.
   game section, not the title).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-party-games
 
+- ✅ Published (2026-11-08) **dinosaur birthday shirt** — 390/mo | Aug 2025 390, Sep 480, Oct 390, Nov 320, Dec 260
+  low, Jan 480, Feb–Apr 390, May 320, Jun 260, Jul–Aug 390 | SD 28 | $0.64 CPC | Transactional → `dinosaur-birthday-shirt`
+  Day 49. Re-verified 2026-11-08, unchanged from 11-07. No live post owns the handle or a "birthday shirt" title
+  (Shopify 2026-11-08; the two birthday-party posts target parties). SERP (collected 2026-09-12) is commercial: Walmart,
+  Amazon, Build-A-Bear, Pinterest, Zazzle, Etsy on page 1; small shops rank at #13 (joyandchaosshop DA 26), #16 (DA 24),
+  #19 (DA 26), #21 (DA 13), #22 (DA 11). A by-age buying guide is a different format from those listings, so this is
+  a stretch for a blog post; a `dinosaur-birthday-shirts` collection would fit the intent better (BACKLOG #35).
+  Angle: one shirt per age with a quick-pick table, size table (2T–5T measurements), personalizing rules and order
+  timing. Products (all ACTIVE 2026-11-08): One-A-Saurus bodysuit, Two Rex, Three Rex, **Four Rex (new 2026-11-07)**,
+  Birthday Rex (Two–Five Rex), Name-Saurus youth S–XL for 6+, Happy Birthday T-Rex sticker. Collections toddler-shirts
+  (22), kids-dinosaur-apparel (199), dinosaur-stickers (29), mamasaurus (21), dadasaurus-collection (12). Links
+  dinosaur-party-games and the birthday party guide.
+  Secondaries: `birthday dinosaur shirt` (identical, 390/mo SD 28).
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 49 (Sun 2026-11-08): `dinosaur birthday shirt`.** 390/mo | Aug 2025 390, Sep 480, Oct 390, Nov 320,
-  Dec 260 low, Jan 480, Feb–Apr 390, May 320, Jun 260, Jul–Aug 390 | **SD 28** | $0.64 CPC | Transactional (Ubersuggest,
-  locId 2840, 2026-11-07; `birthday dinosaur shirt` returns identical figures). **Unblocked:** BACKLOG #35 said only one
-  birthday product existed; Shopify on 2026-11-07 shows four ACTIVE birthday garments: One-A-Saurus first-birthday
-  bodysuit, Two Rex and Three Rex toddler tees, and the Birthday Rex personalized tee (name up to 10 letters, Two–Five
-  Rex, 2T–5T). Ages 6+ are still unserved, so the page is a by-age guide for 1–5 and says so. Check the SERP and
-  `articles(query: "title:*birthday*shirt*")` first. If the socks rewrite has been approved, do that first.
+- 🎯 **Day 50 (Mon 2026-11-09): `two rex birthday`.** 260/mo | Aug 2025 260, Sep–Oct 260, Nov 170 low, Dec 210,
+  Jan 390 high, Feb–Mar 260, Apr–Jul 210, Aug 260 | **SD 27** | $0.55 CPC | Informational (Ubersuggest, locId 2840,
+  2026-11-08). A second-birthday party theme guide ("Two Rex" party: invitations wording, cake, games for two-year-olds,
+  outfit) that sells the Two Rex tee and Birthday Rex directly. Check the SERP and `articles(query: "title:*two rex*")`
+  first, and that it doesn't overlap the birthday party guide. Monday, so run the weekly rank routine too.
+  Runner-up: `dinosaur first birthday` 260/mo, SD 25, $0.42 (Mar 390 high, Nov–Dec 170), sells One-A-Saurus.
+
+- ✅ **Day 49 (Sun 2026-11-08): `dinosaur birthday shirt` published** (see ✅ Published). Socks rewrite still unapproved.
 
 - ✅ **Day 48 (Sat 2026-11-07): `dinosaur party games` published** (see ✅ Published). Socks rewrite still unapproved.
 
@@ -767,7 +782,7 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
   All ten button-ups we sell are the Hawaiian shirts: fold into `hawaiian dinosaur shirt`, mid-February.
 - 📋 funny dinosaur shirts — 170/mo | flat 110–210 | SD 23 | $0.60 CPC — found 2026-10-10. Our
   `adult-dinosaur-shirt/men's` tag view ranks #8 (snapshot 2026-09-16). Not a post; BACKLOG #46.
-- 🎯 birthday dinosaur shirt — **unblocked 2026-11-07, now 🎯 Next up for Day 49** (4 ACTIVE birthday garments). 390/mo | SD 28 | $0.59 CPC — pairs with the
+- ✅ birthday dinosaur shirt — published 2026-11-08 (Day 49) as `dinosaur birthday shirt`, see ✅ Published. Was: 390/mo | SD 28 | $0.59 CPC — pairs with the
   `dinosaur-birthday-party` blog, which has only 1 article. *2026-09-30:* `dinosaur birthday
   shirt` re-pulled at 390/mo, SD 28, $0.64, flat year-round (260–480). **Blocked on inventory:**
   only one ACTIVE product has "birthday" in the title (*Happy Birthday – T-Rex*). BACKLOG #35.

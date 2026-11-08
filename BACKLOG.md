@@ -856,6 +856,10 @@ Found while checking inventory for the Day 10 `dinosaur gifts for 3 year olds` g
   collection** to send `dinosaur birthday shirt` (390/mo, SD 28, Transactional) traffic to. A
   `dinosaur-birthday-shirts` collection holding these four would be the natural landing page; creating it is
   owner-gated. *(Merchandising, owner.)* The Day 49 article will serve the term in the meantime.
+  **Update 2026-11-08:** *Four Rex* toddler tee went ACTIVE on 2026-11-07 (2T–5T), so the number set is now One, Two,
+  Three, Four, and Birthday Rex covers five. The 6+ gap is partly covered by *Name-Saurus* (personalized youth tee,
+  S–XL), which isn't birthday-specific but its listing pitches it as a birthday party shirt. Still no standalone Five
+  Rex and no birthday collection. The Day 49 article (`dinosaur-birthday-shirt`) links all six garments.
 
 ## 36. Pillow range: two identical collections, blank alt text, and square listings missing size and shipping info 🟡 MEDIUM — catalog / product copy — added 2026-10-01
 
@@ -1557,3 +1561,21 @@ From `project_position_info` (locId 2840, collections 10-07 to 10-28) and Shopif
   step-by-step drawing guide. The Day 45 crafts page links the paid printables and can link the hub when it exists.
 - **#60 re-checked today: still broken.** Every kid-size variant on the first five ACTIVE kids' sneakers is
   `availableForSale: false` (`DENY`, 0 stock); adult sizes on the same listings are buyable.
+
+## 68. Birthday-tee listings disagree on shipping time and spec; Four Rex has no time estimate 🟢 LOW — product copy — added 2026-11-08
+
+Found while writing the Day 49 `dinosaur birthday shirt` guide (live Shopify, 2026-11-08). The five toddler
+birthday garments are one range but their listings were written at different times:
+
+- **Shipping estimates differ.** One-A-Saurus, Two Rex, Birthday Rex (and Name-Saurus) say production 2–5 +
+  shipping 3–4 business days. *Three Rex* says 2–4 + **3–8**. *Four Rex* (new 2026-11-07) gives **no estimate at
+  all**, just "printed to order… tracking details are provided once your order ships." A parent ordering for a
+  party date can't plan from that. The article quotes the 2–5 + 3–4 majority, notes Three Rex is longer, and advises
+  ordering three weeks ahead.
+- **Three Rex is missing the size guide and the heather fabric line** that Two Rex, Four Rex and Birthday Rex carry
+  (2T 15½"×12" to 5T 18½"×15"; heather 52/48 cotton-poly). Its description also starts with a block of raw CSS
+  (`body { font-family: Arial…`), which shows up as text in the plain-text description and possibly in search
+  snippets.
+
+**Fix (owner, product copy — gated):** copy the Two Rex shipping block and size guide into Three Rex and Four Rex,
+and strip the CSS from Three Rex.

@@ -1782,9 +1782,7 @@
         }
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-party-games"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur birthday shirt",
       "volume": 390,
@@ -1793,9 +1791,33 @@
       "intent": "Transactional",
       "peak_month": "202509",
       "peak_volume": 480,
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
+      "status": "published",
+      "note": "Day 49. Re-verified 2026-11-08 unchanged. No live post owns it. SERP 2026-09-12 commercial (Walmart, Amazon, Etsy, Zazzle); small shops DA 11-26 at #13-#22. By-age guide: One-A-Saurus, Two/Three/Four Rex, Birthday Rex, Name-Saurus (6+). Collection would fit intent better (BACKLOG #35).",
+      "date": "2026-11-08",
+      "day": 49,
+      "slug": "dinosaur-birthday-shirt",
+      "secondary": [
+        {
+          "keyword": "birthday dinosaur shirt",
+          "volume": 390,
+          "sd": 28
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "two rex birthday",
+      "volume": 260,
+      "sd": 27,
+      "cpc": 0.55,
+      "intent": "Informational",
+      "peak_month": "202601",
+      "peak_volume": 390,
+      "verified": "2026-11-08",
       "status": "open",
-      "note": "Day 49 (2026-11-08). Unblocked: 4 ACTIVE birthday garments (One-A-Saurus bodysuit, Two Rex, Three Rex, Birthday Rex personalized 2T-5T). Ages 6+ unserved (BACKLOG #35). 'birthday dinosaur shirt' identical figures. Check SERP + existing articles first."
+      "note": "Day 50 (2026-11-09). Second-birthday party theme guide selling Two Rex + Birthday Rex. Check SERP + articles title:*two rex* first. Runner-up: dinosaur first birthday 260/mo SD 25 $0.42 (Mar 390), sells One-A-Saurus."
     }
   ],
   "queued_seasonal": [
@@ -2791,5 +2813,5 @@
       "verified": "2026-10-29"
     }
   ],
-  "last_repull": "2026-11-05"
+  "last_repull": "2026-11-08"
 }
