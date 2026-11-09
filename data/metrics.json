@@ -341,6 +341,49 @@
       },
       "articles_published": 43,
       "notes": "October traffic estimate revised up again, 1,095 -> 1,117. Average position 10.75 (10-21) -> 12.45 (10-28). Bins are first-vs-latest collection in the 30-day window (mostly 10-07 -> 10-28): top-3 22 -> 18, top-10 15 -> 31, top-100 25 -> 33, not ranking 29 -> 9. Moves of 5+ (first collection in window -> 10-28): dinosaur shirts (2,900) 8 -> 62, and 16 -> 62 vs last week's report; Google now shows mens-dinosaur-t-shirts instead of the shirts collection. dinosaur outfits for adults (6,600) 18 -> 33 (was 6 in last week's report). dinosaur backpack (6,600) 25 -> 35; dinosaur sticker (2,900) 19 -> 27; irritator (18,100) 7 -> 12; jaxartosaurus (880) 5 -> out of top 100; dinosaur mugs 6 -> 15; dinosaur clothes for adults 2 -> 14. Up: dinosaur socks (880) -> 7 (the 2020 post); dinosaur blankets (3,600) -> 18; dinosaur phone cases 16 -> 1; dinosaurs phone case 17 -> 4; infant dinosaur clothes (720) -> 4 (our article); dinosaurs clothes 20 -> 3; dinosaur christmas sweater (720) 23 -> 14; dinosaur dresses -> 3; dinosaur purses -> 1. Still not ranking: dinosaur mom (1,900), mamasaurus (1,000), dadasaurus (260), dinosaur puzzle (1,900), dino mask (8,100)."
+    },
+    {
+      "date": "2026-11-09",
+      "type": "weekly",
+      "source": "Ubersuggest project_position_info (locId 2840, 2026-10-10..2026-11-09, done=true, latest collection 2026-11-04, next 2026-11-11); domain_overview (locId 2840, 2026-11-09).",
+      "domain_authority": 16,
+      "organic_keywords": 4392,
+      "est_monthly_organic_traffic": 1117,
+      "traffic_month": "202610",
+      "backlinks": 2611,
+      "ref_domains": 1247,
+      "tracked_keywords": 91,
+      "rank_movement": {
+        "up": 32,
+        "down": 36,
+        "unchanged": 23
+      },
+      "tracked_bins": {
+        "top_3": {
+          "old": 27,
+          "new": 24
+        },
+        "top_10": {
+          "old": 20,
+          "new": 28
+        },
+        "top_100": {
+          "old": 31,
+          "new": 27
+        },
+        "not_ranking": {
+          "old": 13,
+          "new": 12
+        }
+      },
+      "average_position": {
+        "2026-10-14": 10.3,
+        "2026-10-21": 10.75,
+        "2026-10-28": 12.45,
+        "2026-11-04": 11.32
+      },
+      "articles_published": 50,
+      "notes": "Domain overview unchanged from 11-02 (no new monthly estimate yet; Oct still 1,117). Backlinks 2,606 -> 2,611, ref domains 1,244 -> 1,247. Average position improved 12.45 (10-28) -> 11.32 (11-04). Bins are first-vs-latest collection (10-14 -> 11-04). Moves of 5+ (10-14 -> 11-04): UP dinosaur backpack (5,400) 25 -> 6, now on our dinosaur-backpacks article; dinosaur blankets (3,600) 31 -> 18; dinosaur blanket 29 -> 23; dinosaur christmas sweater (720) 23 -> 5; dinosaurs clothes (720) 20 -> 5; dinosaur christmas ornament (880) 35 -> 23; dinosaurs phone case 17 -> 4; jaxartosaurus (880) back in at 9; dinosaur hat (1,600) new at 29; infant dinosaur clothing (480) 30 -> 10; dinosaur clothes for adults 13 -> 2; mamasaurus cups 51 -> 2; dinosaur tote bag 8 -> 1; dinosaur bucket hat 20 -> 1. DOWN irritator (18,100) 7 -> 17; dinosaur backpacks 3 -> 9 (URL switched to the article); dinosaur outfits for adults (3,600) 7 -> 21; dinosaur sticker (2,900) 19 -> 31, dinosaur stickers 44 -> 60; dinosaur socks (880) 26 -> 43 (now the mens socks collection, not the 2020 post); dinosaur phone cases 16 -> 37; dinosaur mug 2 -> 25, mugs 6 -> 16; dino christmas wrapping paper (720) 4 -> 23; dinosaur newborn clothes 11 -> 63; newborn dinosaur clothes 13 -> out. Recovered: dinosaur shirts (2,900) 8 -> 5 (was 62 in the 11-02 report). Still not ranking: dinosaur mom (3,600), mamasaurus (1,000), dadasaurus (260), dinosaur puzzle (1,900), dino mask (8,100)."
     }
   ],
   "traffic_history": {
@@ -386,6 +429,14 @@
         "previous_date": "2026-10-12",
         "top_3": 26,
         "note": "Counted from latest position 4-10 (22). top_3 19->26 since 10-12: several keywords jumped straight from 8-16 into the top 3."
+      },
+      {
+        "date": "2026-11-09",
+        "positions_4_10": 28,
+        "previous": 22,
+        "previous_date": "2026-10-26",
+        "top_3": 24,
+        "note": "Counted from latest position (11-04) 4-10 (28) and 1-3 (24)."
       }
     ]
   },

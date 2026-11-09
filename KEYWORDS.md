@@ -620,14 +620,29 @@ Ubersuggest figure that justified it.
   Secondaries: `birthday dinosaur shirt` (identical, 390/mo SD 28).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-birthday-shirt
 
+- ✅ Published (2026-11-09) **two rex birthday** — 260/mo | Aug 2025 260, Sep–Oct 260, Nov 170 low, Dec 210, Jan 390
+  high, Feb–Mar 260, Apr–Jul 210, Aug 260 | SD 27 | $0.55 CPC | Informational → `two-rex-birthday`
+  Day 50. Re-verified 2026-11-09, unchanged from 11-08; published 8 weeks ahead of the Jan high. No live post owns the
+  handle or a "two rex" / "second birthday" title (Shopify 2026-11-09). SERP (collected 2026-09-10): Pinterest ideas
+  board #2, Amazon, a party-supply shop (DA 15) #5, Zazzle, Etsy, joyandchaosshop shirt (DA 26) #9, and a **2018 party
+  blog post (stangandco, DA 18) at #11**, so a party-plan post can rank here. Overlap with the 2024 birthday party guide
+  is low: that one is generic and age-agnostic; this one is built around two-year-olds (90-minute plan around naps,
+  four games that work at two, toddler-safe favors). Products (all ACTIVE 2026-11-09): Two Rex, Birthday Rex, Happy
+  Birthday T-Rex sticker, coloring pages 3-pack. Collections toddler-shirts (22), mamasaurus (21),
+  dadasaurus-collection (12), dinosaur-printables (11), dinosaur-stickers (29). Links dinosaur-party-games and
+  dinosaur-birthday-shirt.
+  Secondaries: `two rex party`, `two rex shirt`, `dinosaur second birthday` (not pulled separately).
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 50 (Mon 2026-11-09): `two rex birthday`.** 260/mo | Aug 2025 260, Sep–Oct 260, Nov 170 low, Dec 210,
-  Jan 390 high, Feb–Mar 260, Apr–Jul 210, Aug 260 | **SD 27** | $0.55 CPC | Informational (Ubersuggest, locId 2840,
-  2026-11-08). A second-birthday party theme guide ("Two Rex" party: invitations wording, cake, games for two-year-olds,
-  outfit) that sells the Two Rex tee and Birthday Rex directly. Check the SERP and `articles(query: "title:*two rex*")`
-  first, and that it doesn't overlap the birthday party guide. Monday, so run the weekly rank routine too.
-  Runner-up: `dinosaur first birthday` 260/mo, SD 25, $0.42 (Mar 390 high, Nov–Dec 170), sells One-A-Saurus.
+- 🎯 **Day 51 (Tue 2026-11-10): `dinosaur first birthday`.** 260/mo | Aug 2025 320, Sep–Oct 260, Nov–Dec 170 low,
+  Jan 320, Feb 260, Mar 390 high, Apr–May 210, Jun 170, Jul 210, Aug 260 | **SD 25** | $0.42 CPC | Informational
+  (Ubersuggest, locId 2840, re-verified 2026-11-09). A first-birthday party plan, the companion to the Two Rex post,
+  selling the One-A-Saurus bodysuit (12M/18M/24M). Check the SERP and `articles(query: "title:*first birthday*")`
+  first, and that it doesn't overlap the birthday shirt guide's One-A-Saurus section.
+
+- ✅ **Day 50 (Mon 2026-11-09): weekly rank tracking + `two rex birthday` published** (see ✅ Published). Rank
+  snapshot in `data/metrics.json`. Socks rewrite still unapproved.
 
 - ✅ **Day 49 (Sun 2026-11-08): `dinosaur birthday shirt` published** (see ✅ Published). Socks rewrite still unapproved.
 

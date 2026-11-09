@@ -1805,9 +1805,7 @@
         }
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-birthday-shirt"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "two rex birthday",
       "volume": 260,
@@ -1816,9 +1814,26 @@
       "intent": "Informational",
       "peak_month": "202601",
       "peak_volume": 390,
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
+      "status": "published",
+      "note": "Day 50. Re-verified 2026-11-09 unchanged. No live post owns it. SERP 2026-09-10: Pinterest, Amazon, Zazzle, Etsy; a 2018 party blog (DA 18) ranks #11. Two-year-old party plan selling Two Rex + Birthday Rex.",
+      "date": "2026-11-09",
+      "day": 50,
+      "slug": "two-rex-birthday"
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur first birthday",
+      "volume": 260,
+      "sd": 25,
+      "cpc": 0.42,
+      "intent": "Informational",
+      "peak_month": "202603",
+      "peak_volume": 390,
+      "verified": "2026-11-09",
       "status": "open",
-      "note": "Day 50 (2026-11-09). Second-birthday party theme guide selling Two Rex + Birthday Rex. Check SERP + articles title:*two rex* first. Runner-up: dinosaur first birthday 260/mo SD 25 $0.42 (Mar 390), sells One-A-Saurus."
+      "note": "Day 51 (2026-11-10). First-birthday party plan selling One-A-Saurus. Check SERP + articles title:*first birthday* first."
     }
   ],
   "queued_seasonal": [
@@ -2814,5 +2829,5 @@
       "verified": "2026-10-29"
     }
   ],
-  "last_repull": "2026-11-08"
+  "last_repull": "2026-11-09"
 }

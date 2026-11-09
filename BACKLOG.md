@@ -1579,3 +1579,7 @@ birthday garments are one range but their listings were written at different tim
 
 **Fix (owner, product copy — gated):** copy the Two Rex shipping block and size guide into Three Rex and Four Rex,
 and strip the CSS from Three Rex.
+
+**Update 2026-11-09:** the Two Rex listing says it "matches our Three Rex shirt for siblings or next year", but Three
+Rex is the full-color design; the one that matches Two Rex's line art is Four Rex. Change that line to Four Rex when
+the copy is touched.
