@@ -2,7 +2,10 @@
 title: "Two Rex Birthday: A Dinosaur Party Plan Built for Two-Year-Olds"
 slug: two-rex-birthday
 date: 2026-11-09
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/two-rex-birthday
+shopify_article_id: "gid://shopify/Article/635330658454"
+published_at: 2026-11-09T11:10:50Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-09"
 target_keyword: "two rex birthday"
 target_volume: 260

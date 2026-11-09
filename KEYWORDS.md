@@ -632,6 +632,7 @@ Ubersuggest figure that justified it.
   dadasaurus-collection (12), dinosaur-printables (11), dinosaur-stickers (29). Links dinosaur-party-games and
   dinosaur-birthday-shirt.
   Secondaries: `two rex party`, `two rex shirt`, `dinosaur second birthday` (not pulled separately).
+  **LIVE:** https://jurassicapparel.com/blogs/blog/two-rex-birthday
 
 ## 🎯 NEXT UP
 
