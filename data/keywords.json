@@ -1821,9 +1821,7 @@
       "day": 50,
       "slug": "two-rex-birthday",
       "live_url": "https://jurassicapparel.com/blogs/blog/two-rex-birthday"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur first birthday",
       "volume": 260,
@@ -1832,9 +1830,26 @@
       "intent": "Informational",
       "peak_month": "202603",
       "peak_volume": 390,
-      "verified": "2026-11-09",
+      "verified": "2026-11-10",
+      "status": "published",
+      "note": "Day 51. Re-verified 2026-11-10 unchanged. No live post owns it. SERP 2026-09-12: Amazon, Pinterest, party blogs at DA 32 (#8) and DA 16 (#11). First-birthday party plan selling One-A-Saurus + bibs. Secondary 'one a saurus' 260/mo SD 27.",
+      "date": "2026-11-10",
+      "day": 51,
+      "slug": "dinosaur-first-birthday"
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "three rex birthday",
+      "volume": 880,
+      "sd": 26,
+      "cpc": 0.55,
+      "intent": "Informational",
+      "peak_month": "202507",
+      "peak_volume": 1300,
+      "verified": "2026-11-10",
       "status": "open",
-      "note": "Day 51 (2026-11-10). First-birthday party plan selling One-A-Saurus. Check SERP + articles title:*first birthday* first."
+      "note": "Day 52 (2026-11-11). Third-birthday party plan selling Three Rex + Birthday Rex. No live post owns it (Shopify 2026-11-10). Check SERP first."
     }
   ],
   "queued_seasonal": [
@@ -2830,5 +2845,5 @@
       "verified": "2026-10-29"
     }
   ],
-  "last_repull": "2026-11-09"
+  "last_repull": "2026-11-10"
 }

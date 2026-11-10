@@ -634,13 +634,30 @@ Ubersuggest figure that justified it.
   Secondaries: `two rex party`, `two rex shirt`, `dinosaur second birthday` (not pulled separately).
   **LIVE:** https://jurassicapparel.com/blogs/blog/two-rex-birthday
 
+- ✅ Published (2026-11-10) **dinosaur first birthday** — 260/mo | Aug 2025 320, Sep–Oct 260, Nov–Dec 170 low, Jan 320,
+  Feb 260, Mar 390 high, Apr–May 210, Jun 170, Jul 210, Aug 260 | SD 25 | $0.42 CPC | Informational →
+  `dinosaur-first-birthday`
+  Day 51. Re-verified 2026-11-10, unchanged from 11-09; published 8 weeks ahead of the Jan rise. No live post has
+  "first birthday", "1st birthday" or "one-a-saurus" in its title or the handle (Shopify 2026-11-10). SERP (collected
+  2026-09-12): AI overview, Amazon #2, Pinterest #4, thepartydarling shop (DA 27) #7, **fernandmaple party post (DA 32)
+  #8**, Zazzle #9, **gracefulandfree budget-party post (DA 16) #11**, Walmart, Facebook group, Etsy, greenartistblog
+  One-A-Saurus post (DA 22) #18. Blog posts at DA 16–32 rank, so a full party plan can. Overlap with the birthday shirt
+  guide is limited to the outfit section; this page is the party (60–90 min nap-timed schedule, smash cake, baby-safe
+  food, invitation wording). Products (ACTIVE, availableForSale 2026-11-10): One-A-Saurus bodysuit (12M/18M/24M, 4
+  colors, $24.99), Hungry T-Rex bib. Collections baby-dinosaur-bodysuits (25 live), dinosaur-baby-bibs (5), mamasaurus
+  (21), dadasaurus-collection (12), dinosaur-printables (11). Links two-rex-birthday and dinosaur-birthday-shirt.
+  Secondaries: `one a saurus` (260/mo, SD 27, $0.52, Jan 320 high; pulled 2026-11-10), `dinosaur 1st birthday`.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 51 (Tue 2026-11-10): `dinosaur first birthday`.** 260/mo | Aug 2025 320, Sep–Oct 260, Nov–Dec 170 low,
-  Jan 320, Feb 260, Mar 390 high, Apr–May 210, Jun 170, Jul 210, Aug 260 | **SD 25** | $0.42 CPC | Informational
-  (Ubersuggest, locId 2840, re-verified 2026-11-09). A first-birthday party plan, the companion to the Two Rex post,
-  selling the One-A-Saurus bodysuit (12M/18M/24M). Check the SERP and `articles(query: "title:*first birthday*")`
-  first, and that it doesn't overlap the birthday shirt guide's One-A-Saurus section.
+- 🎯 **Day 52 (Wed 2026-11-11): `three rex birthday`.** 880/mo | Jul 2025 1,300 high, Aug 1,000, Sep 880, Oct 720,
+  Nov–Dec 590 low, Jan 1,000, Feb–Jul 880 | **SD 26** | $0.55 CPC | Informational (Ubersuggest, locId 2840, pulled
+  2026-11-10). A third-birthday party plan, the next in the Two Rex / One-A-Saurus series, selling the Three Rex tee and
+  Birthday Rex. No live post has "three rex" / "third birthday" / "3rd birthday" in its title (Shopify 2026-11-10);
+  Three Rex is ACTIVE. Check the SERP first. Three-year-olds can play real games, so it should link the party games
+  post. Note BACKLOG: Three Rex's listing gives a longer 2–4 + 3–8 day estimate and no size guide; quote it as listed.
+
+- ✅ **Day 51 (Tue 2026-11-10): `dinosaur first birthday` published** (see ✅ Published). Socks rewrite still unapproved.
 
 - ✅ **Day 50 (Mon 2026-11-09): weekly rank tracking + `two rex birthday` published** (see ✅ Published). Rank
   snapshot in `data/metrics.json`. Socks rewrite still unapproved.
