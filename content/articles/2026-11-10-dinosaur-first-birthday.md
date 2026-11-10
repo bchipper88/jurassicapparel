@@ -2,7 +2,10 @@
 title: "Dinosaur First Birthday: A One-A-Saurus Party Plan That Works for a One-Year-Old"
 slug: dinosaur-first-birthday
 date: 2026-11-10
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-first-birthday
+shopify_article_id: "gid://shopify/Article/635337244822"
+published_at: 2026-11-10T11:06:29Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-10"
 target_keyword: "dinosaur first birthday"
 target_volume: 260

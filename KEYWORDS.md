@@ -647,6 +647,7 @@ Ubersuggest figure that justified it.
   colors, $24.99), Hungry T-Rex bib. Collections baby-dinosaur-bodysuits (25 live), dinosaur-baby-bibs (5), mamasaurus
   (21), dadasaurus-collection (12), dinosaur-printables (11). Links two-rex-birthday and dinosaur-birthday-shirt.
   Secondaries: `one a saurus` (260/mo, SD 27, $0.52, Jan 320 high; pulled 2026-11-10), `dinosaur 1st birthday`.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-first-birthday
 
 ## 🎯 NEXT UP
 
