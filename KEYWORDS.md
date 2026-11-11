@@ -649,14 +649,31 @@ Ubersuggest figure that justified it.
   Secondaries: `one a saurus` (260/mo, SD 27, $0.52, Jan 320 high; pulled 2026-11-10), `dinosaur 1st birthday`.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-first-birthday
 
+- ✅ Published (2026-11-11) **three rex birthday** — 880/mo | Jul 2025 1,300 high, Aug 1,000, Sep 880, Oct 720,
+  Nov–Dec 590 low, Jan 1,000, Feb–Jul 880 | SD 26 | $0.55 CPC | Informational → `three-rex-birthday`
+  Day 52. Re-verified 2026-11-11, unchanged from 11-10; published 7 weeks ahead of the Jan rise. No live post has
+  "three rex" / "third birthday" / "3rd birthday" in its title or the handle (Shopify 2026-11-11). SERP (fresh,
+  2026-11-11): image pack #1, **shoppartyhaus Three Rex collection (DA 23) #2**, Zazzle #3, Pinterest #4, then four
+  shopping blocks. No editorial page ranks at all, so a full party plan has an open lane. Products (ACTIVE,
+  availableForSale 2026-11-11): Three Rex (2T–5T, 4 colors, $24.99, 2–4 + 3–8 days, no size guide), Birthday Rex
+  (age "Three"), Four Rex, Happy Birthday T-Rex sticker, coloring pages 3-pack. Collections toddler-shirts (22),
+  mamasaurus (21), dadasaurus-collection (12), dinosaur-printables (11), dinosaur-stickers (29). Links
+  dinosaur-party-games and dinosaur-birthday-shirt.
+  Secondaries: `three rex party` (50/mo, SD 25, $0.85; pulled 2026-11-11), `three rex shirt`, `dinosaur third birthday`
+  (20/mo, SD 44; pulled 2026-11-11).
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 52 (Wed 2026-11-11): `three rex birthday`.** 880/mo | Jul 2025 1,300 high, Aug 1,000, Sep 880, Oct 720,
-  Nov–Dec 590 low, Jan 1,000, Feb–Jul 880 | **SD 26** | $0.55 CPC | Informational (Ubersuggest, locId 2840, pulled
-  2026-11-10). A third-birthday party plan, the next in the Two Rex / One-A-Saurus series, selling the Three Rex tee and
-  Birthday Rex. No live post has "three rex" / "third birthday" / "3rd birthday" in its title (Shopify 2026-11-10);
-  Three Rex is ACTIVE. Check the SERP first. Three-year-olds can play real games, so it should link the party games
-  post. Note BACKLOG: Three Rex's listing gives a longer 2–4 + 3–8 day estimate and no size guide; quote it as listed.
+- 🎯 **Day 53 (Thu 2026-11-12): `dinosaur birthday cake`.** 3,600/mo | Oct 2025 3,600, Nov–Dec 2,900 low, Jan 4,400,
+  Feb 3,600, Mar 4,400 high, Apr–May 3,600, Jun 2,900, Jul–Oct 3,600 | **SD 30** | $0.39 CPC | Transactional
+  (Ubersuggest, locId 2840, pulled 2026-11-11). Four times the volume of anything in the birthday series, at the top of
+  the winnable band, 7 weeks ahead of the January rise. No live post has "cake" in its title (Shopify 2026-11-11).
+  **Inventory caveat:** we don't sell cakes or toppers, so this is an ideas page that sells the birthday tees, stickers
+  and printables around the cake, not a buying guide. Check the SERP first: if it's all bakeries and recipe sites at
+  DA 50+, ⏭️ it and take the fallback, `dinosaur party favors` (1,300/mo, SD 32 stretch, $0.89, Transactional; Jul–Sep
+  1,600 high, Dec 880 low; pulled 2026-11-11), which sells stickers and printables directly.
+
+- ✅ **Day 52 (Wed 2026-11-11): `three rex birthday` published** (see ✅ Published). Socks rewrite still unapproved.
 
 - ✅ **Day 51 (Tue 2026-11-10): `dinosaur first birthday` published** (see ✅ Published). Socks rewrite still unapproved.
 
@@ -917,6 +934,13 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
 ---
 
 ## ⏭️ SKIPPED
+
+- ⏭️ **dinosaur birthday party ideas** — 480/mo | Sep 2025 1,000 high, Oct 320, Nov 390, Dec 590, Jan 880, Feb–Mar 320,
+  Apr–May 480 | SD 29 | $0.51 CPC | Informational — skipped as a new post 2026-11-11 (Ubersuggest, locId 2840). The
+  numbers are fine, but two live posts already target it: `the-ultimate-happy-birthday-t-rex-party-for-kids` (blog,
+  2020) and `the-ultimate-guide-to-throwing-an-unforgettable-dinosaur-birthday-party` (dinosaur-birthday-party blog,
+  2024), plus three unpublished drafts on the same topic. A third page would split it further. This is a
+  consolidation/rescue job, gated; see BACKLOG #69.
 
 - ⏭️ **dinosaur songs** — 8,100/mo | flat 6,600–9,900 (Oct 9,900) | SD 32 | $0 CPC | Informational — skipped
   2026-11-05 on the SERP (Ubersuggest, locId 2840, collected live 2026-11-05). Video carousel #1, short videos #2, then

@@ -1583,3 +1583,21 @@ and strip the CSS from Three Rex.
 **Update 2026-11-09:** the Two Rex listing says it "matches our Three Rex shirt for siblings or next year", but Three
 Rex is the full-color design; the one that matches Two Rex's line art is Four Rex. Change that line to Four Rex when
 the copy is touched.
+
+## 69. Five party-guide pages for one keyword: two live, three drafts; `dinosaur birthday party ideas` has no clear owner 🟡 MEDIUM — blog consolidation / SEO — added 2026-11-11
+
+Found while picking the Day 53 target (live Shopify, 2026-11-11). `dinosaur birthday party ideas` is 480/mo, SD 29,
+with a January high of 880 (Ubersuggest, locId 2840, 2026-11-11), and the store has five pages on that topic:
+
+- **Live:** `blog/the-ultimate-happy-birthday-t-rex-party-for-kids` (2020-04-26) and
+  `dinosaur-birthday-party/the-ultimate-guide-to-throwing-an-unforgettable-dinosaur-birthday-party` (2024-09-26).
+- **Unpublished drafts:** `6-steps-for-the-best-kids-dinosaur-party-ever`,
+  `ultimate-dinosaur-birthday-party-guide-15-ideas-to-make-it-dino-mite` and its duplicate `…-dino-mite-1`.
+
+The routine can't add a sixth page without making the split worse, and it can't merge live pages (charter). The new
+age-specific posts (first birthday, Two Rex, Three Rex, party games) give a natural hub structure.
+
+**Fix (owner, gated):** pick one live guide as the hub (the 2024 one is newer), 301 the 2020 post into it, delete the
+three drafts, and let the routine draft the hub's rewrite brief in `content/rescues/` with links to the four age posts.
+Say the word and it goes in the queue.
+

@@ -1837,9 +1837,7 @@
       "day": 51,
       "slug": "dinosaur-first-birthday",
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-first-birthday"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "three rex birthday",
       "volume": 880,
@@ -1848,9 +1846,38 @@
       "intent": "Informational",
       "peak_month": "202507",
       "peak_volume": 1300,
-      "verified": "2026-11-10",
+      "verified": "2026-11-11",
+      "status": "published",
+      "note": "Day 52. Re-verified 2026-11-11 unchanged. No live post owns it. Fresh SERP 2026-11-11: image pack, shoppartyhaus collection (DA 23) #2, Zazzle, Pinterest, shopping blocks; no editorial page ranks. Third-birthday party plan selling Three Rex + Birthday Rex. Secondaries 'three rex party' 50/mo SD 25, 'dinosaur third birthday' 20/mo SD 44.",
+      "date": "2026-11-11",
+      "day": 52,
+      "slug": "three-rex-birthday"
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur birthday cake",
+      "volume": 3600,
+      "sd": 30,
+      "cpc": 0.39,
+      "intent": "Transactional",
+      "peak_month": "202601",
+      "peak_volume": 4400,
+      "verified": "2026-11-11",
       "status": "open",
-      "note": "Day 52 (2026-11-11). Third-birthday party plan selling Three Rex + Birthday Rex. No live post owns it (Shopify 2026-11-10). Check SERP first."
+      "note": "Day 53 (2026-11-12). Cake-ideas page selling birthday tees/stickers/printables (we sell no cakes). No live post has 'cake' in title. Check SERP first; fallback 'dinosaur party favors'."
+    },
+    {
+      "keyword": "dinosaur party favors",
+      "volume": 1300,
+      "sd": 32,
+      "cpc": 0.89,
+      "intent": "Transactional",
+      "peak_month": "202507",
+      "peak_volume": 1600,
+      "verified": "2026-11-11",
+      "status": "fallback",
+      "note": "Fallback for Day 53. SD 32 is a stretch; sells stickers and printables directly."
     }
   ],
   "queued_seasonal": [
@@ -2727,6 +2754,15 @@
       "sd": 32,
       "verified": "2026-11-05",
       "note": "SERP video/playlist-dominated (live collection 2026-11-05); only text page is preschoolexpress DA 43 #7. We have no video. Secondary dinosaur songs for preschool 480 SD 33 skipped with it."
+    },
+    {
+      "keyword": "dinosaur birthday party ideas",
+      "volume": 480,
+      "sd": 29,
+      "cpc": 0.51,
+      "verified": "2026-11-11",
+      "status": "skipped",
+      "note": "Not a new-post play: two live party guides (2020 blog, 2024 dinosaur-birthday-party blog) already target it, plus three unpublished drafts. Consolidation/rescue candidate; BACKLOG #69."
     }
   ],
   "rescue_content": [
@@ -2846,5 +2882,5 @@
       "verified": "2026-10-29"
     }
   ],
-  "last_repull": "2026-11-10"
+  "last_repull": "2026-11-11"
 }
