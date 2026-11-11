@@ -661,6 +661,7 @@ Ubersuggest figure that justified it.
   dinosaur-party-games and dinosaur-birthday-shirt.
   Secondaries: `three rex party` (50/mo, SD 25, $0.85; pulled 2026-11-11), `three rex shirt`, `dinosaur third birthday`
   (20/mo, SD 44; pulled 2026-11-11).
+  **LIVE:** https://jurassicapparel.com/blogs/blog/three-rex-birthday
 
 ## 🎯 NEXT UP
 

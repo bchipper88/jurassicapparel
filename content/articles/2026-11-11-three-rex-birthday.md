@@ -2,7 +2,10 @@
 title: "Three Rex Birthday: A Dinosaur Party Plan for Three-Year-Olds Who Want to Play"
 slug: three-rex-birthday
 date: 2026-11-11
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/three-rex-birthday
+shopify_article_id: "gid://shopify/Article/635342717078"
+published_at: 2026-11-11T11:11:40Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-11"
 target_keyword: "three rex birthday"
 target_volume: 880
