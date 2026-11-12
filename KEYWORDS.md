@@ -676,6 +676,7 @@ Ubersuggest figure that justified it.
   family & classroom license, listing says "print a stack for a dino birthday party"), Hatching Dino Eggs page ($3.99).
   Collections dinosaur-stickers (29 live), dinosaur-printables (11). Links dinosaur-party-games and three-rex-birthday.
   Secondaries: `dinosaur party favor ideas` (50/mo, SD 29, $0.65; pulled 2026-11-12), `dinosaur goodie bags`.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-party-favors
 
 ## 🎯 NEXT UP
 

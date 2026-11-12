@@ -2,7 +2,10 @@
 title: "Dinosaur Party Favors Kids Actually Keep: Ideas by Budget and Age"
 slug: dinosaur-party-favors
 date: 2026-11-12
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-party-favors
+shopify_article_id: "gid://shopify/Article/635381645462"
+published_at: 2026-11-12T11:09:46Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-12"
 target_keyword: "dinosaur party favors"
 target_volume: 1300
@@ -59,7 +62,7 @@ That's it. You can stop there, or pick and mix from the ideas below.
 
 ## Dinosaur party favors by budget
 
-Prices for our own products are taken from the listings today. For anything else, costs vary a lot by store, so think
+Prices for our own products are from the listings as of November 2026. For anything else, costs vary a lot by store, so think
 in rough tiers rather than exact numbers.
 
 | Budget per child | What to put in the bag | Why it works |
@@ -165,7 +168,7 @@ One thing kids will keep (a waterproof dinosaur sticker, a small figure or a col
 party (a fossil or a crown), and one small treat. Quality beats quantity.
 
 **How much should I spend on party favors per child?**
-There's no rule, and kids don't notice the price. Many parents spend $3 to $10 per child. A printable coloring page and
+There's no rule, and kids don't notice the price. Every idea on this page fits in $3 to $10 per child. A printable coloring page and
 something made at the party can get you close to free.
 
 **What do you put in a dinosaur goodie bag?**
