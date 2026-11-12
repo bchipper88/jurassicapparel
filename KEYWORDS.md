@@ -663,16 +663,32 @@ Ubersuggest figure that justified it.
   (20/mo, SD 44; pulled 2026-11-11).
   **LIVE:** https://jurassicapparel.com/blogs/blog/three-rex-birthday
 
+- ✅ Published (2026-11-12) **dinosaur party favors** — 1,300/mo | Jul–Sep 2025 1,600 high, Oct 1,300, Nov 1,000,
+  Dec 880 low, Jan 1,300, Feb 1,000, Mar 1,300, Apr 1,000, May 1,300, Jun 1,000, Jul 1,300 | SD 32 (stretch) | $0.89 CPC |
+  Transactional → `dinosaur-party-favors`
+  Day 53. Fallback after `dinosaur birthday cake` ⏭️ on SERP (below). Re-verified 2026-11-12, unchanged from 11-11;
+  published 7 weeks ahead of the Jan rise. No live post has "favor", "favour" or "goodie" in its title or the handle
+  (Shopify 2026-11-12). SERP (fresh, 2026-11-12): popular products #1, images #2, **thepartydarling party-supplies
+  collection (DA 27) #3**, Pinterest ideas (DA 94) #4, Amazon search page #5, PAA. The only editorial-style result is a
+  Pinterest board, so a written guide by budget and age has room. Stretch SD, taken because it sells stickers and
+  printables directly. Products (ACTIVE, availableForSale 2026-11-12): Happy Birthday T-Rex sticker ($3.29–$4.99,
+  1–2 + 2–5 days), Green T-Rex, Baby Dino watercolor, Brontosaurus Unicorn stickers, coloring 3-pack ($7.99, ages 4–8,
+  family & classroom license, listing says "print a stack for a dino birthday party"), Hatching Dino Eggs page ($3.99).
+  Collections dinosaur-stickers (29 live), dinosaur-printables (11). Links dinosaur-party-games and three-rex-birthday.
+  Secondaries: `dinosaur party favor ideas` (50/mo, SD 29, $0.65; pulled 2026-11-12), `dinosaur goodie bags`.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 53 (Thu 2026-11-12): `dinosaur birthday cake`.** 3,600/mo | Oct 2025 3,600, Nov–Dec 2,900 low, Jan 4,400,
-  Feb 3,600, Mar 4,400 high, Apr–May 3,600, Jun 2,900, Jul–Oct 3,600 | **SD 30** | $0.39 CPC | Transactional
-  (Ubersuggest, locId 2840, pulled 2026-11-11). Four times the volume of anything in the birthday series, at the top of
-  the winnable band, 7 weeks ahead of the January rise. No live post has "cake" in its title (Shopify 2026-11-11).
-  **Inventory caveat:** we don't sell cakes or toppers, so this is an ideas page that sells the birthday tees, stickers
-  and printables around the cake, not a buying guide. Check the SERP first: if it's all bakeries and recipe sites at
-  DA 50+, ⏭️ it and take the fallback, `dinosaur party favors` (1,300/mo, SD 32 stretch, $0.89, Transactional; Jul–Sep
-  1,600 high, Dec 880 low; pulled 2026-11-11), which sells stickers and printables directly.
+- 🎯 **Day 54 (Fri 2026-11-13): `dinosaur bag`.** 720/mo | Jul–Aug 2025 880, Sep–Nov 720, Dec 880, Jan–Feb 590 low,
+  Mar 880, Apr 1,000 high, May 720, Jun 880, Jul 720 | **SD 17** | $0.54 CPC | Transactional (Ubersuggest, locId 2840,
+  pulled 2026-11-12). Flat curve, December bump, so a gift-angle bag guide now catches it. **Cannibalisation check
+  first:** we already rank with `dinosaur tote bag` (#1, 11-04), the backpacks article (#6) and purses (#1). Run the
+  SERP; if a single type (backpacks or totes) dominates it, ⏭️ it, because a hub would only split pages that already
+  win. If the SERP is mixed (totes, backpacks, purses, laptop bags), write the hub that routes to each. Fallback: a
+  fresh `keyword_suggestions` pass on Christmas-gift terms still 4+ weeks ahead of the Dec 25 peak.
+
+- ✅ **Day 53 (Thu 2026-11-12): `dinosaur party favors` published** (fallback; `dinosaur birthday cake` ⏭️ on SERP).
+  Socks rewrite still unapproved.
 
 - ✅ **Day 52 (Wed 2026-11-11): `three rex birthday` published** (see ✅ Published). Socks rewrite still unapproved.
 
@@ -935,6 +951,15 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
 ---
 
 ## ⏭️ SKIPPED
+
+- ⏭️ **dinosaur birthday cake** — 3,600/mo | Nov–Dec 2,900 low, Jan & Mar 4,400 high | SD 30 | $0.39 | Transactional ·
+  **dinosaur cake ideas** — 2,900/mo | SD 34 | $0.23 | Informational (both pulled 2026-11-12, locId 2840)
+  Skipped 2026-11-12 on the SERP, as planned the day before. `dinosaur birthday cake`: Walmart's cake-topper page
+  (DA 93) #1, popular products, PAA, Pinterest board (DA 94) #4, images and more shopping blocks; no blog or bakery
+  page ranks that a DA 17 site could displace. `dinosaur cake ideas`: Pinterest (DA 94) #1, short videos, images,
+  video, BBC Good Food recipe (DA 88) #5. The intent is buying a cake or topper, or a recipe, and we sell neither. An
+  ideas page would sell tees and stickers sideways into it at best. Cake ideas are a section in the age-series party
+  posts instead. Revisit only if we stock cake toppers.
 
 - ⏭️ **dinosaur birthday party ideas** — 480/mo | Sep 2025 1,000 high, Oct 320, Nov 390, Dec 590, Jan 880, Feb–Mar 320,
   Apr–May 480 | SD 29 | $0.51 CPC | Informational — skipped as a new post 2026-11-11 (Ubersuggest, locId 2840). The

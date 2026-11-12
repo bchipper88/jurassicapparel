@@ -1601,3 +1601,22 @@ age-specific posts (first birthday, Two Rex, Three Rex, party games) give a natu
 three drafts, and let the routine draft the hub's rewrite brief in `content/rescues/` with links to the four age posts.
 Say the word and it goes in the queue.
 
+
+## 70. Party favors: we sell only single stickers, a party printable sits in DRAFT, and there's no favor landing page 🟢 LOW — merchandising — added 2026-11-12
+
+Found while writing the Day 53 `dinosaur party favors` post (1,300/mo, SD 32, Jan 1,300; Ubersuggest, locId 2840,
+2026-11-12). Checked in Shopify 2026-11-12:
+
+- **Single stickers only.** Every ACTIVE item in `dinosaur-stickers` is one sticker ($3.29–$8.25). A parent filling
+  ten favor bags has to add ten stickers to the cart one by one. A **sticker sheet or 10-pack** at a per-sticker
+  discount is the natural favor product; the only pack in the collection ("Dinosaur Sticker Pack", marketplace handle)
+  is DRAFT and unavailable (see #39).
+- **"Dino Party Food - Printable Kids Dinosaur Party Recipe Pack (PDF)", $9.99, is DRAFT** inside
+  `dinosaur-printables`. If it's finished, it fits the party posts (five now live) and could be linked from them.
+  If it's parked on purpose, ignore this line.
+- **No favor/party collection.** The SERP's #3 result is a DA 27 shop's party-supplies collection. A small
+  "Dinosaur Party Favors" collection (stickers + coloring printables + the birthday tees) would give the new post and
+  the four age-series posts one commercial page to point at. Gated: creating collections needs the owner.
+
+**Fix (owner):** decide on a sticker pack and the recipe pack; say yes to a favors collection and the routine will
+draft its copy.

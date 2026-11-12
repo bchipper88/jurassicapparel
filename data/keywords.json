@@ -1853,20 +1853,6 @@
       "day": 52,
       "slug": "three-rex-birthday",
       "live_url": "https://jurassicapparel.com/blogs/blog/three-rex-birthday"
-    }
-  ],
-  "next_up": [
-    {
-      "keyword": "dinosaur birthday cake",
-      "volume": 3600,
-      "sd": 30,
-      "cpc": 0.39,
-      "intent": "Transactional",
-      "peak_month": "202601",
-      "peak_volume": 4400,
-      "verified": "2026-11-11",
-      "status": "open",
-      "note": "Day 53 (2026-11-12). Cake-ideas page selling birthday tees/stickers/printables (we sell no cakes). No live post has 'cake' in title. Check SERP first; fallback 'dinosaur party favors'."
     },
     {
       "keyword": "dinosaur party favors",
@@ -1876,9 +1862,27 @@
       "intent": "Transactional",
       "peak_month": "202507",
       "peak_volume": 1600,
-      "verified": "2026-11-11",
-      "status": "fallback",
-      "note": "Fallback for Day 53. SD 32 is a stretch; sells stickers and printables directly."
+      "verified": "2026-11-12",
+      "status": "published",
+      "note": "Day 53, fallback after 'dinosaur birthday cake' skipped on SERP. Re-verified 2026-11-12 unchanged. No live post owns it. Fresh SERP 2026-11-12: popular products, images, thepartydarling collection (DA 27) #3, Pinterest #4, Amazon #5. Favors guide by budget and age selling stickers + coloring printables. Secondary 'dinosaur party favor ideas' 50/mo SD 29.",
+      "date": "2026-11-12",
+      "day": 53,
+      "slug": "dinosaur-party-favors",
+      "live_url": null
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur bag",
+      "volume": 720,
+      "sd": 17,
+      "cpc": 0.54,
+      "intent": "Transactional",
+      "peak_month": "202604",
+      "peak_volume": 1000,
+      "verified": "2026-11-12",
+      "status": "open",
+      "note": "Day 54 (2026-11-13). Cannibalisation check first: tote bag #1, backpacks article #6, purses #1. Skip if one bag type dominates the SERP; hub only if SERP is mixed. Fallback: Christmas-gift suggestions pass."
     }
   ],
   "queued_seasonal": [
@@ -2764,6 +2768,15 @@
       "verified": "2026-11-11",
       "status": "skipped",
       "note": "Not a new-post play: two live party guides (2020 blog, 2024 dinosaur-birthday-party blog) already target it, plus three unpublished drafts. Consolidation/rescue candidate; BACKLOG #69."
+    },
+    {
+      "keyword": "dinosaur birthday cake",
+      "volume": 3600,
+      "sd": 30,
+      "cpc": 0.39,
+      "verified": "2026-11-12",
+      "status": "skipped",
+      "note": "SERP 2026-11-12: Walmart cake toppers (DA 93) #1, shopping blocks, Pinterest (DA 94) #4. Intent is buying a cake/topper; we sell neither. Companion 'dinosaur cake ideas' 2,900/mo SD 34: Pinterest #1, BBC Good Food recipe (DA 88) #5."
     }
   ],
   "rescue_content": [
@@ -2883,5 +2896,5 @@
       "verified": "2026-10-29"
     }
   ],
-  "last_repull": "2026-11-11"
+  "last_repull": "2026-11-12"
 }
