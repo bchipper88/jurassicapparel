@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-11-07",
+  "pulled": "2026-11-13",
   "loc_id": 2840,
   "published": [
     {
@@ -1869,9 +1869,7 @@
       "day": 53,
       "slug": "dinosaur-party-favors",
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-party-favors"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur bag",
       "volume": 720,
@@ -1880,9 +1878,33 @@
       "intent": "Transactional",
       "peak_month": "202604",
       "peak_volume": 1000,
-      "verified": "2026-11-12",
+      "verified": "2026-11-13",
+      "status": "published",
+      "note": "Day 54. Re-verified 2026-11-13 unchanged. Fresh SERP 2026-11-13 mixed: Walmart dino bags+backpacks for kids (DA 93) #2, Lakeshore backpack (DA 66) #4, r/handbags (DA 92) #5; none of our pages in it. Hub by who carries it + Christmas order-by table over 7 bag types.",
+      "date": "2026-11-13",
+      "day": 54,
+      "slug": "dinosaur-bags",
+      "secondary": [
+        {
+          "keyword": "dino bag",
+          "volume": 720,
+          "sd": 11,
+          "cpc": 0.68
+        },
+        {
+          "keyword": "dinosaur bags",
+          "volume": 720,
+          "sd": 48,
+          "cpc": 0.69
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "(discovery pass)",
       "status": "open",
-      "note": "Day 54 (2026-11-13). Cannibalisation check first: tote bag #1, backpacks article #6, purses #1. Skip if one bag type dominates the SERP; hub only if SERP is mixed. Fallback: Christmas-gift suggestions pass."
+      "note": "Day 55 (2026-11-14). Gift cluster mined out (dinosaur christmas gifts 110 SD 21; dinosaur gift ideas 110 SD 22 $1.11; tails 0-30). Fresh keyword_suggestions on accessory/home seeds and Jan-ramp terms; fallback dinosaur gift ideas if no live post owns it."
     }
   ],
   "queued_seasonal": [
@@ -2069,7 +2091,8 @@
       "cpc": 0.54,
       "intent": "Transactional",
       "verified": "2026-10-08",
-      "note": "Broad; covered by tote/purse/backpack posts. Revisit at November pull."
+      "note": "Published 2026-11-13 (Day 54) as the bag hub.",
+      "status": "published"
     },
     {
       "keyword": "funny dinosaur shirts",

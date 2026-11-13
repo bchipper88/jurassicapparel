@@ -1620,3 +1620,22 @@ Found while writing the Day 53 `dinosaur party favors` post (1,300/mo, SD 32, Ja
 
 **Fix (owner):** decide on a sticker pack and the recipe pack; say yes to a favors collection and the routine will
 draft its copy.
+
+## 71. Bags: the duffle, fanny pack and drawstring bag sit in no bag collection; no "all bags" landing page; Neon Rex backpack stock reads −2 🟢 LOW — catalog / merchandising — added 2026-11-13
+
+Found while writing the Day 54 `dinosaur bag` hub (720/mo, SD 17; `dino bag` 720/mo, SD 11; Ubersuggest, locId 2840,
+2026-11-13). Checked in Shopify 2026-11-13:
+
+- **Three bags have no bag home.** Colorful Dinos duffle ($99.99), Colorful Dinos fanny pack ($39.99) and Blue and
+  White Raptors drawstring bag ($27.99) are ACTIVE but only in `new-arrivals`, `best-sellers` and
+  `unique-dinosaur-gifts` (the drawstring also in `kids-dinosaur-apparel`). Someone browsing bags never sees them. The
+  hub post links them as products.
+- **No parent "Dinosaur Bags" collection.** We have four separate bag collections (backpack 14, purses 24, tote 50,
+  laptop-bags 2). Walmart ranks #2 for `dinosaur bag` with one combined "dino bags and backpacks" page. A combined
+  `dinosaur-bags` collection (all 93 bags) is the commercial page this keyword wants, and the new post would point to it.
+- **Neon Rex backpack inventory is odd.** The Adult variant shows `inventoryQuantity: -2` with policy DENY; Youth and
+  Child show 0. Shopify still reports all three `availableForSale: true` (likely the fulfilment app manages stock).
+  If the −2 means two orders were oversold, check that they were fulfilled. Its Christmas order-by date is Nov 18.
+
+**Fix (owner, gated):** add the three bags to a bag collection, or say yes to a combined `dinosaur-bags` collection and
+the routine will draft its copy; glance at the Neon Rex orders.

@@ -678,15 +678,32 @@ Ubersuggest figure that justified it.
   Secondaries: `dinosaur party favor ideas` (50/mo, SD 29, $0.65; pulled 2026-11-12), `dinosaur goodie bags`.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-party-favors
 
+- ✅ Published (2026-11-13) **dinosaur bag** — 720/mo | Jul–Aug 2025 880, Sep–Nov 720, Dec 880, Jan–Feb 590 low,
+  Mar 880, Apr 1,000 high, May 720, Jun 880, Jul 720 | SD 17 | $0.54 CPC | Transactional → `dinosaur-bags`
+  Day 54. Re-verified 2026-11-13, unchanged from 11-12. Cannibalisation check: fresh SERP (2026-11-13) is popular
+  products #1, **walmart.com/c/kp/dino-bag "Dino Bags and Backpacks for Kids" (DA 93) #2**, images, Lakeshore
+  Dinosaur Adventure Backpack (DA 66) #4, **r/handbags "Dinosaur Bags" (DA 92) #5**, perspectives, more products. Mixed
+  kids-backpack and handbag intent, and none of our tote/backpack/purse pages appears, so the hub routes to all three
+  instead of splitting a winner. Shopify articles: no live post titled or handled for "bag" beyond purses and totes.
+  Built as a by-who-carries-it guide (kids by age, adults by what they carry) plus a Christmas order-by table across
+  all seven bag types. Products verified ACTIVE + availableForSale 2026-11-13: 14 backpacks, 24 purses, 50 totes,
+  Colorful Dinos duffle ($99.99, 22×11.5×11.5″), fanny pack ($39.99, S/M, M/L), Blue and White Raptors drawstring
+  ($27.99, 15×17″), 2 laptop sleeves ($32.99/$34.99). Collections: dinosaur-backpack (14), dinosaur-purses (24),
+  dinosaur-tote-bag (50), dinosaur-laptop-bags (2). Links the backpacks, purses and tote posts.
+  Secondaries: `dino bag` 720/mo **SD 11** $0.68; `dinosaur bags` 720/mo SD 48 $0.69 (pulled 2026-11-13).
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 54 (Fri 2026-11-13): `dinosaur bag`.** 720/mo | Jul–Aug 2025 880, Sep–Nov 720, Dec 880, Jan–Feb 590 low,
-  Mar 880, Apr 1,000 high, May 720, Jun 880, Jul 720 | **SD 17** | $0.54 CPC | Transactional (Ubersuggest, locId 2840,
-  pulled 2026-11-12). Flat curve, December bump, so a gift-angle bag guide now catches it. **Cannibalisation check
-  first:** we already rank with `dinosaur tote bag` (#1, 11-04), the backpacks article (#6) and purses (#1). Run the
-  SERP; if a single type (backpacks or totes) dominates it, ⏭️ it, because a hub would only split pages that already
-  win. If the SERP is mixed (totes, backpacks, purses, laptop bags), write the hub that routes to each. Fallback: a
-  fresh `keyword_suggestions` pass on Christmas-gift terms still 4+ weeks ahead of the Dec 25 peak.
+- 🎯 **Day 55 (Sat 2026-11-14): discovery pass, then write.** The gift cluster is mined out: a 2026-11-13
+  `keyword_suggestions` pass on `dinosaur christmas gifts` (110/mo, SD 21) and `dinosaur gift ideas` (110/mo, SD 22,
+  $1.11) returned only 0–30/mo tails, and the stocking, pajamas, gifts-for-adults and Christmas hub terms are already
+  published. Run a fresh `keyword_suggestions` pass on accessory/home seeds (mug, blanket, hat, jewelry) and on
+  January-ramp terms (Jan 1,300+ curves like the party cluster), and take the best SD ≤ 30 term with inventory.
+  Provisional fallback: `dinosaur gift ideas` (110/mo, SD 22, $1.11), only if no live gift post owns it (check
+  BACKLOG #65 and the gifts-for-adults page first). If the socks rewrite is approved, that goes first.
+
+- ✅ **Day 54 (Fri 2026-11-13): `dinosaur bag` published** (hub; mixed SERP, see ✅ Published). Socks rewrite still
+  unapproved.
 
 - ✅ **Day 53 (Thu 2026-11-12): `dinosaur party favors` published** (fallback; `dinosaur birthday cake` ⏭️ on SERP).
   Socks rewrite still unapproved.
@@ -808,7 +825,7 @@ Tracked project keywords already include `dinosaur christmas`, `dinosaur christm
   would only compete with it.
 - ✅ **dinosaur tote bag** — published 2026-10-08 (Day 18, see ✅ Published).
 - ✅ **dinosaur tie** — published 2026-10-09 (Day 19, see ✅ Published).
-- 📋 **dinosaur bag** — 720/mo | flat 590–1,000 (Apr 1,000) | SD 17 | $0.54 CPC — found 2026-10-08. Broad: totes, purses and backpacks now each have a post, and the tote post carries it as an H2. A fourth "hub" post would split those; revisit only if none of the three ranks for it by the November pull.
+- ✅ **dinosaur bag** — published 2026-11-13 (Day 54, see ✅ Published). Was: 720/mo | flat 590–1,000 (Apr 1,000) | SD 17 | $0.54 CPC — found 2026-10-08. Broad: totes, purses and backpacks now each have a post, and the tote post carries it as an H2. A fourth "hub" post would split those; revisit only if none of the three ranks for it by the November pull.
 
 - 📋 **hawaiian dinosaur shirt** — 260/mo | SD 16 | $0.93 CPC | Transactional → `hawaiian-dinosaur-shirts`
   **Deferred 2026-09-24 on seasonality — schedule for mid-February.** Re-verified today: the
