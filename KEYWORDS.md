@@ -691,6 +691,7 @@ Ubersuggest figure that justified it.
   ($27.99, 15×17″), 2 laptop sleeves ($32.99/$34.99). Collections: dinosaur-backpack (14), dinosaur-purses (24),
   dinosaur-tote-bag (50), dinosaur-laptop-bags (2). Links the backpacks, purses and tote posts.
   Secondaries: `dino bag` 720/mo **SD 11** $0.68; `dinosaur bags` 720/mo SD 48 $0.69 (pulled 2026-11-13).
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-bags
 
 ## 🎯 NEXT UP
 

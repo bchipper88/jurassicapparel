@@ -2,7 +2,10 @@
 title: "Dinosaur Bags: Which One to Buy, by Who It's For and When It Has to Arrive"
 slug: dinosaur-bags
 date: 2026-11-13
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-bags
+shopify_article_id: "gid://shopify/Article/635419066518"
+published_at: 2026-11-13T11:07:46Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-13"
 target_keyword: "dinosaur bag"
 target_volume: 720
@@ -40,7 +43,7 @@ articles_linked:
   - dinosaur-backpacks
   - dinosaur-purses
   - dinosaur-tote-bags
-word_count: 1477
+word_count: 1518
 ---
 
 # Dinosaur Bags: Which One to Buy, by Who It's For and When It Has to Arrive
@@ -148,9 +151,10 @@ carrier delays:
 | Duffle bag, fanny pack, drawstring bag | 2–5 business days | 3–4 business days | December 7 |
 | Laptop sleeve | 2–5 business days | 2–5 business days | December 7 |
 
-If you're reading this after mid-November, choose from the bottom half of the table. The backpacks,
-totes, duffle, fanny pack, drawstring bag and laptop sleeve all still arrive in time when ordered in
-early December. The purses and the Neon Rex don't. Every bag ships within the US only, and you get
+If you're reading this after November 20, choose from the bottom half of the table. The eight
+kids' print backpacks, the totes, the mini clutch, the duffle, the fanny pack, the drawstring bag and
+the laptop sleeve all still arrive in time when ordered in early December. The crossbody and saddle-bag
+purses, the Neon Rex and the five all-over-print backpacks don't. Every bag ships within the US only, and you get
 a tracking number when it leaves production.
 
 ## Dinosaur bag FAQ
