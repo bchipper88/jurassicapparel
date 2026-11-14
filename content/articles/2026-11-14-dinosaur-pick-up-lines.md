@@ -45,8 +45,8 @@ they're terrible, you know they're terrible, and you said it anyway. That takes 
 is attractive. So these lines are sorted by where you'll use them: a bar, a first-date text, a
 partner who already puts up with you, or a classroom Valentine for a seven-year-old.
 
-We sell dinosaur shirts, mugs and gifts for a living, so we've heard most of these said out loud.
-The ones below are the ones that got a laugh, or at least a good groan.
+We sell dinosaur shirts, mugs and gifts for a living, so we spend a lot of time on dinosaur wordplay.
+We kept the lines that made us laugh, or at least groan, and cut the near-repeats.
 
 ## The ten best dinosaur pick up lines
 
@@ -170,7 +170,7 @@ ceratops." The [Double T-Rex mug](/products/double-t-rex-dinosaur-mug) does the 
 ## Kid-safe dinosaur Valentines for the classroom
 
 Every line in this section is fine for a class of second-graders. They're about friendship, not
-romance, which is what teachers usually ask for. Write one on each card and you're done.
+romance. Write one on each card and you're done.
 
 - You're dino-mite!
 - I think you're roar-some.
@@ -201,7 +201,7 @@ level of a wink. They're for an adult who'll get it, not for the classroom list 
 
 ## How to land a dinosaur pick up line
 
-The line itself matters less than how you say it. A few things we've learned:
+The line itself matters less than how you say it. A few things help:
 
 - **Commit.** The worst delivery is the apologetic one. Say it as if you think it's the best line
   ever written. The confidence is the joke.
@@ -231,7 +231,7 @@ about T. rex arms, and it sounds just confident enough.
 
 **Are there dinosaur pick up lines for kids?**
 Yes, but for kids they're friendship lines rather than pick up lines. Use the classroom Valentines
-section above: "You're dino-mite!" and "I'd never go extinct on you" are the ones kids like best.
+section above. "You're dino-mite!" and "I'd never go extinct on you" are short enough for the smallest card.
 
 **What do you write on a dinosaur Valentine?**
 One line and a name. "You're roar-some, love Sam" fits on the smallest card and reads well in a
