@@ -1639,3 +1639,35 @@ Found while writing the Day 54 `dinosaur bag` hub (720/mo, SD 17; `dino bag` 720
 
 **Fix (owner, gated):** add the three bags to a bag collection, or say yes to a combined `dinosaur-bags` collection and
 the routine will draft its copy; glance at the Neon Rex orders.
+
+## 72. Demand we can't sell into: lunch boxes, water bottles, keychains, Valentine's products 🟢 LOW — merchandising — added 2026-11-14
+
+Found in the Day 55 discovery pass (Ubersuggest `keyword_suggestions`, locId 2840, 2026-11-14). Each term is winnable at
+DA 17, but we stock nothing to link (charter principle 2), so none of them can be written:
+
+| Term | Volume | SD | CPC | What we stock |
+|---|---|---|---|---|
+| `dinosaur lunch box` | 1,300/mo | 21 | $0.81 | nothing |
+| `dinosaur water bottle` | 880/mo | 19 | $0.42 | 1 (Dino Nuggies water bottle) |
+| `dinosaur keychain` | 880/mo | 24 | $0.82 | nothing |
+| `dinosaur valentines box` / `dinosaur valentines card` | 1,300 / 720 | 27 / 30 | ~$0 | no Valentine product; 11 printables, none Valentine's |
+
+The cheapest test is a **printable dinosaur Valentine card pack** in `dinosaur-printables`. It's a digital download like
+the coloring pages already there, and it would give the queued `dinosaur valentines box` post (late December) something
+to sell. Lunch boxes and bottles would need a POD partner that makes them. **Ask (owner, gated):** say whether any of
+these are worth adding before February.
+
+## 73. The Day 36 `dinosaur-hats` post is unpublished — taken down 2026-10-30, three days after it went live 🟡 MEDIUM — blog / SEO — added 2026-11-14
+
+Found 2026-11-14 while checking for existing posts. `gid://shopify/Article/635087224982`
+(`/blogs/blog/dinosaur-hats`, *Dinosaur Hats: Bucket Hats, Dad Hats, Beanies and How to Pick One*) now reads
+`isPublished: false`, `publishedAt: null`, `updatedAt: 2026-10-30T14:00:15Z`. It went live 2026-10-27 11:10 UTC. No routine
+run touched it (every run's article calls are `articleCreate` on its own new post). So the post has been off the site
+through the `dinosaur hat` peak (1,600/mo, Oct 2,400, SD 20), while `/collections/dinosaur-hats` is still recovering
+from the drop logged above (it fell out of the top 100 by 2026-10-21).
+
+I checked all 53 posts this routine has published, by ID: **the other 52 are live.** Only this one is down.
+
+**Ask (owner):** if you unpublished it on purpose, say why and I'll mark the keyword. If not, republish it in Shopify
+admin (Online Store → Blog posts → *Dinosaur Hats* → Visible). I haven't republished it: it's an existing page, so
+under the charter it's yours to decide.

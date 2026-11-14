@@ -1901,13 +1901,47 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-bags",
       "shopify_article_id": "gid://shopify/Article/635419066518",
       "published_at": "2026-11-13T11:07:46Z"
+    },
+    {
+      "keyword": "dinosaur pick up lines",
+      "volume": 880,
+      "sd": 22,
+      "cpc": 0.0,
+      "intent": "Informational",
+      "peak_month": "202507",
+      "peak_volume": 1600,
+      "verified": "2026-11-14",
+      "status": "published",
+      "note": "Day 55. Discovery pass. Feb 1,000 Valentine bump, Dec 590 low. Fresh SERP 2026-11-14: AI overview, images, Pinterest (DA 94) #3, zeepuns (DA 4) #4, Pinterest #5. No live post owns it.",
+      "date": "2026-11-14",
+      "day": 55,
+      "slug": "dinosaur-pick-up-lines",
+      "secondary": [
+        {
+          "keyword": "dinosaur pick up lines dirty",
+          "volume": 40,
+          "sd": 15,
+          "cpc": 0.0
+        },
+        {
+          "keyword": "cheesy dinosaur pick up lines",
+          "volume": 20,
+          "sd": 5,
+          "cpc": 0.0
+        }
+      ]
     }
   ],
   "next_up": [
     {
-      "keyword": "(discovery pass)",
-      "status": "open",
-      "note": "Day 55 (2026-11-14). Gift cluster mined out (dinosaur christmas gifts 110 SD 21; dinosaur gift ideas 110 SD 22 $1.11; tails 0-30). Fresh keyword_suggestions on accessory/home seeds and Jan-ramp terms; fallback dinosaur gift ideas if no live post owns it."
+      "keyword": "cute dinosaur nicknames",
+      "volume": 1000,
+      "sd": 19,
+      "cpc": 0.39,
+      "intent": "Informational",
+      "status": "next_up",
+      "verified": "2026-11-14 (keyword_suggestions)",
+      "note": "Day 56 (2026-11-15). Siblings: cool dinosaur nicknames 880 SD 29, dinosaur nicknames generator 720 SD 21, dinosaur nicknames 260 SD 23. Pull overview curve + SERP; check blog AND dinosaur-facts articles for names/nickname posts first."
     }
   ],
   "queued_seasonal": [
@@ -1959,6 +1993,16 @@
       "intent": "Transactional",
       "verified": "2026-09-28",
       "note": "Covered as the clothing section of the Day 9 dinosaur christmas hub (2026-09-29)."
+    },
+    {
+      "keyword": "dinosaur valentines box",
+      "volume": 1300,
+      "sd": 27,
+      "cpc": 0.0,
+      "intent": "Informational",
+      "verified": "2026-11-14",
+      "status": "queued",
+      "note": "February term; schedule ~Dec 20 - Jan 5. 'dinosaur valentines' 2,400 SD 28 is a rescue check of the live 2026-02 Valentine's gifts post."
     }
   ],
   "queued_evergreen": [
@@ -2803,6 +2847,78 @@
       "verified": "2026-11-12",
       "status": "skipped",
       "note": "SERP 2026-11-12: Walmart cake toppers (DA 93) #1, shopping blocks, Pinterest (DA 94) #4. Intent is buying a cake/topper; we sell neither. Companion 'dinosaur cake ideas' 2,900/mo SD 34: Pinterest #1, BBC Good Food recipe (DA 88) #5."
+    },
+    {
+      "keyword": "dinosaur gift ideas",
+      "volume": 110,
+      "sd": 22,
+      "cpc": 1.11,
+      "verified": "2026-11-14",
+      "status": "skipped",
+      "note": "Owned by live post '25+ Dinosaur Gift Ideas for Every Prehistoric Enthusiast' (updated 2026-11-11)."
+    },
+    {
+      "keyword": "dinosaur sweater",
+      "volume": 1000,
+      "sd": 27,
+      "cpc": 1.03,
+      "verified": "2026-11-14",
+      "status": "skipped",
+      "note": "Nov-Dec 2,400. All our sweaters are Christmas jacquards already covered by dinosaur-christmas-sweater (Day 35); SERP 2026-11-14 product carousels + H&M kids knit (DA 92)."
+    },
+    {
+      "keyword": "dinosaur lunch box",
+      "volume": 1300,
+      "sd": 21,
+      "cpc": 0.81,
+      "verified": "2026-11-14",
+      "status": "skipped",
+      "note": "No inventory. BACKLOG #72."
+    },
+    {
+      "keyword": "dinosaur water bottle",
+      "volume": 880,
+      "sd": 19,
+      "cpc": 0.42,
+      "verified": "2026-11-14",
+      "status": "skipped",
+      "note": "1 ACTIVE product. BACKLOG #72."
+    },
+    {
+      "keyword": "dinosaur keychain",
+      "volume": 880,
+      "sd": 24,
+      "cpc": 0.82,
+      "verified": "2026-11-14",
+      "status": "skipped",
+      "note": "No inventory; top tail is brand (coach dinosaur keychain 720). BACKLOG #72."
+    },
+    {
+      "keyword": "dinosaur jewelry",
+      "volume": 480,
+      "sd": 17,
+      "cpc": 1.02,
+      "verified": "2026-11-14",
+      "status": "skipped",
+      "note": "1 ACTIVE product. BACKLOG #50."
+    },
+    {
+      "keyword": "dinosaur planter",
+      "volume": 480,
+      "sd": 25,
+      "cpc": 0.92,
+      "verified": "2026-11-14",
+      "status": "skipped",
+      "note": "Spring curve (Apr-May 590); 2 products."
+    },
+    {
+      "keyword": "dinosaur memes",
+      "volume": 12100,
+      "sd": 38,
+      "cpc": 0.0,
+      "verified": "2026-11-14",
+      "status": "skipped",
+      "note": "SD 38 and image-led; would need rights to the memes."
     }
   ],
   "rescue_content": [
@@ -2922,5 +3038,5 @@
       "verified": "2026-10-29"
     }
   ],
-  "last_repull": "2026-11-12"
+  "last_repull": "2026-11-14"
 }

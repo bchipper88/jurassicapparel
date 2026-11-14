@@ -3,7 +3,7 @@
 The content queue. One article a day comes off this list. Every entry carries the real
 Ubersuggest figure that justified it.
 
-**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12, 2026-10-13, 2026-10-15, 2026-10-16, 2026-10-17, 2026-10-18, 2026-10-19, 2026-10-20, 2026-10-21, 2026-10-22, 2026-10-23, 2026-10-24, 2026-10-25.
+**All data US (`locId 2840`).** Research pulls: 2026-08-30, 2026-09-05, 2026-09-23, 2026-09-24, 2026-09-26, 2026-09-27, 2026-09-30, 2026-10-01, 2026-10-02, 2026-10-04, 2026-10-05, 2026-10-06, 2026-10-09, 2026-10-10, 2026-10-11, 2026-10-12, 2026-10-13, 2026-10-15, 2026-10-16, 2026-10-17, 2026-10-18, 2026-10-19, 2026-10-20, 2026-10-21, 2026-10-22, 2026-10-23, 2026-10-24, 2026-10-25, …, 2026-11-13, 2026-11-14.
 
 ## Status Legend
 - 🎯 **Next up** — selected for the next article
@@ -439,6 +439,7 @@ Ubersuggest figure that justified it.
   (9 bucket, 7 dad, 1 trucker, 3 beanies); all five linked products ACTIVE and buyable, re-checked 2026-10-27.
   Secondaries: `dinosaur beanie` 390/mo (Nov 880 · Dec 1,000, SD 23), `dinosaur bucket hat` 110/mo SD 15.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-hats
+  **⚠️ UNPUBLISHED since 2026-10-30** (found 2026-11-14, not by this routine). See BACKLOG #73.
 
 - ✅ Published (2026-10-27) **dinosaur shirt for men** — 480/mo | Jul 880 peak, Sep–Dec 390, Jan–Feb 320 | SD 21
   | $0.53 CPC | Commercial → `dinosaur-shirts-for-men`
@@ -693,15 +694,30 @@ Ubersuggest figure that justified it.
   Secondaries: `dino bag` 720/mo **SD 11** $0.68; `dinosaur bags` 720/mo SD 48 $0.69 (pulled 2026-11-13).
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-bags
 
+- ✅ Published (2026-11-14) **dinosaur pick up lines** — 880/mo | Jul 2025 1,600, Aug–Oct 880, Nov 720, Dec 590 low,
+  Jan 720, **Feb 1,000**, Mar 880, Apr–Jun 590, Jul 880 | SD 22 | $0.00 CPC | Informational → `dinosaur-pick-up-lines`
+  Day 55. Found in the discovery pass (`keyword_suggestions` on `dinosaur memes`/`riddles`/`pick up lines`, 2026-11-14).
+  Year-round humour term with a Valentine's bump, 13 weeks ahead of February. SERP (fresh 2026-11-14): AI overview,
+  images, **Pinterest pin (DA 94) #3, zeepuns.com (DA 4) #4, Pinterest #5**. No dedicated page from anyone with
+  authority. Shopify articles: no title/handle with "pick", "flirt" or "pick-up". Extends the puns/jokes cluster.
+  Built by use: top 10, cheesy, per-dinosaur (8 species), nerdy (true facts), couples, kid-safe classroom Valentines,
+  PG "cheeky", delivery tips, gift tie-in. Sells into dinosaur-gifts-for-girlfriend (312 live), dinosaur-mugs (90),
+  mamasaurus (21), dadasaurus-collection (12) + Triceratops & T-Rex, Double T-Rex and Best Friends mugs and the
+  Pteroble Puns tee (all ACTIVE, availableForSale 2026-11-14). Links the puns, jokes and Valentine's gifts posts.
+  Secondaries: `dinosaur pick up lines dirty` 40/mo SD 15 (kept PG); `cheesy dinosaur pick up lines` 20/mo SD 5.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 55 (Sat 2026-11-14): discovery pass, then write.** The gift cluster is mined out: a 2026-11-13
-  `keyword_suggestions` pass on `dinosaur christmas gifts` (110/mo, SD 21) and `dinosaur gift ideas` (110/mo, SD 22,
-  $1.11) returned only 0–30/mo tails, and the stocking, pajamas, gifts-for-adults and Christmas hub terms are already
-  published. Run a fresh `keyword_suggestions` pass on accessory/home seeds (mug, blanket, hat, jewelry) and on
-  January-ramp terms (Jan 1,300+ curves like the party cluster), and take the best SD ≤ 30 term with inventory.
-  Provisional fallback: `dinosaur gift ideas` (110/mo, SD 22, $1.11), only if no live gift post owns it (check
-  BACKLOG #65 and the gifts-for-adults page first). If the socks rewrite is approved, that goes first.
+- 🎯 **Day 56 (Sun 2026-11-15): `cute dinosaur nicknames`** — 1,000/mo | SD 19 | $0.39 CPC | Informational
+  (`keyword_suggestions`, locId 2840, 2026-11-14). Siblings: `cool dinosaur nicknames` 880/mo SD 29,
+  `dinosaur nicknames generator` 720/mo SD 21, `dinosaur nicknames` 260/mo SD 23. Same humour/naming cluster as the
+  puns and pick-up-lines posts; sells into kids apparel, personalised tees and the girlfriend-gifts collection.
+  **Before writing:** pull `keyword_overview` for the curve, run the SERP, and query Shopify articles in **both**
+  `blog` and `dinosaur-facts` (323 posts) for "names"/"nickname" — a facts post may already own it. Fallback:
+  `cool dinosaur nicknames` on the same page if the cute one fails. If the socks rewrite is approved, that goes first.
+
+- ✅ **Day 55 (Sat 2026-11-14): `dinosaur pick up lines` published** (discovery pass; `dinosaur gift ideas` ⏭️, owned
+  by a live post). Socks rewrite still unapproved.
 
 - ✅ **Day 54 (Fri 2026-11-13): `dinosaur bag` published** (hub; mixed SERP, see ✅ Published). Socks rewrite still
   unapproved.
@@ -1073,6 +1089,23 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
   in the Day 23 `retro-dinosaur-shirts` post, which links that page.
 - ⏭️ **long sleeve dinosaur shirt** — 110/mo | Aug 260, Oct–Nov 170, May–Jun 50 | SD 18 | $0.81 CPC —
   skipped 2026-10-13: no long-sleeve dinosaur tee in the catalog (Shopify search, ACTIVE). BACKLOG #50.
+- ⏭️ **Sweep 2026-11-14 (all Ubersuggest, locId 2840):** `dinosaur gift ideas` 110/mo SD 22 $1.11 (Nov 260, Dec 320)
+  — owned by the live post *25+ Dinosaur Gift Ideas for Every Prehistoric Enthusiast* (updated 2026-11-11).
+  `dinosaur sweater` 1,000/mo SD 27 $1.03 (Nov–Dec 2,400, Jan 1,300) — every sweater we sell is a Christmas jacquard
+  already covered by the Day 35 `dinosaur-christmas-sweater` post; fresh SERP (2026-11-14) is product carousels plus
+  one H&M kids' knit (DA 92). A second page on the same ten sweaters would split it. `christmas dinosaur sweater` 720
+  SD 27, same reason. **No inventory:** `dinosaur lunch box` 1,300/mo SD 21 $0.81, `dinosaur water bottle` 880/mo SD 19
+  (1 ACTIVE product), `dinosaur keychain` 880/mo SD 24 (`coach dinosaur keychain` 720 is brand), `dinosaur jewelry`
+  480/mo SD 17 (1 ACTIVE, BACKLOG #50), `dinosaur jacket` 480/mo SD 26 (1 bomber). `dinosaur planter` 480/mo SD 25
+  (spring curve, Apr–May 590; 2 products). Too small: `dinosaur pajama pants` 210 SD 22 (adult PJ post exists),
+  `dinosaur polo shirt` 110 SD 12, `dinosaur apron` 90, `dinosaur bib` 90, `dinosaur bandana` 90, `dinosaur sweatpants`
+  70, `dinosaur crewneck` 70, `dinosaur gifts for men` 30; `dinosaur gifts for boyfriend`/`for mom` 0.
+  `dinosaur memes` 12,100/mo SD 38 (`funny dinosaur memes` 1,300 SD 28): image-led, we'd need rights to the memes.
+- 📋 **dinosaur valentines box** — 1,300/mo | SD 27 | $0 CPC | Informational (DIY classroom box) — found 2026-11-14.
+  February keyword: schedule for **~Dec 20 – Jan 5** (4–8 weeks ahead). Also `dinosaur valentines` 2,400/mo SD 28 —
+  but the live 2026-02 *Dinosaur Valentines Day Gifts* post is the natural owner, so that's a rescue check, not a new
+  page. `dinosaur valentines card` 720 SD 30, `dinosaur valentines puns` 390 SD 15 (puns post has the section). We
+  sell no Valentine product (BACKLOG #72).
 - ⏭️ **dinosaur earrings** — **1,300/mo** | Jul/Dec 1,600, floor 880 | **SD 16** | $0.84 CPC — skipped
   2026-10-13 on inventory: `dinosaur-earrings` has 0 ACTIVE of 2, `dinosaur-jewelry` 1 of 6. The
   easiest high-volume term found this month. BACKLOG #50.
