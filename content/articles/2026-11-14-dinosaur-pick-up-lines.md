@@ -89,41 +89,49 @@ Pick the dinosaur first, then the line. These work best on someone who has a fav
 most people if you ask.
 
 **T. rex**
+
 - I may have tiny arms, but there's room in them for you.
 - I can't hug you properly, but I'll stand very close.
 - I've got short arms and a big heart. Your call.
 - Tyranno-saw-you and that was it for me.
 
 **Triceratops**
+
 - You're the Tri to my ceratops.
 - I'd fight off a T. rex for you. I've got three horns and I'm not afraid to use them.
 - Three horns, one heart, all yours.
 
 **Stegosaurus**
+
 - You Steg-o-stole my heart.
 - Stegosaurus had a brain the size of a walnut, and even it would know you're out of my league.
 - I've got plates down my back and I'd still give you the shirt off it.
 
 **Velociraptor**
+
 - Clever girl. (Use this one carefully. Say it with a smile.)
 - Raptors hunt in packs, but I only want to hunt for your number.
 - Real raptors had feathers. So I'm basically a bird, and you give me butterflies.
 
 **Brachiosaurus**
+
 - I've got a long neck, so I saw you from across the room first.
 - I'd stick my neck out for you. Quite far, actually.
 - You're the only one I'd look down for.
 
 **Pterodactyl**
+
 - You make my heart soar.
 - I'm a Pterodactyl, so technically I'm not a dinosaur, but I'm still falling for you.
 - Wing it with me.
 
 **Spinosaurus**
+
 - You make the sail on my back stand up.
 - Spinosaurus is one of the biggest predatory dinosaurs ever found, and you still scare me more. Good scared.
 
 **Ankylosaurus**
+
 - I'm armored all over, but you got through anyway.
 - I'm a tank with a club for a tail and a soft spot for you.
 
