@@ -2,7 +2,10 @@
 title: "Dinosaur Pick Up Lines: 80+ Cheesy, Nerdy and Sweet Lines (and How to Land Them)"
 slug: dinosaur-pick-up-lines
 date: 2026-11-14
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-pick-up-lines
+shopify_article_id: "gid://shopify/Article/635424178326"
+published_at: 2026-11-14T11:10:05Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-14"
 target_keyword: "dinosaur pick up lines"
 target_volume: 880

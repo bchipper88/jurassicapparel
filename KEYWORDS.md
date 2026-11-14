@@ -705,6 +705,7 @@ Ubersuggest figure that justified it.
   mamasaurus (21), dadasaurus-collection (12) + Triceratops & T-Rex, Double T-Rex and Best Friends mugs and the
   Pteroble Puns tee (all ACTIVE, availableForSale 2026-11-14). Links the puns, jokes and Valentine's gifts posts.
   Secondaries: `dinosaur pick up lines dirty` 40/mo SD 15 (kept PG); `cheesy dinosaur pick up lines` 20/mo SD 5.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-pick-up-lines
 
 ## 🎯 NEXT UP
 
