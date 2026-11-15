@@ -707,15 +707,33 @@ Ubersuggest figure that justified it.
   Secondaries: `dinosaur pick up lines dirty` 40/mo SD 15 (kept PG); `cheesy dinosaur pick up lines` 20/mo SD 5.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-pick-up-lines
 
+- ✅ Published (2026-11-15) **cute dinosaur nicknames** — 1,000/mo | Sep–Oct 2025 880, **Nov 1,300 peak**, Dec 880,
+  Jan–May 1,000, Jun–Jul 880, Aug 720 low, Sep 2026 1,000 (evergreen) | **SD 29** (was 19 in the 2026-11-14
+  `keyword_suggestions` pull) | $0.00 CPC | Informational → `cute-dinosaur-nicknames`
+  Day 56. SERP (fresh 2026-11-15): AI overview, funnynamesfor.com (DA 62) #2, PAA, ezynames.com (DA 6) #4, Pinterest
+  (DA 94) #5. Shopify articles: no title/handle with "nickname"; the only "names" posts are the scientific-names guide
+  and a flying-reptiles facts post, different intent. Built by who it's for: top 15, a five-formula "make your own"
+  table (serves `dinosaur nicknames generator`), babies/toddlers, **cool names for kids (H2)**, partners, family table,
+  plushies, pets, funny, species-nickname table, 10 real nicknamed fossils (Sue, Stan, Scotty, Big Al, Dippy, Sophie,
+  Trix, Big John, Apex, Leonardo), FAQ. Sells into dinosaur-baby-outfit (50), dinosaur-gifts-for-girlfriend (332),
+  mamasaurus (21), dadasaurus-collection (12), dinosaur-dog-bandanas (6) + Name-Saurus personalized kids tee,
+  Little Roar toddler hoodie, Rawr Means I Love You baby tee (all ACTIVE, every variant available, 2026-11-15).
+  Links the pick-up-lines post and the dinosaur names guide.
+  Secondaries: `cool dinosaur nicknames` 880/mo SD 29; `dinosaur nicknames` 260/mo SD 23;
+  `funny dinosaur names` **1,900/mo SD 29** (same SERP leader, covered by the funny H2); `dinosaur nicknames
+  generator` 720/mo SD 21 (2026-11-14).
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 56 (Sun 2026-11-15): `cute dinosaur nicknames`** — 1,000/mo | SD 19 | $0.39 CPC | Informational
-  (`keyword_suggestions`, locId 2840, 2026-11-14). Siblings: `cool dinosaur nicknames` 880/mo SD 29,
-  `dinosaur nicknames generator` 720/mo SD 21, `dinosaur nicknames` 260/mo SD 23. Same humour/naming cluster as the
-  puns and pick-up-lines posts; sells into kids apparel, personalised tees and the girlfriend-gifts collection.
-  **Before writing:** pull `keyword_overview` for the curve, run the SERP, and query Shopify articles in **both**
-  `blog` and `dinosaur-facts` (323 posts) for "names"/"nickname" — a facts post may already own it. Fallback:
-  `cool dinosaur nicknames` on the same page if the cute one fails. If the socks rewrite is approved, that goes first.
+- 🎯 **Day 57 (Mon 2026-11-16): weekly rank tracking, then `dinosaur riddles`** — 170/mo | SD 23 | $0.02 CPC |
+  Informational (`keyword_overview`, locId 2840, 2026-11-15). Spring curve (Nov 110, Mar 170, **May 260**), so it's
+  early but small. Extends the jokes/puns/pick-up-lines cluster; no live post has "riddle" in its title (checked
+  2026-11-15). **Provisional:** the Monday re-rank decides. If the rank pull shows a striking-distance page worth a
+  rescue brief, or a bigger winnable term, take that instead. Pull the SERP before writing; the jokes post may
+  already rank for it. If the socks rewrite is approved, that goes first.
+
+- ✅ **Day 56 (Sun 2026-11-15): `cute dinosaur nicknames` published** (see ✅ Published). SD rose 19 → 29 between
+  pulls, still in the winnable band. Socks rewrite still unapproved.
 
 - ✅ **Day 55 (Sat 2026-11-14): `dinosaur pick up lines` published** (discovery pass; `dinosaur gift ideas` ⏭️, owned
   by a live post). Socks rewrite still unapproved.

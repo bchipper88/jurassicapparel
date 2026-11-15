@@ -1933,18 +1933,62 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-pick-up-lines",
       "shopify_article_id": "gid://shopify/Article/635424178326",
       "published_at": "2026-11-14T11:10:05Z"
+    },
+    {
+      "keyword": "cute dinosaur nicknames",
+      "volume": 1000,
+      "sd": 29,
+      "cpc": 0.0,
+      "intent": "Informational",
+      "peak_month": "202511",
+      "peak_volume": 1300,
+      "verified": "2026-11-15",
+      "status": "published",
+      "note": "Day 56. Evergreen (Aug 720 low, Nov 1,300 peak). SD 19 -> 29 vs the 2026-11-14 suggestions pull. Fresh SERP 2026-11-15: AI overview, funnynamesfor.com (DA 62) #2, ezynames (DA 6) #4, Pinterest #5. No live post owns it.",
+      "date": "2026-11-15",
+      "day": 56,
+      "slug": "cute-dinosaur-nicknames",
+      "secondary": [
+        {
+          "keyword": "cool dinosaur nicknames",
+          "volume": 880,
+          "sd": 29,
+          "cpc": 0.0
+        },
+        {
+          "keyword": "dinosaur nicknames",
+          "volume": 260,
+          "sd": 23,
+          "cpc": 0.01
+        },
+        {
+          "keyword": "funny dinosaur names",
+          "volume": 1900,
+          "sd": 29,
+          "cpc": 0.0
+        },
+        {
+          "keyword": "dinosaur nicknames generator",
+          "volume": 720,
+          "sd": 21,
+          "cpc": null,
+          "verified": "2026-11-14"
+        }
+      ]
     }
   ],
   "next_up": [
     {
-      "keyword": "cute dinosaur nicknames",
-      "volume": 1000,
-      "sd": 19,
-      "cpc": 0.39,
+      "keyword": "dinosaur riddles",
+      "volume": 170,
+      "sd": 23,
+      "cpc": 0.02,
       "intent": "Informational",
       "status": "next_up",
-      "verified": "2026-11-14 (keyword_suggestions)",
-      "note": "Day 56 (2026-11-15). Siblings: cool dinosaur nicknames 880 SD 29, dinosaur nicknames generator 720 SD 21, dinosaur nicknames 260 SD 23. Pull overview curve + SERP; check blog AND dinosaur-facts articles for names/nickname posts first."
+      "verified": "2026-11-15",
+      "peak_month": "202605",
+      "peak_volume": 260,
+      "note": "Day 57 (Mon 2026-11-16), provisional: weekly rank tracking first; re-rank may override. Pull SERP; jokes post may already rank."
     }
   ],
   "queued_seasonal": [
@@ -2922,6 +2966,14 @@
       "verified": "2026-11-14",
       "status": "skipped",
       "note": "SD 38 and image-led; would need rights to the memes."
+    },
+    {
+      "keyword": "dinosaur stocking stuffers",
+      "volume": 50,
+      "sd": 30,
+      "verified": "2026-11-15",
+      "status": "skipped",
+      "note": "Owned by live post /blogs/blog/dinosaur-stocking-stuffers. Nov 260, Dec 390."
     }
   ],
   "rescue_content": [
@@ -3041,5 +3093,5 @@
       "verified": "2026-10-29"
     }
   ],
-  "last_repull": "2026-11-14"
+  "last_repull": "2026-11-15"
 }
