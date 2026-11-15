@@ -2,7 +2,10 @@
 title: "Cute Dinosaur Nicknames: 150+ Sweet, Cool and Funny Names for Kids, Partners, Pets and Plushies"
 slug: cute-dinosaur-nicknames
 date: 2026-11-15
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/cute-dinosaur-nicknames
+shopify_article_id: "gid://shopify/Article/635426832534"
+published_at: 2026-11-15T11:07:18Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-15"
 target_keyword: "cute dinosaur nicknames"
 target_volume: 1000
@@ -302,7 +305,7 @@ themselves. Paleontologists really do say "Trike" for Triceratops and "Pachy" fo
 
 ## Real dinosaur fossils with nicknames
 
-Scientists nickname important fossils too, usually after the person who found them. These are some
+Scientists nickname important fossils too, usually after the person who found them. These are eleven
 of the most famous, and each makes a good nickname with a story behind it.
 
 - **Sue** – the T. rex at Chicago's Field Museum, found in South Dakota in 1990 and named after
@@ -318,6 +321,7 @@ of the most famous, and each makes a good nickname with a story behind it.
 - **Trix** – a T. rex at the Naturalis museum in the Netherlands, named after Queen Beatrix.
 - **Big John** – a Triceratops that sold at auction in Paris in 2021.
 - **Apex** – a Stegosaurus that sold at Sotheby's in 2024 for $44.6 million, a record for a fossil.
+- **Dakota** – an Edmontosaurus "mummy" found in North Dakota in 1999, with large patches of fossilized skin.
 - **Leonardo** – a "mummified" Brachylophosaurus found in Montana with preserved skin impressions.
 
 A child named after Sue or Stan gets a nickname and a bedtime story in one.

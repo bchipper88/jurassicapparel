@@ -714,7 +714,7 @@ Ubersuggest figure that justified it.
   (DA 94) #5. Shopify articles: no title/handle with "nickname"; the only "names" posts are the scientific-names guide
   and a flying-reptiles facts post, different intent. Built by who it's for: top 15, a five-formula "make your own"
   table (serves `dinosaur nicknames generator`), babies/toddlers, **cool names for kids (H2)**, partners, family table,
-  plushies, pets, funny, species-nickname table, 10 real nicknamed fossils (Sue, Stan, Scotty, Big Al, Dippy, Sophie,
+  plushies, pets, funny, species-nickname table, 11 real nicknamed fossils (Sue, Stan, Scotty, Big Al, Dippy, Sophie, Dakota,
   Trix, Big John, Apex, Leonardo), FAQ. Sells into dinosaur-baby-outfit (50), dinosaur-gifts-for-girlfriend (332),
   mamasaurus (21), dadasaurus-collection (12), dinosaur-dog-bandanas (6) + Name-Saurus personalized kids tee,
   Little Roar toddler hoodie, Rawr Means I Love You baby tee (all ACTIVE, every variant available, 2026-11-15).
@@ -722,6 +722,7 @@ Ubersuggest figure that justified it.
   Secondaries: `cool dinosaur nicknames` 880/mo SD 29; `dinosaur nicknames` 260/mo SD 23;
   `funny dinosaur names` **1,900/mo SD 29** (same SERP leader, covered by the funny H2); `dinosaur nicknames
   generator` 720/mo SD 21 (2026-11-14).
+  **LIVE:** https://jurassicapparel.com/blogs/blog/cute-dinosaur-nicknames
 
 ## 🎯 NEXT UP
 
