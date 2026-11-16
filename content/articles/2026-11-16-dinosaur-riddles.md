@@ -2,7 +2,10 @@
 title: "Dinosaur Riddles: 58 “What Am I?” Riddles for Kids (With Answers)"
 slug: dinosaur-riddles
 date: 2026-11-16
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-riddles
+shopify_article_id: "gid://shopify/Article/635466875030"
+published_at: 2026-11-16T11:09:06Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-16"
 target_keyword: "dinosaur riddles"
 target_volume: 170
@@ -150,7 +153,7 @@ party who think dinosaur riddles are for kids.
 
 ## Trick dinosaur riddles
 
-These are the ones where the answer isn't a dinosaur at all. Save them for when everyone thinks
+These play with words instead of facts, and half the answers aren't dinosaurs. Save them for when everyone thinks
 they've figured out how riddles work.
 
 | Riddle | Answer |

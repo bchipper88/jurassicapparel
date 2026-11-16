@@ -737,6 +737,7 @@ Ubersuggest figure that justified it.
   dinosaur-stickers (31), plus the Dino Valley Puzzle with Tin (30/110/252 pcs), Dinosaur Size Chart printable and
   coloring pages 3-pack (ACTIVE, 2026-11-16). Links the jokes, party games and trivia posts.
   Secondaries: `what am i dinosaur riddles` 50/mo SD 29 (2026-10-31), has its own H2.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-riddles
 
 ## 🎯 NEXT UP
 
