@@ -384,6 +384,48 @@
       },
       "articles_published": 50,
       "notes": "Domain overview unchanged from 11-02 (no new monthly estimate yet; Oct still 1,117). Backlinks 2,606 -> 2,611, ref domains 1,244 -> 1,247. Average position improved 12.45 (10-28) -> 11.32 (11-04). Bins are first-vs-latest collection (10-14 -> 11-04). Moves of 5+ (10-14 -> 11-04): UP dinosaur backpack (5,400) 25 -> 6, now on our dinosaur-backpacks article; dinosaur blankets (3,600) 31 -> 18; dinosaur blanket 29 -> 23; dinosaur christmas sweater (720) 23 -> 5; dinosaurs clothes (720) 20 -> 5; dinosaur christmas ornament (880) 35 -> 23; dinosaurs phone case 17 -> 4; jaxartosaurus (880) back in at 9; dinosaur hat (1,600) new at 29; infant dinosaur clothing (480) 30 -> 10; dinosaur clothes for adults 13 -> 2; mamasaurus cups 51 -> 2; dinosaur tote bag 8 -> 1; dinosaur bucket hat 20 -> 1. DOWN irritator (18,100) 7 -> 17; dinosaur backpacks 3 -> 9 (URL switched to the article); dinosaur outfits for adults (3,600) 7 -> 21; dinosaur sticker (2,900) 19 -> 31, dinosaur stickers 44 -> 60; dinosaur socks (880) 26 -> 43 (now the mens socks collection, not the 2020 post); dinosaur phone cases 16 -> 37; dinosaur mug 2 -> 25, mugs 6 -> 16; dino christmas wrapping paper (720) 4 -> 23; dinosaur newborn clothes 11 -> 63; newborn dinosaur clothes 13 -> out. Recovered: dinosaur shirts (2,900) 8 -> 5 (was 62 in the 11-02 report). Still not ranking: dinosaur mom (3,600), mamasaurus (1,000), dadasaurus (260), dinosaur puzzle (1,900), dino mask (8,100)."
+    },
+    {
+      "date": "2026-11-16",
+      "type": "weekly",
+      "source": "Ubersuggest project_position_info (locId 2840, 2026-10-17..2026-11-16, done=true, latest collection 2026-11-04, next_update 2026-11-11 already passed); domain_overview (locId 2840, 2026-11-16).",
+      "domain_authority": 16,
+      "organic_keywords": 4392,
+      "est_monthly_organic_traffic": 1117,
+      "traffic_month": "202610",
+      "backlinks": 2610,
+      "ref_domains": 1253,
+      "tracked_keywords": 91,
+      "rank_movement": {
+        "up": 33,
+        "down": 33,
+        "unchanged": 25
+      },
+      "tracked_bins": {
+        "top_3": {
+          "old": 24,
+          "new": 24
+        },
+        "top_10": {
+          "old": 20,
+          "new": 28
+        },
+        "top_100": {
+          "old": 33,
+          "new": 27
+        },
+        "not_ranking": {
+          "old": 14,
+          "new": 12
+        }
+      },
+      "average_position": {
+        "2026-10-21": 10.75,
+        "2026-10-28": 12.45,
+        "2026-11-04": 11.32
+      },
+      "articles_published": 57,
+      "notes": "NO NEW RANK DATA. The latest collection is still 2026-11-04 (82 of 91 keywords); the 11-11 collection announced last week has not appeared. The report window moved (10-21 baseline instead of 10-14), so bins and up/down shifted slightly, but the latest positions are identical to the 11-09 snapshot. Domain overview: still no November estimate (Oct 1,117); backlinks 2,611 -> 2,610, ref domains 1,247 -> 1,253. Do not read this week as flat performance; it is a missing collection."
     }
   ],
   "traffic_history": {
@@ -437,6 +479,14 @@
         "previous_date": "2026-10-26",
         "top_3": 24,
         "note": "Counted from latest position (11-04) 4-10 (28) and 1-3 (24)."
+      },
+      {
+        "date": "2026-11-16",
+        "positions_4_10": 28,
+        "previous": 28,
+        "previous_date": "2026-11-09",
+        "top_3": 24,
+        "note": "Unchanged because no new rank collection since 2026-11-04."
       }
     ]
   },

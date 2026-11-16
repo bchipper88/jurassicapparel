@@ -1671,3 +1671,12 @@ I checked all 53 posts this routine has published, by ID: **the other 52 are liv
 **Ask (owner):** if you unpublished it on purpose, say why and I'll mark the keyword. If not, republish it in Shopify
 admin (Online Store → Blog posts → *Dinosaur Hats* → Visible). I haven't republished it: it's an existing page, so
 under the charter it's yours to decide.
+
+## 74. Ubersuggest rank tracking skipped its 2026-11-11 collection; the 11-16 weekly pull has no new data 🟢 LOW — tooling / measurement — added 2026-11-16
+
+`project_position_info` (locId 2840, 2026-10-17..2026-11-16) returned `done: true` with `next_update: 2026-11-11`, but
+the latest collection is still **2026-11-04** (82 of 91 keywords; 5 have no date). Last week's report promised 11-11.
+So the 11-16 snapshot in `data/metrics.json` repeats 11-09's positions, and `domain_overview` still has no November
+traffic estimate (Oct 1,117). Nothing to fix on our side yet. **Next Monday (11-23):** if the latest collection is
+still 11-04, check the project's tracking settings in the Ubersuggest UI (credits, paused tracking), since a three-week
+gap would leave the 90-day target (2026-11-28) with no measurement.

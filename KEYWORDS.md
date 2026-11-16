@@ -724,14 +724,30 @@ Ubersuggest figure that justified it.
   generator` 720/mo SD 21 (2026-11-14).
   **LIVE:** https://jurassicapparel.com/blogs/blog/cute-dinosaur-nicknames
 
+- ✅ Published (2026-11-16) **dinosaur riddles** — 170/mo | Sep 2025 90, Oct 140, Nov 110, Dec–Feb 140, Mar 170,
+  Apr 210, **May 260 peak**, Jun 210, Jul 170, Aug 110, Sep 2026 170 (spring curve, ~15 weeks ahead of the ramp) |
+  **SD 23** | $0.02 CPC | Informational → `dinosaur-riddles`
+  Day 57. SERP (collected 2026-09-16, not refreshed): AI overview, enchantedlearning (DA 76) #2, Reddit #3, YouTube #4,
+  moabgiants (DA 39) #5, kids-dinosaurs.com (DA 27) #6, Quizlet #8, **riddlesrush (DA 1) #9, cledemy (DA 16) #10,
+  goriddles (DA 6) #14**. Weak pages in the top 15. Shopify articles: no title/handle with "riddle" (2026-11-16).
+  Overlap: the jokes post has a 10-riddle section and lists this term as a secondary. This page is the deep version
+  (58 riddles, none of the jokes post's clues reused) and links back to it. Built by age: top 10, easy (3–5),
+  three-clue "What am I?" with 3-2-1 scoring (6–9), hard (fact-based), trick, fossil/dig, a game-setup table by
+  setting, a write-your-own formula, FAQ. Sells into dinosaur-puzzles (14, all ACTIVE and available) and
+  dinosaur-stickers (31), plus the Dino Valley Puzzle with Tin (30/110/252 pcs), Dinosaur Size Chart printable and
+  coloring pages 3-pack (ACTIVE, 2026-11-16). Links the jokes, party games and trivia posts.
+  Secondaries: `what am i dinosaur riddles` 50/mo SD 29 (2026-10-31), has its own H2.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 57 (Mon 2026-11-16): weekly rank tracking, then `dinosaur riddles`** — 170/mo | SD 23 | $0.02 CPC |
-  Informational (`keyword_overview`, locId 2840, 2026-11-15). Spring curve (Nov 110, Mar 170, **May 260**), so it's
-  early but small. Extends the jokes/puns/pick-up-lines cluster; no live post has "riddle" in its title (checked
-  2026-11-15). **Provisional:** the Monday re-rank decides. If the rank pull shows a striking-distance page worth a
-  rescue brief, or a bigger winnable term, take that instead. Pull the SERP before writing; the jokes post may
-  already rank for it. If the socks rewrite is approved, that goes first.
+- 🎯 **Day 58 (Tue 2026-11-17): `dinosaur scavenger hunt`** — 260/mo | SD 21 | $0.36 CPC | Informational
+  (`keyword_overview`, locId 2840, 2026-11-16). Spring/summer curve: Nov 210, **Dec 90 low**, Feb–Mar 260, Apr 320,
+  May 390, **Jun 480 peak**. Early, but evergreen-ish and the queue is thin. No live article has "scavenger" in its
+  title or handle (2026-11-16). Before writing, check the party-games and activities posts for an existing hunt
+  section, and pull the SERP. Sells into printables/puzzles/stickers (prizes). Fallback: run a discovery pass.
+
+- ✅ **Day 57 (Mon 2026-11-16): weekly rank tracking + `dinosaur riddles` published** (see ✅ Published). Rank pull
+  had no new collection since 11-04; snapshot logged anyway. Socks rewrite still unapproved.
 
 - ✅ **Day 56 (Sun 2026-11-15): `cute dinosaur nicknames` published** (see ✅ Published). SD rose 19 → 29 between
   pulls, still in the winnable band. Socks rewrite still unapproved.

@@ -1978,20 +1978,42 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/cute-dinosaur-nicknames",
       "shopify_article_id": "gid://shopify/Article/635426832534",
       "published_at": "2026-11-15T11:07:18Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur riddles",
       "volume": 170,
       "sd": 23,
       "cpc": 0.02,
       "intent": "Informational",
-      "status": "next_up",
-      "verified": "2026-11-15",
+      "status": "published",
+      "verified": "2026-11-16",
       "peak_month": "202605",
       "peak_volume": 260,
-      "note": "Day 57 (Mon 2026-11-16), provisional: weekly rank tracking first; re-rank may override. Pull SERP; jokes post may already rank."
+      "note": "Day 57. Spring curve (May 260 peak). SERP 2026-09-16: weak pages in top 15 (riddlesrush DA 1 #9, cledemy DA 16 #10, goriddles DA 6 #14). Jokes post has a 10-riddle section; this is the deep page and links back.",
+      "date": "2026-11-16",
+      "day": 57,
+      "slug": "dinosaur-riddles",
+      "secondary": [
+        {
+          "keyword": "what am i dinosaur riddles",
+          "volume": 50,
+          "sd": 29
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur scavenger hunt",
+      "volume": 260,
+      "sd": 21,
+      "cpc": 0.36,
+      "intent": "Informational",
+      "status": "next_up",
+      "verified": "2026-11-16",
+      "peak_month": "202606",
+      "peak_volume": 480,
+      "note": "Day 58 (Tue 2026-11-17). Dec 90 low, Jun 480 peak. No live article with 'scavenger' (2026-11-16). Check party-games/activities posts for overlap and pull SERP first."
     }
   ],
   "queued_seasonal": [
@@ -2977,6 +2999,23 @@
       "verified": "2026-11-15",
       "status": "skipped",
       "note": "Owned by live post /blogs/blog/dinosaur-stocking-stuffers. Nov 260, Dec 390."
+    },
+    {
+      "keyword": "dinosaur would you rather",
+      "volume": 40,
+      "sd": 30,
+      "verified": "2026-11-16",
+      "status": "skipped",
+      "note": "Too small (40/mo, May 70 peak) and SD at the band edge."
+    },
+    {
+      "keyword": "dinosaur gifts for 4 year olds",
+      "volume": 170,
+      "sd": 29,
+      "cpc": 1.42,
+      "verified": "2026-11-16",
+      "status": "skipped",
+      "note": "Nov 260, Dec 320. Covered by the by-age gift guide published 2026-10-25 (paired with 'for 3 year olds')."
     }
   ],
   "rescue_content": [
@@ -3096,5 +3135,5 @@
       "verified": "2026-10-29"
     }
   ],
-  "last_repull": "2026-11-15"
+  "last_repull": "2026-11-16"
 }
