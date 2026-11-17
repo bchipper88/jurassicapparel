@@ -753,6 +753,7 @@ Ubersuggest figure that justified it.
   dinosaur-stickers (31), dinosaur-printables (11 ACTIVE), plus the Dino Valley Puzzle with Tin (30pcs $29.99, ACTIVE,
   all variants available; print-to-order lead time stated) and the coloring pages 3-pack. Links party games, riddles
   and crafts posts. Secondaries: `dinosaur treasure hunt` 30/mo SD 23 (2026-11-17), covered in the FAQ.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-scavenger-hunt
 
 ## 🎯 NEXT UP
 

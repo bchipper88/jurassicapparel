@@ -2,7 +2,10 @@
 title: "Dinosaur Scavenger Hunt: 5 Ready-to-Use Hunts With Clues for Ages 2–12"
 slug: dinosaur-scavenger-hunt
 date: 2026-11-17
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/dinosaur-scavenger-hunt
+shopify_article_id: "gid://shopify/Article/635475165334"
+published_at: 2026-11-17T11:08:20Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-17"
 target_keyword: "dinosaur scavenger hunt"
 target_volume: 260
@@ -51,7 +54,7 @@ Start with the table, pick your hunt, and skip straight to it.
 | 1. Picture hunt | 2–4 | No | Indoors | 10 min | Toddlers, one or two kids |
 | 2. Rhyming clue trail | 5–8 | A little (or a grown-up reads) | Indoors | 15 min | A rainy afternoon |
 | 3. Backyard fossil hunt | 4–10 | No | Outdoors | 5 min | Park days, camping |
-| 4. Party puzzle hunt | 4–9 | No | Either | 20 min | Birthday parties, 5–15 kids |
+| 4. Party puzzle hunt | 4–9 | No | Either | 20 min | Birthday parties, up to 10 kids |
 | 5. Fact-code hunt | 8–12 | Yes | Indoors | 25 min | Older kids who think it's "too babyish" |
 
 Each one ends with a "fossil" at the finish: a prize box, a small treat, or a puzzle they assemble
@@ -133,16 +136,16 @@ for the little ones) and a paper bag, and send them out.
 
 **The field paleontologist's checklist:**
 
-- [ ] A rock with a stripe or a line in it (that's a layer, the way fossils get buried over time)
-- [ ] A rock that's smooth all over (water wore it down, the same way rivers buried dinosaur bones)
-- [ ] A leaf bigger than your hand (plant-eaters like Brachiosaurus needed huge amounts of leaves)
-- [ ] A fern or something that looks like one (ferns were around long before the dinosaurs, and still are)
-- [ ] A pinecone (conifers fed dinosaurs too)
-- [ ] A feather (birds are living dinosaurs, so this one counts as a real dinosaur find)
-- [ ] A footprint in mud, sand or snow, any animal's (dinosaur tracks are fossils too, called trace fossils)
-- [ ] A stick shaped like a bone
-- [ ] Something that's three different colors
-- [ ] A bird you can see or hear (point at it: that's a dinosaur)
+- A rock with a stripe or a line in it (that's a layer, the way fossils get buried over time)
+- A rock that's smooth all over (water wore it down, the same way rivers buried dinosaur bones)
+- A leaf bigger than your hand (plant-eaters like Brachiosaurus needed huge amounts of leaves)
+- A fern or something that looks like one (ferns were around long before the dinosaurs, and still are)
+- A pinecone (conifers fed dinosaurs too)
+- A feather (birds are living dinosaurs, so this one counts as a real dinosaur find)
+- A footprint in mud, sand or snow, any animal's (dinosaur tracks are fossils too, called trace fossils)
+- A stick shaped like a bone
+- Something that's three different colors
+- A bird you can see or hear (point at it: that's a dinosaur)
 
 **The finish:** spread every find on a towel and "label the dig." Kids pick their best fossil and
 explain it to everyone. Older kids can sort the haul into "rock," "plant" and "animal," which is the
