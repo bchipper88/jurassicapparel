@@ -739,13 +739,31 @@ Ubersuggest figure that justified it.
   Secondaries: `what am i dinosaur riddles` 50/mo SD 29 (2026-10-31), has its own H2.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-riddles
 
+- ✅ Published (2026-11-17) **dinosaur scavenger hunt** — 260/mo | Aug 2025 170, Sep–Nov 210, **Dec 90 low**, Jan 210,
+  Feb–Mar 260, Apr 320, May 390, **Jun 480 peak**, Jul 390, Aug 2026 260 (spring/summer curve; ~12 weeks ahead of the
+  February climb) | **SD 21** | $0.36 CPC | Informational → `dinosaur-scavenger-hunt`
+  Day 58. SERP (collected 2026-09-12, not refreshed): images #1, **pjsandpaint (DA 36) #2**, Pinterest #3, nhm.ac.uk
+  (DA 84) #4, nhm.org (DA 79) #5, YouTube #6, AI overview, inspirationlaboratories (DA 46) #8, playpartyplan (DA 63) #9,
+  **lockpaperescape (DA 25) #10**, wyomingdinosaurcenter (DA 40) #12, quickhunts (DA 33) #13, **playlearninspire (DA 19)
+  #14**. Mostly single-hunt free-printable posts; none offers several hunts by age with every clue written out. Shopify
+  articles: no title/handle with "scavenger" or "hunt" (2026-11-17). Overlap: party-games game #13 is a one-paragraph
+  hunt; this is the deep page and links back. Five hunts: picture hunt (2–4), 10-card rhyming clue trail (5–8),
+  backyard fossil checklist (4–10), party puzzle hunt (4–9, pieces of a 30-piece puzzle hidden in envelopes), fact-code
+  hunt with a number key (8–12); setup tips, treasure box, FAQ. Sells into dinosaur-puzzles (14 ACTIVE),
+  dinosaur-stickers (31), dinosaur-printables (11 ACTIVE), plus the Dino Valley Puzzle with Tin (30pcs $29.99, ACTIVE,
+  all variants available; print-to-order lead time stated) and the coloring pages 3-pack. Links party games, riddles
+  and crafts posts. Secondaries: `dinosaur treasure hunt` 30/mo SD 23 (2026-11-17), covered in the FAQ.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 58 (Tue 2026-11-17): `dinosaur scavenger hunt`** — 260/mo | SD 21 | $0.36 CPC | Informational
-  (`keyword_overview`, locId 2840, 2026-11-16). Spring/summer curve: Nov 210, **Dec 90 low**, Feb–Mar 260, Apr 320,
-  May 390, **Jun 480 peak**. Early, but evergreen-ish and the queue is thin. No live article has "scavenger" in its
-  title or handle (2026-11-16). Before writing, check the party-games and activities posts for an existing hunt
-  section, and pull the SERP. Sells into printables/puzzles/stickers (prizes). Fallback: run a discovery pass.
+- 🎯 **Day 59 (Wed 2026-11-18): discovery pass, lead `dinosaur fossil dig`** — 210/mo | SD 34 | $0.64 CPC |
+  Informational (`keyword_overview`, locId 2840, 2026-11-17). Flat curve (140–260, Mar 260). SD 34 is a stretch, so
+  it needs a SERP check and a genuinely better page; the sensory-bin and party-games posts both have dig sections, so
+  check overlap first. If either blocks it, run a discovery pass (activities, party and gifting clusters are mostly
+  covered; try seasonal Jan–Feb terms: `dinosaur valentines` 2,400 SD 28 is queued for ~Dec 20).
+
+- ✅ **Day 58 (Tue 2026-11-17): `dinosaur scavenger hunt` published** (see ✅ Published). `dinosaur bingo` ⏭️
+  (transactional SERP, BACKLOG #75). Socks rewrite still unapproved.
 
 - ✅ **Day 57 (Mon 2026-11-16): weekly rank tracking + `dinosaur riddles` published** (see ✅ Published). Rank pull
   had no new collection since 11-04; snapshot logged anyway. Socks rewrite still unapproved.
@@ -1023,6 +1041,19 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
 ---
 
 ## ⏭️ SKIPPED
+
+- ⏭️ **dinosaur bingo** — 480/mo | Jul 2025 590, Aug 390, Sep–Oct 320, Nov 480, **Dec 720 peak**, Jan–Mar 390, Apr 480,
+  May 390, Jun 590, Jul 2026 480 | SD 22 | $0.23 CPC | Informational (Ubersuggest, locId 2840, 2026-11-17). Skipped as a
+  new post 2026-11-17 on the SERP (refreshed today, free): Etsy bingo listing (DA 92) #1, a boxed bingo game product page
+  (DA 10) #2, bingobaker card generator (DA 49) #3, video, popular products. The intent is getting the cards, and we
+  sell no bingo game or printable cards. An article without cards can't answer it. Merchandising gap logged as BACKLOG
+  #75 (a printable bingo set in `dinosaur-printables` would fit the Dec peak). No live post with "bingo" (2026-11-17).
+
+- ⏭️ **dinosaur treasure hunt** — 30/mo | SD 23 | $0.18 CPC (2026-11-17). Too small for its own page; covered as a
+  secondary (FAQ) of the Day 58 scavenger hunt post.
+
+- ⏭️ **dinosaur games for kids**, **dinosaur names for kids** — Ubersuggest returns 0 volume, no curve (2026-11-17).
+  Not real terms in its index. `dinosaur name generator` (720/mo, SD 21) needs an interactive tool, not an article.
 
 - ⏭️ **dinosaur birthday cake** — 3,600/mo | Nov–Dec 2,900 low, Jan & Mar 4,400 high | SD 30 | $0.39 | Transactional ·
   **dinosaur cake ideas** — 2,900/mo | SD 34 | $0.23 | Informational (both pulled 2026-11-12, locId 2840)

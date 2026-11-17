@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-11-13",
+  "pulled": "2026-11-17",
   "loc_id": 2840,
   "published": [
     {
@@ -2003,20 +2003,42 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-riddles",
       "shopify_article_id": "gid://shopify/Article/635466875030",
       "published_at": "2026-11-16T11:09:06Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "dinosaur scavenger hunt",
       "volume": 260,
       "sd": 21,
       "cpc": 0.36,
       "intent": "Informational",
-      "status": "next_up",
-      "verified": "2026-11-16",
+      "status": "published",
+      "verified": "2026-11-17",
       "peak_month": "202606",
       "peak_volume": 480,
-      "note": "Day 58 (Tue 2026-11-17). Dec 90 low, Jun 480 peak. No live article with 'scavenger' (2026-11-16). Check party-games/activities posts for overlap and pull SERP first."
+      "note": "Day 58. Dec 90 low, Jun 480 peak. SERP 2026-09-12: single-hunt printable posts; pjsandpaint DA 36 #2, lockpaperescape DA 25 #10, playlearninspire DA 19 #14. Party-games game #13 is a one-paragraph hunt; this is the deep page and links back.",
+      "date": "2026-11-17",
+      "day": 58,
+      "slug": "dinosaur-scavenger-hunt",
+      "secondary": [
+        {
+          "keyword": "dinosaur treasure hunt",
+          "volume": 30,
+          "sd": 23
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "dinosaur fossil dig",
+      "volume": 210,
+      "sd": 34,
+      "cpc": 0.64,
+      "intent": "Informational",
+      "status": "next_up",
+      "verified": "2026-11-17",
+      "peak_month": "202603",
+      "peak_volume": 260,
+      "note": "Day 59 (Wed 2026-11-18), provisional. SD 34 stretch; check SERP and overlap with sensory-bin/party-games dig sections. Fallback: discovery pass."
     }
   ],
   "queued_seasonal": [
@@ -3019,6 +3041,33 @@
       "verified": "2026-11-16",
       "status": "skipped",
       "note": "Nov 260, Dec 320. Covered by the by-age gift guide published 2026-10-25 (paired with 'for 3 year olds')."
+    },
+    {
+      "keyword": "dinosaur bingo",
+      "volume": 480,
+      "sd": 22,
+      "cpc": 0.23,
+      "verified": "2026-11-17",
+      "status": "skipped",
+      "note": "Dec 720 peak. Transactional SERP (Etsy #1, boxed game #2, bingobaker #3, popular products). We sell no bingo cards. BACKLOG #75."
+    },
+    {
+      "keyword": "dinosaur treasure hunt",
+      "volume": 30,
+      "sd": 23,
+      "cpc": 0.18,
+      "verified": "2026-11-17",
+      "status": "skipped",
+      "note": "Too small; secondary of the Day 58 scavenger hunt post."
+    },
+    {
+      "keyword": "dinosaur name generator",
+      "volume": 720,
+      "sd": 21,
+      "cpc": 0,
+      "verified": "2026-11-17",
+      "status": "skipped",
+      "note": "Needs an interactive tool, not an article."
     }
   ],
   "rescue_content": [

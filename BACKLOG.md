@@ -1680,3 +1680,15 @@ So the 11-16 snapshot in `data/metrics.json` repeats 11-09's positions, and `dom
 traffic estimate (Oct 1,117). Nothing to fix on our side yet. **Next Monday (11-23):** if the latest collection is
 still 11-04, check the project's tracking settings in the Ubersuggest UI (credits, paused tracking), since a three-week
 gap would leave the 90-day target (2026-11-28) with no measurement.
+
+## 75. No dinosaur bingo cards to sell: `dinosaur bingo` is 480/mo (Dec 720) and the SERP wants the cards 🟢 LOW — merchandising — added 2026-11-17
+
+`dinosaur bingo` pulled 2026-11-17 (locId 2840): 480/mo, **Dec 720 peak**, Jun 590, SD 22, $0.23 CPC. The SERP is
+transactional: an Etsy bingo listing (DA 92) #1, a small shop's boxed bingo game (DA 10) #2, a bingobaker card generator
+#3, then video and popular products. Someone searching wants cards to print or a game to buy, so an article alone
+can't rank, and we have nothing to sell into it. A **printable dinosaur bingo set** (say 10–20 unique cards plus a
+caller sheet, PDF) would fit next to the $3.99–$7.99 coloring pages in `dinosaur-printables`. The #2 result is a DA 10
+product page, which says a product page of our own could rank. If it's made, I'll write the article around it. Missing
+the December peak this year is fine; the June 590 bump is the realistic first target.
+
+**Ask (owner):** decide whether a printable bingo set is worth making. No action needed otherwise.
