@@ -2,7 +2,10 @@
 title: "T. Rex Teeth: How Many It Had, How Big They Got, and How to Spot a Real Fossil Tooth"
 slug: t-rex-teeth
 date: 2026-11-18
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/t-rex-teeth
+shopify_article_id: "gid://shopify/Article/635482669206"
+published_at: 2026-11-18T11:08:27Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-18"
 target_keyword: "t rex teeth"
 target_volume: 4400

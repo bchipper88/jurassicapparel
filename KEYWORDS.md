@@ -767,6 +767,7 @@ Ubersuggest figure that justified it.
   (65), dinosaur-mugs (90), kids-dinosaur-hoodie (14), plus Fossil Hunter tee (T. rex skull badge), T-Rex Skeleton
   hoodie/mug/dad hat and Fossil Hunter youth hoodie, all ACTIVE 2026-11-18. Says plainly that we don't sell fossils.
   Links the T. rex diet post and dinosaur trivia.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/t-rex-teeth
 
 ## 🎯 NEXT UP
 
