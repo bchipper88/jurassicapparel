@@ -1692,3 +1692,16 @@ product page, which says a product page of our own could rank. If it's made, I'l
 the December peak this year is fine; the June 590 bump is the realistic first target.
 
 **Ask (owner):** decide whether a printable bingo set is worth making. No action needed otherwise.
+
+## 76. Four live "T-Rex facts" posts and two drafts compete for `t rex facts` (5,400/mo) 🟡 MEDIUM — blog consolidation / SEO — added 2026-11-18
+
+`t rex facts` pulled 2026-11-18 (locId 2840): **5,400/mo, Mar–May 8,100–9,900**, SD 29, **$2.85 CPC**. That makes it
+winnable and valuable. But the `blog` blog already has four live posts on it: *T-Rex Facts: 25 Mind-Blowing Discoveries…*,
+*Top 10 T. Rex Facts That Will Blow Your Mind (2026 Edition)*, *T-Rex Facts: Everything You Need to Know…*, and
+*T-Rex Diet Facts*. `dinosaur-facts` has *Tyrannosaurus Rex: The Mighty Dinosaur*, and two more sit as drafts (*T Rex
+Information Facts*, *T. Rex Skeleton Facts*). I haven't checked whether any of them rank yet. This is the same pattern
+as the gifts cluster (#12): several pages splitting one intent. A new post would make it worse, so I'm not writing one.
+
+**Next step (agent, at the 2026-12-01 monthly scan):** run `page_overview` on each live URL, pick the canonical, and
+write a consolidation brief ahead of the March ramp. **Ask (owner):** none yet. The brief will need approval because it
+touches live pages.

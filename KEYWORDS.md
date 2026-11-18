@@ -755,13 +755,29 @@ Ubersuggest figure that justified it.
   and crafts posts. Secondaries: `dinosaur treasure hunt` 30/mo SD 23 (2026-11-17), covered in the FAQ.
   **LIVE:** https://jurassicapparel.com/blogs/blog/dinosaur-scavenger-hunt
 
+- ✅ Published (2026-11-18) **t rex teeth** — 4,400/mo | Oct 2025–Feb 2026 4,400, **Mar 6,600 peak**, Apr–May 5,400,
+  **Jun 3,600 low**, Jul–Oct 2026 4,400 (effectively evergreen) | **SD 16** | $0.85 CPC | Informational → `t-rex-teeth`
+  Day 59, discovery pass (`dinosaur fossil dig` ⏭️ below). Twin: `t rex tooth` 4,400/mo SD 13 $0.85, same curve.
+  `how many teeth did t rex have` 880/mo SD 40, answered in section 1 and the FAQ. SERP (collected 2026-11-08, not
+  refreshed): images #1, minimuseum fossil shop (DA 45) #2, Wikipedia *Dinosaur tooth* #3, PAA, **fossilageminerals
+  blog (DA 31) #5**, video, products, dinofossils.co.uk (DA 18) #8, AI overview, Reddit #10, Smithsonian #11, eBay #12,
+  **thecitrinecircle blog (DA 21) #13**, iflscience #23. A mix of fossil sellers and single-angle explainers; nobody
+  covers count, size, shape, replacement, bite evidence, lips, a comparison and buying advice together. Shopify:
+  no live post with "teeth"/"tooth" in the title (2026-11-18). Sells into dinosaur-shirts (212 live), dinosaur-hoodie
+  (65), dinosaur-mugs (90), kids-dinosaur-hoodie (14), plus Fossil Hunter tee (T. rex skull badge), T-Rex Skeleton
+  hoodie/mug/dad hat and Fossil Hunter youth hoodie, all ACTIVE 2026-11-18. Says plainly that we don't sell fossils.
+  Links the T. rex diet post and dinosaur trivia.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 59 (Wed 2026-11-18): discovery pass, lead `dinosaur fossil dig`** — 210/mo | SD 34 | $0.64 CPC |
-  Informational (`keyword_overview`, locId 2840, 2026-11-17). Flat curve (140–260, Mar 260). SD 34 is a stretch, so
-  it needs a SERP check and a genuinely better page; the sensory-bin and party-games posts both have dig sections, so
-  check overlap first. If either blocks it, run a discovery pass (activities, party and gifting clusters are mostly
-  covered; try seasonal Jan–Feb terms: `dinosaur valentines` 2,400 SD 28 is queued for ~Dec 20).
+- 🎯 **Day 60 (Thu 2026-11-19): `t rex skull`, provisional** — 9,900/mo | SD 26 | $0.30 CPC (`keyword_suggestions`,
+  locId 2840, 2026-11-18; intent mixed informational/transactional, so run `keyword_overview` + SERP first). Sells into the
+  T-Rex Skeleton and Dino Skull designs (phone cases, mugs, hoodie, Fossil Hunter tee). Must not duplicate today's teeth
+  post, so it needs its own angle (anatomy, size, famous skulls like Sue and Stan). If the SERP is all replica/cast
+  sellers, fall back to `t rex footprint` (2,900/mo SD 29) or another discovery pass.
+
+- ✅ **Day 59 (Wed 2026-11-18): `t rex teeth` published** (discovery pass, see ✅ Published). `dinosaur fossil dig` ⏭️
+  (local/destination SERP), `t rex arms` ⏭️ (a holster brand). Socks rewrite still unapproved.
 
 - ✅ **Day 58 (Tue 2026-11-17): `dinosaur scavenger hunt` published** (see ✅ Published). `dinosaur bingo` ⏭️
   (transactional SERP, BACKLOG #75). Socks rewrite still unapproved.
@@ -1042,6 +1058,20 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
 ---
 
 ## ⏭️ SKIPPED
+
+- ⏭️ **dinosaur fossil dig** — 210/mo | SD 34 | $0.64 CPC | flat 140–260 (re-verified 2026-11-18, unchanged) — skipped
+  2026-11-18 on the SERP (collected 2026-09-14): people want real dig sites. Wyoming Dinosaur Center "Dig for a Day" #2,
+  a local pack (TM Dinosaur Center, BLM Garden Park, Florissant), hcfossils public digs #8, Montana/NJ/Dino Ridge/Penn
+  Dixie dig pages, Reddit "where can we dig for real bones in the US". A destination guide would need prices and seasons
+  verified site by site and wouldn't sell anything; the at-home dig is already a section of the sensory-bin and
+  party-games posts.
+- ⏭️ **t rex arms** — 49,500/mo | SD 14 (2026-11-18) — a firearms holster brand (trex-arms.com holds #1–#12). Not ours.
+  `why do t rex have short arms` 480/mo SD 30 (Mar 1,000) is the dinosaur version; small, possible later section.
+- ⏭️ **t rex facts** — 5,400/mo | SD 29 | $2.85 CPC (Mar–May 8,100–9,900) — the blog already has four live T. rex facts
+  posts and two drafts. Cannibalised; BACKLOG #76.
+- ⏭️ Zero volume 2026-11-18: `dinosaur gifts for kids`, `dinosaur gifts for 5 year old`, `toddler dinosaur shirt`,
+  `dinosaur pajamas kids`. Too small: `dinosaur christmas cookies` 50 (Dec 320, SD 30), `dinosaur christmas jokes` 30
+  (Dec 320; the jokes post covers it).
 
 - ⏭️ **dinosaur bingo** — 480/mo | Jul 2025 590, Aug 390, Sep–Oct 320, Nov 480, **Dec 720 peak**, Jan–Mar 390, Apr 480,
   May 390, Jun 590, Jul 2026 480 | SD 22 | $0.23 CPC | Informational (Ubersuggest, locId 2840, 2026-11-17). Skipped as a

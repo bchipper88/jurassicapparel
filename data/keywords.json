@@ -1,6 +1,6 @@
 {
   "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
-  "pulled": "2026-11-17",
+  "pulled": "2026-11-18",
   "loc_id": 2840,
   "published": [
     {
@@ -2028,20 +2028,45 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/dinosaur-scavenger-hunt",
       "shopify_article_id": "gid://shopify/Article/635475165334",
       "published_at": "2026-11-17T11:08:20Z"
+    },
+    {
+      "keyword": "t rex teeth",
+      "volume": 4400,
+      "sd": 16,
+      "cpc": 0.85,
+      "intent": "Informational",
+      "status": "published",
+      "verified": "2026-11-18",
+      "peak_month": "202603",
+      "peak_volume": 6600,
+      "note": "Day 59, discovery pass. Flat 4,400, Mar 6,600 peak, Jun 3,600 low. SERP 2026-11-08: fossil sellers + explainers; fossilageminerals DA 31 #5, citrinecircle DA 21 #13. No live teeth/tooth post.",
+      "date": "2026-11-18",
+      "day": 59,
+      "slug": "t-rex-teeth",
+      "secondary": [
+        {
+          "keyword": "t rex tooth",
+          "volume": 4400,
+          "sd": 13
+        },
+        {
+          "keyword": "how many teeth did t rex have",
+          "volume": 880,
+          "sd": 40
+        }
+      ]
     }
   ],
   "next_up": [
     {
-      "keyword": "dinosaur fossil dig",
-      "volume": 210,
-      "sd": 34,
-      "cpc": 0.64,
-      "intent": "Informational",
+      "keyword": "t rex skull",
+      "volume": 9900,
+      "sd": 26,
+      "cpc": 0.3,
+      "intent": "Mixed",
       "status": "next_up",
-      "verified": "2026-11-17",
-      "peak_month": "202603",
-      "peak_volume": 260,
-      "note": "Day 59 (Wed 2026-11-18), provisional. SD 34 stretch; check SERP and overlap with sensory-bin/party-games dig sections. Fallback: discovery pass."
+      "verified": "2026-11-18 (keyword_suggestions only)",
+      "note": "Day 60 (Thu 2026-11-19), provisional. Re-verify with keyword_overview + SERP; needs an angle distinct from t-rex-teeth. Fallback: t rex footprint 2,900 SD 29."
     }
   ],
   "queued_seasonal": [
@@ -3071,6 +3096,42 @@
       "verified": "2026-11-17",
       "status": "skipped",
       "note": "Needs an interactive tool, not an article."
+    },
+    {
+      "keyword": "dinosaur fossil dig",
+      "volume": 210,
+      "sd": 34,
+      "cpc": 0.64,
+      "verified": "2026-11-18",
+      "status": "skipped",
+      "note": "Local/destination SERP (real dig sites); nothing to sell; at-home dig covered by sensory-bin and party-games posts."
+    },
+    {
+      "keyword": "t rex arms",
+      "volume": 49500,
+      "sd": 14,
+      "cpc": 0.16,
+      "verified": "2026-11-18",
+      "status": "skipped",
+      "note": "Firearms holster brand (trex-arms.com #1-#12)."
+    },
+    {
+      "keyword": "t rex facts",
+      "volume": 5400,
+      "sd": 29,
+      "cpc": 2.85,
+      "verified": "2026-11-18",
+      "status": "skipped",
+      "note": "Four live T. rex facts posts + two drafts already; cannibalised. BACKLOG #76."
+    },
+    {
+      "keyword": "why do t rex have short arms",
+      "volume": 480,
+      "sd": 30,
+      "cpc": 0.05,
+      "verified": "2026-11-18",
+      "status": "skipped",
+      "note": "Small; possible future section."
     }
   ],
   "rescue_content": [
@@ -3190,5 +3251,5 @@
       "verified": "2026-10-29"
     }
   ],
-  "last_repull": "2026-11-16"
+  "last_repull": "2026-11-18"
 }
