@@ -781,6 +781,7 @@ Ubersuggest figure that justified it.
   in the title (2026-11-19). Sells into phone-cases (62 live), dinosaur-hoodie (65), dinosaur-mugs (90),
   dinosaur-tote-bag (50), plus the Dino Skull and T-Rex Skeleton iPhone cases, T-Rex Skeleton hoodie/mug/tote and
   Fossil Hunter tee, all ACTIVE and available 2026-11-19. Says plainly that we don't sell fossils or casts.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/t-rex-skull
 
 ## 🎯 NEXT UP
 

@@ -2,7 +2,10 @@
 title: "The T. Rex Skull: How Big It Was, Why It Has Holes, and the Famous Skulls You Can Still See"
 slug: t-rex-skull
 date: 2026-11-19
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/t-rex-skull
+shopify_article_id: "gid://shopify/Article/635506950294"
+published_at: 2026-11-19T11:06:53Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-19"
 target_keyword: "t rex skull"
 target_volume: 9900
