@@ -768,14 +768,31 @@ Ubersuggest figure that justified it.
   hoodie/mug/dad hat and Fossil Hunter youth hoodie, all ACTIVE 2026-11-18. Says plainly that we don't sell fossils.
   Links the T. rex diet post and dinosaur trivia.
   **LIVE:** https://jurassicapparel.com/blogs/blog/t-rex-teeth
+- ✅ Published (2026-11-19) **t rex skull** — 9,900/mo | **Oct 2025–May 2026 12,100 plateau**, **Jun–Jul 8,100 low**,
+  Aug–Oct 2026 9,900 (near-flat) | **SD 26** | $0.30 CPC | Informational → `t-rex-skull`
+  Day 60, planned target, re-verified with `keyword_overview` (locId 2840, 2026-11-19). SERP (collected 2026-11-08,
+  read free, not refreshed): images #1, popular products #2, **fossilageminerals blog (DA 31) #3** (the same blog we
+  compete with on teeth), PAA, Adobe Stock #5, AI overview, lmtreasures replica (DA 27) #7, thelittlecaterpillar
+  replica (DA 9) #8, iStock #9, Facebook tattoo post #10, Scientific American news #11, a printable skull on Gumroad
+  #12, then more product packs, Reddit, Smithsonian news and replica sellers. One real explainer in the top 10, and
+  it's DA 31. Angle kept distinct from `t-rex-teeth`: size and weight, a table of the skull openings, senses (eyes,
+  nose, brain), bite reinforcement, juvenile vs adult (Nanotyrannus, hedged), a famous-skulls table (Sue, AMNH 5027,
+  Nation's T. rex, Stan, Tufts-Love, Scotty), casts vs real, kids' facts and an FAQ. Shopify: no live post with "skull"
+  in the title (2026-11-19). Sells into phone-cases (62 live), dinosaur-hoodie (65), dinosaur-mugs (90),
+  dinosaur-tote-bag (50), plus the Dino Skull and T-Rex Skeleton iPhone cases, T-Rex Skeleton hoodie/mug/tote and
+  Fossil Hunter tee, all ACTIVE and available 2026-11-19. Says plainly that we don't sell fossils or casts.
 
 ## 🎯 NEXT UP
 
-- 🎯 **Day 60 (Thu 2026-11-19): `t rex skull`, provisional** — 9,900/mo | SD 26 | $0.30 CPC (`keyword_suggestions`,
-  locId 2840, 2026-11-18; intent mixed informational/transactional, so run `keyword_overview` + SERP first). Sells into the
-  T-Rex Skeleton and Dino Skull designs (phone cases, mugs, hoodie, Fossil Hunter tee). Must not duplicate today's teeth
-  post, so it needs its own angle (anatomy, size, famous skulls like Sue and Stan). If the SERP is all replica/cast
-  sellers, fall back to `t rex footprint` (2,900/mo SD 29) or another discovery pass.
+- 🎯 **Day 61 (Fri 2026-11-20): `t rex size`** — 6,600/mo | SD 30 | $1.48 CPC | Informational (`keyword_overview`,
+  locId 2840, 2026-11-19). Curve: Oct–Nov 6,600, Dec–Jan 5,400, **Mar 9,900 peak**, May 8,100, Jun–Sep 5,400. Twin:
+  `how tall was t rex` 5,400/mo SD 29 (Mar 8,100), same page. SD 30 is the top of the winnable band, so pull the SERP
+  first. Check Shopify for any live "size"/"how big" T. rex post before writing (BACKLOG #76 lists four T. rex facts
+  posts). Must not repeat the skull or teeth pages; length, height, weight, a human/bus/elephant comparison table and
+  how size estimates are made. Fallback: `t rex footprint` (2,900/mo SD 29, from suggestions).
+
+- ✅ **Day 60 (Thu 2026-11-19): `t rex skull` published** (planned target held, see ✅ Published). Socks rewrite still
+  unapproved.
 
 - ✅ **Day 59 (Wed 2026-11-18): `t rex teeth` published** (discovery pass, see ✅ Published). `dinosaur fossil dig` ⏭️
   (local/destination SERP), `t rex arms` ⏭️ (a holster brand). Socks rewrite still unapproved.

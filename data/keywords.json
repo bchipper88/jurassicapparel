@@ -2058,18 +2058,43 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/t-rex-teeth",
       "shopify_article_id": "gid://shopify/Article/635482669206",
       "published_at": "2026-11-18T11:08:27Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "t rex skull",
       "volume": 9900,
       "sd": 26,
       "cpc": 0.3,
-      "intent": "Mixed",
+      "intent": "Informational",
+      "seasonality": "Oct 2025-May 2026 12,100; Jun-Jul 8,100; Aug-Oct 9,900",
+      "verified": "2026-11-19",
+      "date": "2026-11-19",
+      "slug": "t-rex-skull",
+      "secondary": [
+        {
+          "keyword": "tyrannosaurus rex skull",
+          "volume": null,
+          "sd": null
+        },
+        {
+          "keyword": "sue t rex skull",
+          "volume": null,
+          "sd": null
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "t rex size",
+      "volume": 6600,
+      "sd": 30,
+      "cpc": 1.48,
+      "intent": "Informational",
       "status": "next_up",
-      "verified": "2026-11-18 (keyword_suggestions only)",
-      "note": "Day 60 (Thu 2026-11-19), provisional. Re-verify with keyword_overview + SERP; needs an angle distinct from t-rex-teeth. Fallback: t rex footprint 2,900 SD 29."
+      "verified": "2026-11-19",
+      "peak_volume": 9900,
+      "peak_month": "202603",
+      "note": "Day 61 (Fri 2026-11-20). Twin: how tall was t rex 5,400 SD 29. Pull SERP first (SD at top of band); check for an existing size post. Fallback: t rex footprint 2,900 SD 29."
     }
   ],
   "queued_seasonal": [
