@@ -783,14 +783,33 @@ Ubersuggest figure that justified it.
   Fossil Hunter tee, all ACTIVE and available 2026-11-19. Says plainly that we don't sell fossils or casts.
   **LIVE:** https://jurassicapparel.com/blogs/blog/t-rex-skull
 
+- ✅ Published (2026-11-20) **t rex size** — 6,600/mo | Oct–Nov 6,600, Dec–Jan 5,400, **Mar 9,900 peak**, May 8,100,
+  Jun–Sep 5,400 | **SD 30** | $1.48 CPC | Informational → `t-rex-size`
+  Day 61, planned target, re-verified with `keyword_overview` (locId 2840, 2026-11-20). Twin `how tall was t rex`
+  5,400/mo SD 29 (Mar 8,100) on the same page; `how much does a t rex weigh` 880/mo SD 43 answered, not targeted.
+  SERP (collected 2026-11-07, read free, not refreshed): AI overview, images, PAA, then YouTube #4, a Facebook video
+  #5, dino.fandom wiki #6, Live Science news (the 2024 "70% bigger" study) #8, a Dinopedia forum post #10, YouTube
+  Shorts, BBC Newsround #13, Discover Wildlife #14, Quora #15. No dedicated explainer page in the organic top 10, so
+  SD 30 was worth taking. Shopify: no live post with "size"/"tall"/"big" T. rex in the title (2026-11-20; the
+  biggest-dinosaur post is about sauropods and is linked). Angle kept distinct from skull/teeth: at-a-glance table,
+  length, hip vs head height (why old books say 20 ft), weight and how it's estimated, growth rings, the Mallon & Hone
+  2024 upper bound (hedged), juveniles (Jane), a rivals table, a driveway chalk activity, kids' facts and an FAQ.
+  Sells into dinosaur-shirts (212 live), kids-dinosaur-apparel (199), dinosaur-posters (15), dinosaur-backpack (14),
+  plus the T-Rex adult/kids shirts, T-Rex kids backpack, T-Rex Sunset poster and Volcano T-Rex puzzle, all ACTIVE and
+  available 2026-11-20.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 61 (Fri 2026-11-20): `t rex size`** — 6,600/mo | SD 30 | $1.48 CPC | Informational (`keyword_overview`,
-  locId 2840, 2026-11-19). Curve: Oct–Nov 6,600, Dec–Jan 5,400, **Mar 9,900 peak**, May 8,100, Jun–Sep 5,400. Twin:
-  `how tall was t rex` 5,400/mo SD 29 (Mar 8,100), same page. SD 30 is the top of the winnable band, so pull the SERP
-  first. Check Shopify for any live "size"/"how big" T. rex post before writing (BACKLOG #76 lists four T. rex facts
-  posts). Must not repeat the skull or teeth pages; length, height, weight, a human/bus/elephant comparison table and
-  how size estimates are made. Fallback: `t rex footprint` (2,900/mo SD 29, from suggestions).
+- 🎯 **Day 62 (Sat 2026-11-21): `t rex footprint`** — 2,900/mo | SD 29 | $0.08 CPC | Informational
+  (`keyword_overview`, locId 2840, 2026-11-20). Curve: Nov–Dec 1,600 (low), Jan 1,900, Feb 2,400, **Mar 2,900**,
+  Apr–May 2,400, Jun–Jul 1,600–1,900, **Sep 2026 spike 9,900** (one month; likely a news event — check what it was,
+  don't plan around it). Pull the SERP first (line 1191 notes a related footprint query had track/fossil intent, which
+  fits an explainer). Angle: how big a T. rex footprint is, the few tracks actually attributed to tyrannosaurs, how
+  to tell a track from a print, stride and speed from trackways. Link the new size page. Fallback: re-pull
+  suggestions around `t rex` for the next winnable term.
+
+- ✅ **Day 61 (Fri 2026-11-20): `t rex size` published** (planned target held, see ✅ Published). Socks rewrite still
+  unapproved.
 
 - ✅ **Day 60 (Thu 2026-11-19): `t rex skull` published** (planned target held, see ✅ Published). Socks rewrite still
   unapproved.

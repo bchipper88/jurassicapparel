@@ -2084,20 +2084,46 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/t-rex-skull",
       "shopify_article_id": "gid://shopify/Article/635506950294",
       "published_at": "2026-11-19T11:06:53Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "t rex size",
       "volume": 6600,
       "sd": 30,
       "cpc": 1.48,
       "intent": "Informational",
+      "seasonality": "Oct-Nov 6,600; Dec-Jan 5,400; Mar 9,900 peak; May 8,100; Jun-Sep 5,400",
+      "verified": "2026-11-20",
+      "date": "2026-11-20",
+      "slug": "t-rex-size",
+      "secondary": [
+        {
+          "keyword": "how tall was t rex",
+          "volume": 5400,
+          "sd": 29
+        },
+        {
+          "keyword": "how much does a t rex weigh",
+          "volume": 880,
+          "sd": 43
+        }
+      ],
+      "live_url": null,
+      "shopify_article_id": null,
+      "published_at": null
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "t rex footprint",
+      "volume": 2900,
+      "sd": 29,
+      "cpc": 0.08,
+      "intent": "Informational",
       "status": "next_up",
-      "verified": "2026-11-19",
+      "verified": "2026-11-20",
       "peak_volume": 9900,
-      "peak_month": "202603",
-      "note": "Day 61 (Fri 2026-11-20). Twin: how tall was t rex 5,400 SD 29. Pull SERP first (SD at top of band); check for an existing size post. Fallback: t rex footprint 2,900 SD 29."
+      "peak_month": "202609",
+      "note": "Day 62 (Sat 2026-11-21). Sep 2026 9,900 is a one-month spike; underlying Mar high 2,900. Pull SERP first. Link t-rex-size."
     }
   ],
   "queued_seasonal": [
@@ -3282,5 +3308,5 @@
       "verified": "2026-10-29"
     }
   ],
-  "last_repull": "2026-11-18"
+  "last_repull": "2026-11-20"
 }
