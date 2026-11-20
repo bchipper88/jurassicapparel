@@ -797,6 +797,7 @@ Ubersuggest figure that justified it.
   Sells into dinosaur-shirts (212 live), kids-dinosaur-apparel (199), dinosaur-posters (15), dinosaur-backpack (14),
   plus the T-Rex adult/kids shirts, T-Rex kids backpack, T-Rex Sunset poster and Volcano T-Rex puzzle, all ACTIVE and
   available 2026-11-20.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/t-rex-size
 
 ## 🎯 NEXT UP
 
