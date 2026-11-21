@@ -799,15 +799,34 @@ Ubersuggest figure that justified it.
   available 2026-11-20.
   **LIVE:** https://jurassicapparel.com/blogs/blog/t-rex-size
 
+- ✅ Published (2026-11-21) **t rex footprint** — 2,900/mo | Nov–Dec 1,600 (low), Feb 2,400, **Mar 2,900**, Jun–Jul
+  1,600–1,900, **Sep 2026 9,900 spike** (news), Oct 2,900 | **SD 29** | $0.08 CPC | Informational → `t-rex-footprint`
+  Day 62, planned target, re-verified with `keyword_overview` (locId 2840, 2026-11-21); numbers held exactly. **The
+  September spike was news:** the first trackway credited to an adult T. rex (four prints, Marmarth ND, Falkingham et
+  al., *JVP* 2026, reported 2026-09-14). SERP (collected 2026-11-09, read free, not refreshed): AI overview, Reddit #2,
+  YouTube #3, Shutterstock #4, ScienceAlert news #5, NHM London explainer #6, YouTube #8, Facebook #10, Popular
+  Mechanics #12, NBC #14, iStock #15, 9news #16, Philmont fandom #18, Newsweek #19, Getty #20. Only one explainer (NHM,
+  generic) on page 1; the rest are news, video and stock. Secondaries: `dinosaur footprints` 12,100/mo **SD 39**
+  (stretch, not targeted), `how fast can a t rex run` 2,400/mo SD 30 (speed section). Shopify: no live post with
+  "footprint"/"track" in the title (2026-11-21). Angle: size + comparisons, all known T. rex tracks (Philmont 1983/94,
+  Hell Creek 2007, Glenrock 2016, Marmarth 2026), the *Tyrannosauropus* mistake, *Bellatoripes*, why tracks are rare,
+  true track/undertrack/cast, a theropod-vs-hadrosaur table, stride→speed (Alexander 1976) worked on the ND numbers,
+  a life-size driveway trackway activity, kids' facts and an FAQ. Sells into dinosaur-shirts (212 live),
+  kids-dinosaur-apparel (199), dinosaur-posters (15), dinosaur-puzzles (14), plus the T-Rex adult/kids shirts, T-Rex
+  Sunset poster and Volcano T-Rex puzzle, all ACTIVE and available 2026-11-21.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 62 (Sat 2026-11-21): `t rex footprint`** — 2,900/mo | SD 29 | $0.08 CPC | Informational
-  (`keyword_overview`, locId 2840, 2026-11-20). Curve: Nov–Dec 1,600 (low), Jan 1,900, Feb 2,400, **Mar 2,900**,
-  Apr–May 2,400, Jun–Jul 1,600–1,900, **Sep 2026 spike 9,900** (one month; likely a news event — check what it was,
-  don't plan around it). Pull the SERP first (line 1191 notes a related footprint query had track/fossil intent, which
-  fits an explainer). Angle: how big a T. rex footprint is, the few tracks actually attributed to tyrannosaurs, how
-  to tell a track from a print, stride and speed from trackways. Link the new size page. Fallback: re-pull
-  suggestions around `t rex` for the next winnable term.
+- 🎯 **Day 63 (Sun 2026-11-22): `allosaurus vs t rex`** — 5,400/mo | SD 26 | $0 CPC | Informational
+  (`keyword_suggestions`, locId 2840, 2026-11-21; run `keyword_overview` for the curve before drafting). Pull the SERP
+  first; versus queries often go to video. Angle: they never met (about 80 million years apart), a side-by-side
+  table (size, weight, skull, bite, arms, where and when), how a fight *would* go on the evidence, and why Jurassic
+  World pairs them. Link t-rex-size, t-rex-skull, t-rex-teeth. Fallbacks from the same pull: `feathered tyrannosaurus
+  rex` 2,900 SD 25, `what did a t rex eat` 2,400 SD 28, `t rex where did it live` 3,600 SD 30. Avoid `t rex fun fact`
+  (5,400 SD 27) until #76 (the t rex facts split) is settled.
+
+- ✅ **Day 62 (Sat 2026-11-21): `t rex footprint` published** (planned target held, see ✅ Published). Socks rewrite
+  still unapproved.
 
 - ✅ **Day 61 (Fri 2026-11-20): `t rex size` published** (planned target held, see ✅ Published). Socks rewrite still
   unapproved.

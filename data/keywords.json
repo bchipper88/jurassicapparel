@@ -2110,20 +2110,45 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/t-rex-size",
       "shopify_article_id": "gid://shopify/Article/635512586390",
       "published_at": "2026-11-20T11:06:50Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "t rex footprint",
       "volume": 2900,
       "sd": 29,
       "cpc": 0.08,
       "intent": "Informational",
+      "seasonality": "Base 1,600-2,900; Nov-Dec 1,600 low; Mar 2,900; Sep 2026 9,900 one-month news spike (ND trackway)",
+      "verified": "2026-11-21",
+      "date": "2026-11-21",
+      "slug": "t-rex-footprint",
+      "secondary": [
+        {
+          "keyword": "dinosaur footprints",
+          "volume": 12100,
+          "sd": 39
+        },
+        {
+          "keyword": "how fast can a t rex run",
+          "volume": 2400,
+          "sd": 30
+        }
+      ],
+      "live_url": null,
+      "shopify_article_id": null,
+      "published_at": null
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "allosaurus vs t rex",
+      "volume": 5400,
+      "sd": 26,
+      "cpc": 0,
+      "intent": "Informational",
       "status": "next_up",
-      "verified": "2026-11-20",
-      "peak_volume": 9900,
-      "peak_month": "202609",
-      "note": "Day 62 (Sat 2026-11-21). Sep 2026 9,900 is a one-month spike; underlying Mar high 2,900. Pull SERP first. Link t-rex-size."
+      "verified": "2026-11-21",
+      "source": "keyword_suggestions",
+      "note": "Day 63 (Sun 2026-11-22). Run keyword_overview for the curve and read the SERP first. Fallbacks: feathered tyrannosaurus rex 2900/SD25, what did a t rex eat 2400/SD28, t rex where did it live 3600/SD30."
     }
   ],
   "queued_seasonal": [
