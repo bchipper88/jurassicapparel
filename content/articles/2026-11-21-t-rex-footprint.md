@@ -2,7 +2,10 @@
 title: "T. Rex Footprint: How Big It Was, and the Few Real Tracks We've Found"
 slug: t-rex-footprint
 date: 2026-11-21
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/t-rex-footprint
+shopify_article_id: "gid://shopify/Article/635518255254"
+published_at: 2026-11-21T11:08:26Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-21"
 target_keyword: "t rex footprint"
 target_volume: 2900
@@ -42,7 +45,7 @@ sources:
   - "McCrea et al. 2014 (Bellatoripes fredlundi, tyrannosaurid trackways, British Columbia)"
   - "Alexander 1976 (speed from stride and hip height)"
   - "Natural History Museum, London: 'Dinosaur footprints: how do they form'"
-word_count: 3024
+word_count: 3030
 ---
 
 # T. Rex Footprint: How Big It Was, and the Few Real Tracks We've Found
@@ -66,7 +69,7 @@ There's also a backyard activity at the end that puts a life-size trackway on yo
 | **How many toes touched the ground?** | Three big forward-pointing toes. A small fourth (the dewclaw) sat higher on the foot and only sometimes left a mark |
 | **Stride** (same foot to same foot) | About 13 ft (4 m) in the 2026 North Dakota trackway |
 | **Walking speed from that trackway** | About 1.5–2 m/s, or 3.3–4.5 mph: a person's brisk walk |
-| **How many known T. rex tracks?** | A handful. Only one trackway (several prints in a row) has been described as the work of an adult T. rex |
+| **How many known T. rex tracks?** | A handful, including two trackways (several prints in a row). The 2026 North Dakota one is the clearest |
 | **Where?** | The American West: New Mexico, Montana, Wyoming and North Dakota |
 | **How old?** | About 66–67 million years, near the very end of the age of dinosaurs |
 
@@ -144,7 +147,7 @@ What they found:
   carbonate, so the "footprints" stand up from the rock instead of sinking into it.
 
 The authors' conclusion is worded carefully: an adult *Tyrannosaurus rex* is "the most likely trackmaker," based on
-the tracks' age, location and shape. That's the first trackway credited to an adult T. rex, and it's the first chance
+the tracks' age, location and shape. News coverage called it the first trackway of an adult T. rex. Either way, it's the best chance yet
 to measure how one actually walked rather than modelling it from bones.
 
 ### And one that was wrong
@@ -235,7 +238,7 @@ Here's how the method plays out, as our own back-of-envelope check rather than t
   4.5 mph**.
 
 In other words, this T. rex was strolling at about the pace of a grown-up walking briskly to catch a bus. That's not
-very dramatic, but it's real. It's the first measured walking speed for an adult T. rex.
+very dramatic, but it's real. It's the best-measured walking speed we have for an adult T. rex.
 
 ### So how fast could a T. rex run?
 
@@ -285,10 +288,10 @@ If footprints have become someone's whole personality this week, we can help wit
 
 ## Kids' quick facts about T. rex footprints
 
-1. A big T. rex footprint was about **3 feet long**, longer than most kids' legs.
+1. A big T. rex footprint was about **3 feet long**, longer than a preschooler's leg.
 2. T. rex walked on **three big toes**. A small fourth toe sat up high, like a dog's dewclaw.
 3. Scientists have found **thousands of dinosaur footprints**, but only **a handful** are thought to be T. rex.
-4. The first trackway credited to an adult T. rex was found by a **high school science teacher** in North Dakota.
+4. The best T. rex trackway yet was found by a **high school science teacher** in North Dakota.
 5. Each step that T. rex took was about **6½ feet** long, and one full stride was about **13 feet**.
 6. That T. rex was **walking**, at about the speed of a grown-up in a hurry.
 7. Some fossil footprints are actually **casts**: sand filled the print, hardened, and now sticks up like a stone
@@ -313,7 +316,7 @@ museums sometimes show casts of tracks.
 ### How many T. rex footprints have been found?
 
 Very few. There's the single New Mexico print, a single print from Montana, a probable trackway in Wyoming, and the
-four-print North Dakota trackway described in 2026. That last one is the first trackway credited to an adult T. rex.
+four-print North Dakota trackway described in 2026. That last one is the clearest, and the news coverage called it the first trackway of an adult T. rex.
 
 ### How many toes did a T. rex have?
 

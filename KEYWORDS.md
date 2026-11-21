@@ -814,6 +814,7 @@ Ubersuggest figure that justified it.
   a life-size driveway trackway activity, kids' facts and an FAQ. Sells into dinosaur-shirts (212 live),
   kids-dinosaur-apparel (199), dinosaur-posters (15), dinosaur-puzzles (14), plus the T-Rex adult/kids shirts, T-Rex
   Sunset poster and Volcano T-Rex puzzle, all ACTIVE and available 2026-11-21.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/t-rex-footprint
 
 ## 🎯 NEXT UP
 
