@@ -816,15 +816,30 @@ Ubersuggest figure that justified it.
   Sunset poster and Volcano T-Rex puzzle, all ACTIVE and available 2026-11-21.
   **LIVE:** https://jurassicapparel.com/blogs/blog/t-rex-footprint
 
+- ✅ Published (2026-11-22) **allosaurus vs t rex** — 5,400/mo | evergreen, base 4,400–5,400, **Mar 2026 12,100 spike**
+  (one month, cause not identified), Apr 6,600 | **SD 26** | $0 CPC | Informational → `allosaurus-vs-t-rex`
+  Day 63, planned target, verified with `keyword_overview` (locId 2840, 2026-11-22). `allosaurus vs tyrannosaurus` has
+  an identical curve (5,400, SD 26), so it is the same query. `allosaurus size` 1,900 SD 31 (size section). SERP
+  (collected 2026-11-08, read free, not refreshed): AI overview, images, PAA, Facebook video #4, Quora #8/#9/#15/#18,
+  YouTube (The Isle) #10, Reddit #11, a scraped help.wi.mit.edu page #12, dreager1.com (DA 36) #16, Facebook group #17.
+  No explainer on page 1. Shopify: the only Allosaurus post is the generic `dinosaur-facts/allosaurus-king-of-the-jurassic-predators`
+  fact file (no vs angle), now linked as a cluster page. Angle: the ~80-million-year gap, carnosaur vs coelurosaur, a
+  side-by-side table, size, Rayfield 2001 hatchet bite vs T. rex crushing bite, Lautenschlager 2015 gape, arms, speed,
+  Big Al's injuries, Stegosaurus wound evidence, a who-would-win section and Jurassic World. Sells into dinosaur-hoodie
+  (65 live), dinosaur-shirts (212), kids-dinosaur-apparel (199), plus the Allosaurus adult hoodie (S–3XL, 10 colors)
+  and T-Rex adult/kids shirts, all ACTIVE and available 2026-11-22.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 63 (Sun 2026-11-22): `allosaurus vs t rex`** — 5,400/mo | SD 26 | $0 CPC | Informational
-  (`keyword_suggestions`, locId 2840, 2026-11-21; run `keyword_overview` for the curve before drafting). Pull the SERP
-  first; versus queries often go to video. Angle: they never met (about 80 million years apart), a side-by-side
-  table (size, weight, skull, bite, arms, where and when), how a fight *would* go on the evidence, and why Jurassic
-  World pairs them. Link t-rex-size, t-rex-skull, t-rex-teeth. Fallbacks from the same pull: `feathered tyrannosaurus
-  rex` 2,900 SD 25, `what did a t rex eat` 2,400 SD 28, `t rex where did it live` 3,600 SD 30. Avoid `t rex fun fact`
-  (5,400 SD 27) until #76 (the t rex facts split) is settled.
+- 🎯 **Day 64 (Mon 2026-11-23): `feathered tyrannosaurus rex`** — 2,900/mo | SD 25 | $0.46 CPC | Informational
+  (`keyword_overview`, locId 2840, 2026-11-22). Curve 1,900–3,600: Oct–Nov 2025 1,900, **Dec 3,600**, Jan–Feb 2,900,
+  **Mar 3,600**, Apr–Oct 2,400–2,900. Read the SERP first. Angle: what the evidence says (Yutyrannus and Dilong had
+  feathers; T. rex skin patches show scales), the 2017 Bell et al. scale study, juveniles vs adults, and why museum
+  models keep changing. Link t-rex-size, t-rex-skull, allosaurus-vs-t-rex. Fallbacks: `what did a t rex eat` 2,400 SD
+  28, `t rex where did it live` 3,600 SD 30. Monday: also run the weekly rank-tracking routine.
+
+- ✅ **Day 63 (Sun 2026-11-22): `allosaurus vs t rex` published** (planned target held, see ✅ Published). Socks rewrite
+  still unapproved.
 
 - ✅ **Day 62 (Sat 2026-11-21): `t rex footprint` published** (planned target held, see ✅ Published). Socks rewrite
   still unapproved.

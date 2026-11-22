@@ -2136,19 +2136,44 @@
       "live_url": "https://jurassicapparel.com/blogs/blog/t-rex-footprint",
       "shopify_article_id": "gid://shopify/Article/635518255254",
       "published_at": "2026-11-21T11:08:26Z"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "allosaurus vs t rex",
       "volume": 5400,
       "sd": 26,
       "cpc": 0,
       "intent": "Informational",
+      "seasonality": "Evergreen; base 4,400-5,400; Mar 2026 12,100 one-month spike (cause not identified)",
+      "verified": "2026-11-22",
+      "date": "2026-11-22",
+      "slug": "allosaurus-vs-t-rex",
+      "secondary": [
+        {
+          "keyword": "allosaurus vs tyrannosaurus",
+          "volume": 5400,
+          "sd": 26
+        },
+        {
+          "keyword": "allosaurus size",
+          "volume": 1900,
+          "sd": 31
+        }
+      ],
+      "live_url": null
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "feathered tyrannosaurus rex",
+      "volume": 2900,
+      "sd": 25,
+      "cpc": 0.46,
+      "intent": "Informational",
       "status": "next_up",
-      "verified": "2026-11-21",
-      "source": "keyword_suggestions",
-      "note": "Day 63 (Sun 2026-11-22). Run keyword_overview for the curve and read the SERP first. Fallbacks: feathered tyrannosaurus rex 2900/SD25, what did a t rex eat 2400/SD28, t rex where did it live 3600/SD30."
+      "verified": "2026-11-22",
+      "source": "keyword_overview",
+      "seasonality": "Base 1,900-3,600; Oct-Nov 2025 1,900, Dec 3,600, Mar 3,600, otherwise 2,400-2,900",
+      "note": "Day 64 (Mon 2026-11-23). Read the SERP first. Fallbacks: what did a t rex eat 2400/SD28, t rex where did it live 3600/SD30."
     }
   ],
   "queued_seasonal": [
