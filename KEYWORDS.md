@@ -828,6 +828,7 @@ Ubersuggest figure that justified it.
   Big Al's injuries, Stegosaurus wound evidence, a who-would-win section and Jurassic World. Sells into dinosaur-hoodie
   (65 live), dinosaur-shirts (212), kids-dinosaur-apparel (199), plus the Allosaurus adult hoodie (S–3XL, 10 colors)
   and T-Rex adult/kids shirts, all ACTIVE and available 2026-11-22.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/allosaurus-vs-t-rex
 
 ## 🎯 NEXT UP
 

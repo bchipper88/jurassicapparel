@@ -2,7 +2,10 @@
 title: "Allosaurus vs T. Rex: Size, Bite and Who Would Win (They Never Met)"
 slug: allosaurus-vs-t-rex
 date: 2026-11-22
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/allosaurus-vs-t-rex
+shopify_article_id: "gid://shopify/Article/635520450710"
+published_at: 2026-11-22T11:07:43Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-22"
 target_keyword: "allosaurus vs t rex"
 target_volume: 5400
@@ -210,11 +213,13 @@ Allosaurus's best weapon, the hatchet strike, was designed to wound big plant-ea
 animal four times its weight that bites back, that's a poor plan.
 
 **What Allosaurus had going for it:**
+
 - Speed and agility, probably.
 - Grasping arms with big claws, which T. rex didn't have.
 - A wide gape and slicing teeth that could open long wounds.
 
 **What T. rex had going for it:**
+
 - About four times the weight.
 - A bite many times stronger, with teeth that could break bone.
 - A heavily built skull and neck designed to take the strain.
