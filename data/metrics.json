@@ -426,6 +426,48 @@
       },
       "articles_published": 57,
       "notes": "NO NEW RANK DATA. The latest collection is still 2026-11-04 (82 of 91 keywords); the 11-11 collection announced last week has not appeared. The report window moved (10-21 baseline instead of 10-14), so bins and up/down shifted slightly, but the latest positions are identical to the 11-09 snapshot. Domain overview: still no November estimate (Oct 1,117); backlinks 2,611 -> 2,610, ref domains 1,247 -> 1,253. Do not read this week as flat performance; it is a missing collection."
+    },
+    {
+      "date": "2026-11-23",
+      "type": "weekly",
+      "source": "Ubersuggest project_position_info (locId 2840, en, desktop, 2026-10-24..2026-11-23, done=true, latest collection 2026-11-19 for 67 of 91 keywords, next_update 2026-11-26); domain_overview (locId 2840, 2026-11-23).",
+      "domain_authority": 15,
+      "organic_keywords": 4392,
+      "est_monthly_organic_traffic": 1117,
+      "traffic_month": "202610",
+      "backlinks": 2627,
+      "ref_domains": 1270,
+      "tracked_keywords": 91,
+      "rank_movement": {
+        "up": 32,
+        "down": 38,
+        "unchanged": 21
+      },
+      "tracked_bins": {
+        "top_3": {
+          "old": 17,
+          "new": 17
+        },
+        "top_10": {
+          "old": 32,
+          "new": 29
+        },
+        "top_100": {
+          "old": 31,
+          "new": 32
+        },
+        "not_ranking": {
+          "old": 11,
+          "new": 13
+        }
+      },
+      "average_position": {
+        "2026-10-28": 12.45,
+        "2026-11-04": 11.32,
+        "2026-11-19": 12.42
+      },
+      "articles_published": 64,
+      "notes": "FIRST NEW COLLECTION SINCE 11-04 (2026-11-19, 67 keywords). Average position 11.32 -> 12.42. Counted from latest positions: top 3 fell 24 -> 17, positions 4-10 28 -> 29. Much of the >5-position churn is Google swapping which of our URLs ranks (product vs collection vs blog) rather than a real loss: e.g. 'dinosaur backpacks' 2 -> 26 while 'dinosaur backpack' 35 -> 2; 'dinosaur purses' 1 -> 26 while 'dinosaur purse' 19 -> 1. Real in-season losses: 'dinosaur christmas sweater' 14 -> 28, 'dinosaur christmas' 21 -> not ranking, 'dino christmas wrapping paper' 14 -> 26, 'dinosaur socks' 7 -> 34, 'dinosaur phone cases' 1 -> 39, 'irritator' (14,800/mo) 12 -> 37. Gains: 'dinosaur shirts' 62 -> 9, 'dinosaur blanket' 26 -> 10, 'dinosaur posters' 23 -> 4, 'dinosaur mugs' 15 -> 1, 'dinosaur clothes for adults' 14 -> 2. DA 16 -> 15; backlinks 2,610 -> 2,627, ref domains 1,253 -> 1,270. Domain overview still has no November traffic estimate."
     }
   ],
   "traffic_history": {
@@ -487,6 +529,14 @@
         "previous_date": "2026-11-09",
         "top_3": 24,
         "note": "Unchanged because no new rank collection since 2026-11-04."
+      },
+      {
+        "date": "2026-11-23",
+        "positions_4_10": 29,
+        "previous": 28,
+        "previous_date": "2026-11-16",
+        "top_3": 17,
+        "note": "Counted from latest positions (mostly the 2026-11-19 collection). top_3 24 -> 17: the 11-04 high did not hold; several top-3 terms are URL swaps between our own pages."
       }
     ]
   },

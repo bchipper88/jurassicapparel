@@ -1681,6 +1681,9 @@ traffic estimate (Oct 1,117). Nothing to fix on our side yet. **Next Monday (11-
 still 11-04, check the project's tracking settings in the Ubersuggest UI (credits, paused tracking), since a three-week
 gap would leave the 90-day target (2026-11-28) with no measurement.
 
+**Update 2026-11-23: resolved on its own.** The 11-23 pull has a **2026-11-19** collection for 67 of 91 keywords
+(16 still dated 11-04, 3 dated 10-28, 5 undated); `next_update` 2026-11-26. No settings check needed. Close at the Dec 1 prune.
+
 ## 75. No dinosaur bingo cards to sell: `dinosaur bingo` is 480/mo (Dec 720) and the SERP wants the cards 🟢 LOW — merchandising — added 2026-11-17
 
 `dinosaur bingo` pulled 2026-11-17 (locId 2840): 480/mo, **Dec 720 peak**, Jun 590, SD 22, $0.23 CPC. The SERP is
@@ -1705,3 +1708,21 @@ as the gifts cluster (#12): several pages splitting one intent. A new post would
 **Next step (agent, at the 2026-12-01 monthly scan):** run `page_overview` on each live URL, pick the canonical, and
 write a consolidation brief ahead of the March ramp. **Ask (owner):** none yet. The brief will need approval because it
 touches live pages.
+
+## 77. Google keeps swapping which of our own URLs ranks for a head term (product vs collection vs blog) 🟡 MEDIUM — SEO / internal linking — added 2026-11-23
+
+The 2026-11-23 weekly pull (`project_position_info`, locId 2840, collections 10-28 → 11-19) shows paired moves where
+one URL rises as another falls for nearly the same query:
+- `dinosaur backpacks` (5,400) 2 → 26, now on a single product (`colorful-dinos-kids-dinosaur-backpack`), while
+  `dinosaur backpack` (5,400) 35 → 2 on the blog post `dinosaur-backpacks`.
+- `dinosaur purses` (1,000) 1 → 26 on `neon-dinos-dinosaur-purse`, while `dinosaur purse` 19 → 1 on another purse product.
+- `dinosaur phone cases` (880) 1 → 39 on a product; `dinosaur hoodie` (1,600) 1 → 18 on a product; `dinosaur socks`
+  (880) 7 → 34 on a product.
+
+When Google can't tell which page is the answer, it rotates between them and none holds. The usual fix is to make the
+collection the clear owner: product pages link up to the collection with the head-term anchor, the blog post links to
+the collection, and the collection gets the copy. That touches product copy and collection descriptions, so it's gated.
+Not urgent enough to act on one week of data: some of this is the 11-19 collection catching URLs mid-swap.
+
+**Next step (agent, Dec 1 scan):** compare two collections (11-19 and the next one) for these five terms; if the swaps
+persist, write a short internal-linking brief per collection. **Ask (owner):** none yet.

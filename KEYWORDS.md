@@ -830,14 +830,34 @@ Ubersuggest figure that justified it.
   and T-Rex adult/kids shirts, all ACTIVE and available 2026-11-22.
   **LIVE:** https://jurassicapparel.com/blogs/blog/allosaurus-vs-t-rex
 
+- ✅ Published (2026-11-23) **feathered tyrannosaurus rex** — 2,900/mo | Dec 3,600, Mar 3,600, base 1,900–2,900 | **SD 25** |
+  $0.46 CPC | Informational → `did-t-rex-have-feathers`
+  Day 64, planned target, verified with `keyword_overview` (locId 2840, 2026-11-23). **`did t rex have feathers`
+  6,600/mo SD 27** (Mar 2026 12,100, Apr/Sep 8,100) is the same question at more than twice the volume, so it leads the
+  H1 and the slug. `feathered t rex` 2,900 SD 14. `yutyrannus` 40,500 SD 43 is too hard for a new page; the existing
+  `dinosaur-facts/yutyrannus` post is linked (Dec 1 rescue candidate). SERP (collected 2026-11-09, read free, not
+  refreshed): images, PAA, everythingdinosaur blog (DA 56) #3, eartharchives.org (DA 52) #4, Facebook #5/#9/#14,
+  AI overview, video, science.org 1999 news #8, mprnews #11, Wikipedia #13, Quora, BBC/NBC 2012 Yutyrannus news. No
+  current, sourced explainer after the 2017 skin study except #3–4. Angle: coelurosaur bracketing, Dilong (2004),
+  Yutyrannus (2012) and its cold climate, Bell et al. 2017 "Wyrex" scales, the unsampled back, scaling/heat argument,
+  juveniles (Funston 2021 hatchling size, no skin), lips (Cullen 2023), a timeline of reconstructions, kids' facts, FAQ.
+  Sells into dinosaur-shirts (212 live), kids-dinosaur-apparel (199), plus T-Rex adult/kids shirts, Fossil Hunter tee
+  and youth hoodie, T-Rex Sunset poster, all ACTIVE with inventory 2026-11-23.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 64 (Mon 2026-11-23): `feathered tyrannosaurus rex`** — 2,900/mo | SD 25 | $0.46 CPC | Informational
-  (`keyword_overview`, locId 2840, 2026-11-22). Curve 1,900–3,600: Oct–Nov 2025 1,900, **Dec 3,600**, Jan–Feb 2,900,
-  **Mar 3,600**, Apr–Oct 2,400–2,900. Read the SERP first. Angle: what the evidence says (Yutyrannus and Dilong had
-  feathers; T. rex skin patches show scales), the 2017 Bell et al. scale study, juveniles vs adults, and why museum
-  models keep changing. Link t-rex-size, t-rex-skull, allosaurus-vs-t-rex. Fallbacks: `what did a t rex eat` 2,400 SD
-  28, `t rex where did it live` 3,600 SD 30. Monday: also run the weekly rank-tracking routine.
+- 🎯 **Day 65 (Tue 2026-11-24): `t rex where did it live`** — 3,600/mo | SD 30 | $0 CPC | Informational
+  (`keyword_overview`, locId 2840, 2026-11-23). Curve: Oct 2025 3,600, Nov–Jan 2,900, Feb 3,600, **Mar 6,600, Apr 5,400,
+  May 6,600**, Jun 2,400, Jul–Aug 1,900, Sep 2,900, Oct 3,600. A spring keyword: publishing now is ~14 weeks ahead of
+  the ramp, which is early but safe. SD 30 is at the edge, so read the SERP first. Shopify title search for
+  habitat/"where did" found no existing post (2026-11-23); also check `t-rex-diet` and `t-rex-size` overlap. Angle:
+  Hell Creek, Lance and Scollard formations, the Laramidia island continent, what the landscape looked like, a state
+  and province map. Fallback: `what did a t rex eat` 2,400 SD 28, but note
+  `t-rex-diet-facts-what-did-tyrannosaurus-rex-really-eat` already ranks #11 for `what did t rex dinosaurs eat`, so
+  that one is a rescue, not a new post.
+
+- ✅ **Day 64 (Mon 2026-11-23): weekly rank tracking + `feathered tyrannosaurus rex` published** (planned target held,
+  see ✅ Published). Socks rewrite still unapproved.
 
 - ✅ **Day 63 (Sun 2026-11-22): `allosaurus vs t rex` published** (planned target held, see ✅ Published). Socks rewrite
   still unapproved.

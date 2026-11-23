@@ -2161,20 +2161,49 @@
       ],
       "live_url": "https://jurassicapparel.com/blogs/blog/allosaurus-vs-t-rex",
       "shopify_article_id": "gid://shopify/Article/635520450710"
-    }
-  ],
-  "next_up": [
+    },
     {
       "keyword": "feathered tyrannosaurus rex",
       "volume": 2900,
       "sd": 25,
       "cpc": 0.46,
       "intent": "Informational",
+      "seasonality": "Base 1,900-2,900; Dec 3,600, Mar 3,600",
+      "verified": "2026-11-23",
+      "date": "2026-11-23",
+      "slug": "did-t-rex-have-feathers",
+      "secondary": [
+        {
+          "keyword": "did t rex have feathers",
+          "volume": 6600,
+          "sd": 27
+        },
+        {
+          "keyword": "feathered t rex",
+          "volume": 2900,
+          "sd": 14
+        },
+        {
+          "keyword": "yutyrannus",
+          "volume": 40500,
+          "sd": 43,
+          "note": "linked to existing dinosaur-facts/yutyrannus, not targeted"
+        }
+      ]
+    }
+  ],
+  "next_up": [
+    {
+      "keyword": "t rex where did it live",
+      "volume": 3600,
+      "sd": 30,
+      "cpc": 0,
+      "intent": "Informational",
       "status": "next_up",
-      "verified": "2026-11-22",
+      "verified": "2026-11-23",
       "source": "keyword_overview",
-      "seasonality": "Base 1,900-3,600; Oct-Nov 2025 1,900, Dec 3,600, Mar 3,600, otherwise 2,400-2,900",
-      "note": "Day 64 (Mon 2026-11-23). Read the SERP first. Fallbacks: what did a t rex eat 2400/SD28, t rex where did it live 3600/SD30."
+      "seasonality": "Spring keyword: Mar 6,600, Apr 5,400, May 6,600; Jul-Aug 1,900; otherwise 2,900-3,600",
+      "note": "Day 65 (Tue 2026-11-24). SD 30 at the edge: read the SERP first. Fallback: what did a t rex eat 2400/SD28 (existing t-rex-diet post ranks #11, rescue not new)."
     }
   ],
   "queued_seasonal": [
