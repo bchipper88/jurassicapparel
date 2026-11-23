@@ -2,7 +2,10 @@
 title: "Did T. Rex Have Feathers? What the Fossils Say About a Feathered Tyrannosaurus Rex"
 slug: did-t-rex-have-feathers
 date: 2026-11-23
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/did-t-rex-have-feathers
+shopify_article_id: "gid://shopify/Article/635525693590"
+published_at: 2026-11-23T11:08:21Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-23"
 target_keyword: "feathered tyrannosaurus rex"
 target_volume: 2900

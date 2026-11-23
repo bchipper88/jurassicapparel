@@ -843,6 +843,7 @@ Ubersuggest figure that justified it.
   juveniles (Funston 2021 hatchling size, no skin), lips (Cullen 2023), a timeline of reconstructions, kids' facts, FAQ.
   Sells into dinosaur-shirts (212 live), kids-dinosaur-apparel (199), plus T-Rex adult/kids shirts, Fossil Hunter tee
   and youth hoodie, T-Rex Sunset poster, all ACTIVE with inventory 2026-11-23.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/did-t-rex-have-feathers
 
 ## 🎯 NEXT UP
 
