@@ -845,17 +845,35 @@ Ubersuggest figure that justified it.
   and youth hoodie, T-Rex Sunset poster, all ACTIVE with inventory 2026-11-23.
   **LIVE:** https://jurassicapparel.com/blogs/blog/did-t-rex-have-feathers
 
+- ✅ Published (2026-11-24) **t rex where did it live** — 3,600/mo | Spring: Mar 6,600, Apr 5,400, May 6,600; Jul–Aug 1,900 |
+  **SD 30** | $0 CPC | Informational → `where-did-t-rex-live`
+  Day 65, planned target, verified with `keyword_overview` (locId 2840, 2026-11-24): unchanged from 11-23. `where did t
+  rex live` 3,600 SD 34 (same curve) leads the H1 and slug. `when did t rex live` 1,900 SD 29 (Mar 4,400) gets its own
+  H2. `t rex habitat` 1,300 SD 41 ($14.50 CPC) is covered, not targeted. **`hell creek formation` 8,100 SD 27**, flat
+  all year: one section here, own page next. SERP (collected 2026-11-08, read free): AI overview, video, PAA, amnh.org
+  (DA 84) #4, syfy origin story #5, fossilera #6, reddit, Facebook, thepangeamap (DA 9) #9, Berkeley News population
+  story, kids-dinosaurs.com (DA 27) #15. No page combines the location map, the landscape and the origin debate. Angle:
+  state/province table with rock units and famous specimens, Laramidia and the Western Interior Seaway, Hell Creek
+  habitat and neighbors, when it lived, Marshall et al. 2021 population estimate, Asia vs southern Laramidia origin
+  (Brusatte & Carr 2016, Dalman et al. 2024 *T. mcraeensis*), museums, kids' facts, FAQ. Sells into america-dinosaurs
+  (16 live), dinosaur-shirts (212), kids-dinosaur-apparel (199), plus American T-Rex adult/kids shirts, North Dakota
+  Triceratops shirt, Fossil Hunter tee, T-Rex Sunset poster, all ACTIVE with inventory 2026-11-24.
+  **LIVE:** pending
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 65 (Tue 2026-11-24): `t rex where did it live`** — 3,600/mo | SD 30 | $0 CPC | Informational
-  (`keyword_overview`, locId 2840, 2026-11-23). Curve: Oct 2025 3,600, Nov–Jan 2,900, Feb 3,600, **Mar 6,600, Apr 5,400,
-  May 6,600**, Jun 2,400, Jul–Aug 1,900, Sep 2,900, Oct 3,600. A spring keyword: publishing now is ~14 weeks ahead of
-  the ramp, which is early but safe. SD 30 is at the edge, so read the SERP first. Shopify title search for
-  habitat/"where did" found no existing post (2026-11-23); also check `t-rex-diet` and `t-rex-size` overlap. Angle:
-  Hell Creek, Lance and Scollard formations, the Laramidia island continent, what the landscape looked like, a state
-  and province map. Fallback: `what did a t rex eat` 2,400 SD 28, but note
-  `t-rex-diet-facts-what-did-tyrannosaurus-rex-really-eat` already ranks #11 for `what did t rex dinosaurs eat`, so
-  that one is a rescue, not a new post.
+- 🎯 **Day 66 (Wed 2026-11-25): `hell creek formation`** — 8,100/mo | SD 27 | $2.93 CPC | Informational
+  (`keyword_overview`, locId 2840, 2026-11-24). Curve flat: Oct 2025 6,600, Nov 8,100, Dec 6,600, Jan–Feb 5,400,
+  Mar–May 8,100, Jun 6,600, Jul 9,900, Aug 6,600, Sep–Oct 8,100. Evergreen, so no seasonal deadline, but the biggest
+  SD ≤ 30 informational term found this week. SERP (collected 2026-11-07, read free): #1 paleonerdish.wordpress.com
+  (2015, DA 46), YouTube #4, nps.gov National Natural Landmark #6, GSA paper #7, UCMP news #8, Britannica #10,
+  macrostrat #11. Beatable with a current, sourced guide. No existing post (Shopify title search 2026-11-24). Must go
+  deeper than the Hell Creek section in `where-did-t-rex-live` and link to it: stratigraphy, the K-Pg boundary clay,
+  Tanis, full fauna and flora list, famous specimens, digs and museums. Sells into america-dinosaurs (North Dakota
+  Triceratops shirt), Fossil Hunter tee/hoodie, T. rex products.
+
+- ✅ **Day 65 (Tue 2026-11-24): `t rex where did it live` published** (planned target held, see ✅ Published). Socks
+  rewrite still unapproved.
 
 - ✅ **Day 64 (Mon 2026-11-23): weekly rank tracking + `feathered tyrannosaurus rex` published** (planned target held,
   see ✅ Published). Socks rewrite still unapproved.
