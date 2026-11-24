@@ -2,7 +2,10 @@
 title: "Where Did T. Rex Live? A Map of Every Place Tyrannosaurus Rex Has Been Found"
 slug: where-did-t-rex-live
 date: 2026-11-24
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/where-did-t-rex-live
+shopify_article_id: "gid://shopify/Article/635533656214"
+published_at: 2026-11-24T11:08:00Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-24"
 target_keyword: "t rex where did it live"
 target_volume: 3600

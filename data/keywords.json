@@ -2229,7 +2229,8 @@
      "note": "one section here; own page queued as next_up"
     }
    ],
-   "status": "committed-pre-publish"
+   "live_url": "https://jurassicapparel.com/blogs/blog/where-did-t-rex-live",
+   "shopify_article_id": "gid://shopify/Article/635533656214"
   }
  ],
  "next_up": [

@@ -858,7 +858,7 @@ Ubersuggest figure that justified it.
   (Brusatte & Carr 2016, Dalman et al. 2024 *T. mcraeensis*), museums, kids' facts, FAQ. Sells into america-dinosaurs
   (16 live), dinosaur-shirts (212), kids-dinosaur-apparel (199), plus American T-Rex adult/kids shirts, North Dakota
   Triceratops shirt, Fossil Hunter tee, T-Rex Sunset poster, all ACTIVE with inventory 2026-11-24.
-  **LIVE:** pending
+  **LIVE:** https://jurassicapparel.com/blogs/blog/where-did-t-rex-live
 
 ## 🎯 NEXT UP
 
