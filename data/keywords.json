@@ -1,6 +1,6 @@
 {
  "_comment": "Machine-readable mirror of KEYWORDS.md. Figures Ubersuggest, locId 2840. KEYWORDS.md is the human source of truth; keep them in sync.",
- "pulled": "2026-11-24",
+ "pulled": "2026-11-25",
  "loc_id": 2840,
  "published": [
   {
@@ -2231,20 +2231,50 @@
    ],
    "live_url": "https://jurassicapparel.com/blogs/blog/where-did-t-rex-live",
    "shopify_article_id": "gid://shopify/Article/635533656214"
-  }
- ],
- "next_up": [
+  },
   {
    "keyword": "hell creek formation",
    "volume": 8100,
    "sd": 27,
    "cpc": 2.93,
    "intent": "Informational",
-   "status": "next_up",
-   "verified": "2026-11-24",
-   "source": "keyword_overview",
    "seasonality": "Flat, 5,400-9,900 all year (Jul 2026 9,900; Jan-Feb 5,400)",
-   "note": "Day 66 (Wed 2026-11-25). SERP (collected 2026-11-07, read free): #1 paleonerdish.wordpress.com 2015 (DA 46), YouTube, nps.gov landmark page, GSA paper, UCMP news, Britannica, macrostrat. Beatable. Must go deeper than the Hell Creek section of where-did-t-rex-live and link to it, not repeat it: stratigraphy, the K-Pg boundary, Tanis, the full fauna and flora, digs and museums. No existing post (Shopify title search 2026-11-24). Fallback: when did t rex live 1,900/SD 29 is now partly covered; pick from queue."
+   "verified": "2026-11-25",
+   "date": "2026-11-25",
+   "slug": "hell-creek-formation",
+   "secondary": [
+    {
+     "keyword": "hell creek",
+     "volume": 8100,
+     "sd": 17,
+     "cpc": 2.93
+    },
+    {
+     "keyword": "k-pg boundary",
+     "volume": 2900,
+     "sd": 18,
+     "note": "one section here; own page queued as next_up"
+    },
+    {
+     "keyword": "tanis fossil site",
+     "volume": 210,
+     "sd": 30
+    }
+   ]
+  }
+ ],
+ "next_up": [
+  {
+   "keyword": "k-pg boundary",
+   "volume": 2900,
+   "sd": 18,
+   "cpc": 0,
+   "intent": "Informational",
+   "status": "next_up",
+   "verified": "2026-11-25",
+   "source": "keyword_overview",
+   "seasonality": "School-year curve: Dec 3,600, Mar 3,600; Jul 1,600 low",
+   "note": "Day 67 (Thu 2026-11-26). Explain the boundary worldwide and link to hell-creek-formation. Check the unpublished 'Dinosaur Extinction' draft in blog `blog` doesn't own the topic; pull the SERP. Fallback: next queued item."
   }
  ],
  "queued_seasonal": [

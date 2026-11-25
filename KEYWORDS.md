@@ -860,17 +860,32 @@ Ubersuggest figure that justified it.
   Triceratops shirt, Fossil Hunter tee, T-Rex Sunset poster, all ACTIVE with inventory 2026-11-24.
   **LIVE:** https://jurassicapparel.com/blogs/blog/where-did-t-rex-live
 
+- ✅ Published (2026-11-25) **hell creek formation** — 8,100/mo | Evergreen: 5,400–9,900 all year (Jul 9,900) |
+  **SD 27** | $2.93 CPC | Informational → `hell-creek-formation`
+  Day 66, planned target, verified with `keyword_overview` (locId 2840, 2026-11-25): unchanged from 11-24. **`hell
+  creek` 8,100 SD 17** (same curve, easier) is covered in the H2s and body. `k-pg boundary` 2,900 SD 18 (Dec/Mar 3,600)
+  gets one section; own page next. `tanis fossil site` 210 SD 30 covered by its section. No existing post (Shopify title
+  search 2026-11-25). Angle: at-a-glance table, type area and naming (Brown 1907, NNL 1966), stratigraphy bottom to top
+  (Fox Hills → Hell Creek → Z coal / boundary clay → Fort Union), dinosaur table with the Horner 2011 census, the
+  *Nanotyrannus* debate (Zanno & Napoli 2025), non-dinosaur fauna and flora, nine famous specimens, Tanis (DePalma
+  2019, During 2022) with caveats, the boundary sequence, museums, public digs and collecting law (PRPA 2009, Montana
+  2020 ruling), kids' facts, FAQ. Sells into america-dinosaurs (16 live), dinosaur-shirts (212), plus North Dakota
+  Triceratops shirt, American T-Rex shirt, Fossil Hunter tee and youth hoodie, Triceratops Head hoodie, all ACTIVE with
+  inventory 2026-11-25.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 66 (Wed 2026-11-25): `hell creek formation`** — 8,100/mo | SD 27 | $2.93 CPC | Informational
-  (`keyword_overview`, locId 2840, 2026-11-24). Curve flat: Oct 2025 6,600, Nov 8,100, Dec 6,600, Jan–Feb 5,400,
-  Mar–May 8,100, Jun 6,600, Jul 9,900, Aug 6,600, Sep–Oct 8,100. Evergreen, so no seasonal deadline, but the biggest
-  SD ≤ 30 informational term found this week. SERP (collected 2026-11-07, read free): #1 paleonerdish.wordpress.com
-  (2015, DA 46), YouTube #4, nps.gov National Natural Landmark #6, GSA paper #7, UCMP news #8, Britannica #10,
-  macrostrat #11. Beatable with a current, sourced guide. No existing post (Shopify title search 2026-11-24). Must go
-  deeper than the Hell Creek section in `where-did-t-rex-live` and link to it: stratigraphy, the K-Pg boundary clay,
-  Tanis, full fauna and flora list, famous specimens, digs and museums. Sells into america-dinosaurs (North Dakota
-  Triceratops shirt), Fossil Hunter tee/hoodie, T. rex products.
+- 🎯 **Day 67 (Thu 2026-11-26): `k-pg boundary`** — 2,900/mo | SD 18 | $0 CPC | Informational (`keyword_overview`,
+  locId 2840, 2026-11-25). Curve: Nov 2025 2,900, Dec 3,600, Jan 2,900, Feb 2,400, Mar 3,600, Apr–May 2,900, Jun 1,900,
+  Jul 1,600, Aug 1,900, Sep 2,400, Oct 2,900. School-year term; Dec is a local peak, so publishing now is ~1 week
+  ahead of it and ~14 weeks ahead of March. SD 18 is the lowest of any 2,000+ term found this week. Hell Creek page
+  gives it one section; the new page explains the boundary worldwide (Gubbio, Alvarez 1980, iridium, Chicxulub, shocked
+  quartz, fern spike, where to see it) and links to `hell-creek-formation`. **Before writing:** an unpublished draft
+  "Dinosaur Extinction: The Complete Guide" sits in blog `blog`; check it doesn't own the slug, and pull the SERP.
+  Fallback: next queued item.
+
+- ✅ **Day 66 (Wed 2026-11-25): `hell creek formation` published** (planned target held, see ✅ Published). Socks
+  rewrite still unapproved.
 
 - ✅ **Day 65 (Tue 2026-11-24): `t rex where did it live` published** (planned target held, see ✅ Published). Socks
   rewrite still unapproved.
