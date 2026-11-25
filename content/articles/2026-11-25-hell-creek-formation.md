@@ -2,7 +2,10 @@
 title: "The Hell Creek Formation: A Field Guide to the Last Days of the Dinosaurs"
 slug: hell-creek-formation
 date: 2026-11-25
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/hell-creek-formation
+shopify_article_id: "gid://shopify/Article/635543322774"
+published_at: 2026-11-25T11:07:41Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-25"
 target_keyword: "hell creek formation"
 target_volume: 8100
@@ -188,8 +191,8 @@ A good share of the world's most famous dinosaurs came out of these rocks:
   the specimens at the center of the *Nanotyrannus* debate.
 - **The "Dueling Dinosaurs"**. A *Triceratops* and a small tyrannosaur found together in Montana in 2006, now on
   display, still in their rock, at the North Carolina Museum of Natural Sciences in Raleigh.
-- **"Dakota"**. An *Edmontosaurus* "mummy" with fossilized skin, found by Tyler Lyson near Marmarth, North Dakota, in
-  1999. It's at the North Dakota Heritage Center in Bismarck.
+- **"Dakota"**. An *Edmontosaurus* "mummy" with fossilized skin, found in 1999 by Tyler Lyson near Marmarth, North
+  Dakota. It's at the North Dakota Heritage Center in Bismarck.
 - **"Big John"**. One of the largest *Triceratops* skeletons known, dug up in South Dakota in 2014.
 
 That's a lot of the dinosaur gallery at your nearest big museum, all from a few counties of badland. For more on the

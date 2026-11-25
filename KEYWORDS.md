@@ -872,6 +872,7 @@ Ubersuggest figure that justified it.
   2020 ruling), kids' facts, FAQ. Sells into america-dinosaurs (16 live), dinosaur-shirts (212), plus North Dakota
   Triceratops shirt, American T-Rex shirt, Fossil Hunter tee and youth hoodie, Triceratops Head hoodie, all ACTIVE with
   inventory 2026-11-25.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/hell-creek-formation
 
 ## 🎯 NEXT UP
 
