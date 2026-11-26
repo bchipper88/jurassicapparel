@@ -2263,20 +2263,48 @@
    ],
    "live_url": "https://jurassicapparel.com/blogs/blog/hell-creek-formation",
    "shopify_article_id": "gid://shopify/Article/635543322774"
-  }
- ],
- "next_up": [
+  },
   {
    "keyword": "k-pg boundary",
    "volume": 2900,
    "sd": 18,
    "cpc": 0,
    "intent": "Informational",
-   "status": "next_up",
-   "verified": "2026-11-25",
+   "status": "published",
+   "verified": "2026-11-26",
    "source": "keyword_overview",
    "seasonality": "School-year curve: Dec 3,600, Mar 3,600; Jul 1,600 low",
-   "note": "Day 67 (Thu 2026-11-26). Explain the boundary worldwide and link to hell-creek-formation. Check the unpublished 'Dinosaur Extinction' draft in blog `blog` doesn't own the topic; pull the SERP. Fallback: next queued item."
+   "note": "Day 67. SERP weak (Discover, Facebook, proxy Science link). Links dinosaur-posters, Meteor tote, Fossil Hunter tee/hoodie/poster.",
+   "date": "2026-11-26",
+   "slug": "k-pg-boundary",
+   "secondary": [
+    {
+     "keyword": "k-t boundary",
+     "volume": 2900,
+     "sd": 18,
+     "cpc": 0
+    },
+    {
+     "keyword": "iridium layer",
+     "volume": 390,
+     "sd": 40,
+     "cpc": 0
+    }
+   ]
+  }
+ ],
+ "next_up": [
+  {
+   "keyword": "cretaceous period",
+   "volume": 22200,
+   "sd": 31,
+   "cpc": 0,
+   "intent": "Informational",
+   "status": "next_up",
+   "verified": "2026-11-26",
+   "source": "keyword_overview",
+   "seasonality": "School-year curve: Mar 33,100 peak, Apr 27,100; Jul 12,100 low",
+   "note": "Day 68 (Fri 2026-11-27). Stretch SD, taken as a hub for 300+ live dinosaur-facts Cretaceous species posts. Confirm no 'Cretaceous Period' overview post exists. Secondaries cretaceous period animals 1900 SD31, late cretaceous 2400 SD33. Fallback: late cretaceous."
   }
  ],
  "queued_seasonal": [
@@ -3342,6 +3370,20 @@
    "verified": "2026-11-18",
    "status": "skipped",
    "note": "Small; possible future section."
+  },
+  {
+   "keyword": "chicxulub crater",
+   "volume": 74000,
+   "sd": 57,
+   "date": "2026-11-26",
+   "reason": "SD 57, above the DA-17 skip threshold"
+  },
+  {
+   "keyword": "what killed the dinosaurs",
+   "volume": 9900,
+   "sd": 49,
+   "date": "2026-11-26",
+   "reason": "SD 49, above the DA-17 skip threshold"
   }
  ],
  "rescue_content": [

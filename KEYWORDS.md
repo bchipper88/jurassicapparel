@@ -874,16 +874,34 @@ Ubersuggest figure that justified it.
   inventory 2026-11-25.
   **LIVE:** https://jurassicapparel.com/blogs/blog/hell-creek-formation
 
+- ✅ Published (2026-11-26) **k-pg boundary** — 2,900/mo | School-year curve: Dec 3,600, Mar 3,600, Jul 1,600 low |
+  **SD 18** | $0 CPC | Informational → `k-pg-boundary`
+  Day 67, planned target, verified with `keyword_overview` (locId 2840, 2026-11-26): unchanged from 11-25. **`k-t
+  boundary` 2,900 SD 18** (identical curve, the old name) gets its own H2 and FAQ. `iridium layer` 390 SD 40 (Dec 720)
+  covered by the iridium section, not targeted. SERP (refreshed 2026-11-26, free): AI overview, Discover Magazine, a
+  Facebook group post, a university proxy link to a Science paper, video. Weak. Only overlapping post is the
+  unpublished draft "Dinosaur Extinction: The Complete Guide" (different handle). Angle: at-a-glance table, K-Pg vs
+  K-T naming, the evidence in the layer (iridium, shocked quartz, spherules, soot, tsunami beds, fossil turnover, fern
+  spike, the two-layer western boundary), Alvarez 1980 and Smit 1980, Penfield/Camargo and Hildebrand 1991, Chicxulub
+  table, the Deccan question (Hull 2020), survivors, where to see it (8-site table incl. Trinidad Lake SP), kids' facts,
+  FAQ. Sells into dinosaur-posters (15 live), plus Meteor Dinosaurs tote, Fossil Hunter tee, youth hoodie and framed
+  poster, all ACTIVE with inventory 2026-11-26.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 67 (Thu 2026-11-26): `k-pg boundary`** — 2,900/mo | SD 18 | $0 CPC | Informational (`keyword_overview`,
-  locId 2840, 2026-11-25). Curve: Nov 2025 2,900, Dec 3,600, Jan 2,900, Feb 2,400, Mar 3,600, Apr–May 2,900, Jun 1,900,
-  Jul 1,600, Aug 1,900, Sep 2,400, Oct 2,900. School-year term; Dec is a local peak, so publishing now is ~1 week
-  ahead of it and ~14 weeks ahead of March. SD 18 is the lowest of any 2,000+ term found this week. Hell Creek page
-  gives it one section; the new page explains the boundary worldwide (Gubbio, Alvarez 1980, iridium, Chicxulub, shocked
-  quartz, fern spike, where to see it) and links to `hell-creek-formation`. **Before writing:** an unpublished draft
-  "Dinosaur Extinction: The Complete Guide" sits in blog `blog`; check it doesn't own the slug, and pull the SERP.
-  Fallback: next queued item.
+- 🎯 **Day 68 (Fri 2026-11-27): `cretaceous period`** — 22,200/mo | **SD 31** | $0 CPC | Informational
+  (`keyword_overview`, locId 2840, 2026-11-26). Curve: Oct–Nov 2025 22,200, Dec 18,100, Jan–Feb 2026 22,200, **Mar
+  33,100**, Apr 27,100, May 22,200, Jun 14,800, Jul 12,100, Aug 18,100, Sep–Oct 22,200. School-year term, March peak.
+  SD 31 is a stretch, taken because we have an unfair advantage: 300+ live `dinosaur-facts` species posts titled
+  "...of the Cretaceous" with no period overview to hub them (Shopify title search 2026-11-26 found species posts
+  only; confirm with an exact `title:"Cretaceous Period"` search before writing). Angle: Early vs Late Cretaceous,
+  continents, climate and seaways, the flowering-plant revolution, the dinosaurs by stage, ending at the K-Pg boundary
+  (link `k-pg-boundary`, `hell-creek-formation`). Secondaries: `cretaceous period animals` 1,900 SD 31, `late
+  cretaceous` 2,400 SD 33. Fallback: `late cretaceous` alone, or the next queued item.
+
+- ✅ **Day 67 (Thu 2026-11-26): `k-pg boundary` published** (planned target held, see ✅ Published). Socks
+  rewrite still unapproved. `chicxulub crater` 74,000 SD 57 and `what killed the dinosaurs` 9,900 SD 49 ⏭️ (too hard
+  at DA 17).
 
 - ✅ **Day 66 (Wed 2026-11-25): `hell creek formation` published** (planned target held, see ✅ Published). Socks
   rewrite still unapproved.
@@ -1188,6 +1206,11 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
 ---
 
 ## ⏭️ SKIPPED
+
+- ⏭️ **chicxulub crater** — 74,000/mo | **SD 57** | $1.60 CPC | Sep/Dec/Mar 110,000 (2026-11-26) — far above the DA-17
+  threshold. Covered as a section of `k-pg-boundary`.
+- ⏭️ **what killed the dinosaurs** — 9,900/mo | **SD 49** | $1.91 CPC | Mar 18,100 (2026-11-26) — too hard at DA 17.
+  The unpublished "Dinosaur Extinction: The Complete Guide" draft would be the place for it if the owner ever wants it.
 
 - ⏭️ **dinosaur fossil dig** — 210/mo | SD 34 | $0.64 CPC | flat 140–260 (re-verified 2026-11-18, unchanged) — skipped
   2026-11-18 on the SERP (collected 2026-09-14): people want real dig sites. Wyoming Dinosaur Center "Dig for a Day" #2,
