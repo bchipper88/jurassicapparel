@@ -886,6 +886,7 @@ Ubersuggest figure that justified it.
   table, the Deccan question (Hull 2020), survivors, where to see it (8-site table incl. Trinidad Lake SP), kids' facts,
   FAQ. Sells into dinosaur-posters (15 live), plus Meteor Dinosaurs tote, Fossil Hunter tee, youth hoodie and framed
   poster, all ACTIVE with inventory 2026-11-26.
+  **LIVE:** https://jurassicapparel.com/blogs/blog/k-pg-boundary
 
 ## 🎯 NEXT UP
 

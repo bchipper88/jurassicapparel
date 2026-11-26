@@ -2,7 +2,10 @@
 title: "The K-Pg Boundary: The Thin Layer of Clay Where the Dinosaurs End"
 slug: k-pg-boundary
 date: 2026-11-26
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/k-pg-boundary
+shopify_article_id: "gid://shopify/Article/635552006294"
+published_at: 2026-11-26T11:07:53Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-26"
 target_keyword: "k-pg boundary"
 target_volume: 2900
