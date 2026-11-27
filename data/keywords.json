@@ -2293,20 +2293,54 @@
    ],
    "live_url": "https://jurassicapparel.com/blogs/blog/k-pg-boundary",
    "shopify_article_id": "gid://shopify/Article/635552006294"
-  }
- ],
- "next_up": [
+  },
   {
    "keyword": "cretaceous period",
    "volume": 22200,
    "sd": 31,
    "cpc": 0,
    "intent": "Informational",
-   "status": "next_up",
-   "verified": "2026-11-26",
+   "status": "published",
+   "verified": "2026-11-27",
    "source": "keyword_overview",
    "seasonality": "School-year curve: Mar 33,100 peak, Apr 27,100; Jul 12,100 low",
-   "note": "Day 68 (Fri 2026-11-27). Stretch SD, taken as a hub for 300+ live dinosaur-facts Cretaceous species posts. Confirm no 'Cretaceous Period' overview post exists. Secondaries cretaceous period animals 1900 SD31, late cretaceous 2400 SD33. Fallback: late cretaceous."
+   "note": "Day 68. Hub for dinosaur-facts Cretaceous species posts. SERP has two low-DA pages on page one. Links dinosaur-posters, dinosaur-shirts, Velociraptor plate poster, Dino Chart kids tee, Dinosaur Chart tote, Raptor Art hoodie, Ankylosaurus pillow.",
+   "date": "2026-11-27",
+   "slug": "cretaceous-period",
+   "secondary": [
+    {
+     "keyword": "late cretaceous",
+     "volume": 2400,
+     "sd": 33,
+     "cpc": 0
+    },
+    {
+     "keyword": "cretaceous period animals",
+     "volume": 1900,
+     "sd": 31,
+     "cpc": 0.02
+    },
+    {
+     "keyword": "early cretaceous",
+     "volume": 720,
+     "sd": 54,
+     "note": "covered, not targeted"
+    }
+   ]
+  }
+ ],
+ "next_up": [
+  {
+   "keyword": "jurassic period",
+   "volume": 14800,
+   "sd": 36,
+   "cpc": 0,
+   "intent": "Informational",
+   "status": "next_up",
+   "verified": "2026-11-27",
+   "source": "keyword_overview",
+   "seasonality": "School-year curve: Mar 27,100 peak, Feb/Apr/May 18,100; Jun-Jul 8,100 low",
+   "note": "Day 69 (Sat 2026-11-28). Stretch SD; hub for Jurassic species posts, pairs with cretaceous-period. Confirm no overview post; pull late jurassic / jurassic period animals."
   }
  ],
  "queued_seasonal": [
@@ -3386,6 +3420,22 @@
    "sd": 49,
    "date": "2026-11-26",
    "reason": "SD 49, above the DA-17 skip threshold"
+  },
+  {
+   "keyword": "mesozoic era",
+   "volume": 22200,
+   "sd": 58,
+   "cpc": 0,
+   "verified": "2026-11-27",
+   "reason": "SD 58, far above DA-17 threshold"
+  },
+  {
+   "keyword": "triassic period",
+   "volume": 12100,
+   "sd": 52,
+   "cpc": 0,
+   "verified": "2026-11-27",
+   "reason": "SD 52, too hard at DA 17"
   }
  ],
  "rescue_content": [

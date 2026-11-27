@@ -888,17 +888,32 @@ Ubersuggest figure that justified it.
   poster, all ACTIVE with inventory 2026-11-26.
   **LIVE:** https://jurassicapparel.com/blogs/blog/k-pg-boundary
 
+- ✅ Published (2026-11-27) **cretaceous period** — 22,200/mo | School-year curve: Mar 33,100 peak, Apr 27,100; Jul 12,100 low |
+  **SD 31** | $0 CPC | Informational → `cretaceous-period`
+  Day 68, planned target, verified with `keyword_overview` (locId 2840, 2026-11-27): unchanged from 11-26. Stretch SD,
+  taken as the hub for 300+ live `dinosaur-facts` Cretaceous species posts; Shopify title/handle search found no period
+  overview. Secondaries: **`late cretaceous` 2,400 SD 33** (Mar 3,600) and **`cretaceous period animals` 1,900 SD 31**
+  (Mar–Apr 2,900) each get an H2; `early cretaceous` 720 SD 54 covered by its section, not targeted. SERP (collected
+  2026-11-07, not refreshed): AI overview, YouTube, Britannica summary, NPS extinction page, dinofossils.co.uk (DA 18) #6,
+  KU GeoKansas, a DA-24 chart page, study.com, PBS, thepangeamap (DA 9) #16. Two low-DA pages on page one = winnable.
+  Angle: at-a-glance table, the chalk name and "K", the unfixed start date, stage table, continents/sea level/Western
+  Interior Seaway/greenhouse climate, the flowering-plant revolution, Early vs Late Cretaceous dinosaurs, a 13-row
+  species-by-age table linking our species posts, non-dinosaur animals table, the ending, kids' facts, 9-question FAQ.
+  Sells into dinosaur-posters (15 live) and dinosaur-shirts, plus Velociraptor Natural History Plate poster, Dino Chart
+  kids' shirt, Dinosaur Chart tote, Raptor Art hoodie, Ankylosaurus pillow, all ACTIVE with inventory 2026-11-27.
+  **LIVE:** (pending)
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 68 (Fri 2026-11-27): `cretaceous period`** — 22,200/mo | **SD 31** | $0 CPC | Informational
-  (`keyword_overview`, locId 2840, 2026-11-26). Curve: Oct–Nov 2025 22,200, Dec 18,100, Jan–Feb 2026 22,200, **Mar
-  33,100**, Apr 27,100, May 22,200, Jun 14,800, Jul 12,100, Aug 18,100, Sep–Oct 22,200. School-year term, March peak.
-  SD 31 is a stretch, taken because we have an unfair advantage: 300+ live `dinosaur-facts` species posts titled
-  "...of the Cretaceous" with no period overview to hub them (Shopify title search 2026-11-26 found species posts
-  only; confirm with an exact `title:"Cretaceous Period"` search before writing). Angle: Early vs Late Cretaceous,
-  continents, climate and seaways, the flowering-plant revolution, the dinosaurs by stage, ending at the K-Pg boundary
-  (link `k-pg-boundary`, `hell-creek-formation`). Secondaries: `cretaceous period animals` 1,900 SD 31, `late
-  cretaceous` 2,400 SD 33. Fallback: `late cretaceous` alone, or the next queued item.
+- 🎯 **Day 69 (Sat 2026-11-28): `jurassic period`** — 14,800/mo | **SD 36** | $0 CPC | Informational
+  (`keyword_overview`, locId 2840, 2026-11-27). Curve: Oct–Nov 2025 14,800, Dec 12,100, Jan 14,800, Feb 18,100, **Mar
+  27,100**, Apr–May 18,100, Jun–Jul 8,100, Aug 9,900, Sep 12,100, Oct 14,800. School-year term, March peak. SD 36 is a
+  stretch; same unfair advantage as today (live `dinosaur-facts` "...of the Jurassic" species posts, no period
+  overview found in today's title search). Pairs with `cretaceous-period`. Confirm with a `handle:jurassic-period`
+  search and pull secondaries (`late jurassic`, `jurassic period animals`) before writing. Fallback: next evergreen item.
+
+- ✅ **Day 68 (Fri 2026-11-27): `cretaceous period` published** (planned target held, see ✅ Published). Socks
+  rewrite still unapproved. `triassic period` 12,100 SD 52 and `mesozoic era` 22,200 SD 58 ⏭️ (too hard at DA 17).
 
 - ✅ **Day 67 (Thu 2026-11-26): `k-pg boundary` published** (planned target held, see ✅ Published). Socks
   rewrite still unapproved. `chicxulub crater` 74,000 SD 57 and `what killed the dinosaurs` 9,900 SD 49 ⏭️ (too hard
@@ -1208,6 +1223,9 @@ with little traffic. Re-check them with `page_keywords` before writing any brief
 
 ## ⏭️ SKIPPED
 
+- ⏭️ **mesozoic era** — 22,200/mo | **SD 58** | $0 CPC | Mar 33,100 (2026-11-27) — far above the DA-17 threshold.
+  The three period pages (Cretaceous live, Jurassic next) are the way into it.
+- ⏭️ **triassic period** — 12,100/mo | **SD 52** | $0 CPC | Nov 2025 18,100 (2026-11-27) — too hard at DA 17.
 - ⏭️ **chicxulub crater** — 74,000/mo | **SD 57** | $1.60 CPC | Sep/Dec/Mar 110,000 (2026-11-26) — far above the DA-17
   threshold. Covered as a section of `k-pg-boundary`.
 - ⏭️ **what killed the dinosaurs** — 9,900/mo | **SD 49** | $1.91 CPC | Mar 18,100 (2026-11-26) — too hard at DA 17.

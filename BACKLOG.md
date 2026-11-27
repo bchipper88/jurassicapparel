@@ -1726,3 +1726,20 @@ Not urgent enough to act on one week of data: some of this is the 11-19 collecti
 
 **Next step (agent, Dec 1 scan):** compare two collections (11-19 and the next one) for these five terms; if the swaps
 persist, write a short internal-linking brief per collection. **Ask (owner):** none yet.
+
+## 78. Two live `dinosaur-facts` posts are labeled with the wrong period 🟢 LOW — blog accuracy — added 2026-11-27
+
+Found during the Day 68 Shopify title search for Cretaceous posts:
+- **"Amygdalodon: The Graceful Giant of the Late Cretaceous"** (`amygdalodon-the-graceful-giant-of-the-late-cretaceous`,
+  live). *Amygdalodon* is an Early–Middle Jurassic sauropod from Argentina, not Cretaceous. The title is wrong; the body
+  hasn't been checked.
+- **"Amargasaurus: The Remarkable Sauropod of the Early Cretaceous"** has the handle
+  `amargasaurus-the-remarkable-sauropod-of-the-late-jurassic`, live. The title is right; the handle is the old wrong
+  one. Changing a live handle needs a redirect, so leave the handle alone unless the owner wants it tidied.
+
+The 300+ species posts were bulk-written; there are probably more like this. They matter more now that the
+`cretaceous-period` hub (and tomorrow's `jurassic-period`) points readers at them. Editing live posts is gated.
+
+**Next step (agent):** spot-check the period in the titles of the species posts the period hubs link to before
+linking them (done for today's 13). **Ask (owner):** correct the Amygdalodon title and check its body; optional
+handle fix with a redirect for Amargasaurus.
