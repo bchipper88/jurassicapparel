@@ -901,7 +901,7 @@ Ubersuggest figure that justified it.
   species-by-age table linking our species posts, non-dinosaur animals table, the ending, kids' facts, 9-question FAQ.
   Sells into dinosaur-posters (15 live) and dinosaur-shirts, plus Velociraptor Natural History Plate poster, Dino Chart
   kids' shirt, Dinosaur Chart tote, Raptor Art hoodie, Ankylosaurus pillow, all ACTIVE with inventory 2026-11-27.
-  **LIVE:** (pending)
+  **LIVE:** https://jurassicapparel.com/blogs/blog/cretaceous-period
 
 ## 🎯 NEXT UP
 

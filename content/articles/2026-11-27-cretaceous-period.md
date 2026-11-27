@@ -2,7 +2,10 @@
 title: "The Cretaceous Period: 79 Million Years of Flowers, Seaways and the Last Dinosaurs"
 slug: cretaceous-period
 date: 2026-11-27
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/cretaceous-period
+shopify_article_id: "gid://shopify/Article/635843739798"
+published_at: 2026-11-27T11:08:14Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-27"
 target_keyword: "cretaceous period"
 target_volume: 22200
