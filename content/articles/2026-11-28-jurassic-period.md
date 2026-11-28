@@ -2,7 +2,10 @@
 title: "The Jurassic Period: 56 Million Years of Giants, Plates and the First Birds"
 slug: jurassic-period
 date: 2026-11-28
-status: draft
+status: published
+live_url: https://jurassicapparel.com/blogs/blog/jurassic-period
+shopify_article_id: "gid://shopify/Article/635846197398"
+published_at: 2026-11-28T11:08:47Z
 metrics_source: "Ubersuggest live, locId 2840, verified 2026-11-28"
 target_keyword: "jurassic period"
 target_volume: 14800
