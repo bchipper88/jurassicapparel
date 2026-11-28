@@ -1740,6 +1740,12 @@ Found during the Day 68 Shopify title search for Cretaceous posts:
 The 300+ species posts were bulk-written; there are probably more like this. They matter more now that the
 `cretaceous-period` hub (and tomorrow's `jurassic-period`) points readers at them. Editing live posts is gated.
 
+**Two more found 2026-11-28** (Day 69 `jurassic period` title search), both live, neither linked:
+- **"Atlascopcosaurus: The Gentle Giant of the Late Jurassic"**: *Atlascopcosaurus* is a small Early Cretaceous
+  ornithopod from Victoria, Australia (about 115 million years old). Both "giant" and "Late Jurassic" are wrong.
+- **"Aragosaurus: The Gentle Giant of the Late Jurassic"**: *Aragosaurus* is an Early Cretaceous sauropod from Spain.
+  The "giant" part is fair; the period is wrong.
+
 **Next step (agent):** spot-check the period in the titles of the species posts the period hubs link to before
-linking them (done for today's 13). **Ask (owner):** correct the Amygdalodon title and check its body; optional
+linking them (done for the Day 68 13 and the Day 69 17). **Ask (owner):** correct the Amygdalodon title and check its body; optional
 handle fix with a redirect for Amargasaurus.

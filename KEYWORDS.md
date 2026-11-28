@@ -903,14 +903,35 @@ Ubersuggest figure that justified it.
   kids' shirt, Dinosaur Chart tote, Raptor Art hoodie, Ankylosaurus pillow, all ACTIVE with inventory 2026-11-27.
   **LIVE:** https://jurassicapparel.com/blogs/blog/cretaceous-period
 
+- ✅ Published (2026-11-28) **jurassic period** — 14,800/mo | School-year curve: Mar 27,100 peak, Feb/Apr/May 18,100; Jun–Jul 8,100 low |
+  **SD 36** | $0 CPC | Informational → `jurassic-period`
+  Day 69, planned target, verified with `keyword_overview` (locId 2840, 2026-11-28): unchanged from 11-27. Stretch SD,
+  taken as the hub for live `dinosaur-facts` Jurassic species posts; Shopify title/handle search found no period
+  overview. Secondaries: **`jurassic period animals` 1,600 SD 30** ($0.05, Feb–May 2,400) gets its own H2 and table;
+  **`late jurassic` 590 SD 46** covered by its section, not targeted. Angle: at-a-glance table, the Jura Mountains name
+  and Lias/Dogger/Malm, the Kuhjoch golden spike vs the unfixed end, 11-stage table, Pangaea splitting, ice-free
+  climate, no flowers, Early/Middle/Late dinosaurs, a 16-row species-by-age table linking our species posts, the
+  Morrison Formation and the Brontosaurus comeback, sauropod size, "Stegosaurus is closer to you than to T. rex",
+  Archaeopteryx/Anchiornis/Yi qi, non-dinosaur animals table, the quiet ending, kids' facts, 10-question FAQ. Sells into
+  dinosaur-shirts, kids-dinosaur-apparel, dinosaur-puzzles, plus Allosaurus hoodie, Brontosaurus Fade adult tee,
+  Brontosaurus kids' tee, Pink Stegosaurus toddler tee, Galactic Brachiosaurus puzzle, all ACTIVE with inventory
+  2026-11-28.
+
 ## 🎯 NEXT UP
 
-- 🎯 **Day 69 (Sat 2026-11-28): `jurassic period`** — 14,800/mo | **SD 36** | $0 CPC | Informational
-  (`keyword_overview`, locId 2840, 2026-11-27). Curve: Oct–Nov 2025 14,800, Dec 12,100, Jan 14,800, Feb 18,100, **Mar
-  27,100**, Apr–May 18,100, Jun–Jul 8,100, Aug 9,900, Sep 12,100, Oct 14,800. School-year term, March peak. SD 36 is a
-  stretch; same unfair advantage as today (live `dinosaur-facts` "...of the Jurassic" species posts, no period
-  overview found in today's title search). Pairs with `cretaceous-period`. Confirm with a `handle:jurassic-period`
-  search and pull secondaries (`late jurassic`, `jurassic period animals`) before writing. Fallback: next evergreen item.
+- 🎯 **Day 70 (Sun 2026-11-29): `morrison formation`** — 2,900/mo | **SD 29** | $0 CPC | Navigational
+  (`keyword_overview`, locId 2840, 2026-11-28). Curve: Sep 2025 2,400, Oct 2,900, Nov 2025–Feb 2026 2,400, **Mar–Apr
+  3,600**, May–Jul 2,900, **Aug 3,600**, Sep 2,900. Fairly flat with a spring and a late-summer (dig/trip season) bump,
+  so no seasonal deadline; winnable SD. No live post found (`title:*Morrison* OR handle:*morrison*`, 2026-11-28, zero
+  results). Same shape as `hell-creek-formation` (Day 66): the formation, its age, its dinosaurs (we have live posts for
+  most of them), the Bone Wars, where to see it (Dinosaur National Monument, Cleveland-Lloyd, Morrison/Dinosaur Ridge,
+  Como Bluff). Links up to `jurassic-period`. Navigational intent means the SERP may be led by park/USGS pages: run
+  `serp_analysis` before writing. Fallback: next evergreen item.
+
+- ✅ **Day 69 (Sat 2026-11-28): `jurassic period` published** (planned target held, see ✅ Published). Socks
+  rewrite still unapproved. **`archaeopteryx` is 60,500/mo at SD 30** (Mar–May 74,000), but a live `dinosaur-facts`
+  post already owns it (`archaeopteryx-the-bridge-between-dinosaurs-and-birds`): rescue candidate, not a new post.
+  Check its ranking in the Dec 1 scan. `pangaea` 27,100 SD 40 noted, not queued (no products to sell into it).
 
 - ✅ **Day 68 (Fri 2026-11-27): `cretaceous period` published** (planned target held, see ✅ Published). Socks
   rewrite still unapproved. `triassic period` 12,100 SD 52 and `mesozoic era` 22,200 SD 58 ⏭️ (too hard at DA 17).

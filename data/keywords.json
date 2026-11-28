@@ -2329,20 +2329,48 @@
    ],
    "live_url": "https://jurassicapparel.com/blogs/blog/cretaceous-period",
    "shopify_article_id": "gid://shopify/Article/635843739798"
-  }
- ],
- "next_up": [
+  },
   {
    "keyword": "jurassic period",
    "volume": 14800,
    "sd": 36,
    "cpc": 0,
    "intent": "Informational",
-   "status": "next_up",
-   "verified": "2026-11-27",
+   "status": "published",
+   "verified": "2026-11-28",
    "source": "keyword_overview",
    "seasonality": "School-year curve: Mar 27,100 peak, Feb/Apr/May 18,100; Jun-Jul 8,100 low",
-   "note": "Day 69 (Sat 2026-11-28). Stretch SD; hub for Jurassic species posts, pairs with cretaceous-period. Confirm no overview post; pull late jurassic / jurassic period animals."
+   "note": "Day 69. Hub for dinosaur-facts Jurassic species posts; pairs with cretaceous-period. Links dinosaur-shirts, kids-dinosaur-apparel, dinosaur-puzzles, Allosaurus hoodie, Brontosaurus Fade tee, Brontosaurus kids tee, Pink Stegosaurus toddler tee, Galactic Brachiosaurus puzzle.",
+   "date": "2026-11-28",
+   "slug": "jurassic-period",
+   "secondary": [
+    {
+     "keyword": "jurassic period animals",
+     "volume": 1600,
+     "sd": 30,
+     "cpc": 0.05
+    },
+    {
+     "keyword": "late jurassic",
+     "volume": 590,
+     "sd": 46,
+     "note": "covered, not targeted"
+    }
+   ]
+  }
+ ],
+ "next_up": [
+  {
+   "keyword": "morrison formation",
+   "volume": 2900,
+   "sd": 29,
+   "cpc": 0,
+   "intent": "Navigational",
+   "status": "next_up",
+   "verified": "2026-11-28",
+   "source": "keyword_overview",
+   "seasonality": "Near-flat: 2,400-2,900 most months, Mar-Apr and Aug 3,600",
+   "note": "Day 70 (Sun 2026-11-29). No live post. Run serp_analysis first (navigational intent). Links up to jurassic-period."
   }
  ],
  "queued_seasonal": [
@@ -2719,6 +2747,19 @@
    "note": "Verified 2026-10-11 unchanged (210, SD 18, $1.36; Nov 480, Dec 590). Folded into the dinosaur-gifts consolidation brief: four live gift guides already chase this intent, one titled '...Guide for Dino Lovers'. Not written.",
    "slug": "dinosaur-lover-gifts",
    "status": "rescue"
+  },
+  {
+   "keyword": "archaeopteryx",
+   "volume": 60500,
+   "sd": 30,
+   "cpc": 1.06,
+   "intent": "Informational",
+   "status": "rescue_candidate",
+   "verified": "2026-11-28",
+   "source": "keyword_overview",
+   "seasonality": "Mar-May 74,000; Jul-Sep 40,500",
+   "url": "/blogs/dinosaur-facts/archaeopteryx-the-bridge-between-dinosaurs-and-birds",
+   "note": "Live post owns the keyword; ranking unknown. Check in the Dec 1 seo_opportunities scan."
   }
  ],
  "skipped": [
@@ -3438,6 +3479,16 @@
    "cpc": 0,
    "verified": "2026-11-27",
    "reason": "SD 52, too hard at DA 17"
+  },
+  {
+   "keyword": "pangaea",
+   "volume": 27100,
+   "sd": 40,
+   "cpc": 19.24,
+   "status": "skipped",
+   "verified": "2026-11-28",
+   "source": "keyword_overview",
+   "note": "SD 40 at DA 17 and nothing to sell into it. Not queued."
   }
  ],
  "rescue_content": [
@@ -3557,5 +3608,5 @@
    "verified": "2026-10-29"
   }
  ],
- "last_repull": "2026-11-20"
+ "last_repull": "2026-11-28"
 }
